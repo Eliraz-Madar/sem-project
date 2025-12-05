@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# PyTorch / Transformers cache
+.huggingface/
+.cache/
+
+# Checkpoints and intermediate artifacts
+checkpoints/
+outputs/
+logs/
+
+# Data files (leave tracked data dir definition up to user)
+data/*.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
