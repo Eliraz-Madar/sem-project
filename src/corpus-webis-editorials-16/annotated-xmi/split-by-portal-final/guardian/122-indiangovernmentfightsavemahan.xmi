@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4785" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="76" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="78" end="149" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="150" end="153" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="154" end="208" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="210" end="327" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="330" end="429" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="431" end="556" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="558" end="691" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="694" end="850" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="852" end="940" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="942" end="1085" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1087" end="1181" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1183" end="1261" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1264" end="1406" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1409" end="1436" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1438" end="1546" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1548" end="1551" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1552" end="1626" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1628" end="1683" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1684" end="1687" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1688" end="1710" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1712" end="1810" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1813" end="1884" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1886" end="1915" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1917" end="1920" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1921" end="2040" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2042" end="2100" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2101" end="2104" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2105" end="2121" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2124" end="2315" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2317" end="2341" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2343" end="2367" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2368" end="2371" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2372" end="2556" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2558" end="2670" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2673" end="2789" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2791" end="2854" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2856" end="2942" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2944" end="2947" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2948" end="2977" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2979" end="2982" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2983" end="3122" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3124" end="3178" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3180" end="3345" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3348" end="3522" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3524" end="3655" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3658" end="3761" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3763" end="3766" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3767" end="3866" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3868" end="3956" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3958" end="4070" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4072" end="4162" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4164" end="4195" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4198" end="4325" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4327" end="4369" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4372" end="4494" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4496" end="4560" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4562" end="4580" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4582" end="4658" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4663" end="4733" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4738" end="4784" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="318" sofa="1" begin="0" end="4785" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/122-indiangovernmentfightsavemahan.txt" offsetInSource="0" documentSize="4785" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="326" sofa="1" begin="0" end="4785" lastUpdate="2015-01-14T16:26:06Z" url="http://www.theguardian.com/commentisfree/2015/jan/14/indian-government-fight-save-mahan-forests-coal-mine-greenpeace" portal="guardian" authors="Priya Pillai" articleSum="Priya Pillai: I may have been barred from travelling to the UK but the Greenpeace campaign against a coal mine in one of our oldest forests will go on" title="The Indian government won't stop my fight to save Mahan's forests."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Mahan in Madhya Pradesh is one of the oldest and largest sal forests in Asia. The local communities are dependent on the forest for their livelihoods and it is also home to several rare and endangered species. But a portion of this reserve is earmarked for open cast coal mining by Essar, a British company registered in London.&#10;&#10;In order to mine for coal, they would need to cut down the forest and displace those who live there. Essar would destroy more than 1,000 hectares of pristine forests and the biodiversity that it supports, affecting 54 villages. It would also impact on the livelihoods of thousands more who depend on forest produce, and the wildlife, water and air in the region.&#10;&#10;For the last three years I have been helping villagers in Mahan to assert their rights, protect their forest, and prevent the open-cast coalmine development. Unfortunately, during this time, I have experienced a wide range of intimidation tactics. I have received anonymous phone calls threatening violence and been followed by a car without a number plate as I travelled to village meetings. Last year I discovered that a forged letter bearing my signature had been given to local media. It called on villagers to resort to violence while protesting against the mine.&#10;&#10;And Greenpeace India is currently appealing against a decision by the home ministry to freeze all its overseas funding, some 40% of its income.&#10;&#10;But Sunday marked a new low. I was due to travel to London to address British parliamentarians about my work with local Mahan communities, but I was not allowed to board my flight despite having valid travel documents. My passport was stamped with &quot;offloaded&quot; at the airport and I was asked to go home. The only explanation offered was that this was being done by the orders of the government of India.&#10;&#10;Since then, I have consulted lawyers and written to government agencies. I've had no official response, but some newspapers reported that I have been put on a &quot;blacklist&quot; or &quot;lookout list&quot; preventing me from leaving the country. Such lists are usually for those with criminal convictions and I don't have one.&#10;&#10;Refusing my travel to speak to British MPs with no legal reason to do so is an infringement on my fundamental rights, and a shocking blow to the strength and freedom of civil society in India. My travel was legitimate. Essar is based in London and I was invited by a British all-party parliamentary group to talk about my work and to present the social and environmental impacts of the project - otherwise known as freedom of speech. We are equally engaged with all major parties and relevant politicians and administrators in India on this issue.&#10;&#10;The fight in Mahan is about the rights of those people who live there and depend on the forest for their livelihoods. The local community is only asking that due process is followed: under Indian law there must be a local referendum and consent from the local community. But these laws have been bypassed, and now the government is reviewing major environmental laws, including the Forest Rights Act, that have been key in protecting forest dwellers. This is why a fight such as Mahan in India is critical. It's symptomatic of how India will act when it comes to making important decisions about forests, conservation, community rights and a sustainable way of development.&#10;&#10;The act of engaging all relevant stakeholders is part of my work as a Greenpeace member and indeed the responsibility of any vibrant civil society in any functional democracy. Travelling to London to meet British MPs was neither an attack on the Indian government, nor a violation of the laws of our country.&#10;&#10;Internationally, India is under a lot of pressure to make strong commitments to tackling climate change, yet it is drawn to the cheap and immediate gains of coal despite the high social and environmental cost. Groups such as Greenpeace are a vital check on the power of corporations and politicians. We fight for Indian values promoting empowered local communities and a clean environment for the next generation. And our campaigns, such as the push to get pesticides out of our tea, have been successful. That's why we're being attacked.&#10;&#10;In a week's time, Greenpeace India will find out if its appeal against the Indian government freezing its funding is successful. If not, other campaign groups will be next.&#10;&#10;Whatever the outcome, I will continue to support the rights of communities using all the democratic rights available to me. I will also continue to seek answers as to why I was blacklisted. One thing is clear; without a legal basis to justify my detention, the government is on thin ice. As I write this, it is busy shifting blame from one department to another. As we say in Mahan, we will fight and we will win."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 326"/>
+</xmi:XMI>

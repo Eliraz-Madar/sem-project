@@ -1,0 +1,180 @@
+0	title	Paris: Why Obama's presence Sunday would have been height of hypocrisy.
+-1	par-sep	
+1	assumption	Commentators from both sides of the political aisle have discussed the "optics" of President Obama's absence from the massive, anti-terrorism march in Paris on January 11
+2	no-unit	.
+3	assumption	Sadly, they've all missed the point
+4	no-unit	.
+-1	par-sep	
+5	continued	It would have represented a glaring hypocrisy for Mr  Obama, or any highly- ranked official from his administration
+6	continued	,
+7	assumption	to attend the rally
+8	no-unit	.
+-1	par-sep	
+9	continued	A sad fact about our pundit class, conservative or progressive, is
+10	assumption	that they too often miss the obvious
+11	no-unit	.
+12	assumption	That condition infects both critics and supporters of the Obama administration
+13	no-unit	.
+14	assumption	They simply cannot connect the dots with this leader
+15	no-unit	.
+16	no-unit	After all
+17	no-unit	,
+18	assumption	 he is an unusual president
+19	no-unit	.
+-1	par-sep	
+20	continued	So let
+21	assumption	me draw a line between the unconnected dots	imp
+22	no-unit	.
+-1	par-sep	
+23	continued	Just two years ago, the administration blamed the killing of the American ambassador to Libya, and three security personnel, on a video
+24	anecdote	that negatively depicted the prophet Muhammad
+25	no-unit	.
+26	assumption	Remember that?	m-question
+-1	par-sep	
+27	no-unit	You see
+28	no-unit	,
+29	continued	it was an unknown, bigoted Christian man from California
+30	assumption	who single- handedly caused the death of our ambassador
+31	no-unit	.
+32	continued	According to the administration	Modd-NU
+33	continued	,	Modd-NU
+34	continued	the film by Nakoula Basseley Nakoulahad sparked spontaneous riots
+35	anecdote	to defend Muhammad's honor
+36	no-unit	,
+37	no-unit	and
+38	anecdote	our ambassador got caught up in the mayhem
+39	no-unit	.
+-1	par-sep	
+40	testimony	Mr  Obama called the filmmaker a "shadowy character," and in front of the United Nations and the world, blamed the attack on the "disgusting" movie
+41	no-unit	.
+42	continued	At that podium, he declared
+43	continued	that "the future must not belong to those
+44	testimony	who slander the prophet of Islam."
+-1	par-sep	
+45	continued	Congressional hearings later proved
+46	assumption	that the violence in Benghazi was due to a coordinated terrorist attack
+47	no-unit	,
+48	continued	and had nothing
+49	assumption	to do with a protest over the movie
+50	no-unit	.
+51	assumption	But administration officials stuck to the lie
+52	no-unit	.
+-1	par-sep	
+53	anecdote	Just a few weeks after the attack, the filmmaker was arrested on parole charges by federal authorities
+54	no-unit	,
+55	assumption	probably taking orders from Attorney General Holder
+56	no-unit	.
+-1	par-sep	
+57	continued	Now fast-forward to the rally in Paris	Modd-NU
+58	continued	--	Modd-NU
+59	continued	the one	Modd-NU
+60	continued	that Holder would not	Modd-NU
+61	continued	deem worthy	Modd-NU
+62	continued	to attend	Modd-NU
+63	continued	,	Modd-NU
+64	continued	even though	Modd-NU
+65	anecdote	he was in Paris at the time
+66	no-unit	.
+67	no-unit	The one that President Obama, nor Vice President Biden, nor Secretary of State Kerry would attend either
+68	no-unit	,
+69	continued	even though	Modd-NU
+70	continued	other major world leaders rushed to Paris
+71	assumption	to demonstrate their solidarity
+72	no-unit	.
+-1	par-sep	
+73	continued	Let
+74	continued	me draw the line between the dots
+75	assumption	a little darker	imp
+76	no-unit	:.
+-1	par-sep	
+77	no-unit	Q
+78	no-unit	:
+79	no-unit	Who did the terrorists attack in Paris on January 7?	m-question
+-1	par-sep	
+80	continued	A: A satirist magazine
+81	assumption	that had mocked Christians for years
+82	no-unit	.
+-1	par-sep	
+83	no-unit	Q: Why
+84	no-unit	did the terrorists kill those specific journalists and cartoonists?	m-question
+-1	par-sep	
+85	no-unit	A
+86	no-unit	:
+87	assumption	For a mocking portrayal of Muhammad
+88	no-unit	.
+-1	par-sep	
+89	no-unit	Q
+90	no-unit	:
+91	no-unit	Isn't
+92	no-unit	that the same issue that had enraged the White House after the Benghazi attack?	m-question
+-1	par-sep	
+93	no-unit	A
+94	no-unit	:
+95	assumption	You betcha
+96	no-unit	.
+-1	par-sep	
+97	continued	The "bad optics"
+98	continued	that so many pundits are complaining about
+99	assumption	actually fit perfectly into the philosophical mindset of this White House
+100	no-unit	.
+101	continued	They do not want
+102	assumption	us to insult their Islamist friends
+103	no-unit	.
+-1	par-sep	
+104	assumption	In the eyes of the Obama administration, the jihadists in Libya and France committed the same savagery for the same reason
+105	no-unit	.
+-1	par-sep	
+106	assumption	Give the administration credit for consistency
+107	no-unit	.
+108	continued	They're not about
+109	continued	to appear sympathetic to a French cartoonist
+110	continued	when
+111	assumption	they had condemned the filmmaker from California
+112	no-unit	.
+113	no-unit	Having persecuted the latter
+114	no-unit	,
+115	continued	they weren't about
+116	continued	to march
+117	assumption	to defend the former
+118	no-unit	.
+-1	par-sep	
+119	continued	What
+120	continued	represents bad optics to most civilized people's worldview
+121	assumption	represents good optics to the Obama administration's worldview
+122	no-unit	.
+-1	par-sep	
+123	continued	It's all too clear
+124	continued	that America and the world have no hope of
+125	assumption	stopping these never-ending barbaric acts
+126	no-unit	until
+127	assumption	a Reagan-like figure steps up
+128	no-unit	.
+129	continued	A leader
+130	no-unit	who will honestly and courageously define such terrorism
+131	no-unit	as
+132	no-unit	it really is
+133	no-unit	:
+134	no-unit	An Islamist's interpretation of the Koran
+135	no-unit	.
+-1	par-sep	
+136	assumption	That's the definition recently used by President el-Sisi of Egypt, a man of far greater honesty and courage than America's current counterpart
+137	no-unit	.
+-1	par-sep	
+138	continued	Only with an American leader of Reagan-like strength
+139	continued	will we be able
+140	continued	to develop
+141	assumption	a plan and the determination to defeat the dark ideology of Islamism
+142	no-unit	,
+143	continued	just like	Modd-NU
+144	continued	Reagan managed
+145	assumption	to defeat the Soviet Union and its evil ideology
+146	no-unit	.
+-1	par-sep	
+147	continued	Dr  Michael Youssef is the founding pastor of the Church of the Apostles in Atlanta, Georgia and the author of over 30 books, including his most recent, "Jesus, Jihad & Peace
+148	continued	:
+149	continued	What
+150	anecdote	Does Bible Prophecy Say About World Events Today?"
+151	no-unit	(Feb  17, 2015, Worthy Publishers)
+152	no-unit	.
+153	no-unit	Find him online at www.michaelyoussef.com and follow him on Twitter: @MichaelAYoussef
+154	no-unit	.

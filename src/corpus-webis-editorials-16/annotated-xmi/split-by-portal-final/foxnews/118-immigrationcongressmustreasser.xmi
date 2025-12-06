@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="5488" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="21" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="24" end="37" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="40" end="52" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="55" end="378" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="381" end="460" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="462" end="522" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="524" end="568" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="570" end="604" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="607" end="630" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="632" end="662" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="664" end="667" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="668" end="700" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="702" end="737" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="740" end="790" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="791" end="794" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="795" end="835" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="837" end="1019" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1021" end="1035" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1037" end="1159" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1162" end="1226" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1229" end="1276" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1278" end="1372" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1374" end="1468" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1471" end="1564" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1566" end="1717" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1720" end="1730" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1735" end="1831" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1832" end="1835" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1836" end="1899" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="1901" end="2061" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2063" end="2153" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2155" end="2263" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2265" end="2269" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2271" end="2332" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2335" end="2374" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2377" end="2506" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2507" end="2510" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2511" end="2608" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2610" end="2646" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2650" end="2653" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2654" end="2698" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2702" end="2705" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2706" end="2728" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="2731" end="2804" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="2805" end="3097" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3099" end="3103" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3108" end="3341" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3343" end="3346" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3347" end="3405" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3410" end="3475" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3476" end="3515" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3517" end="3540" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3542" end="3560" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3565" end="3920" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3922" end="4006" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4009" end="4070" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4072" end="4212" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4214" end="4247" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4250" end="4260" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4265" end="4343" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4345" end="4437" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4441" end="4528" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4530" end="4571" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4574" end="4636" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4638" end="4782" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="4784" end="4787" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="343" sofa="1" begin="4788" end="4881" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="348" sofa="1" begin="4883" end="4933" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="353" sofa="1" begin="4936" end="5022" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="358" sofa="1" begin="5024" end="5059" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="363" sofa="1" begin="5061" end="5101" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="368" sofa="1" begin="5103" end="5180" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="373" sofa="1" begin="5183" end="5198" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="378" sofa="1" begin="5200" end="5281" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="383" sofa="1" begin="5287" end="5391" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="388" sofa="1" begin="5394" end="5460" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="393" sofa="1" begin="5462" end="5487" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="398" sofa="1" begin="0" end="5488" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/118-immigrationcongressmustreasser.txt" offsetInSource="0" documentSize="5488" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="406" sofa="1" begin="0" end="5488" lastUpdate="2014-12-02T13:00:04Z" url="http://www.foxnews.com/opinion/2014/12/02/immigration-congress-must-reassert-its-authority-and-preserve-our-constitution/" portal="foxnews" authors="Jay Sekulow" articleSum="While presidents do have a degree of discretion in determining exactly how to&amp;#10;enforce the law, President Obama’s immigration actions go far, far beyond that&amp;#10;lawful discretion and veer directly into lawmaking, the exclusive role of the&amp;#10;legislature.&amp;#10;&amp;#10;" title="Immigration: Congress must reassert its authority and preserve our Constitution."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="It's unconstitutional.&#10;&#10;It's reckless.&#10;&#10;It's lawless.&#10;&#10;All these things have been said about President Obama's executive action on immigration--a breathtaking order that not only changes laws passed by Congress, but will likely send millions of mostly low-skill workers flooding into a workplace that is already struggling to raise wages and find room for all those needing jobs.&#10;&#10;Immigration is a remarkably complex subject, and not just as a matter of policy. Our nation's immigration laws can be difficult to understand. Our Constitution, however, isn't complicated. Our system of government is simple.&#10;&#10;Congress writes the law, the president executes the law, and the judiciary interprets the law. The president does not make new law.&#10;&#10;That concept is called the &quot;separation of powers,&quot; and it's of core importance to our democracy. As a bulwark against tyranny, our Founders determined that no single branch of government could perform all the functions of government -- making, enforcing, and interpreting the law. In other words,  our Founders took the classic powers of a king and divided them between the legislative, executive, and judicial branches.&#10;&#10;For our government to work, those functions must remain separate.&#10;&#10;But President Obama disagrees with the Founders. In his view, apparently, government is only truly &quot;working&quot; when he gets the policies he wants. When he doesn't, he calls that &quot;obstructionism&quot; and gets busy finding workarounds to democracy.&#10;&#10;While presidents do have a degree of discretion in determining exactly how to enforce the law, President Obama's immigration actions go far, far beyond that lawful discretion and veer directly into lawmaking, the exclusive role of the legislature.&#10;&#10;Here's how :.&#10;&#10;President Obama is taking action in direct defiance to Congress's &quot;expressed or implied intent,&quot; and that means his power--constitutionally--is at its &quot;lowest ebb.&quot;&#10;&#10;Supreme Court Justice Robert Jackson, in the seminal case of Youngstown Sheet &amp; Tube Co  v  Sawyer, outlined an influential three-part test for executive action. Presidential power is &quot;at its maximum&quot; when acting pursuant to congressional authorization. There is a &quot;zone of twilight&quot; when the distribution of power between Congress and the president is uncertain. Then,  there's the &quot;lowest ebb,&quot; when the president defies Congress.&#10;&#10;That's exactly what President Obama did.&#10;&#10;Article I of the Constitution grants Congress -- not the president -- the power to &quot;establish a uniform Rule of Naturalizations,&quot; and Congress has acted under that power to write and pass a comprehensive set of immigration statutes. Many people disagree with those laws -- and President Obama is particularly dissatisfied -- but they are still the law.&#10;&#10;And the president certainly can't hide behind &quot;prosecutorial discretion.&quot; The Office of Legal Counsel (OLC) --the government lawyers President Obama asked to evaluate his proposed program -- were clear, declaring that the president cannot &quot;under the guise of exercising enforcement discretion, attempt to effectively rewrite the laws to match its policy preference.&quot;&#10;&#10;Thus, as the Secretary of Homeland Security said, &quot;As an act of prosecutorial discretion, deferred action is legally available so long as it is granted on a case-by-case basis, and it may be terminated at any time at the agency's discretion.&quot;&#10;&#10;But did President Obama promise a &quot;case-by-case&quot; determination, or did he make a sweeping promise to millions of illegal immigrants? He didn't promise them a careful review, he promised them a deal. Here are his words :.&#10;&#10;So we're going to offer the following deal: If you've with been in America more than five years. If you have children who are American citizens or illegal residents. If you register, pass a criminal background check and you're willing to pay your fair share of taxes, you'll be able to apply to stay in this country temporarily without fear of deportation. You can come out of the shadows and get right with the law. That's what this deal is.&#10;&#10;Tuesday, I am testifying before the House Judiciary Committee. I am examining the &quot;deal&quot; President Obama offers and compare it with the requirements of the law -- the requirement of a case-by-case review. The &quot;deal&quot; does not match the law.&#10;&#10;Put simply, if President Obama is enacting the &quot;case-by-case&quot; review mandated by the OLC memo, he is misleading the four million illegal aliens he encouraged to come &quot;out of the shadows.&quot; If he is defying the attorneys at the OLC and giving illegal aliens the &quot;deal&quot; he promised, then he is misleading the American public.&#10;&#10;No one disputes that our nation faces an immigration challenge. We've got a porous, dangerous border, a flood of illegal immigrants whose increasing numbers drive down wages and can overburden social services, and we've got millions of people in the country who are looking for some form of permanent status. No one doubts that legislative reform is necessary.&#10;&#10;I believe we need comprehensive immigration reform beginning with securing our borders. We truly are a nation of immigrants. I am the grandson of a Russian immigrant. But that reform must be done lawfully and in accordance with the Constitution.&#10;&#10;The bottom line: impatient presidents may not violate the Constitution if they don't get their way.&#10;&#10;In doing so -- in circumventing Congress to change the law -- President Obama has set a dangerous precedent.&#10;&#10;Congress must reassert its authority and preserve our Constitution. Our democracy is at stake."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 348 353 358 363 368 373 378 383 388 393 398 406"/>
+</xmi:XMI>

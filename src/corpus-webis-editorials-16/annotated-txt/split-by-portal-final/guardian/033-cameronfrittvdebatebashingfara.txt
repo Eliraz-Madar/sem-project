@@ -1,0 +1,213 @@
+0	title	Cameron would rather look 'frit' than face a bashing from Farage.
+-1	par-sep	
+1	continued	Ed Miliband, Nick Clegg and Nigel Farage have each written to David Cameron saying
+2	continued	they are willing
+3	anecdote	to have TV election debates
+4	no-unit	even if
+5	assumption	he doesn't take part
+6	no-unit	.
+7	continued	Cameron's people insist
+8	assumption	he won't come on
+9	continued	unless	Modd-NU
+10	assumption	the Greens are there too
+11	no-unit	.
+12	assumption	Listen carefully	imp
+13	no-unit	and
+14	continued	there is a faint creaking noise, the sound of a politician trying
+15	assumption	to wind back the great clock of politics
+16	no-unit	.
+17	assumption	In Cameron's case, he wants it back to the happy days
+18	continued	before	Modd-NU
+19	anecdote	Gordon Brown conceded the prime ministerial veto on TV debates
+20	no-unit	.
+21	assumption	It might just work
+22	no-unit	.
+-1	par-sep	
+23	assumption	Rule one in any prime minister's handbook is never give up an advantage
+24	no-unit	.
+25	continued	In an election, that's
+26	continued	what
+27	continued	being prime minister
+28	assumption	is - an advantage
+29	no-unit	.
+30	continued	That's
+31	continued	why
+32	continued	it took 12 general elections between most voters having access to a television in 1964 and the first (and
+33	continued	last?
+34	continued	)
+35	assumption	television debate in 2010
+36	no-unit	.
+37	no-unit	Yet
+38	common-ground	debates are as old as politics itself
+39	no-unit	,
+40	no-unit	and
+41	continued	putting them on TV
+42	continued	has had
+43	assumption	that "well, obviously" feel to it ever since the first US presidential debate in 1960
+44	no-unit	.
+45	continued	It must have helped
+46	assumption	perpetuate the brand, that first contest
+47	no-unit	,
+48	continued	for
+49	continued	it was between the two men
+50	continued	whose lives and deaths
+51	continued	shadowed the rest of the American century
+52	continued	:
+53	assumption	the beautiful young upstart John F Kennedy and the so much less telegenic, even rather sweaty, Richard Nixon
+54	no-unit	.
+-1	par-sep	
+55	continued	Cameron's people have been trying
+56	continued	to back out of TV debates in 2015 almost
+57	continued	since
+58	assumption	the lights went down on the last debate of the last election campaign
+59	no-unit	.
+60	continued	It has been a carefully played
+61	continued	,
+62	assumption	inch-by-inch retreat covered by protestations of enthusiasm, framed in the context of a wider concern for the state of democracy
+63	no-unit	.
+64	continued	Last August he ruminated on the way
+65	assumption	they sucked the oxygen out of the last campaign (and poured a good deal of it into the Lib Dems' camp)
+66	no-unit	.
+67	continued	Now he says
+68	continued	he is standing up for the right of the Greens
+69	continued	,
+70	continued	excluded for
+71	continued	- according to Ofcom - not
+72	testimony	being big enough
+73	no-unit	.
+-1	par-sep	
+74	continued	Questioning the value of the debates
+75	assumption	is easy
+76	no-unit	.
+77	continued	The doyen of electoral coverage, David Dimbleby
+78	continued	,
+79	continued	who chaired the BBC session
+80	continued	,
+81	continued	said later
+82	continued	that he thought
+83	continued	they didn't let in as much light as
+84	continued	when
+85	continued	politicians were made
+86	continued	to face the voters on their own in the kind of Question Time event
+87	continued	that
+88	continued	,
+89	continued	as
+90	continued	it happens
+91	continued	,
+92	testimony	he also chairs
+93	no-unit	.
+94	continued	There'
+95	continued	s no doubt
+96	continued	that accidental encounters with ordinary people
+97	continued	-
+98	continued	Brown's "bigoted woman", or Margaret Thatcher being confronted over the sinking of the Belgrano - have earned a place in history as moments of truth
+99	assumption	that have told a bigger story
+100	no-unit	.
+-1	par-sep	
+101	continued	There is something rather odd about the
+102	continued	"one of these people will be prime minister"
+103	assumption	hype before a debate
+104	continued	that has been widened
+105	assumption	to include Farage
+106	no-unit	.
+107	no-unit	But	Modd-NU
+108	continued	,
+109	continued	 of course, the debates aren't about
+110	assumption	debating in the traditional sense of the word
+111	no-unit	,
+112	continued	even	Modd-NU
+113	continued	when	Modd-NU
+114	assumption	they are between two very different versions of the future
+115	no-unit	,
+116	continued	as	Modd-NU
+117	assumption	they were in Scotland
+118	no-unit	.
+119	continued	What
+120	continued	really mattered in those brutal encounters between Alex Salmond and Alistair Darling
+121	assumption	was the extraordinary depth of Darling's antipathy to Salmond and, for a while, the unexpected haplessness of Salmond under pressure
+122	no-unit	.
+123	assumption	That first debate will always be remembered as the moment the rabbit bit the car
+124	no-unit	.
+-1	par-sep	
+125	continued	All the same, Cameron's opponents cannot take victory for
+126	assumption	granted
+127	no-unit	.
+128	continued	They accuse him of
+129	assumption	running scared
+130	no-unit	.
+131	assumption	The Twittersphere throbs with shouts of "frit"
+132	no-unit	.
+133	continued	It is a charge
+134	assumption	that might have a price for the Tory leader
+135	no-unit	.
+136	assumption	It will certainly disconcert his less politically savvy supporters
+137	no-unit	.
+138	continued	But mainly it will just confirm the prejudices of those
+139	continued	who were never going
+140	assumption	to vote Conservative anyway
+141	no-unit	.
+-1	par-sep	
+142	continued	What
+143	continued	it does prove
+144	continued	,
+145	continued	if
+146	continued	proof were needed
+147	continued	,
+148	continued	is
+149	assumption	that the Tories are running a core vote strategy
+150	no-unit	.
+151	no-unit	If
+152	continued	the broadcasters find
+153	continued	the nerve to go ahead anyway
+154	continued	,
+155	assumption	which is a punt in itself	cond
+156	no-unit	,	cond
+157	assumption	an empty podium would not look good
+158	no-unit	.
+159	no-unit	But
+160	continued	try
+161	assumption	to imagine the view from the perspective of a Tory strategist	imp
+162	no-unit	:
+163	continued	the bill for
+164	continued	looking frit
+165	continued	is tiny compared with the enduring burden of
+166	assumption	being savaged by Farage
+167	no-unit	.
+168	continued	For Cameron
+169	continued	,
+170	continued	the strategist would reckon
+171	continued	,
+172	continued	it would be like
+173	continued	being assessed for a job by someone
+174	continued	who had watched you in conversation
+175	continued	with
+176	assumption	the pub bore
+177	no-unit	.
+178	continued	Putting the two together
+179	continued	is on a par with divorce proceedings
+180	continued	where
+181	continued	the party
+182	continued	who has walked out
+183	continued	stands and shouts a string of excuses unconnected with the facts in a way
+184	assumption	that is somehow illogically appealing
+185	no-unit	.
+186	continued	Just say
+187	no-unit	you've gone off him!
+-1	par-sep	
+188	no-unit	And	Modd-NU
+189	no-unit	,	Modd-NU
+190	continued	 of course, that's
+191	continued	why
+192	continued	it must be made
+193	assumption	to happen
+194	no-unit	.
+195	continued	Let's hear
+196	other	Cameron talking to both wings of his party at once
+197	no-unit	.
+198	no-unit	And
+199	continued	just as
+200	continued	importantly, please, please let's
+201	other	have the Greens in the room too
+202	no-unit	.
+203	assumption	It really would be an outrage not to
+204	no-unit	.

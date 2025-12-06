@@ -1,0 +1,162 @@
+0	title	State of the Union: Advice for Joni Ernst.
+-1	par-sep	
+1	assumption	Here's a suggestion for Joni Ernst, the new Republican senator from Iowa
+2	no-unit	,
+3	anecdote	who will deliver the GOP response to the State of the Union address Tuesday night
+4	no-unit	.
+5	continued	Get a chorus together and open with this old Sammy Cahn-Jule Styne number
+6	continued	:
+7	continued	"It seems to me
+8	continued	I've heard that song before
+9	continued	;
+10	continued	it's from an old familiar score
+11	continued	,
+12	continued	I know it well
+13	continued	,
+14	assumption	that melody."
+-1	par-sep	
+15	continued	Advance leaks of the president's address indicate
+16	continued	he will call for higher taxes on the wealthy and successful
+17	continued	in order
+18	anecdote	to pay for programs for the poor and middle class
+19	no-unit	.
+20	continued	This is boilerplate Democratic wealth redistribution
+21	assumption	we've heard since New Deal days
+22	no-unit	,
+23	continued	which appeals more to emotions
+24	continued	than
+25	assumption	it does to principles with a long history of success
+26	no-unit	.
+-1	par-sep	
+27	statistics	Since the advent of modern "anti-poverty" programs 50 years ago, according to an analysis by The Heritage Foundation, "U.S  taxpayers have spent over $22 trillion on anti-poverty programs."
+28	assumption	And yet the poverty rate remains essentially unchanged
+29	no-unit	.
+30	continued	One might conclude then
+31	no-unit	that if
+32	continued	you've spent 50 years and $22 trillion
+33	continued	trying without success
+34	assumption	to fix something	cond
+35	no-unit	,	cond
+36	continued	perhaps you're doing
+37	continued	it wrong
+38	assumption	and should try a different approach
+39	no-unit	.
+-1	par-sep	
+40	no-unit	If	cond
+41	continued	the goal is more successful people
+42	assumption	who can take care of themselves	cond
+43	no-unit	,	cond
+44	continued	incentives must be put in place
+45	continued	to encourage
+46	assumption	people to make right decisions
+47	no-unit	.
+-1	par-sep	
+48	assumption	First on any anti-poverty help-the-middle-class list must be a stable family life
+49	no-unit	.
+50	continued	A two-parent home
+51	continued	where
+52	continued	adults love and are committed to each other
+53	continued	and
+54	continued	in which their children feel
+55	continued	loved
+56	continued	creates a climate
+57	assumption	in which moral and economic values like hard work, self-control, personal responsibility and accountability flourish
+58	no-unit	.
+-1	par-sep	
+59	continued	To help achieve this
+60	continued	,
+61	assumption	parents must be educated
+62	no-unit	and
+63	assumption	they must have jobs
+64	no-unit	.
+65	continued	Government can make this easier by
+66	continued	reforming the tax code
+67	continued	to remove the "marriage penalty,"
+68	continued	which in too many instances charges higher taxes to married couples than to singles
+69	continued	,
+70	continued	and increasing
+71	continued	the exemption deductible for children
+72	continued	,
+73	continued	which might make
+74	continued	it possible for one parent
+75	continued	to stay home with young children; allow college tuition
+76	continued	to be deductible
+77	continued	to incentivize more people
+78	continued	to obtain a college
+79	assumption	education and ease their debt upon graduation
+80	no-unit	.
+-1	par-sep	
+81	continued	Better yet, scrap the tax code entirely and replace it with a flat tax or consumption tax
+82	continued	that allows
+83	continued	people to save, invest and spend more of the money
+84	assumption	they earn
+85	no-unit	.
+-1	par-sep	
+86	continued	Economically, there must be a change in attitude from
+87	continued	working
+88	continued	to pay bills
+89	continued	,
+90	continued	to
+91	continued	working
+92	assumption	to build wealth
+93	no-unit	.
+94	continued	Bills, like the poor, we will always have with us, but in building wealth one moves toward independence and personal satisfaction
+95	assumption	that pays dividends in liberty and personal choice
+96	no-unit	.
+-1	par-sep	
+97	continued	Government should also make
+98	continued	it easier for people
+99	assumption	to move in pursuit of new opportunities
+100	no-unit	.
+101	anecdote	My late grandfather worked for the B and O Railroad for 50 years
+102	no-unit	.
+103	anecdote	He retired with a pension, a gold-plated watch and a lifetime train pass
+104	no-unit	.
+105	assumption	Those days are long gone
+106	no-unit	.
+107	continued	People need
+108	continued	to be ready
+109	continued	to move to places in pursuit of opportunities
+110	assumption	that can bring economic and career growth
+111	no-unit	.
+112	assumption	Earning more produces more in taxable income and more income means more tax money for federal and state treasuries
+113	no-unit	.
+114	anecdote	My wife and I have moved eight times (so far) and each move provided new opportunities, more experience and eventually higher incomes
+115	no-unit	.
+-1	par-sep	
+116	other	Here's another suggestion for Sen  Ernst and the new Republican Congress
+117	no-unit	.
+118	continued	Let
+119	assumption	the Democrats focus on misery, poverty and failure
+120	no-unit	.
+121	assumption	You promote hope, opportunity and achievement
+122	no-unit	.
+123	continued	Begin featuring people with stories
+124	continued	to tell of
+125	continued	how
+126	continued	they overcame difficult circumstances -- from poverty, welfare, addiction, single motherhood, and so on -- and are now independent, strong and if not prosperous
+127	continued	,
+128	assumption	then at least free of their addiction to government
+129	no-unit	.
+-1	par-sep	
+130	continued	Leaders should inspire
+131	continued	others to follow examples of people
+132	assumption	who have succeeded in life
+133	no-unit	.
+134	no-unit	Instead	Modd-NU
+135	no-unit	,	Modd-NU
+136	continued	 the Democrats' mantra has been
+137	assumption	that the poor and middle class can't succeed without government help
+138	no-unit	.
+139	no-unit	If	cond
+140	assumption	that were true	cond
+141	no-unit	,	cond
+142	assumption	the money spent on programs aimed at the poor and middle class would have succeeded by now
+143	no-unit	.
+-1	par-sep	
+144	assumption	It's long past time for a new direction and for a new "song" with different words
+145	no-unit	.
+146	continued	In the month we observe the birthday of Martin Luther King Jr 
+147	continued	,
+148	continued	how
+149	assumption	about "We HAVE overcome"?

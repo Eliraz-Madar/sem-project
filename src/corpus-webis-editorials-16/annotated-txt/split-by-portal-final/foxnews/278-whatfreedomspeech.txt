@@ -1,0 +1,238 @@
+0	title	What freedom of speech?
+-1	par-sep	
+1	continued	The photos of
+2	continued	40 of the world's government leaders marching arm-in-arm along a Paris boulevard on Sunday with the president of the United States not among them
+3	continued	was a provocative image
+4	assumption	that has fomented much debate
+5	no-unit	.
+6	anecdote	The march was, of course, in direct response to the murderous attacks on workers at the French satirical magazine Charlie Hebdo by a pair of brothers named Kouachi, and on shoppers at a Paris kosher supermarket by one of the brothers' comrades
+7	no-unit	.
+-1	par-sep	
+8	continued	The debate has been about
+9	continued	whether
+10	assumption	President Obama should have been at the march
+11	no-unit	.
+12	assumption	The march was billed as a defense of freedom of speech in the West
+13	no-unit	;
+14	no-unit	yet
+15	assumption	it hardly could have been held in a less free speech-friendly Western environment
+16	no-unit	,
+17	no-unit	and
+18	assumption	the debate over Obama's absence misses the point
+19	no-unit	.
+-1	par-sep	
+20	continued	In the post-World War II era, French governments have adopted
+21	assumption	a policy advanced upon them nearly 100 years ago by Woodrow Wilson
+22	no-unit	.
+23	continued	He pioneered the modern idea
+24	continued	that countries' constitutions don't limit governments
+25	continued	;
+26	anecdote	they unleash them
+27	no-unit	.
+28	no-unit	Thus
+29	no-unit	,
+30	continued	even though
+31	continued	the French Constitution guarantees freedom of speech
+32	continued	,
+33	assumption	French governments treat speech as a gift from the government, not as a natural right of all persons
+34	no-unit	,
+35	continued	as
+36	assumption	our Constitution does
+37	no-unit	.
+-1	par-sep	
+38	continued	The French government has prohibited speech
+39	continued	it considers
+40	continued	to be hateful
+41	continued	and even made
+42	assumption	it criminal
+43	no-unit	.
+44	continued	When
+45	continued	the predecessor magazine to Charlie Hebdo once mocked the death of Charles de Gaulle
+46	continued	,
+47	anecdote	the French government shut it down -- permanently
+48	no-unit	.
+-1	par-sep	
+49	continued	The theory of anti-hate speech laws is
+50	continued	that hate speech often leads to violence
+51	continued	,
+52	continued	and
+53	continued	violence demands police and thus the expenditure of public resources
+54	continued	,
+55	continued	and so
+56	continued	the government can make
+57	continued	it illegal
+58	continued	to spout hatred
+59	continued	in order
+60	assumption	to conserve its resources
+61	no-unit	.
+62	continued	This attitude presumes
+63	continued	,
+64	continued	as
+65	continued	Wilson did
+66	continued	when
+67	continued	he prosecuted folks for
+68	continued	publicly singing German songs during World War I
+69	continued	,
+70	continued	that the government is the origin of free speech
+71	continued	and can lawfully limit the speech
+72	assumption	it hates and fears
+73	no-unit	.
+74	continued	It also presumes
+75	continued	that all ideas are equal
+76	continued	,
+77	continued	and
+78	assumption	none is worthy of hatred
+79	no-unit	.
+-1	par-sep	
+80	continued	When
+81	continued	the massacres occurred last week in Paris
+82	continued	,
+83	continued	all three of the murderers knew
+84	continued	that the police would be unarmed
+85	continued	and
+86	continued	so
+87	assumption	would be their victims
+88	no-unit	.
+89	continued	It was
+90	continued	as if
+91	assumption	they were shooting fish in a barrel
+92	no-unit	.
+-1	par-sep	
+93	continued	Why	modd-UN
+94	no-unit	is that?
+95	continued	The answer lies in the same mentality
+96	continued	that believes
+97	continued	it can eradicate hate by
+98	assumption	regulating speech
+99	no-unit	.
+100	continued	That mentality demands
+101	assumption	that government have a monopoly on violence, even violence against evil
+102	no-unit	.
+-1	par-sep	
+103	continued	So, to those	Modd-NU
+104	continued	who embrace this dreadful theory	Modd-NU
+105	continued	,	Modd-NU
+106	continued	the great loss in Paris last week was not human life
+107	continued	,
+108	assumption	which is a gift from God
+109	no-unit	;
+110	continued	it was free speech
+111	continued	,
+112	assumption	which is a gift from the state
+113	no-unit	.
+114	continued	Hence the French government
+115	continued	,
+116	continued	which seems
+117	continued	not to care about innocent life, instead of
+118	continued	addressing these massacres as crimes against innocent people
+119	continued	,
+120	assumption	proclaimed the massacres crimes against the freedom of speech
+121	no-unit	.
+122	continued	Would the French government have reacted similarly
+123	continued	if
+124	assumption	the murderers had killed workers at an ammunition factory, instead of at a satirical magazine?
+-1	par-sep	
+125	no-unit	And
+126	continued	how
+127	continued	hypocritical was it of the French government
+128	continued	to claim
+129	assumption	it defends free speech!
+130	continued	In France, you can go to jail
+131	continued	if
+132	continued	you publicly express hatred for a group
+133	continued	whose members
+134	continued	may be defined generally by characteristics of birth
+135	continued	,
+136	anecdote	such as gender, age, race, place of origin or religion
+137	no-unit	.
+-1	par-sep	
+138	continued	You can also go to jail for
+139	continued	using speech
+140	assumption	to defy the government
+141	no-unit	.
+142	continued	This past weekend, millions of folks in France wore buttons and headbands
+143	continued	that proclaimed in French
+144	continued	:
+145	anecdote	"I am Charlie Hebdo."
+146	continued	Those
+147	continued	whose buttons
+148	continued	proclaimed
+149	continued	"I am not Charlie Hebdo"
+150	continued	were asked by the police
+151	anecdote	to remove them
+152	no-unit	.
+153	continued	Those
+154	continued	who wore buttons
+155	continued	that proclaimed, either satirically or hatefully
+156	continued	,
+157	continued	"I am Kouachi"
+158	anecdote	were arrested
+159	no-unit	.
+160	assumption	Arrested for speech at a march in support of free speech?
+161	assumption	Yes	Modd-NU
+162	no-unit	.
+-1	par-sep	
+163	continued	What's	modd-UN
+164	assumption	going on here?	m-question
+165	continued	What's
+166	continued	going on in France
+167	continued	,
+168	continued	and
+169	continued	what
+170	continued	might be the future in America
+171	continued	,
+172	continued	is the government defending the speech
+173	continued	with which it agrees
+174	continued	and punishing the speech
+175	assumption	with which it disagrees
+176	no-unit	.
+177	continued	What's
+178	continued	going on
+179	continued	is the assault by some in radical Islam not on speech, but on vulnerable innocents in their everyday lives
+180	continued	in order
+181	assumption	to intimidate their governments
+182	no-unit	.
+183	continued	What's
+184	continued	going on
+185	continued	is the deployment of 90,000 French troops
+186	anecdote	to catch and kill three murderers
+187	continued	because
+188	continued	the government does not trust the local police
+189	continued	to use
+190	continued	guns to keep the streets safe or private persons to use guns
+191	assumption	to defend their own lives
+192	no-unit	.
+-1	par-sep	
+193	continued	Why
+194	continued	do some in radical Islam kill innocents in the West
+195	continued	in order
+196	assumption	to affect the policies of Western governments?
+197	continued	Might it be
+198	continued	because
+199	continued	the fruitless Western invasion of Iraq killed 650,000 persons
+200	continued	,
+201	assumption	most of whom were innocent civilians?
+202	continued	Might
+203	continued	it be
+204	continued	because
+205	continued	that invasion brought al-Qaida to the region
+206	assumption	and spawned ISIS?
+207	continued	Might it be
+208	continued	because
+209	continued	Obama has killed more innocent civilians in the Middle East with his drones
+210	continued	than
+211	assumption	were killed by the planes in the U.S  on 9/11?
+-1	par-sep	
+212	continued	Might it be
+213	continued	because
+214	continued	our spies are listening to us, rather than to those
+215	assumption	who pose real dangers?
+-1	par-sep	
+216	continued	What
+217	continued	does all this have
+218	assumption	to do with freedom of speech?
+219	continued	Nothing 
+220	continued	--
+221	continued	unless
+222	assumption	you believe the French government
+223	no-unit	.

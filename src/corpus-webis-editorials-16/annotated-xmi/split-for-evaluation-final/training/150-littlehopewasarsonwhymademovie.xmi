@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="304" begin="0" end="3387" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="304" begin="0" end="62" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="304" begin="64" end="84" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="304" begin="86" end="138" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="304" begin="139" end="142" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="304" begin="143" end="211" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="304" begin="214" end="338" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="304" begin="340" end="344" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="304" begin="345" end="376" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="304" begin="378" end="440" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="304" begin="443" end="544" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="304" begin="546" end="639" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="304" begin="642" end="725" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="304" begin="728" end="849" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="304" begin="853" end="911" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="304" begin="913" end="955" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="304" begin="958" end="1031" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="304" begin="1032" end="1035" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="304" begin="1036" end="1053" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="304" begin="1055" end="1121" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="304" begin="1123" end="1196" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="304" begin="1199" end="1202" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="304" begin="1203" end="1232" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="304" begin="1233" end="1236" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="304" begin="1237" end="1255" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="304" begin="1257" end="1274" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="304" begin="1276" end="1413" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="304" begin="1415" end="1472" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="304" begin="1475" end="1540" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="304" begin="1542" end="1702" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="304" begin="1704" end="1760" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="304" begin="1762" end="1816" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="304" begin="1819" end="1951" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="304" begin="1953" end="2060" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="304" begin="2061" end="2064" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="304" begin="2065" end="2136" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="304" begin="2139" end="2210" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="304" begin="2212" end="2306" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="304" begin="2309" end="2339" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="304" begin="2344" end="2401" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="304" begin="2403" end="2437" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="304" begin="2439" end="2589" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="304" begin="2591" end="2656" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="304" begin="2658" end="2667" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="304" begin="2669" end="2734" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="304" begin="2736" end="2739" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="304" begin="2740" end="2854" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="304" begin="2856" end="2937" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="304" begin="2939" end="2943" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="304" begin="2944" end="2978" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="304" begin="2980" end="3007" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="304" begin="3008" end="3011" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="304" begin="3012" end="3032" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="304" begin="3034" end="3091" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="304" begin="3095" end="3116" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="304" begin="3119" end="3265" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="304" begin="3267" end="3387" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="286" sofa="304" begin="0" end="3387" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/150-littlehopewasarsonwhymademovie.txt" offsetInSource="0" documentSize="3387" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="311" sofa="304" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/150-littlehopewasarsonwhymademovie.xmi" offsetInSource="0" documentSize="3387" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="294" sofa="304" begin="0" end="3387" lastUpdate="2014-12-09T12:00:03Z" url="http://www.foxnews.com/opinion/2014/12/09/little-hope-was-arson-why-made-movie-about-burning-churches/" portal="foxnews" authors="Theo Love" articleSum="When a church burns does it simply illuminate the night, or through its&amp;#10;destruction will the world see the gospel shine?&amp;#10;&amp;#10;" title="'Little Hope Was Arson': Why I made a movie about burning churches."/>
+    <cas:Sofa xmi:id="304" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="As the son of missionaries, losing my faith was no small event. I was 19 and hurting. My older brother was strung out on a number of drugs and I had moved in with him naively attempting to help my childhood hero.&#10;&#10;One night he jumped on top of me, wrapped both hands around my throat and had all the rage in his eyes needed to end my life. When he saw that I wasn't struggling, he let go, only to wake the next morning and drag me to church.&#10;&#10;My brother could threaten my life on Saturday night and, come Sunday morning, lift his hands to Jesus. That morning in his church I lost hope in the transformation that supposedly comes with faith.&#10;&#10;On Christmas Day I announced to my father that I no longer wanted to be a Christian.&#10;&#10;A few months later, I boarded a ship in New Zealand operated by the medical missions branch of YWAM--Youth with a Mission -- though I was hardly signing up for six months to serve God. I was there to prove that God didn't exist.&#10;&#10;One afternoon David Cowie, the head of the program, asked how I was doing and I spilled my guts. At that point every kid who's grown up in a church knows the drill: I disclose my doubt; he gives the come-back-to-Jesus speech; roll credits.&#10;&#10;But I reached the end of my story and David said nothing. He sat in silence. Not the kind of silence that communicates indifference, but the kind that is reserved for close friends sharing a moment of understanding. He didn't push me away or try to rush my journey with God.&#10;&#10;The next few months were transformational, a religious love story. Like many in my generation, the faith I'd lost inside the four walls of a church was found again through believers who left the sanctuary to help people in need. I hadn't been persuaded by a man building a congregation; I was undone by a friend who listened without judgment.&#10;&#10;These were the thoughts rattling around in my head when I heard the story of 10 churches in East Texas that had burned to the ground. Right away I could see the makings of a great crime documentary akin to Errol Morris' &quot;The Thin Blue Line,&quot; but on a personal level, I also saw a road into my questions about churches.&#10;&#10;Ironically it was my brother who encouraged me to start making the film. With his help I scraped together enough cash to cover airfare to Texas and a small camera crew.&#10;&#10;Then came a few more surprises. As I interviewed pastors mourning the loss of their churches, I felt a growing sense of sympathy. Far more than buildings, these people had lost their community homes -- places that heard wedding vows recited and last goodbyes whispered at funerals. I began to feel sheepishly aware of my own cultural insensitivity. After all,  this was, as many locals put it, &quot;The buckle of the Bible belt.&quot;&#10;&#10;But the more I learned about the two young men who deliberately torched 10 houses of worship, the more I saw of myself. Jason Bourque and Daniel McAllister had grown up attending Sunday school together. When family problems and tragedy struck, their faith in God stumbled and they left the church. But during their time of need, no one was there to listen as there had been for me.&#10;&#10;&quot;Little Hope Was Arson&quot; ends with a quote from the Spanish anarchist Buenaventura Durruti: &quot;The only church that illuminates is a burning church.&quot;&#10;&#10;When a church burns does it simply illuminate the night, or through its destruction will the world see the Gospel shine?"/>
+    <cas:View sofa="304" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 311 294"/>
+</xmi:XMI>

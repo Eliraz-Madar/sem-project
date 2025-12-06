@@ -1,0 +1,159 @@
+0	title	When cartoons upset the 'wrong people'.
+-1	par-sep	
+1	continued	As an Arab and Muslim political cartoonist living and working in the Middle East, the fear of
+2	continued	upsetting the "wrong people"
+3	anecdote	is part of daily life
+4	no-unit	.
+-1	par-sep	
+5	anecdote	My politically charged images rose to prominence during the early stages of the Arab Spring protests in 2011
+6	no-unit	.
+7	anecdote	Like so many young people in the Middle East, I found an outlet on social media
+8	no-unit	.
+9	anecdote	I was quickly labelled "an artist of the revolution"
+10	no-unit	.
+-1	par-sep	
+11	anecdote	Today, my work is shared around the world
+12	no-unit	.
+13	anecdote	In my native Sudan, as well as in Yemen and Tunisia, my cartoons are used by revolutionary groups and by political activists
+14	no-unit	.
+-1	par-sep	
+15	anecdote	This is my passion
+16	no-unit	.
+17	anecdote	I don't make a living off these political cartoons
+18	no-unit	.
+19	no-unit	In fact	Modd-NU
+20	no-unit	,	Modd-NU
+21	continued	 I encourage
+22	anecdote	people to copy and share them
+23	no-unit	.
+24	assumption	It is an honour
+25	no-unit	,
+26	no-unit	but
+27	assumption	it does not come without dangers
+28	no-unit	.
+-1	par-sep	
+29	continued	It's no easy feat
+30	continued	to come up with a cartoon
+31	continued	that can pass all levels of censorship - starting with self-censorship then government-imposed "coronership"
+32	continued	,
+33	continued	which in many countries in this region, is actually somebody's job
+34	continued	-
+35	assumption	to pick apart and find potentially offensive meanings
+36	no-unit	.
+-1	par-sep	
+37	continued	That's
+38	continued	why
+39	continued	I understand
+40	continued	why
+41	continued	the West is fighting so hard
+42	continued	to keep that freedom of speech as free
+43	continued	as
+44	assumption	it should be
+45	no-unit	.
+46	continued	In the wake of the deplorable attack on the French satirical magazine Charlie Hebdo, I wholeheartedly join the rest of the world in
+47	assumption	condemning the actions of those three young men
+48	no-unit	.
+-1	par-sep	
+49	assumption	I condemn the attacks on the cartoonists
+50	continued	even though	Modd-NU
+51	assumption	I don't agree with the publication's editorial slant
+52	no-unit	,
+53	continued	which I have often found
+54	assumption	to be hurtful and racist
+55	no-unit	.
+56	no-unit	Nevertheless	Modd-NU
+57	no-unit	,	Modd-NU
+58	continued	 I would continue
+59	assumption	to stand for their freedom of speech
+60	no-unit	.
+-1	par-sep	
+61	continued	I believe
+62	assumption	that the assailants' religion or ideology is irrelevant
+63	no-unit	;
+64	continued	I believe
+65	continued	they were simply looking
+66	assumption	to wage an attack
+67	no-unit	;
+68	continued	they would have attacked
+69	continued	something else
+70	continued	if
+71	assumption	they didn't attack Charlie Hebdo
+72	no-unit	.
+-1	par-sep	
+73	continued	Muslims seem
+74	assumption	to lose either way
+75	no-unit	.
+76	continued	They are constantly asked
+77	continued	to apologise for crimes they neither committed
+78	continued	,
+79	assumption	nor supported
+80	no-unit	.
+81	assumption	They, too, are victims of the violence of extremists
+82	no-unit	.
+83	no-unit	Still	Modd-NU
+84	no-unit	,	Modd-NU
+85	continued	 they are asked
+86	continued	to apologise and somehow atone for these crimes
+87	assumption	that were committed in the name of their religion
+88	no-unit	.
+89	assumption	Then they must face the wrath of extremists
+90	continued	who attack them for
+91	continued	refusing
+92	continued	to approve of the methods
+93	continued	they view as the only way
+94	assumption	to defend Islam
+95	no-unit	.
+-1	par-sep	
+96	continued	This situation is a perpetuation of
+97	continued	what's
+98	assumption	happening in the Middle East right now
+99	no-unit	-
+100	assumption	it's far more complex than the cartoon business
+101	no-unit	.
+102	continued	For	Modd-NU
+103	continued	us to help	Modd-NU
+104	continued	,	Modd-NU
+105	continued	to play a constructive role	Modd-NU
+106	continued	,	Modd-NU
+107	continued	we should desist from
+108	assumption	pointing the finger at others
+109	no-unit	,
+110	no-unit	and
+111	continued	we must examine
+112	continued	what
+113	continued	motivates
+114	assumption	these young people to turn to violence and extremism
+115	no-unit	.
+-1	par-sep	
+116	continued	Freedom of speech is a powerful weapon and one
+117	assumption	I have never fully had
+118	no-unit	-
+119	no-unit	but
+120	continued	for	Modd-NU
+121	continued	those	Modd-NU
+122	continued	who do	Modd-NU
+123	continued	have it	Modd-NU
+124	continued	,	Modd-NU
+125	continued	I wish
+126	continued	they would stop
+127	continued	taking it for
+128	assumption	granted
+129	no-unit	.
+-1	par-sep	
+130	no-unit	Instead	Modd-NU
+131	no-unit	,	Modd-NU
+132	continued	 they ought
+133	continued	to ask the right questions - the questions
+134	continued	that need
+135	continued	to be asked
+136	continued	- rather than accusatory ones
+137	continued	that fuel the stereotypes
+138	assumption	that have originated in mainstream media
+139	no-unit	.
+-1	par-sep	
+140	continued	Their work must focus on
+141	assumption	conveying the right message
+142	no-unit	.
+143	continued	They must work towards
+144	assumption	bridging the gap - and not widening it
+145	no-unit	.

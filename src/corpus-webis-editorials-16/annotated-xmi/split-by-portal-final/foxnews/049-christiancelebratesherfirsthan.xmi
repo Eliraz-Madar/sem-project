@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3153" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="54" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="56" end="105" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="107" end="154" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="156" end="193" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="195" end="198" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="199" end="256" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="258" end="373" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="376" end="474" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="476" end="547" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="549" end="701" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="703" end="727" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="730" end="741" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="742" end="746" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="752" end="765" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="767" end="866" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="868" end="885" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="888" end="941" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="943" end="994" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="996" end="1114" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1116" end="1149" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1151" end="1228" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1231" end="1240" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1241" end="1249" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1251" end="1330" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1332" end="1428" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1430" end="1486" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1488" end="1491" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1492" end="1519" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1520" end="1526" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="1527" end="1597" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="1600" end="1678" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="1680" end="1820" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="1822" end="1946" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="1949" end="2108" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2110" end="2182" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2185" end="2214" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2216" end="2219" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2220" end="2263" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2265" end="2294" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2296" end="2339" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2341" end="2377" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2379" end="2462" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2465" end="2490" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="2492" end="2535" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="2537" end="2635" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="2637" end="2746" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="2748" end="2822" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="2825" end="2849" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="2850" end="2853" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="2854" end="2884" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="2886" end="2918" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="2920" end="2923" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="2924" end="2949" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="2951" end="3008" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3010" end="3013" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="3014" end="3042" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="3045" end="3098" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="3101" end="3152" unitType="other"/>
+    <core:SourceDocumentInformation xmi:id="303" sofa="1" begin="0" end="3153" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/049-christiancelebratesherfirsthan.txt" offsetInSource="0" documentSize="3153" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="311" sofa="1" begin="0" end="3153" lastUpdate="2014-12-16T22:00:23Z" url="http://www.foxnews.com/opinion/2014/12/16/christian-celebrates-her-first-hanukkah/" portal="foxnews" authors="Molly  Dodd" articleSum="When I moved from Florida to New Jersey this past year, I never thought that I&amp;#10;would discover what I have. Growing up, all I knew was that I was Methodist.&amp;#10;My family attended Methodist churches, and no one ever mentioned that my mom&amp;#10;had a Jewish background. This year has been about discovering what I never&amp;#10;knew, and learning the beauty of Judaism through a Christian lens.&amp;#10;&amp;#10;" title="A Christian celebrates her first Hanukkah."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="When I moved from Florida to New Jersey this past year, I never thought that I would discover what I have. Growing up, all I knew was that I was Methodist. My family attended Methodist churches, and no one ever mentioned that my mom had a Jewish background. This year has been about discovering what I never knew, and learning the beauty of Judaism through a Christian lens.&#10;&#10;One day last Spring I decided to go to a garage sale in the Orthodox Jewish community near my home. While there, I mentioned that I was curious to learn more about Judaism. The woman in charge listened to my story, and concluded with delight, &quot;If your mother was Jewish, and your grandmother was Jewish, then YOU are Jewish.&quot;&#10;&#10;My head started spinning.&#10;&#10;I'm Jewish? Wait. No. I'm Methodist. Now I am no religious scholar, but aren't there large differences between Christianity and Judaism?&#10;&#10;The answer is yes.&#10;&#10;From that moment I began to sort through my own faith. There are so many beautiful qualities about Judaism. Many know that they set aside an entire day each week-Saturday, the seventh day - to pray and honor God as the creator. They call it Shabbos- the Sabbath. I can't remember the last time I devoted more than 20 minutes to this thought.&#10;&#10;Don't get me wrong, I am extremely thankful to God for creating the universe and for giving me life. But like most people, I have things to do on the weekend that I can't accomplish on Sunday alone. I can't spend an entire day dedicated to prayer and rest, but the Orthodox community does -- and it is one of the most interesting and beautiful rituals I've ever seen.&#10;&#10;I've come to realize that the Jewish community is filled with wonderful people. Because of my Jewish roots, several families have taken an interest in me, &quot;adopting&quot; me into their families and invited me into their homes. I've begun studying the Torah once a week and learning about how Jews practice their religion, both in synagogue and at home.&#10;&#10;When learning about these practices, I become confused- not as to why Orthodox Jews do those things, but because it sounds so biblically logical why they do it. I question why I haven't devoted one day out of the week to honoring God.&#10;&#10;Hanukkah begins Tuesday night, and I will be celebrating it for the first time. I am both excited and nervous, because now that I know I'm Jewish by blood, celebrating Hanukkah seems important. I'm honored really to be able to learn from a firsthand view instead of from a book.&#10;&#10;My journey isn't over yet. It will probably continue for years to come. One of the things that make my faith exploration limitless is that my parents are no longer living. I have no encouragement or discouragement in my life from my parents; my life's direction completely up to me. It's my job, then, to listen to God's word, and His convictions in my life.&#10;&#10;I have no real goal here and sometimes I wonder if I should. I don't know where this is going, but that is a beautiful thing. I've always wanted to take a trip and have no destination. How thrilling and nerve wracking.&#10;&#10;What I do know, is this is my journey through Judaism.&#10;&#10;As soon as I find out where it leads, you will know."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 311"/>
+</xmi:XMI>

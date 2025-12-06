@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4876" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="123" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="126" end="158" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="160" end="204" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="206" end="352" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="355" end="417" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="419" end="582" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="586" end="632" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="635" end="665" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="669" end="750" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="752" end="787" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="790" end="948" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="950" end="976" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="979" end="1109" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1111" end="1244" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1246" end="1293" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1297" end="1318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1321" end="1353" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1356" end="1434" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1436" end="1455" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1457" end="1592" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1595" end="1720" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1722" end="1725" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1727" end="1884" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1887" end="1918" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1920" end="1955" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1957" end="2011" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2013" end="2020" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2022" end="2097" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2099" end="2282" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2285" end="2335" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2337" end="2379" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2381" end="2457" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2459" end="2462" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2464" end="2573" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2575" end="2666" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2668" end="2701" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2704" end="2713" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2714" end="2853" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2855" end="2862" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2864" end="3200" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3203" end="3344" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3346" end="3349" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3350" end="3406" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3408" end="3464" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3466" end="3497" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3499" end="3502" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3503" end="3507" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3508" end="3546" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3548" end="3626" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3628" end="3632" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3633" end="3693" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3695" end="3698" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3699" end="3745" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3748" end="3995" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3998" end="4105" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4107" end="4265" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4268" end="4381" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4383" end="4454" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4456" end="4459" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4460" end="4504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4506" end="4664" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4667" end="4711" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4712" end="4774" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4775" end="4815" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4817" end="4875" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="338" sofa="1" begin="0" end="4876" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/195-parislessonsusmustrevokecitize.txt" offsetInSource="0" documentSize="4876" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="346" sofa="1" begin="0" end="4876" lastUpdate="2015-01-14T11:00:11Z" url="http://www.foxnews.com/opinion/2015/01/14/paris-lessons-us-must-revoke-citizenship-americans-who-join-isis-al-qaeda/" portal="foxnews" authors="Jay Sekulow" articleSum="That’s why any American strategy to defeat jihad has to include measures to&amp;#10;not just deny passports to American terrorists, but also strip them of&amp;#10;citizenship.&amp;#10;&amp;#10;" title="Paris lessons: US must revoke citizenship of Americans who join ISIS, Al Qaeda."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Last week, France faced the threat that is arguably the toughest to defeat -- a threat from within, from its own terrorists.&#10;&#10;By now, the stories are familiar. France has a problem with homegrown radicals. At least 900 French citizens are among the 2,000 to 3,000 westerners who've left home for jihadist training or to fight for ISIS in Syria and Iraq.&#10;&#10;In many ways, the western jihadist represents the worst threat. Able to speak the language fluently, completely familiar with their home countries, and possessing a key weapon -- an American, British, French, or German passport -- they can easily cross international boundaries.&#10;&#10;The training makes them deadly -- the Paris attacks were notable for their deadly precision and meticulous planning. Their citizenship makes them mobile.&#10;&#10;That's why any American strategy to defeat jihad has to include measures to not just deny passports to American terrorists, but also strip them of citizenship. This is basic common sense.&#10;&#10;Most Americans would be surprised to know that joining Al Qaeda or ISIS - the Islamic State - isn't grounds for losing citizenship. The law currently provides that Americans can lose citizenship when they enter or serve in the armed forces of an enemy foreign state. But ISIS and Al Qaeda are not &quot;foreign states,&quot; so the law doesn't apply.&#10;&#10;It's time to close this loophole.&#10;&#10;In Congress, legislation was introduced last session to address those concerns. It was not approved. Now,  in the new Congress - with Republicans in control of both the House and Senate - there's a renewed push to safeguard the homeland.&#10;&#10;Last week, Representative Ted Poe introduced a measure that revokes passports from Americans who join terrorist organizations. And,  in the days ahead, Senator Ted Cruz and Representative Steve King are expected to introduce legislation that would strip citizenship from terrorist traitors.&#10;&#10;This is not an imaginary threat. Not only have Americans joined ISIS, some have even lost their lives fighting for jihadists. In fact,  as many as 40 men from Minneapolis alone have joined Islamic groups abroad. And just last week in Chicago, A U.S  citizen was indicted by a federal grand jury - charged with attempting to travel overseas to fight alongside the ISIS operating in Iraq and Syria.&#10;&#10;These men aren't just threats to the United States; they're also threats to our closest allies. For our allies, the American passport is a ticket of entry, no visa required. And,  similarly, for British, French, and other allies, their passport is a ticket of entry into the United States. The door is wide open for terrorists to take advantage of centuries of friendship and trust. It is time we slam that door shut.&#10;&#10;Of course stripping citizenship and revoking passports represent just two small steps - but critical ones - towards a sane national security strategy. However,  it's difficult to take even these small steps with the Obama administration steadfastly refuses to name our enemies (Mr  President, our enemies are Islamic radicals, not generic &quot;extremists&quot;), accurately describe their ideology (no, they are not &quot;nihilists&quot;), or even to acknowledge their obvious, widespread appeal in the Muslim world.&#10;&#10;It was sad and embarrassing for Americans to watch as even the leader of the Palestinian Authority marched in Paris against Islamic extremism, yet our president or vice president were nowhere to be found. Even liberal journalists called this absence &quot;pathetic.&quot;&#10;&#10;Marches don't defeat terrorists, but when dozens of world leaders stand together, it makes a statement of determination that is critical for our citizens to see. When our President makes a stand, it signals our nation's resolve, and his absence signaled our government's weakness.&#10;&#10;In the days and weeks ahead, Congress can send a very different message by passing much needed legislation, putting it on the President's desk, and daring him to veto legislation that would prevent exactly the kind of attack France faced last week.&#10;&#10;After almost six full years in office, we fully understand the President's approach to combatting terrorism. A recipe that mixes drone strikes with appeasement -- that pulls troops from combat and sends captive terrorists back to the Middle -- is now a proven failure.&#10;&#10;In my bestselling book, &quot;Rise of ISIS: A Threat We Can't Ignore,&quot; I demonstrated the consequences of that failure. Jihad rages across the Middle East, Boko Harem rampages through Nigeria, and Afghanistan teeters on the brink of disaster. In the west, recent terror attacks in Canada, Australia, and Paris show jihadists ability to inspire even western Muslims with a message of pure hate and evil.&#10;&#10;Will the Obama administration change course? Will it finally acknowledge the true dimensions of the threat? It can start with a dose of common sense. It can start by protecting America from terrorist traitors."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 346"/>
+</xmi:XMI>

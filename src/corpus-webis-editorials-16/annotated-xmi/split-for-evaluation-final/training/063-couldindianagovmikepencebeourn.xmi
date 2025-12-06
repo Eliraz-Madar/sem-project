@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="329" begin="0" end="4239" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="329" begin="0" end="13" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="329" begin="19" end="113" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="329" begin="115" end="214" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="329" begin="217" end="313" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="329" begin="315" end="469" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="329" begin="471" end="482" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="329" begin="484" end="658" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="329" begin="660" end="773" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="329" begin="776" end="843" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="329" begin="845" end="848" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="329" begin="849" end="905" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="329" begin="907" end="981" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="329" begin="984" end="1171" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="329" begin="1175" end="1356" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="329" begin="1358" end="1362" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="329" begin="1364" end="1473" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="329" begin="1475" end="1537" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="329" begin="1539" end="1569" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="329" begin="1571" end="1574" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="329" begin="1575" end="1608" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="329" begin="1610" end="1655" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="329" begin="1658" end="1769" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="329" begin="1771" end="1848" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="329" begin="1850" end="1917" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="329" begin="1919" end="1955" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="329" begin="1957" end="2052" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="329" begin="2056" end="2136" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="329" begin="2138" end="2141" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="329" begin="2142" end="2191" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="329" begin="2193" end="2196" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="329" begin="2197" end="2266" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="329" begin="2268" end="2305" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="329" begin="2308" end="2416" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="329" begin="2418" end="2429" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="329" begin="2431" end="2550" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="329" begin="2552" end="2651" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="329" begin="2653" end="2728" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="329" begin="2730" end="2884" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="329" begin="2886" end="2943" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="329" begin="2945" end="3027" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="329" begin="3028" end="3063" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="329" begin="3066" end="3216" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="329" begin="3218" end="3280" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="329" begin="3286" end="3353" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="329" begin="3355" end="3380" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="329" begin="3382" end="3482" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="329" begin="3483" end="3486" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="329" begin="3487" end="3557" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="329" begin="3559" end="3644" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="329" begin="3646" end="3709" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="329" begin="3710" end="3741" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="329" begin="3742" end="3745" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="329" begin="3750" end="3766" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="329" begin="3768" end="3806" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="329" begin="3809" end="3856" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="329" begin="3858" end="3863" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="329" begin="3864" end="3909" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="329" begin="3911" end="3960" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="329" begin="3961" end="4050" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="329" begin="4053" end="4197" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="329" begin="4199" end="4238" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="311" sofa="329" begin="0" end="4239" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/063-couldindianagovmikepencebeourn.txt" offsetInSource="0" documentSize="4239" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="336" sofa="329" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/063-couldindianagovmikepencebeourn.xmi" offsetInSource="0" documentSize="4239" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="319" sofa="329" begin="0" end="4239" lastUpdate="2014-12-16T12:00:53Z" url="http://www.foxnews.com/opinion/2014/12/16/could-indiana-gov-mike-pence-be-our-next-president/" portal="foxnews" authors="Cal Thomas" articleSum="If success at the state level were enough to recommend someone for president&amp;#10;of the United States, Gov. Mike Pence of Indiana would be among the&amp;#10;frontrunners for the 2016 GOP presidential nomination.&amp;#10;&amp;#10;" title="Could Indiana Gov  Mike Pence be our next president?"/>
+    <cas:Sofa xmi:id="329" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="INDIANAPOLIS  - If success at the state level were enough to recommend someone for president of the United States, Gov  Mike Pence of Indiana would be among the frontrunners for the 2016 GOP presidential nomination.&#10;&#10;According to the governor's office, Pence has &quot;signed into law $643 million in annual tax relief: That includes: $313 million for hardworking Hoosiers, thanks to last year's 5 percent income tax reduction, the largest state tax cut in Indiana history.&quot;&#10;&#10;In addition,  the state corporate tax rate was reduced from 6.5 percent to 4.9 percent, making it the third lowest in the country and contributing to Indiana's increase in the labor force, which, Pence's office says, has grown by more than 51,000 over the past year, five times the national growth rate.&#10;&#10;It helps to have large majorities of one's party in the legislature, but Pence consults and has good relationships with Democrats, who frequently vote with the Republican majority because his programs work.&#10;&#10;Sitting with the governor in his high-ceiling office beneath portraits of two Indiana governors who became presidents of the United States -- William Henry Harrison and Benjamin Harrison  -- Pence tells me he is focused on the upcoming legislative session, which is expected to last four months, and won't think seriously about running for president until the session ends. Then, he says, &quot;We'll probably take some time as a family to reflect and pray and make decisions about our future.&quot;&#10;&#10;In his mind, Pence may have already crafted a winning scenario. He may be focused on his state, but he thinks a lot about the country, which he served for 10 years as a congressman.&#10;&#10;A former Democrat (like his ideological mentor Ronald Reagan), Pence sees a need to transform his party's image: &quot;The Republican Party has become just the other party to Washington solutions. We have to get back to advancing state- based solutions and reforms. We must be relentlessly optimistic.&quot;&#10;&#10;He paraphrases a Reagan line: &quot;' Why shouldn't we dream great dreams, after all we're Americans .' There was a confidence and optimism I think our party would do well to repair to. ... There' s a lot wrong with our national government, but we've got to stop confusing our national government with our nation.&quot;&#10;&#10;That's a good line for a stump speech.&#10;&#10;Pence wants to move from opposing bad ideas in Washington, to focusing on the success records in many states. For example, Pence's education agenda includes a goal of taking children in underperforming schools and putting them in good schools: &quot;By the year 2020, I want 100,000 more Indiana students in high- quality schools than we have today. Today, we have 105,000 kids who are in underperforming or failing schools.&quot;&#10;&#10;He wants to fix traditional schools, pay good teachers more, giving bonuses to the best, and expand vocational education to every high school in the state. &quot;We have the largest education voucher program in America. I want to expand that by lifting the cap and encouraging more private investment.&quot; Indiana also has 75 charter schools.&#10;&#10;Pence declines an invitation to comment on former Gov  Jeb Bush's recent remarks about having to lose the primary in order to win the general election, which many conservatives view as an attack on the party's base.&#10;&#10;If Hillary Clinton becomes the Democratic Party's presidential nominee, I asked, is she beatable?&#10;&#10;Pence answers indirectly, saying he thinks 2016 will be the first foreign policy election since 1980 and that as a former secretary of state, Clinton will have some advantages. That's why he thinks the eventual GOP nominee should do as George W  Bush did in 2000: name a group of advisers with strong foreign policy credentials to advise him during a campaign and, if he is successful, some might serve in his administration.&#10;&#10;Mike Pence is a model of humility and restraint. While some characterize Obama as a failed president, Pence will only label his tenure &quot;disappointing.&quot; That in itself is in sharp contrast to the hubris, narcissism and self-awareness of Obama.&#10;&#10;Humility, coupled with a proven track record of success and more confidence in the states and the people, is what's needed at the national level. Mike Pence could be the one to bring it."/>
+    <cas:View sofa="329" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 336 319"/>
+</xmi:XMI>

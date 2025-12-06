@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="5309" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="154" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="155" end="295" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="301" end="464" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="465" end="608" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="610" end="773" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="775" end="794" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="796" end="799" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="800" end="820" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="822" end="939" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="942" end="1014" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="1016" end="1107" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1109" end="1212" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1214" end="1365" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1368" end="1390" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1393" end="1402" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1404" end="1504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1507" end="1575" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1577" end="1690" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1691" end="1777" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1779" end="1850" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1853" end="2048" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="2051" end="2166" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="2168" end="2217" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2219" end="2262" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2264" end="2310" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2312" end="2327" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2333" end="2430" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2432" end="2535" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2540" end="2690" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2692" end="2762" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2764" end="2868" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2870" end="2932" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2934" end="3017" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="3019" end="3189" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="3191" end="3527" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="3528" end="3558" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="3560" end="3583" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3585" end="3603" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3606" end="3665" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3667" end="3676" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3678" end="3790" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3792" end="3814" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3816" end="3841" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3844" end="3943" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3946" end="3982" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3984" end="4186" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="4189" end="4193" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="4194" end="4221" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="4223" end="4404" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="4405" end="4459" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="4461" end="4565" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4567" end="4570" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4572" end="4595" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4597" end="4604" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4606" end="4633" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4634" end="4637" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4638" end="4670" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4672" end="4699" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4703" end="4813" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4815" end="4826" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4828" end="4867" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4870" end="4900" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4902" end="4905" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4906" end="4958" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4962" end="5198" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="5200" end="5267" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="343" sofa="1" begin="5269" end="5287" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="348" sofa="1" begin="5289" end="5308" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="353" sofa="1" begin="0" end="5309" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/026-billycrystalwrongongaysexholly.txt" offsetInSource="0" documentSize="5309" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="361" sofa="1" begin="0" end="5309" lastUpdate="2015-01-20T20:00:10Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/billy-crystal-wrong-on-gay-sex-hollywood-lack-of-diversity" portal="guardian" authors="Lindy West" articleSum="Lindy West: Crystal might not want gay sex ‘shoved in his face’. But after hundreds of years of straight white guys telling straight white guy stories, I say bring on the disabled black lesbians " title="Billy Crystal is wrong. There is nowhere near enough gayness on screen."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Comedian, actor and - apparently - bewildered Victorian time-traveller Billy Crystal disappointed millions of fans and general conscience-havers this week when, in an interview with the Television Critics Association, he said that he thinks gay characters on TV are &quot;pushing it a little too far&quot;.&#10;&#10;&quot;I hope people don't abuse it and shove it in our face,&quot; Crystal continued, referring to gay sex scenes, &quot;to the point where it feels like an everyday kind of thing.&quot; He later attempted a half-hearted backpedal, telling the Hollywood Reporter that, don't worry, he totally thinks straight people are gross, too: &quot;What I meant was that whenever sex or graphic nudity of any kind (gay or straight) is gratuitous to the plot or story, it becomes a little too much for my taste.&quot;&#10;&#10;Sporting try, Billy, but we can see your tell: several of your chosen turns of phrase have been used to dehumanise and deny representation to gay people for decades - &quot;shove it in our face&quot;, in particular, is tantamount to a coded gay slur. For that matter, it is not even possible to &quot;shove&quot; heterosexual sexuality in anyone's face, because there is no human on earth whose face isn't already completely submerged in and saturated by it. Gratuitous straight sex is a defining plot device in pretty much all media: primetime soaps, daytime talk shows, beer commercials, Billy Crystal movies.&#10;&#10;We know what you meant.&#10;&#10;Of course,  it's perfectly fine to be uncomfortable with overt displays of sexuality, regardless of orientation - everyone has the right to set and defend their own sexual boundaries. I, for instance, find the idea of a woman loudly faking an orgasm in a crowded delicatessen so unbearably awkward that it makes me want to crawl out of my skin and flush the rest of me down the toilet. And that's why I FAST-FORWARD THROUGH THAT PART OR WATCH SOMETHING ELSE.&#10;&#10;It's almost as though you can choose what media you want to consume without policing anyone's sexual expression and furthering the oppression of an already marginalised and underrepresented group.&#10;&#10;But Crystal's dull, antique disdain for gay sex actually manages to crystallise a very important, progressive point: not only is there not &quot;too much&quot; gayness in media, gayness doesn't go anywhere near far enough. Back up the gay truck and just flood the place. It's about time.&#10;&#10;If you want evidence that our media is broken (or, more unsettlingly, working just as it's intended), look no further than the staggering whiteness, straightness, and maleness of the 2015 Oscar nominations. As Bidisha summed up in this paper last week: &quot;Every nominated best director, screenwriter, screenplay adapter and original score composer is a white man. All the nominated best actors and best supporting actors are white men. All but one of the best picture nominations are about how hard it is being an entitled, genius white man. All the nominated best foreign language film directors are men. All but one of the documentary directors - Laura Poitras for Citizenfour - is a man. In the best picture category, seven films are directed by white men and the eighth, Selma, is directed by a black woman, Ava DuVernay, who was snubbed for best director.&quot;&#10;&#10;When it comes to diversity in media - after hundreds of years of straight white guys telling straight white guy stories, deciding which subject matters are serious (straight white guy stuff) and which are frivolous (everything else), and congratulating themselves on being the best at fulfilling their own rigged, narcissistic standards - I'm not interested in parity. I want overcompensation. I want new stories.&#10;&#10;And I don't just mean that from a social justice standpoint. I'm bored. A time is going to come - in my lifetime, I hope  - when just being an angsty white man won't be enough any more. It won't carry a movie. It won't justify an Oscar.&#10;&#10;That's not to say that straight white guy stories can't be compelling, heartbreaking and important  - simply that we've heard them already. We've heard them at the expense of millions of other stories that never get funding, that are rewritten and whitewashed, that are needlessly recentered around a white person a la Orange is the New Black.&#10;&#10;When these conversations come up, some genius inevitably pipes up with what they think is a trump card - some version of: &quot;Oh, so we should have a show where every character is a disabled black Muslim lesbian!?!?!?&quot; As though nothing could be more absurd and unthinkable. As though there aren't innumerable TV shows and movies with all-white ensemble casts that go uncritiqued. And, to answer your question, UM, YES. That show sounds incredible and I would watch the crap out of it. It's only an absurd concept if you believe that disabled black Muslim lesbians are somehow less valid, less valuable, than straight white men. They're not. There is no such thing as a niche human.&#10;&#10;Representation is humanisation, and we have an inexpressible amount of ground to make up if we want to begin to establish gay people and trans people and disabled people and people of colour and fat people and sex workers as fully realised human beings - not tropes, morality tales, or comic relief - in the public consciousness. I'd say we could stand a few decades of overrepresentation, in fact. Come on, Hollywood. Shove it in my face."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 348 353 361"/>
+</xmi:XMI>

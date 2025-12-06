@@ -1,0 +1,186 @@
+0	title	Iran Sanctions Fight: Three myths no lawmaker should believe.
+-1	par-sep	
+1	continued	The expected congressional vote on a new sanctions bill against the Iranian regime has rekindled debate over Tehran's nuclear defiance and the best way
+2	assumption	to confront it
+3	no-unit	.
+4	continued	Congress has misgivings about a rogue regime intent on
+5	continued	obtaining nuclear capability
+6	continued	,
+7	continued	and
+8	continued	understandably wants
+9	continued	to ensure
+10	assumption	that Washington does not strike a bad deal
+11	no-unit	.
+-1	par-sep	
+12	continued	Some argue
+13	assumption	that a decisive approach toward Tehran will be counterproductive
+14	no-unit	.
+15	continued	But their position ignores historical lessons and stands on a number of myths
+16	continued	that need
+17	assumption	to be debunked
+18	no-unit	.
+-1	par-sep	
+19	no-unit	Myth #1
+20	no-unit	:
+21	continued	More sanctions on Iran will prompt the regime
+22	assumption	to unilaterally walk away from the talks
+23	no-unit	.
+-1	par-sep	
+24	continued	Iran cannot afford
+25	assumption	to walk away
+26	continued	because	Modd-NU
+27	assumption	it is desperate and vulnerable
+28	no-unit	.
+29	continued	It has a genuine interest
+30	assumption	to secure the lifting of existing sanctions
+31	no-unit	,
+32	continued	which provided the initial impetus for the regime
+33	assumption	to talk
+34	no-unit	.
+35	no-unit	Then	Modd-NU
+36	no-unit	,	Modd-NU
+37	continued	 too, cynics argued
+38	continued	that sanctions would prompt
+39	assumption	Tehran to accelerate its nuclear activities
+40	no-unit	.
+-1	par-sep	
+41	continued	The regime is playing a game of attrition, aiming
+42	continued	to weaken
+43	assumption	U.S  resolve, win more concessions, and maintain its nuclear infrastructure
+44	no-unit	.
+45	continued	The bipartisan sanctions bill will force
+46	assumption	Tehran to consider speedy compliance
+47	no-unit	.
+-1	par-sep	
+48	continued	This month, Iranian President Hassan Rouhani reiterated
+49	continued	,
+50	continued	"Breaking
+51	continued	the anti- Iran sanctions is the only way
+52	continued	to achieve national progress,"
+53	continued	acknowledging
+54	testimony	that Iran's devastated economy cannot endure the weight of further sanctions, especially after the recent decline in oil prices
+55	no-unit	.
+-1	par-sep	
+56	assumption	The mullahs are paranoid of a disenchanted population already on edge
+57	no-unit	.
+58	continued	With rampant unemployment, inflation, and loss of oil revenues
+59	continued	,
+60	continued	walking away from the talks
+61	assumption	is not an option
+62	no-unit	,
+63	continued	especially if
+64	assumption	a sanctions-in-waiting bill is hovering over their head
+65	no-unit	.
+-1	par-sep	
+66	no-unit	Myth #2
+67	no-unit	:
+68	continued	With more sanctions, Tehran will blame Washington for sabotaging diplomacy
+69	continued	,
+70	assumption	and start on the path towards war
+71	no-unit	.
+-1	par-sep	
+72	continued	Even with slumping oil revenues 
+73	continued	-
+74	continued	slashed by at least 45
+75	continued	%
+76	continued	- the official defense budget has jumped 30
+77	continued	%,
+78	statistics	mostly allocated to the Islamic Revolutionary Guards Corp (IRGC)
+79	no-unit	.
+80	no-unit	And
+81	no-unit	,
+82	continued	more money is being funneled into Syria and Iraq
+83	continued	to execute Tehran's designs - a budget
+84	continued	that is twice that of all the country's
+85	statistics	publically funded universities combined
+86	no-unit	.
+-1	par-sep	
+87	no-unit	If	cond
+88	continued	sanctions fail
+89	continued	to force
+90	assumption	Tehran to abandon key parts of its nuclear program after over a year of negotiations
+91	no-unit	, then	cond
+92	assumption	continued talks with no additional leverage will fail as well
+93	no-unit	.
+-1	par-sep	
+94	continued	The IAEA still has no access
+95	assumption	to suspect nuclear sites
+96	no-unit	and
+97	assumption	its questions remain unanswered
+98	no-unit	.
+99	continued	IAEA Director General Yukiya Amano said
+100	continued	in November 2014, "Iran has not provided any explanations
+101	continued	that enable
+102	continued	the Agency to clarify the outstanding practical measures
+103	continued	,
+104	testimony	nor has it proposed any new practical measures in the next step of the Framework for Cooperation, despite several requests from the Agency."
+-1	par-sep	
+105	continued	Senior U.S  officials have repeatedly stated
+106	continued	that even
+107	continued	without additional sanctions the chances for
+108	continued	reaching an agreement with Iran
+109	testimony	is less that 50 percent
+110	no-unit	.
+111	no-unit	So
+112	no-unit	,
+113	no-unit	as
+114	continued	Iran tries
+115	assumption	to wear out western negotiators
+116	no-unit	,
+117	assumption	clearly, additional leverage from Congress is necessary, not counterproductive
+118	no-unit	.
+-1	par-sep	
+119	no-unit	Myth #3
+120	no-unit	:
+121	continued	New sanctions will strengthen "hardliners" in Iran
+122	continued	who want
+123	assumption	to sabotage a prospective deal
+124	no-unit	.
+-1	par-sep	
+125	continued	This is perhaps the most enduring myth in Washington
+126	assumption	that has dangerously infected Iran policy
+127	no-unit	.
+128	continued	The idea
+129	continued	that there are moderate elements in Iran's body politic
+130	continued	,
+131	continued	and
+132	continued	the U.S  needs
+133	continued	to reach out to them
+134	continued	by
+135	continued	making more concessions
+136	assumption	is ludicrous
+137	no-unit	.
+-1	par-sep	
+138	continued	The oft-cited dichotomy between "hardliners" and "moderates" in Iran badly misrepresents a system
+139	continued	whose elements
+140	assumption	are united in their strategic objectives
+141	no-unit	.
+-1	par-sep	
+142	continued	Rouhani
+143	continued	,
+144	continued	himself a longtime confidant of Supreme Leader Ali Khamenei
+145	continued	,
+146	continued	was instructed by the latter
+147	assumption	to sign onto the Joint Plan of Action in November 2013
+148	no-unit	.
+149	continued	Foreign Minister Zarif told the Iranian Parliament earlier this month
+150	continued	that he has the full trust of Khamenei
+151	testimony	to continue the negotiations
+152	no-unit	.
+-1	par-sep	
+153	continued	Experience has shown
+154	assumption	that diplomacy without leverage has never worked with dictators, especially in Tehran
+155	no-unit	.
+-1	par-sep	
+156	assumption	This puts Congress on the right path
+157	no-unit	.
+158	assumption	The sanctions bill can be a game- changer
+159	no-unit	.
+160	continued	It will strengthen Washington's hand while
+161	continued	helping
+162	assumption	to peacefully arrest Tehran's advance towards the bomb
+163	no-unit	.
+164	assumption	One thing is for certain
+165	no-unit	:
+166	assumption	Tehran's nuclear objective is anything but a myth
+167	no-unit	.

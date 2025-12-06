@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3603" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="3" end="68" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="70" end="81" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="83" end="158" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="161" end="184" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="186" end="211" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="213" end="216" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="217" end="314" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="316" end="396" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="398" end="405" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="407" end="434" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="436" end="483" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="486" end="539" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="540" end="544" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="545" end="648" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="651" end="730" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="735" end="775" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="777" end="852" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="854" end="910" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="911" end="916" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="917" end="1026" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1028" end="1078" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1081" end="1138" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1143" end="1152" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1154" end="1221" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1223" end="1230" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1233" end="1306" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1308" end="1311" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1312" end="1440" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1442" end="1499" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="1500" end="1526" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="1529" end="1639" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="1641" end="1772" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="1774" end="1786" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="1788" end="1837" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="1840" end="1886" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="1888" end="2093" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2095" end="2215" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2216" end="2237" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2240" end="2290" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2292" end="2328" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2330" end="2476" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2478" end="2531" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2533" end="2634" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="2636" end="2668" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="2671" end="2738" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="2740" end="2792" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="2793" end="2798" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="2799" end="2874" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="2876" end="3032" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3034" end="3081" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3084" end="3152" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3154" end="3264" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3266" end="3341" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3343" end="3398" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3400" end="3461" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="3463" end="3470" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="3472" end="3573" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="3576" end="3602" unitType="other"/>
+    <core:SourceDocumentInformation xmi:id="303" sofa="1" begin="0" end="3603" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/031-bullyinharvardyardwhatprofesso.txt" offsetInSource="0" documentSize="3603" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="311" sofa="1" begin="0" end="3603" lastUpdate="2014-12-11T21:19:34Z" url="http://www.foxnews.com/opinion/2014/12/11/bully-in-harvard-yard-what-professor-4-food-fight-tells-us/" portal="foxnews" authors="Gregg Jarrett" articleSum="If you think bullies are teenagers lurking on schoolyard playgrounds, think&amp;#10;again. At least one is a grown-up walking the hallowed halls of Harvard&amp;#10;University. His name is Ben Edelman. ...&amp;#10;&amp;#10;" title="A bully in Harvard Yard: What professor's $4 food fight tells us."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="If you think bullies are teenagers lurking on schoolyard playgrounds, think again. At least one is a grown-up walking the hallowed halls of Harvard University.&#10;&#10;His name is Ben Edelman. He not only teaches there, but he earned several diplomas including a law degree at that storied institution of higher education. But Edelman seems to have adopted the word &quot;higher&quot; as his personal calling card. You see, he's higher than you and me. Or at least he seems anxious to let you know it.&#10;&#10;A hardworking Chinese immigrant family found that out when the professor ordered a takeout meal of shredded chicken with spicy garlic sauce and three other dishes.&#10;&#10;Edelman thought he was overcharged by $ 4 bucks ($ 1 dollar more for each dish), so he launched a relentless war on Ran Duan, who works with his parents at their restaurant, Sichuan Garden in Brookline. You can read the sordid details in a story at Boston.com where the website also published the unbelievable litany of Edelman's intimidating and condescending emails to Duan. The prof's remarks ooze with arrogance and conceit.&#10;&#10;Edelman's exchange with Duan has become a viral sensation, as it should. A Harvard professor vowing legal action over the sum of $ 4 dollars. Come on.&#10;&#10;The professor has now apologized for his treatment of Duan and his family, but his emails will leave you shaking your head in disbelief that someone so supposedly &quot;learned&quot; could be so seemingly insufferable. Maybe that's what a Harvard education gets you these days -a degree in imperiousness.&#10;&#10;Arrogance aside, the professor's persistent threats of legal action constitute a shameful campaign of bullying. He uses his knowledge of the law --at least his tortured interpretation of it-- for a purpose that can only be described as abusive. It turns out, he has done this before to a different restaurant.&#10;&#10;Bullies tend to target the weak and vulnerable. For Edelman to use his advantage as a lawyer to berate the Duan family who have come from nothing as immigrants and are trying their best to make a living running a restaurant is, in a word, unconscionable. During one email exchange, Duan asked the professor, &quot;you seem like a smart man ... don't you have better things to do?&quot; Bullies usually don't.&#10;&#10;For all I know, Edelman is a pretty good professor. That does not make him a good person. Clinical psychiatrists might find him to be an interesting case study in how living in the Harvard bubble can distort even the most agile of minds. Sometimes intellectuals take themselves too seriously. Sequestered from the experiences of the average man, they can lack common sense, kindness and decency. Edelman seems bereft of them all.&#10;&#10;There is a reason why places like Harvard are called &quot;ivory towers&quot;. All too often, they envelop an artificial atmosphere where intellectuals are disconnected from the practical concerns of everyday life. So, it should be no surprise when guys like Ben Edelman explode like a bomb on some poor immigrant family trying to make a buck with the sweat of their brow. Fortunately, academic elitism is not contagious.&#10;&#10;Teaching at Harvard may be a lofty achievement in the egg-head world. But professor Edelman seems to lack the one quality which elevates people above all other primates: compassion. He might gain a measure of humility and understanding by getting a real job. Might I suggest washing dishes in a Chinese restaurant?&#10;&#10;The next time I visit the Boston area, I'll skip Harvard Yard. Instead,  I plan to drop by the Sichuan Garden to try their sauteed prawns with roasted chili and peanut sauce.&#10;&#10;And I won't check the bill."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 311"/>
+</xmi:XMI>

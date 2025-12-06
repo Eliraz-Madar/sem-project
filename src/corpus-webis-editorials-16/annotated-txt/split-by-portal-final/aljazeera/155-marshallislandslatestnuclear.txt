@@ -1,0 +1,176 @@
+0	title	The Marshall Islands' latest nuclear test.
+-1	par-sep	
+1	continued	The Marshall Islands - a country of about 70,000 people located in the Pacific Ocean - is taking the world's nine nuclear powers to court for
+2	continued	allegedly violating international obligations
+3	anecdote	to work towards nuclear disarmament
+4	no-unit	.
+-1	par-sep	
+5	continued	The list of accused is
+6	continued	as
+7	anecdote	follows: the United States, Russia, Britain, China, France, India, North Korea, Pakistan, and Israel
+8	no-unit	.
+9	assumption	Israel has made the cut despite fervently denying possession of a nuclear arsenal
+10	no-unit	.
+-1	par-sep	
+11	assumption	The spectacle is unfolding at the International Court of Justice in The Hague, the main judicial organ of the United Nations
+12	no-unit	.
+13	continued	A recent New York Times article on the Marshall Islands' "near-Quixotic venture" quotes Phon van den Biesen, head of the country's legal team, on the ultimate aim of the effort: "All the nuclear weapons
+14	continued	states are modernising their arsenals instead of
+15	continued	negotiating
+16	continued	[to disarm]
+17	continued	,
+18	continued	and
+19	continued	we want
+20	testimony	the court to rule on this."
+-1	par-sep	
+21	no-unit	A continuing history
+22	no-unit	.
+-1	par-sep	
+23	assumption	The Islands' move might come off as more than a bit incongruous given its established existence as a pillar of the US-Israeli axis in UN forums
+24	no-unit	.
+25	continued	Glance at any review of General Assembly votes on Israel/Palestine issues
+26	continued	and
+27	continued	you'll find
+28	assumption	the Marshall Islands regularly represented in the exclusive anti- Palestine camp, along with a smattering of other obscure Pacific atolls
+29	no-unit	.
+-1	par-sep	
+30	continued	The fact
+31	continued	that justice in Palestine continues
+32	continued	to be as elusive as ever
+33	continued	,
+34	continued	despite nominal support from an overwhelming majority of countries, underscores both the general futility of
+35	continued	taking on the powers
+36	continued	that be
+37	assumption	as well as the frequent toothlessness of rulings emanating from UN institutions
+38	no-unit	.
+-1	par-sep	
+39	continued	The Marshall Islands presumably has some inkling of the force
+40	assumption	it's now up against
+41	no-unit	.
+-1	par-sep	
+42	continued	To be sure	Modd-NU
+43	continued	,	Modd-NU
+44	assumption	Marshall Islanders are well acquainted with the horrors of the nuclear arms industry
+45	no-unit	.
+-1	par-sep	
+46	continued	The diminutive nation happens
+47	continued	to be the site of no fewer than 67 US nuclear bomb tests in the 1940s and 50s, during an almost 40-year period
+48	statistics	in which the US administered the Islands under a UN trusteeship
+49	no-unit	.
+50	continued	As Greenpeace notes, one of these tests involved
+51	continued	a bomb 1,000 times more powerful
+52	continued	than
+53	testimony	the one dropped on Hiroshima in 1945
+54	no-unit	.
+-1	par-sep	
+55	continued	Such machinations have predictably resulted in thorough environmental contamination and continuing health complications for the local population
+56	continued	,
+57	assumption	ranging from radiogenic cancers to babies born without bones
+58	no-unit	.
+-1	par-sep	
+59	continued	As Marshallese nuclear survivor Lemeyo Abon told the UN Human Rights Council in 2012
+60	continued	:
+61	continued	"After the [US] testing programme
+62	continued	we've had
+63	continued	to create new words
+64	continued	to describe the creatures
+65	testimony	we give birth to."
+-1	par-sep	
+66	anecdote	Lexical fallout aside, other US contributions to Marshallese culture include the Ronald Reagan Ballistic Missile Test Site on Kwajalein Atoll
+67	no-unit	,
+68	continued	which continues
+69	assumption	to generate revenue for US corporations
+70	no-unit	.
+-1	par-sep	
+71	continued	The widespread territorial displacement necessitated by the previous era of fanatical nuclear testing meanwhile highlights the irony of Marshallese government support for the US-funded entity
+72	assumption	that displaces and otherwise oppresses Palestinians
+73	no-unit	.
+-1	par-sep	
+74	no-unit	Of course
+75	no-unit	,
+76	assumption	human beings are contradictory creatures
+77	no-unit	,
+78	no-unit	and
+79	assumption	nations composed of lots of human beings are thus inevitably also contradictory
+80	no-unit	.
+81	continued	But in
+82	continued	assessing the prospects for the Islands' foray into the International Court of Justice
+83	continued	,
+84	continued	it's worth
+85	assumption	taking the contradictions into account
+86	no-unit	.
+-1	par-sep	
+87	no-unit	Connecting the dots
+88	no-unit	.
+-1	par-sep	
+89	continued	The New York Times points out
+90	continued	that the court case "comes
+91	continued	as
+92	testimony	nuclear arms are increasingly being linked to other pressing international issues" such as climate change 
+93	no-unit	-
+94	continued	which produces rising sea levels
+95	assumption	that incidentally also pose an existential threat to the Marshall Islands
+96	no-unit	.
+-1	par-sep	
+97	continued	The Times quotes Marshallese Foreign Minister Tony de Brum on the seemingly parallel threats to survival
+98	continued	:
+99	continued	"What
+100	continued	would it gain mankind
+101	continued	to reach a peaceful resolution of the climate change threat
+102	continued	,
+103	testimony	only to be wiped out by a nuclear misunderstanding?"
+-1	par-sep	
+104	assumption	There are certainly common denominators between climate change and nukes
+105	continued	- not
+106	continued	least
+107	continued	that both are filed away in many of our brains under the category of things
+108	continued	that we know
+109	continued	can swiftly destroy us but would prefer
+110	assumption	not to think about
+111	no-unit	.
+-1	par-sep	
+112	no-unit	However	Modd-NU
+113	no-unit	,	Modd-NU
+114	continued	 there appears
+115	assumption	to be a missing link in de Brum's analysis
+116	no-unit	,
+117	continued	because	Modd-NU
+118	continued	you can't resolve the climate change threat without
+119	continued	resolving the business of imperial militarism
+120	continued	,
+121	assumption	in both its nuclear and non-nuclear varieties
+122	no-unit	.
+-1	par-sep	
+123	assumption	The connection between the military-industrial complex and environmental catastrophe is fairly clearly spelled out in Project Censored's annual report from 2010
+124	no-unit	,
+125	testimony	which confirms the US Department of Defense as the worst polluter on the planet
+126	no-unit	.
+-1	par-sep	
+127	continued	This is not
+128	continued	to imply
+129	continued	,
+130	continued	obviously
+131	continued	,
+132	assumption	that the US constitutes the one and only problem for the earth
+133	no-unit	;
+134	continued	it's simply
+135	assumption	to draw attention to the superior egregiousness of American earthly violations
+136	no-unit	.
+137	continued	Had there been an Ayatollah Khomeini Ballistic Missile Test Site in the mix somewhere
+138	continued	,
+139	continued	folks might be more willing
+140	assumption	to connect the dots
+141	no-unit	.
+-1	par-sep	
+142	no-unit	While
+143	continued	it may not be very coherent of the Marshall Islands
+144	assumption	to assist the empire in some destructive endeavours and take it to task for others
+145	no-unit	,
+146	assumption	its nuclear lawsuit should nonetheless be encouraged 
+147	no-unit	-
+148	no-unit	if
+149	assumption	for no other reason than the possibly vain hope that awareness can help combat inertia
+150	no-unit	.
+-1	par-sep	
+151	assumption	And another vain hope: that with attention will come context
+152	no-unit	.

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="239" begin="0" end="2958" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="239" begin="0" end="144" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="239" begin="147" end="255" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="239" begin="257" end="336" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="239" begin="338" end="390" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="239" begin="393" end="434" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="239" begin="436" end="560" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="239" begin="563" end="581" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="239" begin="583" end="633" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="239" begin="635" end="642" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="239" begin="644" end="686" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="239" begin="688" end="703" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="239" begin="705" end="708" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="239" begin="709" end="741" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="239" begin="744" end="1020" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="239" begin="1023" end="1134" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="239" begin="1136" end="1315" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="239" begin="1318" end="1358" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="239" begin="1359" end="1423" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="239" begin="1425" end="1474" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="239" begin="1476" end="1488" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="239" begin="1490" end="1544" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="239" begin="1547" end="1612" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="239" begin="1614" end="1666" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="239" begin="1668" end="1743" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="239" begin="1746" end="1777" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="239" begin="1779" end="1866" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="239" begin="1868" end="1920" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="239" begin="1922" end="1927" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="239" begin="1929" end="2042" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="239" begin="2044" end="2087" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="239" begin="2088" end="2184" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="239" begin="2187" end="2268" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="239" begin="2271" end="2318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="239" begin="2320" end="2416" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="239" begin="2418" end="2421" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="239" begin="2422" end="2505" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="239" begin="2508" end="2577" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="239" begin="2580" end="2583" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="239" begin="2584" end="2654" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="239" begin="2657" end="2664" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="239" begin="2666" end="2839" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="239" begin="2842" end="2894" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="239" begin="2896" end="2957" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="221" sofa="239" begin="0" end="2958" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/193-parischarliehebdocartoonsatt.txt" offsetInSource="0" documentSize="2958" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="246" sofa="239" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/aljazeera/193-parischarliehebdocartoonsatt.xmi" offsetInSource="0" documentSize="2958" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="229" sofa="239" begin="0" end="2958" lastUpdate="2015-01-08T02:15:06Z" url="http://www.aljazeera.com/indepth/opinion/2015/01/paris-charlie-hebdo-cartoons-att-20151810528121783.html" portal="aljazeera" authors="Khalid Albaih" articleSum="An Arab Muslim cartoonist condemns the Paris attacks even though he finds the&amp;#10;magazine's editorial slant hurtful.&amp;#10;&amp;#10;" title="When cartoons upset the 'wrong people'."/>
+    <cas:Sofa xmi:id="239" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="As an Arab and Muslim political cartoonist living and working in the Middle East, the fear of upsetting the &quot;wrong people&quot; is part of daily life.&#10;&#10;My politically charged images rose to prominence during the early stages of the Arab Spring protests in 2011. Like so many young people in the Middle East, I found an outlet on social media. I was quickly labelled &quot;an artist of the revolution&quot;.&#10;&#10;Today, my work is shared around the world. In my native Sudan, as well as in Yemen and Tunisia, my cartoons are used by revolutionary groups and by political activists.&#10;&#10;This is my passion. I don't make a living off these political cartoons. In fact,  I encourage people to copy and share them. It is an honour, but it does not come without dangers.&#10;&#10;It's no easy feat to come up with a cartoon that can pass all levels of censorship - starting with self-censorship then government-imposed &quot;coronership&quot;, which in many countries in this region, is actually somebody's job - to pick apart and find potentially offensive meanings.&#10;&#10;That's why I understand why the West is fighting so hard to keep that freedom of speech as free as it should be. In the wake of the deplorable attack on the French satirical magazine Charlie Hebdo, I wholeheartedly join the rest of the world in condemning the actions of those three young men.&#10;&#10;I condemn the attacks on the cartoonists even though I don't agree with the publication's editorial slant, which I have often found to be hurtful and racist. Nevertheless,  I would continue to stand for their freedom of speech.&#10;&#10;I believe that the assailants' religion or ideology is irrelevant; I believe they were simply looking to wage an attack; they would have attacked something else if they didn't attack Charlie Hebdo.&#10;&#10;Muslims seem to lose either way. They are constantly asked to apologise for crimes they neither committed, nor supported. They, too, are victims of the violence of extremists. Still,  they are asked to apologise and somehow atone for these crimes that were committed in the name of their religion. Then they must face the wrath of extremists who attack them for refusing to approve of the methods they view as the only way to defend Islam.&#10;&#10;This situation is a perpetuation of what's happening in the Middle East right now - it's far more complex than the cartoon business. For us to help, to play a constructive role, we should desist from pointing the finger at others, and we must examine what motivates these young people to turn to violence and extremism.&#10;&#10;Freedom of speech is a powerful weapon and one I have never fully had - but for those who do have it, I wish they would stop taking it for granted.&#10;&#10;Instead,  they ought to ask the right questions - the questions that need to be asked - rather than accusatory ones that fuel the stereotypes that have originated in mainstream media.&#10;&#10;Their work must focus on conveying the right message. They must work towards bridging the gap - and not widening it."/>
+    <cas:View sofa="239" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 246 229"/>
+</xmi:XMI>

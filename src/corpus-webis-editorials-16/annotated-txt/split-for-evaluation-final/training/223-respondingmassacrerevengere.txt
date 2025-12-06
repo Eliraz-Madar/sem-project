@@ -1,0 +1,149 @@
+0	title	Responding to the massacre: Revenge or resolution?
+-1	par-sep	
+1	assumption	There are many unanswered questions about the TTP
+2	no-unit	.
+3	continued	How big
+4	assumption	is the group?
+5	continued	Have its ties to the Pakistani intelligence agencies become stronger
+6	continued	since
+7	assumption	Mullah Fazlullah, of Swat fame, became its leader, given his own past affiliation with Pakistan's powerful spy agency ISI (Inter-Services Intelligence)?	m-question
+8	assumption	Or is the group closer now to other foreign funders?
+-1	par-sep	
+9	continued	The absence of
+10	continued	convincing answers to such questions
+11	assumption	has resulted in ongoing debates on the appropriate response to this horror
+12	no-unit	.
+13	continued	From
+14	continued	US-backed media personalities supporting the establishment of concentration camps for entire populations in some parts of the tribal areas, to the broadening of ongoing military operations
+15	no-unit	,
+16	continued	the overwhelming thrust among many vocal commentators has been for
+17	assumption	countering this violence with more violence
+18	no-unit	.
+-1	par-sep	
+19	no-unit	However
+20	no-unit	,
+21	assumption	 there is also a deep scepticism about a primarily military response within the Pakistani society
+22	no-unit	,
+23	continued	which is
+24	continued	why
+25	assumption	successive governments have been secretive about such operations
+26	no-unit	.
+27	continued	Despite repeated calls for stronger military action by the US government and also many influential commentators within Pakistan, there is widespread suspicion
+28	continued	that these army operations end up
+29	assumption	killing more civilians than militants
+30	no-unit	.
+-1	par-sep	
+31	continued	It is easy, but completely misleading
+32	continued	,
+33	continued	to write off this widespread scepticism about military responses to the Taliban violence
+34	continued	as
+35	assumption	driven by sympathetic sentiments or worse
+36	no-unit	,
+37	no-unit	as
+38	assumption	the inability of Pakistanis to face the hard facts of home-grown terror
+39	no-unit	.
+40	continued	We must recognise
+41	assumption	that it is a mistrust borne of experience with the military's role in Pakistani politics
+42	no-unit	.
+-1	par-sep	
+43	no-unit	More critically
+44	no-unit	,
+45	continued	we need
+46	assumption	to recognise the long-term impact of the Pakistani state's support for the "war on terror" and its operations in the tribal areas over the last decade
+47	no-unit	.
+48	assumption	There is a growing sense of deprivation and discrimination among Pashtuns across the country
+49	no-unit	,
+50	no-unit	and
+51	continued	further state violence in the region has
+52	assumption	to be carefully weighed against the very real possibility of serious backlash
+53	no-unit	.
+-1	par-sep	
+54	no-unit	While
+55	continued	we all agree
+56	assumption	that there must be a response to these atrocities
+57	no-unit	,
+58	continued	for	Modd-NU
+59	continued	it to be effective	Modd-NU
+60	continued	,	Modd-NU
+61	continued	both at the state and societal level	Modd-NU
+62	no-unit	,	Modd-NU
+63	continued	it is imperative
+64	assumption	that it is calibrated to the level of threat posed by wide range of groups contained within the category "Taliban"
+65	no-unit	.
+-1	par-sep	
+66	continued	All four are a direct result of the chaos created by the US' war in the region and the supply of drugs, arms and men
+67	assumption	that such a war invariably engenders
+68	no-unit	.
+69	assumption	But these four groups all require different responses
+70	no-unit	.
+71	assumption	The local defence militias can be ignored for now
+72	no-unit	.
+73	continued	The mercenaries and criminals need
+74	assumption	to be treated precisely as that
+75	no-unit	:
+76	assumption	controlling and managing their sources of incomes or in some cases, completely eroding them
+77	no-unit	.
+-1	par-sep	
+78	no-unit	However
+79	no-unit	,
+80	assumption	 the first two groups require a much broader and more complex response
+81	no-unit	.
+82	continued	There is, unfortunately, no short-cut to political transparency
+83	assumption	that is required for their dismantling
+84	no-unit	.
+-1	par-sep	
+85	continued	Aggressive and persistent public questioning and scrutiny of Pakistani generals and politicians associated with the state funded militia, as well as their support for the "war on terror" in the region
+86	continued	,
+87	assumption	is the only viable strategy available to citizens of Pakistan for a lasting resolution
+88	no-unit	.
+89	assumption	In this context, the religious vs secular binary is completely artificial
+90	no-unit	.
+91	continued	The most secular generals of the Pakistani army have been happy
+92	continued	to support some versions of Taliban as well as to benefit financially and politically by
+93	assumption	supporting the US war in the region
+94	no-unit	.
+-1	par-sep	
+95	continued	A key step in this direction has
+96	continued	to be the demand for greater information about the militants
+97	assumption	who attacked the school in Peshawar
+98	no-unit	.
+99	continued	Although	Modd-NU
+100	anecdote	TTP has claimed responsibility for the tragedy
+101	no-unit	,
+102	continued	it is important
+103	continued	to establish
+104	assumption	who precisely is involved
+105	no-unit	.
+106	continued	How
+107	continued	did they get past the three check points in the defence colony
+108	continued	where
+109	assumption	the school is located?
+110	continued	Which cities/villages
+111	continued	did the militants
+112	continued	who were killed
+113	assumption	come from?
+114	continued	How
+115	assumption	does that correspond to the profiles of the attackers in the past?
+116	continued	Where
+117	assumption	is that information about past attackers anyway?
+118	continued	What
+119	assumption	are their organisational careers and educational backgrounds?
+120	continued	Where
+121	assumption	are their families
+122	no-unit	,
+123	no-unit	and
+124	continued	what
+125	continued	can they tell us about the path
+126	assumption	their sons took?
+-1	par-sep	
+127	continued	Calling on the very same generals
+128	continued	to carry out military operations against the operatives
+129	continued	they have supported and created
+130	assumption	is surely a strategy fraught with contradictions, though favoured by some vocal analysts and by the US government
+131	no-unit	.
+132	assumption	The collective punishment of the people of the tribal areas as a "solution" may appeal to some because of its deceptive simplicity
+133	no-unit	,
+134	no-unit	but
+135	continued	it is an extremely dangerous strategy likely
+136	assumption	to further shred the fabric of Pakistani public life
+137	no-unit	.

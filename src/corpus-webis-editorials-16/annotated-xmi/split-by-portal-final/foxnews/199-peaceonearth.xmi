@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3142" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="116" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="118" end="198" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="200" end="290" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="293" end="403" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="405" end="540" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="542" end="545" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="547" end="556" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="558" end="631" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="633" end="735" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="737" end="937" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="940" end="955" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="958" end="1079" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1083" end="1123" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1124" end="1178" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1182" end="1272" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1274" end="1342" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1344" end="1425" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1428" end="1488" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1490" end="1504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1505" end="1508" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1509" end="1557" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1562" end="1611" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1613" end="1739" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1740" end="1795" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1798" end="1805" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1807" end="1900" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1902" end="1970" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1972" end="1975" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1976" end="2078" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2080" end="2140" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2143" end="2146" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2150" end="2196" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2198" end="2231" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2234" end="2297" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2299" end="2379" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2384" end="2399" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2401" end="2426" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2428" end="2582" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2584" end="2665" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2668" end="2724" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2726" end="2813" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2815" end="2839" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2840" end="2843" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="2844" end="2865" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="2867" end="2933" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="2936" end="2970" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="2972" end="3052" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3054" end="3080" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3083" end="3110" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3111" end="3115" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3116" end="3130" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3133" end="3141" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="273" sofa="1" begin="0" end="3142" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/199-peaceonearth.txt" offsetInSource="0" documentSize="3142" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="281" sofa="1" begin="0" end="3142" lastUpdate="2012-11-26T23:00:06Z" url="http://www.foxnews.com/opinion/2012/11/26/peace-on-earth-sometimes-means-leaving-family-behind/" portal="foxnews" authors="Melissa Francis" articleSum="I’ve let go of the family I grew up in, and found true happiness. That can be&amp;#10;a tempting but tough sell at the holidays.&amp;#10;&amp;#10;" title="Peace on Earth?"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="There are a whole bunch of people who simply don't like Christmas and are fighting to get rid of it any way they can. And,  there are a lot of people on the other side who are angry at those efforts. And so, this whole battle over whether to say Christmas or Happy Holidays misses the point.&#10;&#10;I suppose it may be hard to be a non-believer in the religious themes around Christmas and live in our culture. You are confronted daily with the religious symbolism of Christmas in the books you read, the friends you have and the movies you watch; and, above all,  you have to stay away from religious stuff...like Christmas celebrations. I'm a believer, but not without a modicum of compassion for those who don't share my religious beliefs. I can imagine how irritating Christmas must be for those whose whole worldview is built on the belief that Christmas doesn't matter because it points to what is spurious at best and dangerous at worst.&#10;&#10;I get that, too.&#10;&#10;I must admit, though, that I get irritated sometimes when a group of people bring a lawsuit to get rid of the town creche or when someone wishes me &quot;Happy Holidays.&quot; It bothers me when universities remove Christmas trees or Christmas concerts are canceled because it offends those who aren't religious or Christian. Frankly, I listen to a lot of stuff from the other side all the time. Fair play suggests that it wouldn't hurt for the other side to abide some of mine.&#10;&#10;I decided that I'm just not going to fight the Christmas war. I'm an old guy and old people are already irritated about being old. As someone said, it takes very little to tick us off. Instead,  I'm just going to sing as loudly and as publicly as I can a Christmas carol---a Christmas carol about love and a God who went to a lot of trouble to express his love for us.&#10;&#10;You see, in my belief system, Christmas doesn't mean that God came to destroy us or to kick posteriors. I believe that the reason he came was to tell us that he isn't angry. And when we make obscene gestures or get mean with those who disagree with us, it kind of misses the point. It becomes a disconnect between what I believe and what I do.&#10;&#10;And if I really believe (and I do) that the King came, it kind of changes my perspective.&#10;&#10;I have a friend whose family takes playing chess very seriously. It gets so &quot;hot&quot; sometimes that they end up throwing chess pieces at one another. As you can imagine, they lose a lot of pieces. One Christmas when they were playing chess, my friend took the baby Jesus from the small creche under the Christmas tree to replace one of his lost pieces. My friend then began to move all over the board, going after his brother's pieces.&#10;&#10;&quot;You can't do that,&quot; his brother said, &quot;that's illegal.&quot;&#10;&#10;&quot;Oh, yes I can,&quot; my friend said. &quot;This is Jesus and he can do whatever he wants to do.&quot;&#10;&#10;Jesus does as he pleases and he does it right well. At Christmas he decided to love and, then, clean up the mess later.&#10;&#10;So I think I'll opt out of the war. The King was doing fine before I came along and will do fine long after I'm gone. He doesn't need my defense.&#10;&#10;So, Merry Christmas or...uh .... Happy Holidays.&#10;&#10;Whatever."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 281"/>
+</xmi:XMI>

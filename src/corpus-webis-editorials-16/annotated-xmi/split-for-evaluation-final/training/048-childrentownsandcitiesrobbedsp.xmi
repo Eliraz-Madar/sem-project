@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="449" begin="0" end="6157" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="449" begin="0" end="27" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="449" begin="28" end="67" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="449" begin="68" end="137" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="449" begin="140" end="200" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="449" begin="202" end="281" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="449" begin="287" end="475" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="449" begin="477" end="539" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="449" begin="542" end="722" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="449" begin="723" end="813" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="449" begin="815" end="849" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="449" begin="851" end="860" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="449" begin="861" end="938" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="449" begin="940" end="1079" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="449" begin="1081" end="1124" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="449" begin="1126" end="1252" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="449" begin="1255" end="1405" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="449" begin="1407" end="1474" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="449" begin="1476" end="1573" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="449" begin="1576" end="1679" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="449" begin="1681" end="1766" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="449" begin="1768" end="1839" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="449" begin="1842" end="1913" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="449" begin="1915" end="1918" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="449" begin="1919" end="1956" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="449" begin="1958" end="1995" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="449" begin="1999" end="2061" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="449" begin="2063" end="2124" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="449" begin="2126" end="2187" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="449" begin="2189" end="2270" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="449" begin="2273" end="2422" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="449" begin="2424" end="2529" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="449" begin="2531" end="2628" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="449" begin="2631" end="2728" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="449" begin="2730" end="2752" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="449" begin="2754" end="2871" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="449" begin="2873" end="3007" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="449" begin="3009" end="3079" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="449" begin="3081" end="3193" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="449" begin="3195" end="3229" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="449" begin="3232" end="3309" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="449" begin="3311" end="3370" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="449" begin="3372" end="3406" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="449" begin="3407" end="3410" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="449" begin="3411" end="3485" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="449" begin="3487" end="3512" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="449" begin="3517" end="3527" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="449" begin="3529" end="3606" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="449" begin="3608" end="3688" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="449" begin="3690" end="3772" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="449" begin="3774" end="3777" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="449" begin="3778" end="3804" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="449" begin="3807" end="3893" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="449" begin="3895" end="4023" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="449" begin="4025" end="4154" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="449" begin="4156" end="4201" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="449" begin="4203" end="4206" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="449" begin="4207" end="4236" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="449" begin="4241" end="4274" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="449" begin="4277" end="4341" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="449" begin="4343" end="4371" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="449" begin="4372" end="4484" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="449" begin="4486" end="4674" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="449" begin="4677" end="4746" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="449" begin="4748" end="4825" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="449" begin="4827" end="4856" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="449" begin="4859" end="4968" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="336" sofa="449" begin="4969" end="5064" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="341" sofa="449" begin="5066" end="5140" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="346" sofa="449" begin="5142" end="5146" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="351" sofa="449" begin="5147" end="5247" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="356" sofa="449" begin="5249" end="5302" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="361" sofa="449" begin="5304" end="5335" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="366" sofa="449" begin="5336" end="5363" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="371" sofa="449" begin="5365" end="5368" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="376" sofa="449" begin="5369" end="5432" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="381" sofa="449" begin="5435" end="5501" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="386" sofa="449" begin="5503" end="5506" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="391" sofa="449" begin="5510" end="5619" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="396" sofa="449" begin="5621" end="5681" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="401" sofa="449" begin="5683" end="5697" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="406" sofa="449" begin="5699" end="5734" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="411" sofa="449" begin="5737" end="5908" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="416" sofa="449" begin="5910" end="6001" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="421" sofa="449" begin="6003" end="6103" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="426" sofa="449" begin="6106" end="6157" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="431" sofa="449" begin="0" end="6157" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/048-childrentownsandcitiesrobbedsp.txt" offsetInSource="0" documentSize="6157" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="456" sofa="449" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/048-childrentownsandcitiesrobbedsp.xmi" offsetInSource="0" documentSize="6157" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="439" sofa="449" begin="0" end="6157" lastUpdate="2015-01-06T18:58:06Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/children-towns-and-cities-robbed-spaces-play" portal="guardian" authors="George Monbiot" articleSum="George Monbiot: We’re plagued by joyless developments that destroy the essence of community: chances for young people to gather and play" title="Children in our towns and cities are being robbed of safe spaces to play."/>
+    <cas:Sofa xmi:id="449" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Where do the children play? Where can they run around unsupervised? On most of the housing estates I visit, the answer is hardly anywhere.&#10;&#10;A community not built around children is no community at all. A place that functions socially is one in which they are drawn to play outdoors.&#10;&#10;As Jay Griffiths argues in her heartrending book Kith, children fill the &quot;unoccupied territories&quot;, the spaces not controlled by tidy-minded adults, &quot;the commons of mud, moss, roots and grass&quot;. But such places are being purged from the land and their lives.&#10;&#10;&quot;Today's children are enclosed in school and home, enclosed in cars to shuttle between them, enclosed by fear, by surveillance and poverty and enclosed in rigid schedules of time.&quot; Since the 1970s the area in which children roam without adults has decreased by almost 90%. &quot;Childhood is losing its commons.&quot;&#10;&#10;Given all that we know about the physical and psychological impacts of this confinement, you would expect the authorities to ensure that the remaining 10% of their diminished range is designed to draw children out of their homes. Yet almost everywhere they are designed out. Housing estates are built on the playing fields and rough patches children used to inhabit, and offer almost nothing in return.&#10;&#10;In the government's masterplan for England, the national planning policy framework, children are mentioned only twice: in a catalogue of housing types. In parliament's review of these plans, they aren't mentioned at all. Young people, around whom our lives should revolve, have been airbrushed from the planning system.&#10;&#10;I spent Monday wandering around the new and newish housing developments on the east side of Northampton. I chose this area because the estates here are spacious and mostly built for families: in other words,  there is no possible excuse for excluding young people.&#10;&#10;In the places built 10 or 20 years ago, there is plenty of shared space, but almost all of it is allocated to cars. (You can see the photos on my website .) Grass is confined to the roundabouts or to coffin-like gardens, in which you can't turn a cartwheel without hitting the fence. I came across one exception - a street with wide grass verges. But they sloped towards the road: dangerous and useless, a perfect waste of space.&#10;&#10;This land of missed opportunities, designed by people without a spark of joy in their hearts, reifies the idea that there is no such thing as society. Had you set out to ensure that children were neither seen nor heard, you could not have done a better job. On the last day of the holidays, which was warm and dry, across four estates I saw only one child.&#10;&#10;By comparison, the Cherry Orchard estate just completed by Bellway Homes is a children's paradise. But only by comparison. Next to the primary school, with plenty of three- and four-bedroom houses, it is designed to appeal to young families. But in the middle of the development, where a village green might have been, there' s a strange grassy sump, surrounded by a low fence. It's an empty balancing pond, to catch water during exceptional floods. Remove the fence, plant it with trees, throw in some rocks and logs, and you'd have a rough and mossy playground. But no such thing was in the plans.&#10;&#10;Other shared spaces on the estate have the charming ambience of a prison yard: paved and surrounded by garden fences almost nine feet high. There were a few children outdoors but they seemed pressed to the edges, sitting in doorways or leaning on fences. Children don't buy houses, so who cares?&#10;&#10;Throughout the country, they become prisoners of bad design, and so do adults. Without safe and engaging places in which they can come together, no tribe forms. So parents must play the games that children would otherwise play among themselves, and everyone is bored to tears.&#10;&#10;The exclusion of children arises from the same pathology that denies us decent housing. In the name of market freedom, the volume housebuilders, sitting on their land banks, are free to preside over speculative chaos, while we are free to buy dog kennels priced like palaces in placeless estates so badly designed that community is dead on arrival. Many want to design and build their own homes, but almost no plots are available, as the big builders have seized them.&#10;&#10;In Scotland the government is considering compulsory sale orders, which would pull down prices - essential when the speculative price of land has risen from 2% of the cost of a home in the 1930s to 70% today. A national housing land corporation would assemble the sites and supply the infrastructure, then sell plots to community groups, housing associations and people who want to build their own.&#10;&#10;It goes far beyond England's feeble community right-to-build measures, which lack the muscular facilitation that only public authorities can provide. But it's still not far enough.&#10;&#10;What if people were entitled to buy an option for a plot on a new estate, which they would then help to plan? Not just the houses, but the entire estate would be built for and by those who would live there. The council or land corporation would specify the number and type of homes, then the future residents - including people on the social housing waiting list - would design the layout. Their children would help to create the public spaces. Communities would start to form even before people moved in, and the estates would doubtless look nothing like those built today.&#10;&#10;To the Westminster government, this probably sounds like communism. But as countries elsewhere in Europe have found, we don't need volume house builders, except to construct high-rises. They do not assist the provision of decent, affordable homes. They impede it. What is good for them is bad for us.&#10;&#10;Bellway, its brochure reveals, asked children at the neighbouring primary school to paint a picture of a cherry orchard, and displayed the winning entries in its show home. &quot;Why not pop over to say hello, view our wonderful development and sneak a peek?&quot; , it asks. That's the role the children were given: helping the company to sell the houses it had already built.&#10;&#10;Why can't we shape the places that shape our lives?"/>
+    <cas:View sofa="449" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 341 346 351 356 361 366 371 376 381 386 391 396 401 406 411 416 421 426 431 456 439"/>
+</xmi:XMI>

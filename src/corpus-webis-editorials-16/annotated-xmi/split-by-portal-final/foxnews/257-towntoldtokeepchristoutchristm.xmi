@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="5108" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="139" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="142" end="234" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="237" end="240" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="241" end="363" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="365" end="448" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="451" end="515" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="518" end="624" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="627" end="723" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="725" end="771" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="773" end="834" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="835" end="838" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="839" end="914" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="917" end="985" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="987" end="1083" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1085" end="1151" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1154" end="1185" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1188" end="1226" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1228" end="1277" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1279" end="1296" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1298" end="1327" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1329" end="1381" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1383" end="1549" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1552" end="1635" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1636" end="1641" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1642" end="1686" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1689" end="1900" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1902" end="1993" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1995" end="2099" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2102" end="2187" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2189" end="2292" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2295" end="2363" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2365" end="2369" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2371" end="2416" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2419" end="2422" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2423" end="2498" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2501" end="2577" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2579" end="2641" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2643" end="2761" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2763" end="2888" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2891" end="2970" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2973" end="3004" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3007" end="3089" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3091" end="3125" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3128" end="3183" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3184" end="3248" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3251" end="3298" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3300" end="3340" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3342" end="3368" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3370" end="3401" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3403" end="3502" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3504" end="3566" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3568" end="3668" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3670" end="3714" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3716" end="3738" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3741" end="3765" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="3767" end="3847" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="3849" end="3883" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="3886" end="3921" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="3922" end="3927" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="3928" end="3979" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="3982" end="4113" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4115" end="4151" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4153" end="4231" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4234" end="4341" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4343" end="4436" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="4438" end="4539" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="343" sofa="1" begin="4542" end="4576" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="348" sofa="1" begin="4578" end="4671" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="353" sofa="1" begin="4673" end="4747" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="358" sofa="1" begin="4749" end="4827" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="363" sofa="1" begin="4829" end="4883" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="368" sofa="1" begin="4885" end="4937" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="373" sofa="1" begin="4938" end="4941" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="378" sofa="1" begin="4942" end="5011" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="383" sofa="1" begin="5012" end="5036" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="388" sofa="1" begin="5039" end="5064" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="393" sofa="1" begin="5066" end="5107" unitType="other"/>
+    <core:SourceDocumentInformation xmi:id="398" sofa="1" begin="0" end="5108" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/257-towntoldtokeepchristoutchristm.txt" offsetInSource="0" documentSize="5108" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="406" sofa="1" begin="0" end="5108" lastUpdate="2014-12-04T19:06:33Z" url="http://www.foxnews.com/opinion/2014/12/04/town-told-to-keep-christ-out-christmas-parade/" portal="foxnews" authors="Todd Starnes" articleSum="The annual Christmas parade in Piedmont, Alabama is a big deal in this small&amp;#10;town tucked away in the foothills of the Appalachian Mountains.&amp;#10;&amp;#10;" title="Town told to keep Christ out of Christmas parade."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="The annual Christmas parade in Piedmont, Alabama is a big deal in this small town tucked away in the foothills of the Appalachian Mountains.&#10;&#10;The Piedmont parade doesn't have giant helium-filled balloons or dancing Broadway show girls - but they do have the local high school marching band and Santa Claus parades down North Main Street on a bright red fire truck. And just about every girl who's ever won a beauty pageant will be riding on a float.&#10;&#10;&quot;We've got beautiful girls in Alabama,&quot; Mayor Bill Baker told me.&#10;&#10;This year's grand marshal is the Piedmont High School track team - state champions - the pride of the town.&#10;&#10;&quot;We try to honor our kids and we try to give recognition to those who do well,&quot; Mayor Baker said. &quot;We're proud to have them leading the parade.&quot;&#10;&#10;But the town also wanted to honor the &quot;reason for the season&quot; and that landed them in a world of trouble with a group of out-of-town atheists.&#10;&#10;CLICK HERE TO FOLLOW TODD ON FACEBOOK FOR CONSERVATIVE CONVERSATION!&#10;&#10;The parade committee selected &quot;Keep Christ in Christmas&quot; as the theme of Thursday night's parade. Seeing how there' s a church on nearly every street corner in town - no one gave it a second thought.&#10;&#10;&quot;It was a great theme,&quot; the mayor said. &quot;I was totally shocked when I received the letter. It's a small town. It's a small Christmas parade. We didn't think there would be any problems at all.&quot;&#10;&#10;Little did the mayor know that his town was about to be infested with an ill- tempered gaggle of atheists from Wisconsin - the Freedom From Religion Foundation (FFRF).&#10;&#10;They alleged that a single person in Piedmont had complained about the parade theme - and the FFRF sent the mayor a threatening letter.&#10;&#10;The theme &quot;alienates non-Christians and others in Piedmont who do not in fact have a 'strong belief in prayers' by turning them into political outsiders in their own community,&quot; FFRF attorney Andrew Seidel wrote. &quot;The sentiment of 'Keeping Christ in Christmas' does not qualify as a secular celebration.&quot;&#10;&#10;They told the city to find a &quot;more appropriate, more inclusive, and constitutional theme&quot; for the parade.&#10;&#10;It's not the first time that the perpetually offended atheists have targeted Piedmont. Earlier this year, they demanded that the local high school stop reciting prayers before football games.&#10;&#10;&quot;Somebody filed a complaint and we had to stop that,&quot; the mayor said. Well, to be accurate - they sort of stopped praying.&#10;&#10;And from that point on folks would gather on the football field before the game.&#10;&#10;&quot;And as citizens, we recited the Lord's Prayer - out loud,&quot; Mayor Baker said. &quot;One week we had the entire football field encircled by people. It was really wonderful and very moving to me to see people come together and praise God and speak His name out loud.&quot;&#10;&#10;The prayer controversy was one of the reasons why the parade committee wanted to make a statement during the Christmas parade.&#10;&#10;Unfortunately, the city attorney told the mayor that the theme violated the law - there was nothing they could do.&#10;&#10;But the folks around Piedmont are not the kind of folks who back away from a fight. They're a pretty resourceful bunch.&#10;&#10;While they agreed to not officially have a parade theme - the city has decided to keep Christ in Christmas in other ways.&#10;&#10;&quot;Nothing has really changed,&quot; the mayor told me. &quot;We still have the same religious floats. We still have the churches. We still have the beauty queens. We're still going to have this wonderful Christian parade regardless of if we have a theme or not.&quot;&#10;&#10;And they also found a way to legally keep Christ in the parade. They mayor said local citizens will be marching with signs reading &quot;Let's Keep Christ in Christmas.&quot;&#10;&#10;&quot;They paid their entry fees,&quot; the mayor said. &quot;It's a positive march - it's not a protest march. They are keeping the theme alive even though legally we had to do away with it.&quot;&#10;&#10;The mayor is a kind-hearted fellow - but he's not one to be trifled with - and he's none too pleased with the out-of-town atheists.&#10;&#10;&quot;It annoys me that a small group of people can do what they do and get away with it and the majority has to suffer,&quot; the mayor said. &quot;They are infringing on my beliefs.&quot;&#10;&#10;And he also had some words of advice for the one person in town who complained.&#10;&#10;&quot;I'd like to tell that one person  - whoever he or she is  - if they even exist - to stay at home,&quot; he said. &quot;If they don't like a Christian theme, if they don't like a Christian parade - stay at home.&quot;&#10;&#10;Ironically, all the recent controversy has been a good thing - a blessing in disguise, the mayor said.&#10;&#10;&quot;The town has rallied,&quot; he told me. &quot;I appreciate all the citizens who got on Facebook and the telephone and talked to each other. It's heartwarming to me to see the Christian response that has developed.&quot;&#10;&#10;So if you happen to be in North Alabama tonight, be sure to drop by the parade. Miss Piedmont will be there - along with Miss Calendar. The local Boy Scout troop will be hoisting Old Glory and you might even get a candy cane from Old Saint Nick - provided there' s not a last minute fire.&#10;&#10;Merry Christmas, Piedmont. Thank you for keeping Christ in Christmas."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 348 353 358 363 368 373 378 383 388 393 398 406"/>
+</xmi:XMI>

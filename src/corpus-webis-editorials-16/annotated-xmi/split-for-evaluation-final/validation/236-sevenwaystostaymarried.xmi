@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="354" begin="0" end="4168" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="354" begin="0" end="125" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="354" begin="126" end="180" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="354" begin="182" end="235" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="354" begin="238" end="245" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="354" begin="247" end="460" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="354" begin="462" end="546" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="354" begin="547" end="552" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="354" begin="553" end="574" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="354" begin="576" end="716" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="354" begin="719" end="779" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="354" begin="780" end="792" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="354" begin="793" end="915" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="354" begin="922" end="938" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="354" begin="940" end="1028" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="354" begin="1030" end="1079" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="354" begin="1081" end="1170" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="354" begin="1172" end="1284" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="354" begin="1286" end="1374" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="354" begin="1377" end="1403" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="354" begin="1405" end="1432" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="354" begin="1434" end="1437" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="354" begin="1438" end="1505" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="354" begin="1513" end="1552" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="354" begin="1554" end="1633" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="354" begin="1635" end="1723" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="354" begin="1725" end="1779" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="354" begin="1781" end="1883" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="354" begin="1885" end="1922" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="354" begin="1924" end="1927" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="354" begin="1928" end="1996" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="354" begin="2004" end="2015" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="354" begin="2017" end="2098" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="354" begin="2099" end="2135" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="354" begin="2137" end="2229" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="354" begin="2231" end="2314" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="354" begin="2316" end="2382" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="354" begin="2384" end="2441" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="354" begin="2443" end="2593" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="354" begin="2595" end="2640" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="354" begin="2648" end="2664" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="354" begin="2666" end="2752" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="354" begin="2754" end="2811" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="354" begin="2812" end="2942" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="354" begin="2944" end="3028" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="354" begin="3035" end="3069" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="354" begin="3071" end="3075" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="354" begin="3076" end="3113" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="354" begin="3115" end="3187" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="354" begin="3189" end="3379" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="354" begin="3381" end="3388" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="354" begin="3390" end="3447" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="354" begin="3449" end="3483" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="354" begin="3485" end="3568" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="354" begin="3576" end="3590" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="354" begin="3591" end="3619" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="354" begin="3621" end="3625" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="354" begin="3626" end="3703" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="354" begin="3705" end="3762" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="354" begin="3764" end="3776" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="354" begin="3778" end="3854" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="354" begin="3856" end="3937" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="354" begin="3939" end="4048" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="354" begin="4050" end="4076" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="354" begin="4078" end="4081" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="354" begin="4085" end="4106" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="354" begin="4109" end="4168" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="336" sofa="354" begin="0" end="4168" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/236-sevenwaystostaymarried.txt" offsetInSource="0" documentSize="4168" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="361" sofa="354" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/236-sevenwaystostaymarried.xmi" offsetInSource="0" documentSize="4168" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="344" sofa="354" begin="0" end="4168" lastUpdate="2015-01-09T18:00:27Z" url="http://www.foxnews.com/opinion/2015/01/09/seven-ways-to-stay-married/" portal="foxnews" authors="Karl Pillemer" articleSum="Five years ago, I went on a search to answer the question: What can people do&amp;#10;to have a happy, fulfilling, lifelong marriage? Here are seven things they&amp;#10;would like younger people to know.&amp;#10;&amp;#10;" title="Seven ways to stay married."/>
+    <cas:Sofa xmi:id="354" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Five years ago, I went on a search to answer the question: What can people do to have a happy, fulfilling, lifelong marriage? I sought out an unusual source of information, however. I didn't ask psychologists or consult self-help gurus.&#10;&#10;Instead,  I decided to go to the people with the most experience: older Americans who have been married 50, 60, 70 years and more (described in my recent book, &quot;30 Lessons for Loving&quot; (Hudson Street Press, January 8, 2015). I believed that the view from the finish line of marriage would be uniquely valuable - and I wasn't disappointed. America's elders provided a treasure trove of lessons, tips, and advice for how to find the right mate and keep the spark alive over decades.&#10;&#10;Here are seven things they would like younger people to know - from those who are looking for a relationships to those who are in one and striving to make it last &quot;as long as you both shall live.&quot;&#10;&#10;1 \. Marriage is hard. Even though this is not on the minds of couples getting engaged or standing at the altar, the elders want you to know that marriage is hard. It's tough - both because of the range of stresses and problems that confront all couples, but also because of the fundamental difficulty of merging two separate and different people into one single life. I learned that they see marriage as a discipline, like becoming an athlete or a musician - you never reach perfection, you are constantly learning, and you sacrifice short-term gain for something more rewarding later on.&#10;&#10;2 \. But marriage for a lifetime is worth it. Being with someone for a half century or more, they told me, is incredibly good. It is a sublime experience, a connection to another person unlike any other relationship. The elders describe it as the experience of a lifetime. For people who make it, it even beats the heart-pounding passion of falling in love for the first time. So making a marriage last may be hard, but the elders also want young people to know that it's worth the effort.&#10;&#10;4 \. Think small. What can you do to keep the spark alive and the marriage interesting for decades? The elders advise you to think small. The view from the end tells you that a marriage is made up of hundreds of daily interactions. In each of those you have a chance to be positive, to be cheerful, to be supportive. They suggest that you make a habit of doing small, positive things. One idea that came up often is doing your partner's chore. Say it's 6 AM on a cold, rainy morning, the dog is scratching on the bedroom door, and it's your partner's turn to walk him - but you get up and do it. That's money in the bank for the relationship.&#10;&#10;5 \. Talk, Talk, Talk. The elders believe that many marital problems can be solved through open communication. One man put it colorfully: &quot;Keep yapping at one another.&quot; According to the elders, the strong, silent type may be initially attractive - but probably doesn't make the best marriage partner. As one 80-something told me: &quot;If you can't communicate, you're just two dead ducks.&quot;&#10;&#10;6 \. Stop trying to change your partner. When you are getting serious about someone, the elders say you must accept your partner as is, or don' t get married. You should never say to yourself: &quot;After we're married, she or he will lose weight/get a job/like my family/change heart about having kids&quot; - or any other behavior or attitude you don't like. Instead,  ask yourself: &quot;Can I live with this trait for a lifetime. And at any point in a relationship, making your partner a do-it-yourself project only leads to anger and disappointment.&#10;&#10;7 \. Are we hungry? Here's one that surprised me. When a couple is having an argument that threatens to become a truly major blow-up, the elders suggest that what you may need is - a sandwich. That's right: these long-married folks say that you should never argue on an empty stomach. Offer your partner something to eat when he or she is about to fly off the handle. According to the elders, rather than a therapist you may sometimes need a pastrami sandwich or a piece of pie. It's cheaper and more fun!&#10;&#10;And if you want more wisdom  - ask the elders in your own life what makes a marriage work!"/>
+    <cas:View sofa="354" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 361 344"/>
+</xmi:XMI>

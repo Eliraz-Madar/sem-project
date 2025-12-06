@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="264" begin="0" end="3581" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="264" begin="0" end="165" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="264" begin="167" end="257" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="264" begin="259" end="297" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="264" begin="298" end="301" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="264" begin="303" end="392" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="264" begin="394" end="419" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="264" begin="421" end="444" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="264" begin="447" end="653" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="264" begin="655" end="658" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="264" begin="659" end="758" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="264" begin="760" end="803" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="264" begin="805" end="845" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="264" begin="847" end="923" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="264" begin="926" end="992" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="264" begin="994" end="1132" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="264" begin="1137" end="1244" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="264" begin="1246" end="1282" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="264" begin="1285" end="1369" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="264" begin="1371" end="1415" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="264" begin="1417" end="1457" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="264" begin="1459" end="1554" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="264" begin="1556" end="1600" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="264" begin="1602" end="1650" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="264" begin="1652" end="1718" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="264" begin="1721" end="1788" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="264" begin="1789" end="1794" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="264" begin="1795" end="1876" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="264" begin="1878" end="1953" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="264" begin="1955" end="1983" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="264" begin="1984" end="2065" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="264" begin="2067" end="2199" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="264" begin="2201" end="2288" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="264" begin="2291" end="2462" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="264" begin="2464" end="2527" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="264" begin="2529" end="2555" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="264" begin="2557" end="2597" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="264" begin="2599" end="2621" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="264" begin="2623" end="2789" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="264" begin="2791" end="2916" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="264" begin="2918" end="2968" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="264" begin="2970" end="3044" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="264" begin="3047" end="3128" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="264" begin="3131" end="3235" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="264" begin="3237" end="3240" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="264" begin="3241" end="3415" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="264" begin="3416" end="3447" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="264" begin="3450" end="3551" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="264" begin="3553" end="3580" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="246" sofa="264" begin="0" end="3581" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/060-cocacolanisationbritaincocacol.txt" offsetInSource="0" documentSize="3581" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="271" sofa="264" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/060-cocacolanisationbritaincocacol.xmi" offsetInSource="0" documentSize="3581" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="254" sofa="264" begin="0" end="3581" lastUpdate="2015-01-20T12:53:30Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/coca-colanisation-britain-coca-cola-london-eye-coke-red" portal="guardian" authors="Sarah Boseley" articleSum="Sarah Boseley: Coca-Cola may not enjoy the cult status it has in Mexico but modern marketing tactics such as turning the London Eye Coke-red ring alarm bells" title="Coca-Colanisation is coming to Britain."/>
+    <cas:Sofa xmi:id="264" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In the heart of a Mexican traditional covered market, where chilli peppers sell in every conceivable size and colour amid a fabulous variety of fruits and vegetables, I was stunned to come across avenues of tables and chairs that all looked exactly the same. These were dozens of small restaurants but, like the painted roses in Alice in Wonderland, they were uniformly decorated and equipped. Everything was bright red. The colour of Coca-Cola.&#10;&#10;Coke's sponsorship paid for the menus offering meal deals including everybody's favourite fizzy pop, the fridges sporting logos and the T-shirts and red Coca-Cola aprons of every waiter behind every counter. But to say the soft drinks brand had a marketing monopoly would be to understate what was going on here. Few people object to this Coca-Colanisation. The soft drink has cult status in Mexico. There is even a church that was said to use it instead of wine for communion.&#10;&#10;Mexico has one of the highest levels of child obesity in the world. Sugary drinks, foremost of which in popularity is Coke, have a lot to do with that, according to the Mexican obesity experts I interviewed. So when the London Eye, the most famous big wheel in the UK, announced it would turn red courtesy of Coca-Cola, I found it hard to repress a shudder.&#10;&#10;It's the normalisation of Coca-Cola that worries me - its insinuation into our lives. In London it's hard to get away from the Eye. You glimpse it unexpectedly all the time. The corporation doesn't need slogans or the jingly tunes it once employed to get into our heads. We know what the red on the wheel represents. And it is red, of course - the full sugar colour. Not the green of the lower sugar brand, nor the black of Coke Zero.&#10;&#10;We may be more sceptical of it than those in remote parts of Mexico where people were grateful for the delivery van because they had no safe drinking water. But it is part of our culture too, as the company points out on its website. It arrived in London in 1900 when Charles Candler, son of the founder, brought over a jug of syrup from the US. In 1969, Coca-Cola teamed up with Biba for a TV ad featuring Carnaby Street and a recording of Things Go Better with Coke by The Who. And in 2012, there was the sponsorship of the Olympics by both Coca-Cola and McDonald's.&#10;&#10;Marketing and advertising have become much subtler, particularly in the hands of vast corporations with huge profits and products that are under attack from health lobbies. Jingles have given way to associations, to dreams and nostalgia. And the format has changed. Online advertising outdid TV ads in 2009. Social media is a gift. Young people can be invited to join in with cool groups of online friends who have the good taste to like certain drinks, snacks or - on the case of children - sweets. The Yale Rudd Center for food policy and obesity in the US reported that 6 billion fast-food ads appeared on Facebook in 2012, which amounted to 19% of all fast-food advertising. The World Health Organisation in a report on Europe warned of &quot;advergames&quot; - game playing and fantasy video sites launched online by snack and sweet companies.&#10;&#10;So no - we don't worship Coca-Cola in Britain or see its presence on our dinner table as a status symbol. But do we really want our children to see and one day nostalgically remember the magnificent spectacle of the Eye on the London skyline bathed for years to come in Coca-Cola red? At least we can turn off the TV.&#10;&#10;o Sarah Boseley is the author of The Shape We're in: how junk food and diets and shortening our lives, published by Guardian Faber."/>
+    <cas:View sofa="264" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 271 254"/>
+</xmi:XMI>

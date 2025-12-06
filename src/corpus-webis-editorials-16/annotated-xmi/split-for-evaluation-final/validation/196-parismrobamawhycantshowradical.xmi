@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="274" begin="0" end="3255" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="274" begin="0" end="64" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="274" begin="66" end="106" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="274" begin="108" end="179" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="274" begin="181" end="229" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="274" begin="231" end="286" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="274" begin="289" end="412" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="274" begin="414" end="533" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="274" begin="535" end="579" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="274" begin="584" end="749" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="274" begin="750" end="753" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="274" begin="754" end="845" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="274" begin="847" end="898" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="274" begin="900" end="1025" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="274" begin="1026" end="1103" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="274" begin="1105" end="1151" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="274" begin="1153" end="1201" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="274" begin="1203" end="1367" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="274" begin="1370" end="1399" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="274" begin="1402" end="1435" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="274" begin="1438" end="1456" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="274" begin="1458" end="1461" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="274" begin="1462" end="1489" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="274" begin="1492" end="1570" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="274" begin="1573" end="1658" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="274" begin="1661" end="1715" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="274" begin="1717" end="1826" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="274" begin="1829" end="1934" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="274" begin="1936" end="2018" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="274" begin="2021" end="2091" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="274" begin="2093" end="2179" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="274" begin="2181" end="2304" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="274" begin="2307" end="2333" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="274" begin="2338" end="2366" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="274" begin="2368" end="2410" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="274" begin="2413" end="2418" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="274" begin="2420" end="2458" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="274" begin="2459" end="2467" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="274" begin="2469" end="2612" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="274" begin="2614" end="2635" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="274" begin="2637" end="2699" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="274" begin="2700" end="2703" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="274" begin="2704" end="2756" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="274" begin="2759" end="2766" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="274" begin="2768" end="2836" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="274" begin="2838" end="2908" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="274" begin="2909" end="3010" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="274" begin="3013" end="3102" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="274" begin="3107" end="3114" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="274" begin="3116" end="3209" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="274" begin="3211" end="3254" unitType="testimony"/>
+    <core:SourceDocumentInformation xmi:id="256" sofa="274" begin="0" end="3255" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/196-parismrobamawhycantshowradical.txt" offsetInSource="0" documentSize="3255" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="281" sofa="274" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/196-parismrobamawhycantshowradical.xmi" offsetInSource="0" documentSize="3255" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="264" sofa="274" begin="0" end="3255" lastUpdate="2015-01-12T15:30:49Z" url="http://www.foxnews.com/opinion/2015/01/12/paris-mr-obama-why-cant-show-radical-islamists-mean-business/" portal="foxnews" authors="Eric Bolling" articleSum="I wonder what was on President Obama's schedule that was more important to&amp;#10;than showing radical Islam we mean business?&amp;#10;&amp;#10;" title="Paris: Mr  Obama, why can't you show radical Islamists we mean business?"/>
+    <cas:Sofa xmi:id="274" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="President Obama was a no-show Sunday at the unity rally in Paris. There were leaders from around the world. Eric Holder, the lame duck Attorney General was sent in Obama's absence. Holder was in Paris for an anti-terrorism summit. He did not appear with other world leaders at the rally.&#10;&#10;I wonder what was on Obama's schedule that was more important to the president than showing radical Islam we mean business?&#10;&#10;I trust the president's absence had nothing to do with his well-documented refusal to tie terror to where it comes from. The radical wing within the Muslim community. By not showing up and locking arms with President Francois Hollande, Chancellor Angela Merkel, Prime Minister Benjamin Netanyahu, PLO Chairman Mahmoud Abbas, and others ... has our president hat tipped terrorists that we in America still are afraid to offend them?&#10;&#10;It was a nice show of solidarity in Paris on Sunday. But will world leaders respond with action or return to their respective countries and not just declare war on radical Islam? They must actively seek to root out radicals and destroy their infrastructure. Enough have died at the hands of these savages. They have no right to hide behind &quot;no-go zones.&quot;&#10;&#10;I first mentioned the extensive network of &quot;no-go&quot; zones in Britain and France after the beheading of a British soldier in the streets of London by a radical Muslim.&#10;&#10;The left called me intolerant.&#10;&#10;I was called Islamophobic by CAIR.&#10;&#10;I didn't care then, and I could care even less, now.&#10;&#10;Back home, we need to make sure there are no safe places for terror in America.&#10;&#10;There are pockets of high density Muslim populations all the across the United States.&#10;&#10;We are free in America to live where and how we choose. And,  of course, that applies to Muslim communities, too, as long as these places are not hiding terror cells.&#10;&#10;Law enforcement has a responsibility to make sure that there are no areas where they are afraid to police. They have a responsibility to ensure these areas are not breeding places of terror.&#10;&#10;Our elected officials need to back law enforcement with strong support. And they need to arm law enforcement with the tools they need to keep our country safe. -- That means intelligence support, arming them adequately and letting them know that We the People support law enforcement.&#10;&#10;But here's the bottom line: If you intend to hurt Americans, you will be tracked, followed and profiled.&#10;&#10;Sorry, does that sound politically incorrect? Too bad!&#10;&#10;How many more beheaded journalists or massacres of innocents do we need to rethink the current administration's political correctness strategy?&#10;&#10;It simply didn't work. It made liberal progressives feel better about their tolerance but that tolerance has turned deadly over and over again.&#10;&#10;Finally, watching those leaders marching through the Paris streets sans Obama, I wanted to shout, &quot;Hey Islamic terrorists, he doesn' t speak for me!&quot; And likely MILLIONS of Americans, who are ready to fight for our freedom and safety feel the same way.&#10;&#10;Matt Drudge may have summed up the Obama presidency perfectly in less than 140 characters :.&#10;&#10;@DRUDGE: ALL Obama moves are designed to further his career in global govt after he leaves White House. Understand this, and things make more sense."/>
+    <cas:View sofa="274" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 281 264"/>
+</xmi:XMI>

@@ -1,0 +1,223 @@
+0	title	Connecticut Supreme Court saves teen's life.
+-1	par-sep	
+1	assumption	The Justices of the Connecticut Supreme Court took over parenting duties of a cancer-stricken teenager Thursday
+2	no-unit	.
+3	continued	In	Modd-NU
+4	continued	so doing	Modd-NU
+5	continued	,	Modd-NU
+6	assumption	they surely saved her life
+7	no-unit	.
+-1	par-sep	
+8	continued	At the conclusion of oral arguments, the high court took just minutes
+9	continued	to determined
+10	continued	that state officials were right
+11	continued	to take custody of the girl known in court documents only as "Cassandra C " and force
+12	anecdote	her to undergo life-saving treatment
+13	no-unit	.
+14	no-unit	No thanks to her mother
+15	no-unit	.
+-1	par-sep	
+16	continued	Jackie Fortin had encouraged her 17-year-old daughter's desire
+17	assumption	to refuse chemotherapy
+18	no-unit	.
+19	continued	She naively pronounced
+20	continued	,
+21	continued	"my daughter is not going
+22	testimony	to die."
+23	continued	As if
+24	continued	wishing it
+25	continued	could make
+26	other	it come true
+27	no-unit	.
+-1	par-sep	
+28	assumption	Sadly, both mother and daughter were wrong
+29	no-unit	.
+30	assumption	They were in denial
+31	no-unit	.	
+32	no-unit	If	cond
+33	assumption	they got their way		cond
+34	continued	,
+35	assumption	Cassandra would die
+36	no-unit	.
+37	assumption	It was the equivalent of suicide
+38	no-unit	.
+39	continued	I wonder
+40	continued	how
+41	assumption	her mother would feel then?	m-question
+-1	par-sep	
+42	anecdote	Cassandra has advanced Hodgkin's lymphoma
+43	common-ground	which attacks and consumes the body's immune system
+44	no-unit	.
+45	continued	Her doctors say
+46	testimony	chemotherapy treatment will give her an 85 percent chance of survival
+47	no-unit	.
+48	no-unit	Excellent odds
+49	no-unit	.
+50	continued	Yet
+51	continued	,
+52	continued	 the teenager refused
+53	continued	,
+54	continued	saying
+55	testimony	she did not want to "poison" her body with chemo
+56	no-unit	.
+-1	par-sep	
+57	continued	How
+58	assumption	does that make sense to a rational mind?
+59	other	Let's employ Cassandra's own tortured terminology and logic
+60	no-unit	.
+-1	par-sep	
+61	continued	Does she not realize
+62	assumption	that her body is already being poisoned by the rapidly multiplying cancer in her lymph system?
+63	no-unit	Untreated
+64	no-unit	,
+65	continued	it will quickly spread
+66	continued	until
+67	assumption	it kills her
+68	no-unit	.
+69	continued	That is
+70	continued	what
+71	assumption	her doctors predict
+72	no-unit	.
+73	continued	Reliable statistics from the National Cancer Institute prove
+74	statistics	they are right
+75	no-unit	.
+-1	par-sep	
+76	assumption	Chemotherapy can save her
+77	no-unit	.
+78	continued	Chemicals are introduced into the diseased body
+79	common-ground	to attack the cancer cells
+80	no-unit	.
+81	continued	You can call it a "poison"
+82	continued	if
+83	assumption	you want
+84	no-unit	,
+85	no-unit	but
+86	assumption	a more accurate term is curative
+87	no-unit	.
+88	common-ground	Yes, the chemicals also harm other normal cells
+89	no-unit	.
+90	continued	To that extent
+91	assumption	they are a poison, of sorts, producing painful and unpleasant side effects
+92	no-unit	.
+93	no-unit	But
+94	continued	once
+95	continued	the body recovers and is free of the cancer cells
+96	continued	,
+97	common-ground	the chemicals are gone
+98	no-unit	.
+-1	par-sep	
+99	no-unit	Thus
+100	no-unit	,
+101	no-unit	if	cond
+102	assumption	chemo is a poison	cond
+103	no-unit	,	cond
+104	assumption	it is not normally a lethal one
+105	no-unit	.
+106	continued	The cancer
+107	continued	which is ravaging Cassandra's body
+108	assumption	surely is
+109	no-unit	.
+-1	par-sep	
+110	no-unit	If	Modd-NU
+111	no-unit	,	Modd-NU
+112	continued	by
+113	continued	using the term "poison,"
+114	continued	Cassandra means
+115	continued	she does not want
+116	assumption	to endure the side effects of nausea, vomiting, hair loss and exhaustion cond
+117	no-unit	,	cond
+118	assumption	she is being myopic
+119	no-unit	.
+120	assumption	The final stages of untreated lymphoma are far more extreme and painful
+121	no-unit	.
+-1	par-sep	
+122	continued	Cassandra's disdain for the treatment
+123	continued	that will likely save her young life
+124	continued	is, perhaps
+125	continued	,
+126	continued	the best evidence
+127	continued	that she was not mature enough
+128	assumption	to make a wise and informed decision on her own
+129	no-unit	.
+130	assumption	But then again, neither was her mother
+131	no-unit	.
+132	continued	Which is
+133	continued	why
+134	assumption	the state of Connecticut stepped in
+135	no-unit	.
+-1	par-sep	
+136	continued	As an adult, Fortin, is presumed
+137	continued	to be competent under the law
+138	assumption	to make decisions for her daughter, a minor
+139	no-unit	.
+140	no-unit	However	Modd-NU
+141	no-unit	,	Modd-NU
+142	continued	 Fortin's aberrant judgment in
+143	continued	rejecting the treatment
+144	continued	that could save Cassandra's life and her concomitant belief
+145	continued	that her daughter would somehow, miraculously, not succumb
+146	continued	to an insidious, fatal illness
+147	continued	...
+148	assumption	called that legal presumption into serious doubt
+149	no-unit	.
+-1	par-sep	
+150	continued	There is also evidence
+151	continued	that Fortin ignored obvious signs of her daughter's malignant disease at an early stage, failed
+152	continued	to seek prompt and continuing medical attention
+153	continued	,
+154	assumption	and has been unduly influencing Cassandra's negative reaction to treatment
+155	no-unit	.
+156	continued	The court records suggest a domineering mother with an abiding distrust of medicine
+157	continued	,
+158	continued	and
+159	continued	a daughter fearful of
+160	assumption	running afoul of her mother's wishes
+161	no-unit	.
+-1	par-sep	
+162	continued	To deny
+163	continued	a child beneficial
+164	continued	,
+165	assumption	life-sustaining treatment constitutes child neglect
+166	no-unit	.
+167	continued	States have a duty
+168	assumption	to protect children from abuse and neglect
+169	no-unit	.
+170	continued	Courts rarely hesitate
+171	continued	to step in
+172	continued	where
+173	assumption	a child's life is in danger
+174	no-unit	.
+-1	par-sep	
+175	no-unit	Thus
+176	no-unit	,
+177	continued	the state was correct
+178	assumption	to intervene
+179	no-unit	and
+180	continued	the lower court was equally correct
+181	continued	to remove
+182	assumption	the mother as unfit
+183	no-unit	.
+184	assumption	Fortunately, the Connecticut Supreme Court agreed and did the right thing
+185	no-unit	.
+-1	par-sep	
+186	assumption	Time is on Cassandra's side
+187	no-unit	.
+188	continued	The fact
+189	continued	that she is 9 months away from
+190	continued	turning 18 years old
+191	assumption	may, in the end, have saved her life
+192	no-unit	.
+193	continued	It gave the high court an excuse
+194	continued	to adhere strictly to the law
+195	continued	as
+196	continued	it relates to
+197	assumption	protecting minors
+198	no-unit	.
+199	continued	Those 9 months will also give doctors valuable time
+200	assumption	to complete her therapy and give her a new chance at a full and happy life
+201	no-unit	.
+-1	par-sep	
+202	no-unit	As for her mother, Jackie Fortin?
+203	continued	She will have ample time
+204	assumption	to wrestle with her conscience
+205	no-unit	.

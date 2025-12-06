@@ -1,0 +1,353 @@
+0	title	Atlanta Fire Chief: I was fired because of my Christian faith.
+-1	par-sep	
+1	continued	Kelvin Cochran was five-years-old
+2	continued	when
+3	continued	he realized
+4	continued	that he wanted
+5	anecdote	to be a firefighter
+6	no-unit	.
+-1	par-sep	
+7	continued	"My
+8	continued	family was very, very poor,"
+9	testimony	Cochran told me
+10	no-unit	.
+11	testimony	"We were living in a shotgun house in an alley - three big brothers, two little sisters."
+-1	par-sep	
+12	continued	One Sunday afternoon the Cochran children heard
+13	anecdote	a fire truck stop across from their neighbor's home
+14	no-unit	.
+15	anecdote	Miss Maddie's house was one fire
+16	no-unit	.
+-1	par-sep	
+17	continued	"That's
+18	continued	the day that God convicted me in my heart
+19	continued	that I wanted
+20	continued	to be a firefighter
+21	continued	when
+22	continued	I grew up,"
+23	testimony	Cochran said
+24	no-unit	.
+25	continued	"All
+26	continued	I thought about
+27	continued	growing up in Shreveport
+28	testimony	was not being poor and being a firefighter."
+-1	par-sep	
+29	assumption	And God granted Kelvin Cochran the desires of his heart
+30	no-unit	.
+31	continued	The little boy in the shotgun shack grew up
+32	anecdote	to become the fire chief of Shreveport
+33	no-unit	.
+34	continued	He was named the Atlanta fire chief in 2008 - a position
+35	anecdote	he served until 2009
+36	no-unit	when
+37	continued	was called
+38	anecdote	to serve in the Obama Administration as a fire administrator
+39	no-unit	.
+40	anecdote	In 2010 he returned to Atlanta
+41	continued	where	Modd-NU
+42	continued	he was unanimously confirmed
+43	anecdote	to once again be the city's fire chief
+44	no-unit	.
+-1	par-sep	
+45	continued	But now Chief Cochran's storied career is up in smoke - all
+46	continued	because
+47	assumption	of a book he wrote for a men's Bible study group at his Baptist church
+48	no-unit	.
+-1	par-sep	
+49	no-unit	CLICK HERE	modd-del
+50	no-unit	TO FOLLOW TODD ON FACEBOOK FOR CONSERVATIVE CONVERSATION!	modd-del
+-1	par-sep	
+51	continued	Atlanta Mayor Kasim Reed announced Tuesday
+52	testimony	that Cochran had been fired
+53	no-unit	.
+54	continued	The announcement came
+55	continued	on the same day Cochran was supposed
+56	continued	to return
+57	anecdote	to work following a 30-day suspension
+58	no-unit	.
+-1	par-sep	
+59	continued	"The
+60	continued	LGBT members of our community have a right
+61	continued	to be able
+62	continued	to express their views and convictions about sexuality and deserve
+63	continued	to be respected for their position without hate or discrimination,"
+64	testimony	Cochran told me in an exclusive interview
+65	no-unit	.
+66	continued	"But Christians also have a right
+67	continued	to express our belief regarding our faith and be respected for our position without hate and without discrimination
+68	continued	.
+69	continued	In the United States, no one should be vilified, hated or discriminated against for
+70	testimony	expressing their beliefs."
+-1	par-sep	
+71	continued	Cochran had been suspended in November
+72	continued	because
+73	continued	of a passage he wrote
+74	continued	about homosexuality in a book titled
+75	continued	,
+76	continued	"Who Told You
+77	anecdote	That You Were Naked?"
+78	anecdote	The book's theme is about biblical morality
+79	no-unit	.
+-1	par-sep	
+80	continued	"This
+81	continued	is about judgment,"
+82	testimony	Mayor Reed said during a Tuesday press conference
+83	no-unit	.
+84	continued	"This is not about religious freedom
+85	continued	.
+86	continued	This is not about free speech
+87	continued	.
+88	testimony	Judgment is the basis of the problem."
+-1	par-sep	
+89	anecdote	Last November the mayor posted a public condemnation of the fire chief on his official Facebook page
+90	no-unit	.
+-1	par-sep	
+91	continued	"I
+92	continued	profoundly disagree with and am deeply disturbed by the sentiments expressed in the paperback regarding the LGBT community,"
+93	testimony	the mayor wrote
+94	no-unit	.
+95	testimony	"I will not tolerate discrimination of any kind within my administration."
+-1	par-sep	
+96	continued	The mayor went on
+97	continued	to inform the public
+98	continued	that Cochran had been suspended without pay
+99	continued	and was ordered
+100	anecdote	to complete a sensitivity training class
+101	no-unit	.
+-1	par-sep	
+102	continued	"I
+103	continued	want
+104	continued	to be clear
+105	continued	that the material in Chief Cochran's book is not representative of my personal beliefs, and is inconsistent with the Administration's work
+106	continued	to make
+107	continued	Atlanta a more welcoming city for all of her citizens
+108	continued	-- regardless of their sexual orientation, gender, race and religious beliefs,"
+109	testimony	Mayor Reed wrote
+110	no-unit	.
+-1	par-sep	
+111	continued	So what in the world	modd-NU
+112	continued	did Cochran write	modd-NU
+-1	par-sep	
+114	continued	According to the GA Voice, a publication
+115	continued	that covers the LGBT community
+116	continued	,
+117	continued	there were two items
+118	testimony	that caused concern
+119	no-unit	:.
+-1	par-sep	
+120	continued	"Uncleanness 
+121	continued	-
+122	continued	whatever
+123	continued	is opposite of purity
+124	continued	;
+125	testimony	including sodomy, homosexuality, lesbianism, pederasty, bestiality, all other forms of sexual perversion."
+-1	par-sep	
+126	continued	"Naked
+127	continued	men refuse
+128	continued	to give in
+129	continued	,
+130	continued	so
+131	continued	they pursue sexual fulfillment through multiple partners, with the opposite sex, the same sex, and sex outside of marriage and many other vile, vulgar and inappropriate ways
+132	continued	which defile their body
+133	testimony	- temple and dishonor God."
+-1	par-sep	
+134	continued	Cochran said
+135	testimony	he referenced homosexuality on less than a half a page in the 160-page book
+136	no-unit	.
+-1	par-sep	
+137	continued	"I
+138	continued	did not single out homosexuality,"
+139	testimony	he said
+140	no-unit	.
+141	continued	'
+142	continued	.
+143	continued	I simply spoke to sex being created by God for pro-creation
+144	continued	and
+145	continued	He intended
+146	continued	it to be between a man and a woman in holy matrimony - and
+147	testimony	that any other sex outside of that is sin."
+-1	par-sep	
+148	continued	Cochran told me
+149	testimony	that someone within the department obtained a copy of the book and took it to openly-gay city council member Alex Wan
+150	no-unit	.
+-1	par-sep	
+151	continued	Wan released a statement
+152	anecdote	supporting Cochran's termination
+153	continued	and said
+154	continued	it "sends a strong message to employees about
+155	continued	how much
+156	continued	we value diversity
+157	continued	and
+158	continued	how
+159	testimony	we adhere to a non-discriminatory environment."
+-1	par-sep	
+160	assumption	The book caused a firestorm within Atlanta's LGBT community
+161	no-unit	and
+162	continued	there were many calls for him
+163	continued	to be fired - a decision
+164	anecdote	the mayor finally agreed to
+165	no-unit	.
+-1	par-sep	
+166	continued	"I
+167	continued	guess
+168	continued	they got
+169	continued	what
+170	continued	they asked for,"
+171	testimony	Cochran said
+172	no-unit	.
+-1	par-sep	
+173	continued	Georgia Equality Executive Director Jeff Graham told
+174	testimony	GA Voice Cochran's "anti- gay" views could result in a hostile work environment
+175	no-unit	.
+-1	par-sep	
+176	continued	"This
+177	continued	is not about his religious views but his about his ability
+178	continued	to lead a diverse work force,"
+179	testimony	he said
+180	no-unit	.
+181	continued	"It's unfortunate
+182	continued	that this had
+183	continued	to happen
+184	continued	.
+185	continued	I feel
+186	continued	the mayor has done the right thing
+187	continued	to ensure
+188	testimony	all employees are treated fairly."
+-1	par-sep	
+189	assumption	The allegations against Cochran amount to a he-said, he-said between the fire chief and the mayor
+190	no-unit	.
+-1	par-sep	
+191	continued	Reed said
+192	continued	that he had no knowledge
+193	testimony	that Cochran was writing a book
+194	no-unit	.
+195	continued	However
+196	continued	,
+197	continued	 Cochran said
+198	continued	the director of Atlanta's ethics office had not only given him permission
+199	continued	to write the book, but to also mention in his biography
+200	testimony	that he was the city's fire chief
+201	no-unit	.
+-1	par-sep	
+202	continued	Cochran said
+203	continued	he gave a copy of the book to Mayor Reed in January, 2014
+204	continued	and
+205	continued	the mayor told him
+206	continued	he planned on
+207	testimony	reading it during an upcoming trip
+208	no-unit	.
+-1	par-sep	
+209	continued	Cochran also admitted
+210	continued	that he gave copies of the book to several members of the fire department - individuals with
+211	testimony	whom he had personal relationships
+212	no-unit	.
+-1	par-sep	
+213	assumption	The mayor also took issue with Cochran speaking publicly about his suspension
+214	no-unit	.
+215	continued	However
+216	continued	,
+217	continued	 Cochran said
+218	testimony	he honored the mayor's guidance and did not speak to the media
+219	no-unit	.
+220	continued	He did, however
+221	continued	,
+222	anecdote	share his testimony in several churches
+223	no-unit	.
+-1	par-sep	
+224	continued	"I
+225	continued	did not dishonor him in the process,"
+226	testimony	Cochran told me
+227	no-unit	.
+-1	par-sep	
+228	continued	Cochran wants
+229	continued	to make clear
+230	assumption	that he does not hate anyone
+231	no-unit	.
+-1	par-sep	
+232	continued	"The
+233	continued	essence of the Christian faith is a love without condition, sir,"
+234	testimony	he told me
+235	no-unit	.
+236	continued	"I have demonstrated that love in the fire service for 34 years
+237	continued	.
+238	continued	There'
+239	continued	s not any person of any people group
+240	continued	that has interacted with me for any measure of time
+241	continued	that can say
+242	continued	I have
+243	continued	hate or disregard
+244	testimony	or discrimination in my heart for any people group."
+-1	par-sep	
+245	assumption	Cochran's plight has drawn condemnation from a number of religious groups across Georgia including the influential Georgia Baptist Convention
+246	no-unit	.
+-1	par-sep	
+247	continued	"This
+248	continued	is appalling,"
+249	testimony	said Robert White, president of the Georgia Baptist Convention
+250	no-unit	.
+251	continued	"This has everything
+252	testimony	to do with his religious beliefs."
+-1	par-sep	
+253	continued	White told me
+254	continued	he believes
+255	continued	the mayor succumbed
+256	testimony	to pressure from the city's LGBT community
+257	no-unit	.
+-1	par-sep	
+258	continued	"It's
+259	continued	a frightening day in the United States
+260	continued	when
+261	continued	a person cannot express their faith without fears of persecution following,"
+262	testimony	he told me
+263	no-unit	.
+264	continued	"It's persecution
+265	continued	when
+266	continued	a godly fire chief loses his job over
+267	testimony	expressing his Christian faith."
+-1	par-sep	
+268	assumption	And the fire chief's firing could spark public protests and demonstrations from the state's Christian community
+269	no-unit	.
+-1	par-sep	
+270	continued	"We're
+271	continued	past the point of
+272	continued	taking a public stand,"
+273	testimony	White told me
+274	no-unit	.
+275	testimony	"Christians must stand up for their rights."
+-1	par-sep	
+276	continued	Cochran told me
+277	testimony	he is considering his legal options
+278	no-unit	- but
+279	assumption	one thing is certain
+280	no-unit	.
+281	continued	He has no desire
+282	assumption	to get his old job back
+283	no-unit	.
+-1	par-sep	
+284	continued	"I
+285	continued	believe
+286	continued	God has greater things for me,"
+287	testimony	the father and grandfather said
+288	no-unit	.
+289	continued	"I love the fire services
+290	continued	.
+291	continued	It's a childhood dream come
+292	testimony	true."
+-1	par-sep	
+293	continued	And don't go
+294	no-unit	feeling sorry for Chief Cochran
+295	no-unit	.
+-1	par-sep	
+296	continued	"I'm
+297	continued	not discouraged
+298	continued	and
+299	continued	I'm not downtrodden,"
+300	testimony	he said
+301	no-unit	.
+302	continued	"This
+303	continued	is a God thing
+304	continued	and
+305	continued	He's going
+306	continued	to do great things
+307	continued	and
+308	testimony	He will vindicate me publicly."

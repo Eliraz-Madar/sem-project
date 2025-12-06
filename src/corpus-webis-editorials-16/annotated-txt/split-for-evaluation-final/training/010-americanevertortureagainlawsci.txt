@@ -1,0 +1,170 @@
+0	title	If America wants to make sure it never tortures again, it must choose law over secrecy.
+-1	par-sep	
+1	continued	On Monday afternoon, Senator Dianne Feinstein released a letter to Barack Obama
+2	continued	,
+3	continued	suggesting
+4	continued	a series of reforms "to make sure
+5	continued	that the United States never again engages in actions
+6	continued	that you have acknowledged
+7	anecdote	were torture"
+8	no-unit	.
+-1	par-sep	
+9	continued	A month	Modd-NU
+10	continued	after	Modd-NU
+11	continued	her office released the landmark (but still heavily redacted)
+12	anecdote	Senate torture report
+13	no-unit	,
+14	continued	Feinstein is now calling for legislation
+15	anecdote	to strengthen the prohibition against torture
+16	no-unit	.
+17	assumption	This is a laudable and necessary step
+18	no-unit	,
+19	no-unit	but
+20	common-ground	torture has been a felony for decades
+21	no-unit	.
+22	common-ground	So have war crimes, lying to Congress and obstruction of justice
+23	no-unit	.
+24	continued	The fundamental problem is
+25	continued	that the US government has been unable or unwilling
+26	assumption	to enforce those laws against the CIA
+27	no-unit	.
+28	no-unit	If	cond
+29	continued	reform does not confront the reasons for that failure
+30	continued	,
+31	continued	it may not deter the United States from
+32	assumption	engaging in torture under a future president
+33	no-unit	.
+-1	par-sep	
+34	continued	To the extent	Modd-NU
+35	continued	that federal prosecutors have simply lacked the political will
+36	assumption	to investigate the CIA
+37	no-unit	,
+38	continued	there'
+39	continued	s not much
+40	assumption	Congress can do about it
+41	no-unit	.
+42	continued	But legislation could address many of the other factors
+43	continued	that allowed
+44	assumption	the CIA to torture prisoners, destroy evidence and lie to investigators with impunity
+45	no-unit	.
+46	assumption	There is the CIA's reliance on secret "torture memos" written by the Office of Legal Counsel 
+47	no-unit	-
+48	assumption	which exploited some weaknesses in the legal definition of torture
+49	no-unit	,
+50	assumption	but depended far more heavily on absurd legal arguments and false representations of fact by the CIA
+51	no-unit	.
+52	continued	There'	Modd-NU
+53	assumption	s the unethical role of CIA doctors and psychologists in monitoring interrogations
+54	no-unit	.
+55	continued	And above all, there remains
+56	continued	the CIA's ability
+57	continued	to keep all the evidence of its crimes
+58	assumption	classified
+59	no-unit	.
+-1	par-sep	
+60	continued	The only explanation the justice department has ever provided for the failure
+61	continued	to indict a single CIA officer for torture, war crimes, homicide, destruction of evidence or any of the other crimes
+62	continued	the Senate report documents is a bland statement
+63	continued	that "the admissible evidence would not be sufficient
+64	testimony	to obtain and sustain a conviction beyond a reasonable doubt"
+65	no-unit	.
+66	continued	The justice department refuses
+67	anecdote	to answer questions about the role played by top-secret classification in that decision, or disclose any of the records from the criminal investigations
+68	no-unit	.
+-1	par-sep	
+69	continued	But we do
+70	continued	know
+71	continued	that until
+72	continued	the Senate report was released
+73	continued	,
+74	continued	the Obama administration took the position
+75	continued	that every detail of an individual detainee's torture in CIA custody was top secret	modd-ASM
+76	assumption	- including former CIA prisoners' memories of their own treatment, the locations of black sites and the names of all the witnesses	modd-ASM
+77	no-unit	.
+78	continued	We know the CIA redacted from the report not only the names but even the pseudonyms of nearly every CIA officer and contractor involved in the program, and every country
+79	assumption	that hosted a black site
+80	no-unit	.
+81	continued	And we know
+82	continued	that every last civil suit brought by CIA torture
+83	assumption	victims has been dismissed on national security grounds
+84	no-unit	.
+85	continued	So it's difficult
+86	continued	to imagine
+87	continued	how
+88	continued	a prosecutor could have made a torture case against the CIA without
+89	continued	disclosing this evidence
+90	continued	-
+91	continued	and even harder
+92	assumption	to imagine the agency allowing its release
+93	no-unit	.
+-1	par-sep	
+94	continued	In theory, Obama's December 2009 executive order on national security classification should prevent the CIA from
+95	continued	using secrecy
+96	assumption	to place itself beyond the rule of law
+97	no-unit	,
+98	continued	since	Modd-NU
+99	continued	the order specifically forbids classifying information
+100	testimony	to "conceal violations of law"
+101	no-unit	.
+102	assumption	In practice, though, the prohibition is virtually never enforced
+103	no-unit	.
+104	continued	The Obama administration - like the Bush administration before it - takes the position
+105	continued	that the CIA's criminal actions can be legitimately classified
+106	continued	if
+107	assumption	they are "intelligence sources and methods"
+108	no-unit	.
+109	continued	And neither Congress, nor the president, nor the courts have imposed any legal limit on
+110	continued	what
+111	assumption	counts as an intelligence source or method
+112	no-unit	.
+113	continued	In practice, the phrase has come
+114	continued	to mean "anything
+115	continued	the intelligence community doesn't want
+116	assumption	you to know."
+117	continued	Congress needs
+118	continued	to write a legal definition of "intelligence sources and methods"
+119	continued	that imposes real limits, and makes clear
+120	assumption	that it excludes torture and other crimes
+121	no-unit	.
+-1	par-sep	
+122	continued	Feinstein and her staff deserve tremendous credit for
+123	continued	finally breaking through the wall of secrecy
+124	assumption	that the CIA built around its torture program, in the face of fierce opposition from the agency and the White House
+125	no-unit	.
+126	continued	But their investigation did not begin
+127	continued	until after
+128	anecdote	the black-site program had already ended, in large part because of leaks to the press
+129	no-unit	.
+130	continued	Despite staffers' scrupulous protection of classified information, the CIA subjected them to unlawful surveillance, tried
+131	continued	to have
+132	continued	them prosecuted
+133	continued	and is still trying
+134	assumption	to retaliate
+135	no-unit	.
+136	no-unit	Yet
+137	assumption	the report is still full of unjustified redactions
+138	no-unit	,
+139	no-unit	and
+140	continued	the Department of Justice refuses
+141	continued	to either reopen its criminal investigations into torture or explain
+142	continued	why
+143	assumption	they were closed in the first place
+144	no-unit	.
+-1	par-sep	
+145	no-unit	As
+146	no-unit	it stands right now
+147	no-unit	,
+148	continued	torture is a crime - but so is revealing evidence of torture
+149	assumption	that the CIA wants hidden
+150	no-unit	.
+151	continued	And it's only the second crime
+152	continued	that gets
+153	assumption	you prosecuted
+154	no-unit	.
+155	continued	Yes, let's
+156	assumption	strengthen the laws against torture
+157	no-unit	.
+158	continued	But let's
+159	continued	also weaken the CIA's power
+160	assumption	to conceal the evidence
+161	no-unit	.

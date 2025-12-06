@@ -1,0 +1,186 @@
+0	title	Sony scraps 'The Interview': Dark day for America when we cave over silly Seth Rogen comedy.
+-1	par-sep	
+1	continued	Exactly what country
+2	assumption	are we living in?
+3	continued	How the hell
+4	assumption	could Sony give in to the demands of terrorists?
+5	continued	And make no mistake about it
+6	continued	...
+7	continued	The hackers
+8	continued	who broke into their computer systems
+9	assumption	are just that: Terrorists
+10	no-unit	.
+-1	par-sep	
+11	common-ground	Sony is a commercial enterprise
+12	no-unit	and
+13	continued	it has the prerogative
+14	assumption	to scrap the release of "The Interview."
+15	no-unit	But
+16	assumption	Sony is also the face of the United States in this heated relationship with North Korea
+17	no-unit	,
+18	no-unit	and
+19	assumption	the United States doesn't negotiate with terrorists
+20	no-unit	.
+21	assumption	Neither should Sony
+22	no-unit	.
+-1	par-sep	
+23	continued	It's a dark day for America
+24	continued	when
+25	assumption	we cave over a simple, silly Seth Rogen comedy
+26	no-unit	.
+27	assumption	It's embarrassing
+28	no-unit	.
+29	assumption	It's humiliating
+30	no-unit	.
+31	continued	It's
+32	continued	exactly what
+33	assumption	these hackers wanted
+34	no-unit	,
+35	no-unit	and
+36	assumption	it creates an open season for anarchists
+37	no-unit	.
+-1	par-sep	
+38	continued	I can'
+39	assumption	t help but think of that brilliant scene in Steven Spielberg's much maligned but hilarious World War II comedy "1941," (1979)
+40	no-unit	when
+41	continued	Toshiro Mifune
+42	continued	,
+43	continued	playing a Japanese submarine commander
+44	continued	,
+45	continued	is under orders
+46	anecdote	to destroy Hollywood from off the coast of Los Angeles
+47	no-unit	.
+48	continued	Mifune beams with pride after
+49	anecdote	destroying the Ferris wheel at the Santa Monica pier
+50	no-unit	.
+51	continued	He thinks
+52	anecdote	his mission is a success
+53	no-unit	.
+54	continued	He thinks
+55	continued	he's conquered
+56	anecdote	America
+57	no-unit	--
+58	continued	just as	Modd-NU
+59	continued	North Korea probably thinks
+60	assumption	it has conquered us
+61	no-unit	.
+-1	par-sep	
+62	assumption	But in a way it has
+63	no-unit	.
+64	other	Have at it, guys
+65	no-unit	.
+66	assumption	Sony has just created a ridiculous, yet dangerous, precedent
+67	no-unit	.
+-1	par-sep	
+68	continued	Watch
+69	continued	the first episode of the brilliant British series "Black Mirror"
+70	continued	(which debuted in 2011 and is currently streaming on Netflix)
+71	continued	to see just
+72	continued	how
+73	continued	this situation played out and will continue
+74	assumption	to play out within our society
+75	no-unit	.
+76	continued	In the episode
+77	continued	,
+78	continued	a British princess is kidnapped
+79	continued	,
+80	continued	and
+81	continued	the ransom demand calls for the prime minister
+82	anecdote	to go on live television and have sex with a pig
+83	no-unit	.
+84	anecdote	The world stops
+85	no-unit	;
+86	anecdote	the masses are enthralled
+87	no-unit	;
+88	anecdote	the news and social media go to town with the juicy fodder
+89	no-unit	.
+90	anecdote	Some cheer the prime minister's humiliation
+91	no-unit	,
+92	anecdote	some are disgusted
+93	no-unit	,
+94	anecdote	some are apathetic
+95	no-unit	.
+96	continued	But beneath it all
+97	continued	,
+98	assumption	society is brought to its knees
+99	no-unit	-- and
+100	assumption	the Twitterverse welcomes it
+101	no-unit	because
+102	assumption	it is a damn good spectacle
+103	no-unit	.
+104	assumption	"Black Mirror" -- the first episode, especially -- was incredibly prescient
+105	no-unit	.
+-1	par-sep	
+106	common-ground	Sony Pictures' "The Interview" is just a movie
+107	no-unit	.
+108	assumption	It may be just a stupid comedy
+109	no-unit	,
+110	no-unit	but
+111	assumption	it is still a work of expression -- free expression!
+112	continued	-- something
+113	assumption	that separates us from them
+114	no-unit	.
+-1	par-sep	
+115	continued	George Washington said
+116	continued	,
+117	continued	"If
+118	continued	the freedom of speech is taken away
+119	continued	,
+120	continued	then dumb and silent we may be led
+121	continued	,
+122	testimony	like sheep to the slaughter."
+123	assumption	For anyone to silence our creative voice is just wrong
+124	no-unit	.
+125	assumption	Laughably wrong
+126	no-unit	.
+-1	par-sep	
+127	continued	That is
+128	continued	why
+129	assumption	Sony should not buckle to the pressure of these vile threats
+130	no-unit	.
+131	continued	I understand
+132	continued	that people may have been afraid
+133	continued	to go to the big chain theaters
+134	assumption	to see "The Interview,"
+135	no-unit	and
+136	continued	I respect their desire
+137	assumption	to protect themselves and their families
+138	no-unit	.
+139	continued	Sincere props, though, to the Alamo Drafthouse in Dallas/Fort Worth for
+140	continued	announcing they
+141	other	would show the equally controversial film "Team America: World Police" (2004) in place of "The Interview."
+142	continued	Thursday afternoon, Paramount announced
+143	anecdote	that they would not publicly screen the movie
+144	no-unit	,.
+-1	par-sep	
+145	continued	Sony should seriously consider
+146	assumption	releasing the Seth Rogen-James Franco (and phenomenal Lizzy Caplan) comedy on-demand for a number of reasons
+147	no-unit	:.
+-1	par-sep	
+148	no-unit	One
+149	no-unit	:
+150	assumption	Sony and all involved will get their incredible payday
+151	no-unit	.
+152	assumption	Has any recent film received more free hype than "The Interview"?
+-1	par-sep	
+153	no-unit	Two
+154	no-unit	:
+155	assumption	No theater will be harmed
+156	no-unit	,
+157	no-unit	even though
+158	assumption	theaters will lose potential revenue from the film
+159	no-unit	.
+-1	par-sep	
+160	no-unit	Three: Most importantly
+161	no-unit	,
+162	assumption	Sony -- and we, the United States -- will not give in to this ludicrous and obnoxious threat from an impotent and juvenile country
+163	no-unit	.
+-1	par-sep	
+164	common-ground	This is America
+165	no-unit	.
+166	assumption	We stand by our freedom
+167	no-unit	.
+168	continued	Even if
+169	continued	it's
+170	assumption	a stupid comedy
+171	no-unit	.

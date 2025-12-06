@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3551" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="38" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="39" end="100" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="101" end="209" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="212" end="243" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="244" end="247" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="248" end="311" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="312" end="315" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="316" end="403" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="405" end="408" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="409" end="460" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="462" end="481" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="484" end="563" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="565" end="582" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="584" end="600" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="602" end="640" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="642" end="645" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="646" end="686" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="689" end="821" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="822" end="826" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="827" end="953" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="955" end="1037" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1039" end="1073" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1075" end="1107" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1111" end="1166" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1169" end="1188" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1190" end="1206" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1208" end="1268" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1271" end="1494" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1496" end="1644" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="1646" end="1661" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="1663" end="1688" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="1690" end="1748" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="1750" end="1793" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="1795" end="1813" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="1815" end="1833" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="1835" end="1886" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="1887" end="1893" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="1894" end="1922" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="1923" end="1930" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="1931" end="1958" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="1960" end="2035" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2038" end="2084" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2086" end="2116" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="2118" end="2121" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="2122" end="2174" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="2175" end="2215" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="2218" end="2348" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="2349" end="2403" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="2405" end="2420" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="2423" end="2495" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="2497" end="2598" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="2599" end="2602" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="2603" end="2666" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="2668" end="2862" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="2863" end="2948" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="2953" end="3092" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="3097" end="3100" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="3102" end="3156" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="3158" end="3223" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="3225" end="3228" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="3230" end="3255" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="3257" end="3268" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="3269" end="3319" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="3322" end="3345" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="3347" end="3477" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="3480" end="3495" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="343" sofa="1" begin="3497" end="3520" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="348" sofa="1" begin="3522" end="3550" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="353" sofa="1" begin="0" end="3551" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/243-sonyscrapsinterviewdarkdayfora.txt" offsetInSource="0" documentSize="3551" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="361" sofa="1" begin="0" end="3551" lastUpdate="2014-12-18T17:36:06Z" url="http://www.foxnews.com/opinion/2014/12/18/sony-scraps-interview-dark-day-for-america-when-cave-over-silly-seth-rogen/" portal="foxnews" authors="Justin Craig" articleSum="It's a dark day for America when Sony gives in to North Korea over a simple,&amp;#10;silly Seth Rogen comedy. It's embarrassing. It’s humiliating. It's exactly&amp;#10;what the hackers wanted, and it creates an open season for anarchists.&amp;#10;&amp;#10;" title="Sony scraps 'The Interview': Dark day for America when we cave over silly Seth Rogen comedy."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Exactly what country are we living in? How the hell could Sony give in to the demands of terrorists? And make no mistake about it ... The hackers who broke into their computer systems are just that: Terrorists.&#10;&#10;Sony is a commercial enterprise and it has the prerogative to scrap the release of &quot;The Interview.&quot; But Sony is also the face of the United States in this heated relationship with North Korea, and the United States doesn't negotiate with terrorists. Neither should Sony.&#10;&#10;It's a dark day for America when we cave over a simple, silly Seth Rogen comedy. It's embarrassing. It's humiliating. It's exactly what these hackers wanted, and it creates an open season for anarchists.&#10;&#10;I can' t help but think of that brilliant scene in Steven Spielberg's much maligned but hilarious World War II comedy &quot;1941,&quot; (1979) when Toshiro Mifune, playing a Japanese submarine commander, is under orders to destroy Hollywood from off the coast of Los Angeles. Mifune beams with pride after destroying the Ferris wheel at the Santa Monica pier. He thinks his mission is a success. He thinks he's conquered America -- just as North Korea probably thinks it has conquered us.&#10;&#10;But in a way it has. Have at it, guys. Sony has just created a ridiculous, yet dangerous, precedent.&#10;&#10;Watch the first episode of the brilliant British series &quot;Black Mirror&quot; (which debuted in 2011 and is currently streaming on Netflix) to see just how this situation played out and will continue to play out within our society. In the episode, a British princess is kidnapped, and the ransom demand calls for the prime minister to go on live television and have sex with a pig. The world stops; the masses are enthralled; the news and social media go to town with the juicy fodder. Some cheer the prime minister's humiliation, some are disgusted, some are apathetic. But beneath it all, society is brought to its knees -- and the Twitterverse welcomes it because it is a damn good spectacle. &quot;Black Mirror&quot; -- the first episode, especially -- was incredibly prescient.&#10;&#10;Sony Pictures' &quot;The Interview&quot; is just a movie. It may be just a stupid comedy, but it is still a work of expression -- free expression! -- something that separates us from them.&#10;&#10;George Washington said, &quot;If the freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter.&quot; For anyone to silence our creative voice is just wrong. Laughably wrong.&#10;&#10;That is why Sony should not buckle to the pressure of these vile threats. I understand that people may have been afraid to go to the big chain theaters to see &quot;The Interview,&quot; and I respect their desire to protect themselves and their families. Sincere props, though, to the Alamo Drafthouse in Dallas/Fort Worth for announcing they would show the equally controversial film &quot;Team America: World Police&quot; (2004) in place of &quot;The Interview.&quot; Thursday afternoon, Paramount announced that they would not publicly screen the movie ,.&#10;&#10;Sony should seriously consider releasing the Seth Rogen-James Franco (and phenomenal Lizzy Caplan) comedy on-demand for a number of reasons :.&#10;&#10;One: Sony and all involved will get their incredible payday. Has any recent film received more free hype than &quot;The Interview&quot;?&#10;&#10;Two: No theater will be harmed, even though theaters will lose potential revenue from the film.&#10;&#10;Three: Most importantly, Sony -- and we, the United States -- will not give in to this ludicrous and obnoxious threat from an impotent and juvenile country.&#10;&#10;This is America. We stand by our freedom. Even if it's a stupid comedy."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 348 353 361"/>
+</xmi:XMI>

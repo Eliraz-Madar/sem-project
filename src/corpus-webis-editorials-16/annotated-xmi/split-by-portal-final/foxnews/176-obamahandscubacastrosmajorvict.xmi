@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4022" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="83" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="85" end="96" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="100" end="104" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="106" end="137" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="141" end="145" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="147" end="159" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="161" end="256" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="258" end="279" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="282" end="427" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="429" end="461" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="463" end="565" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="568" end="655" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="657" end="713" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="715" end="786" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="788" end="882" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="885" end="941" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="943" end="996" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="998" end="1060" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1062" end="1065" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1066" end="1090" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1092" end="1227" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1230" end="1300" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1302" end="1342" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1344" end="1434" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1436" end="1528" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1531" end="1555" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1557" end="1832" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1834" end="1964" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1967" end="2122" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2126" end="2243" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2246" end="2342" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2343" end="2434" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2436" end="2633" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2635" end="2670" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2672" end="2789" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2790" end="2796" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2797" end="2933" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2935" end="2997" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3000" end="3012" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3014" end="3231" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3234" end="3251" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3252" end="3335" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3337" end="3430" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3432" end="3545" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3547" end="3631" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3633" end="3810" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3812" end="3832" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3834" end="3837" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3838" end="3859" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3862" end="3932" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3934" end="3938" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3939" end="3948" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3950" end="4021" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="278" sofa="1" begin="0" end="4022" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/176-obamahandscubacastrosmajorvict.txt" offsetInSource="0" documentSize="4022" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="286" sofa="1" begin="0" end="4022" lastUpdate="2014-12-17T19:24:05Z" url="http://www.foxnews.com/opinion/2014/12/17/obama-hands-cuba-castros-major-victory-but-congress-can-still-stop-it/" portal="foxnews" authors="Mike Gonzalez" articleSum="Not only does President Obama’s action fail to advance freedom in Cuba, it&amp;#10;throws a lifeline to Cuba’s dictators, whose current supplier of funds,&amp;#10;Venezuela, is on the ropes because of plunging oil prices.&amp;#10;&amp;#10;" title="Obama hands Cuba's Castros a major victory, but Congress can still stop it."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Establishing ties with Cuba has been on President Obama's bucket list for some time. Health care -- done. Amnesty for illegal immigrants  -- done. Cuba -- next. This last one also has the added bonus point that it puts him right with the international left, which lionizes Castro.&#10;&#10;And the president will go on picking off the next items on the bucket list for the next two years of his term unless Congress decides to stop him. Should they work up the gumption, lawmakers will find they can do many things to stand up for the prerogatives of the legislative branch.&#10;&#10;Obviously, the release of the 65-year-old American hostage Alan Gross should be welcome. His &quot;crime&quot; was to bring computers to Jews on the island. For the last five years, he has been a victim of Cuba's state terrorism, just as 11 million Cubans have been held hostage by their government for the past five decades.&#10;&#10;Exchanging three hardened Cuban spies for Gross, however,  establishes an insulting moral and legal equivalency. The spies actions led to the death of an American in the 1990s, and they were duly convicted. Their release in exchange for Gross creates an incentive for rogue regimes and individual actors to kidnap Americans all over the world.&#10;&#10;Not only does President Obama's action fail to advance freedom in Cuba, it throws a lifeline to Cuba's dictators, whose current supplier of funds, Venezuela, is on the ropes because of plunging oil prices. It surrenders to the demands for normalization that the Castros have been making for decades.&#10;&#10;So what can Congress do?&#10;&#10;Right off the bat, Congress must make it crystal clear to President Obama that he lacks the authority to lift the embargo on Cuba, allow trade to take place between the two nations, let tourists to go to Cuba to bail out the regime or give Cuba have access to capital markets. U.S  law--the Helms-Burton Act of 1996--gives the Congress power to override any action taken by the executive to lift the embargo.&#10;&#10;In order to lift the embargo, the Cuban government would have to give the Cuban people a number of rights--of association, speech, political activity, etc  -- that President Obama obviously failed to secure in his 45-minute conversation with Cuban dictator Raul Castro Tuesday.&#10;&#10;Congress can also make clear to the president that there are statutory criteria that must be met before his administration can take Cuba off the State Department list of terrorism sponsors. The president must inform Congress that there has been a change of leadership and policies of the Cuban government and that Castro has given assurances that it will no longer support terrorist acts. Can President Obama do any of that?&#10;&#10;Senators should also make clear that they will put a hold on any ambassador that Mr  Obama nominates to serve in Cuba unless he can guarantee that the Cuban government is no longer a threat to the United States and has decided to grant freedom to people in Cuba. Sen  Marco Rubio, R-Fla , has already said he plans to do that.&#10;&#10;Additionally,  Congress can look into the possibility of using policy riders in the upcoming DHS appropriations debate in February and the Fiscal Year 2016 appropriations process to deny the president funds for setting up relations.&#10;&#10;Congress must act because President Obama has been completely feckless in his entire approach to Cuba. He received nothing in exchange for many substantial concessions made to the Communist regime. After five years of &quot;negotiations&quot; President Obama ended exactly where Raul Castro's demands began five years ago. As Senator Marco Rubio said, President &quot;Obama is the worst negotiator since Carter.&quot;&#10;&#10;Mr  Obama's statement was filled with Havana's communist talking points, such as affirming that Cubans are poor and unfree because of the embargo, or that Cuba was a U.S  colony. None of that is true, and yet Mr  Obama said it.&#10;&#10;Congress must act to limit the damage inherent in this Havana Giveaway. Left unchecked, Obama will simply move on to the next misguided item on his bucket list."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 286"/>
+</xmi:XMI>

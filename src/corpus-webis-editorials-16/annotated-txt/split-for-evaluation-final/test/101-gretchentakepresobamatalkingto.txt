@@ -1,0 +1,71 @@
+0	title	Gretchen's Take: Pres  Obama talking to YouTube stars right move?
+-1	par-sep	
+1	continued	If
+2	continued	there'
+3	continued	s one thing
+4	continued	this administration is really good at -- its messaging 
+5	continued	--
+6	assumption	specifically to millennials in 2008 and 2012
+7	no-unit	.
+-1	par-sep	
+8	no-unit	Yes
+9	no-unit	.
+10	continued	Any political candidate thinking about
+11	continued	becoming president in 2016
+12	continued	will need
+13	continued	to figure out
+14	continued	how
+15	continued	to take advantage of all internet and social media avenues
+16	continued	to maximize
+17	assumption	their exposure in every place possible
+18	no-unit	.
+19	assumption	Is going to YouTube stars after something as important as the State of the Union the right move?
+20	continued	I don'
+21	continued	t think
+22	continued	it would have been that big of a deal -- if 
+23	continued	--
+24	assumption	he had also mixed in a few more serious interviews along with it
+25	no-unit	.
+26	assumption	We live in serious times
+27	no-unit	.
+-1	par-sep	
+28	continued	We can't just turn a blind eye and take a selfie
+29	continued	and
+30	assumption	pretend everything is a-ok
+31	no-unit	.
+32	no-unit	Especially	Modd-NU
+33	continued	when
+34	assumption	there will apparently not be any photo of the president with Israeli Prime Minister Benjamin Netanyahu
+35	continued	when
+36	continued	he comes
+37	assumption	to dc in early march
+38	no-unit	.
+-1	par-sep	
+39	continued	Having said that -- hats off to Bethany Mota
+40	continued	,
+41	continued	Hank Green and Glozell green for
+42	continued	using their smarts
+43	continued	to come up with YouTube videos
+44	other	that have attracted millions of hits
+45	no-unit	.
+46	continued	And now
+47	continued	---
+48	assumption	taking an interest in politics!
+49	continued	As	Modd-NU
+50	continued	Bethany readily admitted
+51	continued	...
+52	continued	"before
+53	continued	I came here
+54	continued	to do this interview for YouTube
+55	continued	,
+56	testimony	I never really followed politics that much."
+57	continued	can we hope now more people	modd-NU
+58	assumption	will be more politically informed?	m-question
+-1	par-sep	
+59	continued	Gretchen Carlson currently serves
+60	other	as anchor of FOX News Channel's (FNC) The Real Story with Gretchen Carlson (weekdays 2-3PM/ET)
+61	no-unit	.
+62	other	She joined the network in June of 2005
+63	no-unit	.
+64	no-unit	Click here for more information on Gretchen Carlson
+65	no-unit	.

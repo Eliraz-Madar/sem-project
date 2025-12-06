@@ -1,0 +1,120 @@
+0	title	Obama's Keystone veto threat is proof that climate activism works, no matter what the 'insiders' say.
+-1	par-sep	
+1	continued	When	Modd-NU
+2	continued	the news arrived from the White House on Tuesday
+3	continued	that Barack Obama would veto the GOP's Keystone pipeline bill
+4	continued	- or at least "that
+5	continued	the president would not sign this bill"
+6	continued	as
+7	anecdote	is
+8	continued	- I thought back to a poll
+9	anecdote	that the National Journal conducted of its "energy insiders" in the fall of 2011
+10	no-unit	,
+11	continued	just when	Modd-NU
+12	assumption	then issue was heating up
+13	no-unit	.
+14	continued	Nearly 92% of them thought
+15	statistics	Obama's administration would approve the pipeline
+16	no-unit	,
+17	no-unit	and
+18	continued	almost 71% said
+19	statistics	it would happen by the end of that year
+20	no-unit	.
+-1	par-sep	
+21	assumption	Keystone's not dead yet
+22	no-unit	-
+23	assumption	feckless Democrats in the Congress could make some kind of deal later this month or later this year
+24	no-unit	,
+25	no-unit	and
+26	continued	the president could still yield down the road to the endlessly corrupt State Department bureaucracy
+27	continued	that continues
+28	assumption	to push the pipeline
+29	no-unit	- but
+30	continued	it's pretty amazing
+31	continued	to see
+32	continued	what
+33	continued	happens
+34	continued	when
+35	assumption	people organize
+36	no-unit	.
+-1	par-sep	
+37	assumption	The fight against the XL pipeline began with indigenous people in Canada, and spread to ranchers along the pipeline route in places like Nebraska
+38	no-unit	.
+39	continued	And then, in the spring of 2011	Modd-NU
+40	continued	,	Modd-NU
+41	continued	when	Modd-NU
+42	anecdote	the climate scientist Jim Hansen pointed out the huge pool of carbon in the Canadian tar sands	cond
+43	no-unit	,	cond
+44	anecdote	the fight spread to those of us in the nascent climate movement
+45	no-unit	.
+46	continued	We had no real hope of
+47	assumption	stopping Keystone
+48	no-unit	-
+49	continued	as	Modd-NU
+50	continued	the National Journal poll indicated	Modd-NU
+51	continued	,	Modd-NU
+52	assumption	this seemed the most done of deals
+53	no-unit	- but
+54	continued	we also had no real choice but
+55	assumption	to try
+56	no-unit	.
+-1	par-sep	
+57	continued	And so people went to jail in larger numbers
+58	continued	than
+59	assumption	they had for many years, and wrote more emails to the Senate than on pretty much any issue in history, and made more public comments to the government than on any infrastructure project in history
+60	no-unit	.
+61	assumption	And all that effort didn't just tie up this one pipeline in knots
+62	no-unit	.
+63	continued	It also scared investors enough
+64	anecdote	that they shut down three huge planned new tar-sands mines, taking $17bn in capital and millions of tons of potential emissions off the table
+65	no-unit	.
+66	continued	And it helped embolden people
+67	assumption	to fight every other pipeline, and coal port, and frack field, and coal mine
+68	no-unit	.
+69	continued	The Keystone fights helped spur a full-on fossil-fuel resistance
+70	assumption	that now mounts a powerful challenge to the entire fossil-fuel industry at every single turn
+71	no-unit	.
+-1	par-sep	
+72	continued	It's not
+73	continued	as if
+74	assumption	we're winning the climate fight
+75	no-unit	-
+76	continued	the planet's temperature keeps
+77	assumption	rising
+78	no-unit	.
+79	continued	But we're not losing it the way
+80	assumption	we used to
+81	no-unit	.
+82	no-unit	If
+83	assumption	the president sticks to his word
+84	no-unit	,
+85	assumption	this will be the first major fossil-fuel project ever shut down because of its effect on the climate
+86	no-unit	.
+87	continued	The IOU
+88	continued	that the president and the Chinese wrote in November about future carbon emissions
+89	continued	is a nice piece of paper
+90	assumption	that hopefully will do great things in the decades ahead
+91	no-unit	- but
+92	assumption	the Keystone denial is cash on the barrelhead
+93	no-unit	.
+94	assumption	It's actually keeping some carbon in the ground
+95	no-unit	.
+-1	par-sep	
+96	assumption	The fossil-fuel industry's aura of invincibility is gone
+97	no-unit	.
+98	assumption	They've got all the money on the planet
+99	no-unit	,
+100	no-unit	but
+101	assumption	they no longer have unencumbered political power
+102	no-unit	.
+103	assumption	Science counts, too, and so do the passion, spirit and creativity of an awakened movement from the outside, from the ground-up
+104	no-unit	.
+105	continued	So the "energy insiders" of Washington are going
+106	continued	to have
+107	assumption	to recalculate the odds
+108	no-unit	.
+109	continued	Because	Modd-NU
+110	continued	no one's going
+111	continued	to believe that
+112	assumption	any of these fights are impossible any more
+113	no-unit	.

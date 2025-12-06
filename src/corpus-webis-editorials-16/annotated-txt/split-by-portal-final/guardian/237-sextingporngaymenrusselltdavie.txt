@@ -1,0 +1,209 @@
+0	title	Sexting may make porn stars of us all, but you don't have to be an Adonis.
+-1	par-sep	
+1	no-unit	Sexting
+2	no-unit	.
+3	no-unit	Belfies
+4	no-unit	.
+5	no-unit	Cock shots
+6	no-unit	.
+7	no-unit	Instagrammed abs
+8	no-unit	.
+9	no-unit	WhatsApp filth chats
+10	no-unit	.
+11	no-unit	Cam-to- cam sessions with strangers in Rio (or Hull) Xtube videos of faceless, face- sitting civil servants
+12	no-unit	.
+13	assumption	Can I take your number, asks modern Britain
+14	no-unit	,
+15	no-unit	I'll send you a six-minute film of
+16	no-unit	me masturbating
+17	no-unit	.
+-1	par-sep	
+18	assumption	We're all porn stars now
+19	no-unit	.
+20	assumption	Technology hasn't merely flung off religion's centuries-long chastity belt but also provided live footage of people in suburban bedrooms flinging off chastity belts, metaphorically and literally
+21	no-unit	.
+22	assumption	Google it	imp
+23	no-unit	.
+24	assumption	You'll be horrified by their choice of curtains
+25	no-unit	.
+-1	par-sep	
+26	continued	The pornification of contemporary life is so vast and so sudden
+27	continued	we have had no time
+28	continued	to quantify it
+29	continued	,
+30	continued	or
+31	assumption	even behold it
+32	no-unit	.
+33	continued	But there is deepening concern
+34	continued	that the reduction and commodification of human beings to mere body parts 
+35	continued	-
+36	continued	walking, talking sex toys
+37	assumption	- is having a greater effect on gay men
+38	no-unit	.
+39	continued	Russell T Davies, a screenwriter of remarkable gifts
+40	continued	who does not so much hold a mirror up to societal sensibilities
+41	continued	as
+42	continued	kick them into our retinas
+43	continued	,
+44	anecdote	thinks so
+45	no-unit	.
+46	assumption	He straddles the subject in his latest, much heralded gay dramas: Cucumber, Banana and Tofu
+47	no-unit	.
+-1	par-sep	
+48	continued	In an interview with the Radio Times he worries
+49	anecdote	that texting penis pictures "is the most normal thing in the world" among gay men, with bleak consequences
+50	no-unit	.
+51	testimony	"That's the grammar!
+52	testimony	That's flirting!
+53	continued	That's extraordinary
+54	continued	,
+55	testimony	isn't it?
+56	continued	That's
+57	continued	got
+58	continued	to create body pressures
+59	continued	,
+60	continued	hasn't it?"
+61	testimony	he added
+62	no-unit	.
+-1	par-sep	
+63	continued	It certainly will not help, nestled in an increasingly narcissistic wider culture
+64	continued	that glistens puddle-deep
+65	continued	as
+66	assumption	we regard our reflections
+67	no-unit	.
+68	no-unit	But
+69	continued	how much
+70	continued	we should worry
+71	continued	,
+72	continued	and
+73	continued	how
+74	continued	grave the impact is on gay people - already suffering worse mental health 
+75	continued	-
+76	continued	depends on
+77	continued	how closely
+78	assumption	we frame Davies' perspective
+79	no-unit	.
+80	continued	If
+81	assumption	gay people existed only online or on phones 	cond
+82	no-unit	-	cond
+83	continued	deriving their sense of self wholly from reactions to their online sex ads
+84	continued	- then
+85	assumption	yes, this could be catastrophic
+86	no-unit	.
+-1	par-sep	
+87	assumption	But they do not
+88	no-unit	.
+89	no-unit	And
+90	continued	if
+91	continued	we pan out and rewind to the gay scene of the early 90s
+92	continued	,
+93	continued	before
+94	assumption	Davies' Queer as Folk awoke middle England to the wonders of rimming	cond
+95	no-unit	,	cond
+96	assumption	gay life was no less harsh
+97	no-unit	.
+-1	par-sep	
+98	continued	I was 16 and skinny
+99	continued	when
+100	anecdote	I first stepped into a gay bar in 1993
+101	no-unit	.
+102	assumption	Before websites and phone apps, pubs and clubs were much more sexualised than today
+103	no-unit	.
+104	continued	No amount of online objectification compares to, say, the Brief Encounter, a long narrow bar in central London
+105	continued	,
+106	continued	in which one could consider
+107	continued	it an achievement
+108	continued	to order a pint without a stranger's finger
+109	assumption	inserting itself somewhere
+110	no-unit	.
+-1	par-sep	
+111	assumption	The other great difference was the message blaring out across gay culture
+112	no-unit	:
+113	continued	you are only desirable
+114	continued	if
+115	assumption	you are an Adonis - a "Muscle Mary": no pecs, no sex
+116	no-unit	.
+117	continued	Many felt unwelcome
+118	continued	,
+119	assumption	inadequate
+120	no-unit	.
+121	assumption	It was, say some, a reaction to the extreme wasting suffered by thousands during the Aids crisis
+122	no-unit	.
+123	continued	I remember the dire contrast 
+124	continued	-
+125	anecdote	a crowd of pumped-up tits and, in the corner, a wheelchair cradling a still-breathing skeleton
+126	no-unit	.
+127	assumption	People turned away in terror
+128	no-unit	.
+129	assumption	And then ran to the gym
+130	no-unit	.
+-1	par-sep	
+131	no-unit	Now
+132	no-unit	,
+133	assumption	thanks to mobiles and the internet, there is a new message
+134	no-unit	:
+135	assumption	different body shapes are desirable
+136	no-unit	.
+137	continued	Plump, hairy bear?
+138	assumption	There is a market for you
+139	no-unit	.
+140	continued	Older?
+141	assumption	Click here
+142	no-unit	.
+143	continued	Skinny?
+144	assumption	Hipsters are waiting for you
+145	no-unit	.
+-1	par-sep	
+146	no-unit	Yes
+147	no-unit	,
+148	continued	if
+149	assumption	you spend mere moments on Grindr or Scruff
+150	assumption	you will find a QC, a builder or a nurse reduced to a thumbnail fuck-me photo	cond
+151	assumption	(it's all terribly dignified)
+152	no-unit	,
+153	no-unit	but
+154	assumption	there is at least some appreciation of diversity
+155	no-unit	.
+-1	par-sep	
+156	assumption	Progress bumbles
+157	no-unit	,
+158	continued	faltering before
+159	assumption	forging ahead
+160	no-unit	.
+161	assumption	This happened with gay rights
+162	no-unit	,
+163	no-unit	and
+164	assumption	it will happen with gay culture
+165	no-unit	.
+166	continued	Many might sext but will also consider
+167	continued	what
+168	continued	it means
+169	continued	and
+170	continued	how
+171	assumption	it feels
+172	no-unit	.
+173	assumption	The wellbeing and mental health of LGBT people has never been so prominent in conversation
+174	no-unit	-
+175	assumption	just as relevant services are cut
+176	no-unit	.
+177	assumption	We are, at last, contemplating the internal damage from homophobic hostility
+178	no-unit	.
+-1	par-sep	
+179	continued	It is no wonder
+180	assumption	we crave distraction
+181	no-unit	.
+182	continued	We just need
+183	continued	to put our phones down long enough
+184	continued	to ask for support, for such services
+185	continued	to be reinstated, and to ask those
+186	continued	who bully
+187	continued	,
+188	continued	degrade and derail equality
+189	continued	:
+190	continued	why
+191	assumption	do you hate us?
+192	continued	They are often easy
+193	assumption	to find
+194	no-unit	.
+195	assumption	They're the married ones lurking in gay chat rooms with their faces concealed
+196	no-unit	.

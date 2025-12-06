@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3520" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="125" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="127" end="217" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="219" end="253" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="256" end="291" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="293" end="300" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="301" end="352" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="354" end="412" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="414" end="607" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="609" end="655" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="658" end="743" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="745" end="887" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="890" end="893" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="894" end="991" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="993" end="1141" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1143" end="1232" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1233" end="1317" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1318" end="1327" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1329" end="1399" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1402" end="1626" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1628" end="1724" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1727" end="1823" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1825" end="1880" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1882" end="2030" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2032" end="2131" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2134" end="2209" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2214" end="2293" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2295" end="2318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2324" end="2336" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2338" end="2481" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2482" end="2485" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2486" end="2497" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2500" end="2625" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2627" end="2781" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2783" end="2815" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2817" end="2820" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2821" end="2948" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2951" end="3135" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3136" end="3141" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3142" end="3211" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3213" end="3290" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3292" end="3370" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3372" end="3501" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3504" end="3519" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="228" sofa="1" begin="0" end="3520" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/187-oscarsdeliriummadnesscriticsst.txt" offsetInSource="0" documentSize="3520" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="236" sofa="1" begin="0" end="3520" lastUpdate="2015-01-14T17:46:08Z" url="http://www.theguardian.com/commentisfree/2015/jan/14/oscars-delirium-madness-critics-star-struck" portal="guardian" authors="Peter Bradshaw" articleSum="Peter Bradshaw: Just as patients can fall in love with their psychoanalysts, so movie journalists can take these prizes to heart" title="Oscars delirium: a seasonal condition in which even critics become starstruck."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="With the announcement of the Oscar nominations, we shall undoubtedly see examples of what I call &quot;awards season transference&quot;, a strange phenomenon that afflicts film journalists called upon to comment on radio and TV. I myself am an occasional sufferer.&#10;&#10;It's simply the delirium in the air. Just as patients can fall in love with their psychoanalysts, so movie journalists can take these prizes very personally. Critics who are so airily humorous and drily detached the rest of the year will sternly announce that they are actually pretty angry or upset that their personal favourite hasn't been nominated. They will undergo a radical personality change.&#10;&#10;Having steadfastly refused to as much as sip the Kool-Aid for the preceding 12 months, they suddenly glug down about a gallon of it in five minutes and effectively proclaim their deep personal stake in what happens on Oscar night.&#10;&#10;And what is seen as good news produces even more extraordinary behaviour: a kind of luvvyism-by-proxy. Actual grownup journalists with mortgages and adult responsibilities will coo: &quot;I'm just so delighted for Meryl ...&quot; or &quot;I'm so happy for Emily ...&quot;&#10;&#10;Did these starstruck reporters meet the celebs briefly at some press junket or interview? Did these stars convince these poor unfamous journalists that they were their mates? I fear so. And they are therefore brilliant actors, and deserve every Oscar going.&#10;&#10;Confectionery lovers are enraged at news that the US owners of Cadbury have been tampering with the recipe for the Cadbury's Creme Egg, and at what they say is an outrageous lack of any consultative process with the consumer. The shell is no longer made from Cadbury's Dairy Milk but from the inferior &quot;standard cocoa mix&quot;.&#10;&#10;This insidious messing with its components could provoke an Indian mutiny among Creme Egg lovers. Surely we need one of those change.org online petitions. I personally have never quite got over my childhood suspicion that the spelling &quot;creme&quot; means that the Creme Egg is not in fact made of actual cream. But I have been prepared to put these considerations to one side in the cause of continued snacking.&#10;&#10;For me, however, this is not the worst snack-related catastrophe imaginable. If Pringles started tinkering with the recipe for their Sour Cream &amp; Onion flavour, that would be appalling. If,  for example, they started using a kind of artificial &quot;creme&quot; instead of &quot;cream&quot;, and introduced some form of artificial substitute instead of actual onions  ... Unthinkable.&#10;&#10;There are new and interesting reasons to relish the imminent release of Paul Thomas Anderson's fascinating film Inherent Vice, based on Thomas Pynchon's novel of the same name: a quasi-noir about a bleary stoner private detective on the trail of his ex-girlfriend's kidnapped lover. It is set in Los Angeles in 1970, and its black-comic tone of paranoia is crucially set by the horrendous killings carried out in that era by the Charles Manson gang.&#10;&#10;Manson passionately wanted those killings to trigger an apocalyptic race war, and was every bit as serious about his ideological vision as the Charlie Hebdo murderers were about theirs - and as an American political issue, racial tension was and is real enough. But of course no one took Charlie Manson seriously as a revolutionary warrior. And Thomas Pynchon and Paul Thomas Anderson find the right register to respond: with comedy, scorn and a resilient and healthy sense of surreality and the absurd that, however dark, absorbs and transcends hate.&#10;&#10;@PeterBradshaw1."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 236"/>
+</xmi:XMI>

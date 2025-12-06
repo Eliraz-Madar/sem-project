@@ -1,0 +1,277 @@
+0	title	Why Tunisia succeeded where Egypt failed.
+-1	par-sep	
+1	assumption	The coincidence couldn't be more striking
+2	no-unit	.
+3	continued	As
+4	continued	Tunisians prepare for a run-off in their first full presidential elections
+5	continued	,
+6	continued	an Egyptian court has declared
+7	anecdote	invalid all remaining murder and corruption charges against former President Hosni Mubarak
+8	no-unit	,
+9	continued	which stemmed from his three decades of misrule and the hundreds killed in the brutal crackdown
+10	continued	he launched
+11	assumption	to preserve it
+12	no-unit	.
+-1	par-sep	
+13	no-unit	While
+14	continued	denizens of Tunis debate
+15	continued	whether
+16	assumption	interim President Moncef Marzouki or Ben Ali era veteran Beji Caid Essebsi can best move the country forward
+17	no-unit	,
+18	continued	security forces in Cairo fired on crowds
+19	continued	who attempted
+20	continued	to enter
+21	continued	Tahrir Square, the erstwhile centre of the revolution, to protest the Mubarak decision
+22	continued	,
+23	anecdote	killing at least one person while arresting dozens
+24	no-unit	.
+-1	par-sep	
+25	continued	The untold thousands of peaceful protesters and activists rotting in Egypt's jails and the cult of personality today
+26	continued	surrounding President Abdel Fattah el
+27	continued	-
+28	continued	Sisi tell the story of
+29	continued	how
+30	continued	the reluctant decision by Tahrir's revolutionaries
+31	continued	to agree to a military-led transition
+32	assumption	turned out
+33	no-unit	.
+-1	par-sep	
+34	assumption	In Tunisia, the elements of the state, such as the interior ministry, remain bastions of the ancien regime
+35	no-unit	.
+36	assumption	But the country has undeniably moved further than any Arab country towards a real and sustainable democracy
+37	no-unit	.
+38	assumption	This should not surprise anyone familiar with Tunisia's history
+39	no-unit	,
+40	continued	as	Modd-NU
+41	continued	the country boasts the Arab - indeed, Muslim 
+42	continued	-
+43	anecdote	world's first modern constitution, from 1861, and has long been among the most cosmopolitan and open in the region
+44	no-unit	.
+-1	par-sep	
+45	continued	But the central issue today is
+46	continued	precisely how
+47	assumption	the country built its post-Ben Ali leadership
+48	no-unit	.
+49	continued	Whatever	Modd-NU	
+50	continued	one wants	Modd-NU
+51	continued	to say about the Islamist Nahda Party	Modd-NU
+52	continued	,
+53	anecdote	its spiritual and political leader Rachid Ghannoushi re-entered Tunisian politics with a long history of supporting pluralism and democracy
+54	no-unit	.
+55	no-unit	And
+56	continued	when	Modd-NU
+57	continued	it was clear
+58	continued	that the party could not govern effectively
+59	continued	,
+60	anecdote	it ceded power and agreed to new elections
+61	no-unit	,
+62	no-unit	while
+63	assumption	members have engaged in public self-criticism about its failings
+64	no-unit	.
+-1	par-sep	
+65	continued	Equally	Modd-NU
+66	continued	if	Modd-NU
+67	continued	not more important	Modd-NU
+68	continued	,	Modd-NU
+69	continued	Marzouki is one of the Arab world's
+70	anecdote	most respected human rights figures
+71	no-unit	,
+72	anecdote	whose Congress for the Republic Party has brought together various opposition tendencies since its creation in 2001
+73	no-unit	.
+-1	par-sep	
+74	assumption	His term in office has been far from a sterling success
+75	no-unit	-
+76	continued	it could not have been otherwise
+77	continued	,
+78	continued	given the Herculean task of
+79	assumption	building a new governing system on the still functioning body of Ben Ali's mafia state
+80	no-unit	.
+-1	par-sep	
+81	continued	But despite political assassinations, flaring
+82	continued	religious extremism, and deep- seated economic problems
+83	continued	,
+84	continued	the country has moved
+85	assumption	to solidify a new civil and democratic political system
+86	no-unit	.
+87	assumption	The contrast with the Egyptian post-revolutionary leadership couldn't be clearer
+88	no-unit	.
+-1	par-sep	
+89	continued	There are many structural reasons
+90	continued	why
+91	continued	Tunisia has progressed politically
+92	continued	while
+93	continued	Egypt has seemingly returned to its pharaonic roots
+94	continued	(as
+95	continued	many commentators like
+96	assumption	to describe its penchant for authoritarian leaders)
+97	no-unit	.
+98	assumption	The most prominent are the exponentially greater power of the Egyptian military vis-a-vis its North African counterpart and its far larger, and poorer, population
+99	no-unit	.
+100	continued	But I would argue
+101	assumption	that the centrality, at least politically, of human rights to the national discourse has been one of the unheralded heroes of the post- revolutionary period
+102	no-unit	.
+103	assumption	Just compare Tunisia and its president with the situation in Egypt
+104	no-unit	.
+105	no-unit	As
+106	continued	Abdel Basset Hassan, head of the Arab Institute for Human Rights in Tunis and a long-time resident of Cairo, explained to me
+107	continued	when
+108	continued	we met in September
+109	continued	,
+110	testimony	human rights are clearly being institutionalised to a strong degree
+111	no-unit	.
+-1	par-sep	
+112	continued	The problem is
+113	assumption	that human rights is a frail political discourse
+114	no-unit	.
+115	continued	Whether
+116	continued	in the most "advanced" democracies like the United States and UK, or developing countries like Egypt and Tunisia
+117	continued	,
+118	assumption	it's easily swept aside by appeals to core national and/or religious identities and the creation of threats
+119	continued	whose defeat
+120	continued	inevitably requires
+121	assumption	watering down the protections afforded to all citizens
+122	no-unit	.
+123	assumption	More broadly, human rights exists in a contradictory political framework
+124	no-unit	:
+125	continued	In most societies they both require revolutionary change
+126	continued	to be fully implemented
+127	continued	and yet are routinely violated in revolutionary situations
+128	continued	where
+129	continued	one form of power is, more or less violently
+130	continued	,
+131	assumption	overpowering and superseding another
+132	no-unit	.
+-1	par-sep	
+133	continued	As
+134	continued	revolutions from Iran to Cuba have shown
+135	continued	,
+136	continued	its all too easy for revolutions fought in the name of human rights, justice and dignity
+137	assumption	to themselves produce violent and repressive systems
+138	no-unit	.
+-1	par-sep	
+139	no-unit	What's
+140	no-unit	more
+141	no-unit	,
+142	continued	human rights is intimately tied to a notion of individual personhood
+143	assumption	that can all too easily be hijacked to a kind of market fundamentalist liberalism
+144	continued	in which broad political freedom masks incredibly deep and destruction inequalities, exploitation, and repression - whether of colonised peoples "outremer"
+145	continued	or of
+146	assumption	working classes at home
+147	no-unit	.
+-1	par-sep	
+148	no-unit	Yet	Modd-NU
+149	no-unit	,	Modd-NU
+150	continued	 for anyone
+151	continued	who's experienced the Egyptian and Tunisian revolutions in action
+152	continued	,
+153	assumption	the power and importance of human rights is undeniable
+154	no-unit	.
+155	continued	It remains one of the most radical concepts of the modern era; first
+156	continued	,
+157	continued	because
+158	continued	it demands
+159	continued	recognising others
+160	continued	as
+161	continued	inherently equal
+162	continued	to oneself regardless of their differences
+163	assumption	- ethnic, racial, gender, religion, class, or nation
+164	no-unit	.
+165	no-unit	Second
+166	no-unit	,
+167	assumption	 they demand strict limitation on state power
+168	continued	which is inherently
+169	continued	and
+170	continued	,
+171	continued	unless
+172	continued	checked
+173	continued	,
+174	assumption	normatively abusive of citizens
+175	no-unit	.
+-1	par-sep	
+176	continued	And this is
+177	continued	where
+178	assumption	the situation in Tunisia remains perilous despite the smooth parliamentary and presidential elections of the last two months
+179	no-unit	.
+180	no-unit	While
+181	assumption	Marzouki's Congress for the Republic party represents a poorer and more traditional (and southern) component of Tunisian society
+182	no-unit	,
+183	continued	Essebsi's Nida Tounes Party is not merely tied to the old regime, but to the international financial interests
+184	assumption	to which it was beholden
+185	no-unit	.
+-1	par-sep	
+186	no-unit	Indeed	Modd-NU
+187	no-unit	,	Modd-NU
+188	continued	 the main threat in Tunisia today, in this regard, is not a religious
+189	continued	-
+190	continued	secular divide but left-neoliberal, with the two powerful parties working together
+191	continued	to suppress all opposition to
+192	continued	once again making
+193	continued	Tunisia the Arab world's "poster child" for a "broken down"
+194	assumption	neoliberal reform model
+195	continued	which has always produced
+196	continued	- and masked - the desperate inequalities
+197	assumption	that led to the revolution against Ben Ali in the first place
+198	no-unit	.
+-1	par-sep	
+199	continued	For decades, neoliberalism has produced the same results most everywhere
+200	assumption	it has been implemented: aggregate growth that mask growing inequality, increasing corruption, crime, environmental degradation and repression
+201	no-unit	.
+202	continued	The only check on such policies would be a strong and united left (the opposite of the present situation, by some accounts) centred broadly on labour rights, a fair distribution of wealth and resources and fighting against the corruption
+203	assumption	that fatally weakened the previous state
+204	no-unit	.
+-1	par-sep	
+205	continued	But one of the signature strengths of neoliberal ideologies, from Kansas to Cairo, is
+206	continued	precisely how efficiently
+207	continued	they motivate
+208	continued	people to support leaders and policies
+209	assumption	that are manifestly against their economic interests
+210	no-unit	.
+211	continued	A Nida Tounes-Nahda alignment would provide a powerful ideological and political cover for
+212	continued	retrenching the policies
+213	assumption	that brought Tunisia to the brink of revolution
+214	no-unit	.
+-1	par-sep	
+215	no-unit	On the other hand	Modd-NU
+216	continued	,
+217	continued	 there are more positive countervailing forces at work in Tunis
+218	assumption	that are cause for long-term hope
+219	no-unit	.
+220	anecdote	This process is exemplified by the establishment of Dar Essaida, or Saida House, a human rights centre located in and emerging from the local community in one of Tunis' poorest quarters
+221	no-unit	.
+222	continued	As
+223	continued	Hassan explained
+224	continued	,
+225	continued	encouraging the poor and working class
+226	continued	to
+227	continued	(re)
+228	continued	define the political and cultural discourses of human rights in ways
+229	continued	that reflect their struggles and desires
+230	testimony	marks an important moment in the evolution of human rights practice
+231	no-unit	.
+-1	par-sep	
+232	continued	"It's
+233	continued	about
+234	continued	implementing a complete vision
+235	continued	,
+236	continued	and
+237	continued	as
+238	continued	important
+239	continued	,
+240	continued	getting it out to the widest public,"
+241	testimony	Hassan declared
+242	no-unit	.
+243	continued	"This is the only way
+244	testimony	to strengthen advances in areas such as women's rights or constitutional reforms
+245	no-unit	.
+246	no-unit	But
+247	continued	the culture is harder
+248	testimony	to change
+249	no-unit	,
+250	no-unit	and
+251	testimony	you can't just root out all the networks of the former mafia state in one year, or even ten
+252	no-unit	.
+253	testimony	It's a long process
+254	no-unit	and
+255	continued	it's not fruitful
+256	continued	to use the angle of 'better or worse'
+257	testimony	to judge it now."

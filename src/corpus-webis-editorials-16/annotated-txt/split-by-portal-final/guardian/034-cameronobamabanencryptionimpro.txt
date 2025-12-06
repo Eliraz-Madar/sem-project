@@ -1,0 +1,192 @@
+0	title	Obama and Cameron's 'solutions' for cybersecurity will make the internet worse.
+-1	par-sep	
+1	continued	The current state of the US and UK governments' ass-backwards approach to cybersecurity was on full display this week
+2	continued	-
+3	continued	culminating with British Prime Minister David Cameron and President Obama meeting
+4	assumption	to discuss the issue at the White House on Friday
+5	no-unit	.
+6	continued	When	Modd-NU
+7	continued	it comes
+8	assumption	to cybersecurity
+9	no-unit	,
+10	continued	it seems
+11	continued	the UK and US want
+12	continued	to embrace every crazy idea except
+13	continued	what
+14	assumption	we know actually works
+15	no-unit	.
+-1	par-sep	
+16	continued	The UK's Cameron suggested earlier in the week
+17	continued	he wants
+18	anecdote	to outlaw certain forms of encryption
+19	no-unit	,
+20	assumption	which could potentially lead to some of the world's most popular messaging apps (like iMessage and WhatsApp) being banned in the UK
+21	no-unit	.
+22	continued	That speech had been ridiculed from all angles for the past few days, with
+23	continued	various experts labeling
+24	continued	it a nightmare for Internet security
+25	continued	- on par with authoritarian regimes such as Russia and China
+26	assumption	- and economically devastating for the British information technology industry
+27	no-unit	.
+-1	par-sep	
+28	continued	Meanwhile
+29	continued	,
+30	continued	 the White House has proposed a huge expansion of penalties under the highly-controversial law
+31	continued	that was used
+32	continued	to prosecute
+33	assumption	Reddit co-founder and privacy rights advocate Aaron Swartz
+34	no-unit	.
+35	no-unit	If
+36	assumption	passed	cond
+37	no-unit	,
+38	continued	the administration's proposal could further criminalize mundane Internet activity - for example
+39	continued	,
+40	continued	potentially allowing for a ten-year jail sentence for
+41	continued	sharing your HBO GO password 
+42	continued	-
+43	continued	all to supposedly target foreign hackers
+44	assumption	that the law would likely never reach
+45	no-unit	.
+-1	par-sep	
+46	no-unit	Less than 24 hours before Cameron-Obama the meeting
+47	no-unit	,
+48	continued	the Guardian published a secret report based on
+49	continued	previously unreleased Snowden documents showing
+50	continued	that the US government is fully aware
+51	continued	that encryption is vital for security
+52	continued	,
+53	continued	and
+54	continued	that the government risked
+55	continued	leaving
+56	continued	themselves vulnerable
+57	continued	if
+58	continued	they didn't start
+59	continued	implementing it on their own systems
+60	testimony	quicker
+61	no-unit	.
+62	assumption	The British government likely knows this too
+63	no-unit	:
+64	anecdote	many of their employees use email encryption
+65	no-unit	;
+66	no-unit	and
+67	continued	UK even recommend
+68	continued	citizens use encryption
+69	testimony	to protect their data on a government website
+70	no-unit	.
+-1	par-sep	
+71	continued	At the press conference after the meeting, Obama commendably didn't embrace Cameron's proposal
+72	continued	when
+73	assumption	asked about it
+74	no-unit	,
+75	no-unit	and
+76	continued	even Cameron seemed
+77	continued	to at least appear
+78	assumption	to back off his own anti-encryption proclamation
+79	no-unit	,
+80	continued	saying	Modd-NU
+81	continued	he's "not trying
+82	testimony	to enunciate some new doctrine."
+-1	par-sep	
+83	no-unit	But
+84	continued	just because	Modd-NU
+85	continued	Cameron's been proven
+86	continued	to be technically illiterate
+87	continued	and may be attempting
+88	assumption	to publicly back away from his most radical proposal
+89	no-unit	,
+90	continued	that doesn't mean
+91	assumption	that he won't later push forward
+92	no-unit	.
+93	assumption	FBI director Jim Comey proposed similar legislation to Cameron's just a few months ago
+94	no-unit	,
+95	no-unit	and
+96	continued	Cameron used eerily similar talking points in Washington on Friday	Modd-NU	
+97	continued	as	Modd-NU
+98	assumption	Comey did in late 2014
+99	no-unit	.
+100	assumption	Plus, the rest of Cameron's plan is downright scary for Internet privacy even without a formal encryption ban
+101	no-unit	.
+-1	par-sep	
+102	continued	And then there's the White House's so-called solution to the cybersecurity problem
+103	continued	,
+104	anecdote	which they unveiled earlier this week
+105	no-unit	.
+106	continued	President Obama introduced
+107	continued	it saying
+108	continued	we had
+109	anecdote	to do something about incidents like the headline-grabbing Sony hack, or the juvenile hijacking of US Central Command's twitter account
+110	no-unit	-
+111	no-unit	but
+112	continued	what
+113	continued	he didn't say
+114	continued	was
+115	assumption	that those proposals wouldn't have stopped those attacks at all
+116	no-unit	.
+-1	par-sep	
+117	continued	Part of the Obama administration's proposal would dramatically expand the Computer Fraud and Abuse Act, the oft-abused and notorious statute
+118	continued	that the Justice Department used
+119	assumption	to threaten the late Internet activist Aaron Swartz with 35 years in jail
+120	no-unit	.
+121	continued	(Aaron later took his own life while
+122	anecdote	awaiting trial
+123	no-unit	.)
+124	continued	The CFAA already has incredibly harsh penalties, so much so
+125	continued	that there's been a movement for years
+126	assumption	to reduce them
+127	no-unit	.
+128	no-unit	And
+129	continued	how
+130	continued	the administration thinks
+131	continued	increasing CFAA penalties is going
+132	continued	to worry either North Korean hackers or ISIS sympathizers (or
+133	continued	more likely pranksters)
+134	continued	who take advantage of negligent password practices
+135	assumption	is anyone's guess
+136	no-unit	.
+-1	par-sep	
+137	continued	It would also put countless security researchers at further risk of prosecution, the exact type of people
+138	continued	the government should
+139	assumption	consulting with
+140	no-unit	before making these ill-thought proposals, not driving underground
+141	no-unit	.
+-1	par-sep	
+142	no-unit	At the same time
+143	no-unit	,
+144	anecdote	 Congress has re-introduced their annual "info-sharing" cybersecurity bill
+145	no-unit	,
+146	continued	which is really just a thinly-veiled way
+147	assumption	to siphon off more of Americans' private data without court oversight
+148	no-unit	.
+149	continued	As
+150	continued	EFF put it
+151	continued	,
+152	continued	the bill "offered new authorities
+153	continued	that could be abused by companies
+154	continued	to spy on users
+155	continued	,
+156	continued	and offered broad legal immunity for
+157	testimony	disclosing the information obtained with the government
+158	no-unit	.
+159	continued	Sometimes they even granted companies the ability
+160	continued	to 'hack back'
+161	continued	...
+162	testimony	a perfect storm threatening our online privacy."
+163	assumption	The President's alternative bill is a bit less sweeping, but not by much
+164	no-unit	.
+-1	par-sep	
+165	continued	So, Congress and Obama seem
+166	continued	to be finally on the same page about something: harsher penalties
+167	continued	that won't reach the hackers
+168	continued	they were worried about
+169	continued	and invasive "info-sharing"
+170	continued	that doesn't come close to
+171	assumption	solving existing problems
+172	no-unit	.
+173	continued	God forbid
+174	continued	there be a full rebirth of the US-UK relationship
+175	continued	,
+176	continued	or
+177	other	that both sides of the Atlantic seek a full, two-state ban on encryption
+178	no-unit	.
+179	assumption	Even full government gridlock would be better than that
+180	no-unit	.

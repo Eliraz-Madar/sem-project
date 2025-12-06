@@ -1,0 +1,148 @@
+0	title	Assad's crumbling presidency.
+-1	par-sep	
+1	continued	Syria's existence as a country continues
+2	assumption	to haemorrhage
+3	no-unit	as
+4	assumption	its people flee
+5	no-unit	,
+6	assumption	borders disappear
+7	no-unit	and
+8	assumption	cities crumble
+9	no-unit	.
+10	assumption	The country's heritage is being dug up, stolen or blasted to smithereens and the most effective armed groups in the country
+11	no-unit	,
+12	continued	whether
+13	continued	ISIL or Hezbollah on the ground or Israel and US in the air, operate under flags
+14	common-ground	that are not Syria's own
+15	no-unit	.
+-1	par-sep	
+16	continued	Syria has become a stage for a plethora of violent actors and at the centre
+17	continued	is the seemingly immovable object of President Bashar al-Assad, the 49-year-old
+18	assumption	who has been in power since 2000 following three decades of his father's rule
+19	no-unit	.
+-1	par-sep	
+20	continued	The brutal events in Paris have sparked another conversation across global media on the scourge of Islamic terrorism and led
+21	continued	the Independent's Middle East correspondent, Patrick Cockburn, to suggest
+22	continued	that people forget about overthrowing Assad
+23	continued	and instead should concentrate on
+24	continued	building a common cause with Damascus
+25	testimony	that "could unite against violent Sunni jihadism"
+26	no-unit	.
+-1	par-sep	
+27	no-unit	However
+28	no-unit	,
+29	continued	while	Modd-NU
+30	assumption	Assad is still there nominally in power
+31	no-unit	,
+32	continued	a closer look reveals
+33	assumption	that he is more marginalised than ever and an increasingly irrelevant political actor on a stage dominated by others
+34	no-unit	.
+35	assumption	This authoritarian facade must be taken into account in future policy towards the beleaguered country
+36	no-unit	.
+-1	par-sep	
+37	no-unit	Start by
+38	no-unit	asking the question
+39	no-unit	;
+40	continued	what
+41	assumption	is Assad still president of?	m-question
+42	statistics	Half of the country have fled their homes
+43	no-unit	,
+44	statistics	over 200,000 are dead
+45	no-unit	and
+46	statistics	a million are wounded
+47	no-unit	.
+48	continued	The UN estimates
+49	continued	that it will cost $8.4bn in 2015
+50	statistics	to look after Syrians affected by war
+51	no-unit	and
+52	statistics	more than 6,500 cases of typhoid and 4,200 cases of measles were reported in 2014
+53	no-unit	.
+-1	par-sep	
+54	continued	Although	Modd-NU
+55	anecdote	"government forces" are supposedly in control of some 50 percent of the territory
+56	continued	the devolution of power to militias as well as Iranian and Hezbollah forces means
+57	assumption	that Assad's command and control is stretched like never before
+58	no-unit	.
+-1	par-sep	
+59	continued	Meanwhile in the east	Modd-NU
+60	continued	,	Modd-NU
+61	assumption	ISIL runs a bus network out if its capital Raqqa
+62	no-unit	and
+63	continued	despite	Modd-NU
+64	assumption	Kobane being in stalemate
+65	no-unit	,
+66	assumption	the Kurds are increasingly sketching out the makings of a statelet in the northeast of the country
+67	no-unit	.
+-1	par-sep	
+68	continued	The country's borders are disappearing as functional entities with talk of a Turkish buffer zone in the north and all sorts of
+69	assumption	foreign fighters (and John McCain) entering the country at will
+70	no-unit	.
+-1	par-sep	
+71	continued	A recent Middle East Eye report outlined
+72	continued	that the "Syrian economy has effectively ceased to function
+73	continued	,
+74	continued	and
+75	testimony	President Bashar al-Assad's government is almost entirely dependent on loans from Iran and some aid from the Russian Federation"
+76	no-unit	.
+-1	par-sep	
+77	continued	Towards the end of last year the desperate position saw
+78	anecdote	Damascus even issue a new "Martyrs Stamp Duty"
+79	no-unit	,
+80	assumption	whose proceeds will go to the families of fallen soldiers and other militia members
+81	no-unit	.
+-1	par-sep	
+82	anecdote	Aleppo, the country's largest city and once commercial hub, is being pummelled by a regular supply of barrel bombs with the hospitals being forced underground and ISIL forces closing in
+83	no-unit	.
+-1	par-sep	
+84	continued	Assad himself is seen
+85	assumption	less and less
+86	no-unit	.
+87	no-unit	On a New Year's Eve trip to
+88	no-unit	what
+89	no-unit	was said
+90	no-unit	to be "the frontlines" in his own capital
+91	no-unit	,
+92	assumption	the president's smiles and patriotic music couldn't disguise the occasional crack of background gunfire
+93	no-unit	.
+-1	par-sep	
+94	anecdote	Several days later the Assad publicity blitz continued with a very public appearance at a prayer in a mosque in Damascus
+95	no-unit	.
+-1	par-sep	
+96	continued	The New York Times were so surprised
+97	continued	to see him
+98	continued	that they pointed out
+99	anecdote	he'd shaved his moustache
+100	no-unit	,
+101	continued	although	Modd-NU
+102	continued	others claimed
+103	anecdote	it has simply gone white, perhaps due the stress of the continued conflict
+104	no-unit	.
+-1	par-sep	
+105	no-unit	Yet
+106	no-unit	,
+107	assumption	 the focus on Assad the individual, rather than Syria the country, and the narrative of government against the opposition, doesn't explain the hollowing out of the former and the fragmentation of the latter
+108	no-unit	.
+-1	par-sep	
+109	assumption	This time last year the Geneva II Peace Conference marked the high water mark of the Syrian opposition as a coherent and seemingly viable actor
+110	no-unit	.
+111	continued	Since then, the corrosiveness of ISIL's rapid spread and the increased brutality of the conflict has seemingly made
+112	assumption	an immoderate crisis an impossible place for moderate actors such as the FSA and the National Syrian Coalition
+113	no-unit	.
+-1	par-sep	
+114	continued	Khaled Khoja was elected the new leader of the coalition at the start of the year and quickly signalled his unwillingness for them	Modd-NU
+115	continued	to attend another attempt at peace talks	Modd-NU
+116	continued	,	Modd-NU
+117	anecdote	this time organised by Russia
+118	no-unit	.
+-1	par-sep	
+119	continued	What
+120	continued	Syria is
+121	continued	and
+122	continued	what
+123	continued	it could eventually become
+124	continued	will have regional and global ramifications
+125	continued	that are hard
+126	assumption	to predict
+127	no-unit	.
+128	assumption	Among the most unlikely scenarios is the return of a unitary state with full control of territory within its borders under the effective sovereignty of Assad
+129	no-unit	.

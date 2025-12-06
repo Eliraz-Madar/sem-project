@@ -1,0 +1,450 @@
+0	title	Beyond New Year's Resolutions: Fifteen ways to improve your life in 2015.
+-1	par-sep	
+1	continued	New Year's resolutions often lose their power so quickly and completely
+2	common-ground	that they have become cliche
+3	no-unit	.
+4	continued	But there are real
+5	continued	,
+6	continued	easily achieved
+7	assumption	ways to positively impact your life beginning January 1
+8	no-unit	.
+9	anecdote	I've assembled a cheat sheet of 15
+10	no-unit	.
+11	assumption	They aren't in any particular order
+12	no-unit	,
+13	no-unit	so
+14	continued	you can pick any one
+15	other	to start with
+16	no-unit	.
+-1	par-sep	
+17	no-unit	If	cond
+18	assumption	you complete just five	cond
+19	no-unit	,	cond
+20	assumption	you'll notice a demonstrable improvement in your existence
+21	no-unit	.
+22	no-unit	But
+23	no-unit	if	cond
+24	assumption	you get through all 15	cond
+25	no-unit	,	cond
+26	assumption	you could remake your life
+27	no-unit	.
+-1	par-sep	
+28	no-unit	1
+29	no-unit	\.
+30	continued	Try
+31	continued	to recall one dream
+32	continued	you had as a kid
+33	continued	--
+34	continued	whether
+35	continued	it was
+36	continued	being a poet or a rock drummer or a multimillionaire stock trader
+37	continued	--
+38	assumption	and take just a single step in that direction
+39	no-unit	.
+40	no-unit	So often
+41	no-unit	,
+42	continued	the ideas
+43	continued	we had as children
+44	assumption	were good ones
+45	no-unit	,
+46	no-unit	and
+47	assumption	we abandoned them out of fear
+48	no-unit	.
+49	assumption	The step in the direction of your childhood dream can be very modest 
+50	no-unit	--
+51	no-unit	signing up for a symposium on poetry, scheduling a single drum lesson, buying a DVD on stock trading
+52	no-unit	.
+53	continued	Frozen dreams have a way of
+54	continued	thawing out rapidly
+55	continued	when
+56	continued	you warm
+57	assumption	them just a tiny bit
+58	no-unit	.
+-1	par-sep	
+59	no-unit	2
+60	no-unit	\.
+61	continued	Think of your life story	imo
+62	continued	,	imp
+63	continued	going all the way back to infancy, as an autobiographical book	imp
+64	assumption	that you can hold in your hands	imp
+65	no-unit	.
+66	no-unit	Now	Modd-NU
+67	no-unit	,	Modd-NU
+68	continued	 imagine
+69	continued	which page or paragraph
+70	continued	you are tempted
+71	continued	to tear out
+72	assumption	and remove from the story	imp
+73	no-unit	.
+74	continued	That page or paragraph might be the one
+75	continued	that makes
+76	assumption	you feel profoundly sad or powerless or guilty or ashamed
+77	no-unit	.
+78	no-unit	Next
+79	no-unit	,
+80	continued	 share it with someone	imp
+81	assumption	who knows you well but has never heard about that event or phase in your life	imp
+82	no-unit	.
+83	continued	Being willing
+84	continued	to disclose the events in life
+85	continued	we want
+86	continued	to turn a blind eye
+87	continued	to takes away the power
+88	assumption	those events have over us
+89	no-unit	.
+-1	par-sep	
+90	no-unit	3
+91	no-unit	\.
+92	assumption	Give a meaningful gift to a friend of yours on a random day -- not his birthday or her anniversary or Christmas	imp
+93	no-unit	.
+94	assumption	Giving gifts on those days is fine
+95	no-unit	,
+96	no-unit	but
+97	assumption	that isn't the same as an unexpected, unscheduled gift
+98	no-unit	.
+99	continued	Those are the ones
+100	continued	that feel
+101	continued	riskier
+102	continued	to give and have more power to bond you to others
+103	assumption	who receive them
+104	no-unit	.
+105	continued	And that's
+106	continued	because
+107	assumption	they're real and independent expressions of friendship, affection, admiration or love
+108	no-unit	.
+-1	par-sep	
+109	no-unit	4
+110	no-unit	\.
+111	continued	Send handwritten notes to three people
+112	continued	you admire most in the world, no matter
+113	assumption	how powerful or famous	imp
+114	no-unit	,
+115	continued	tell them sincerely
+116	continued	exactly why
+117	no-unit	you admire them
+118	continued	and ask
+119	assumption	to meet for 10 minutes	imp
+120	no-unit	.
+121	continued	There'
+122	continued	s a real chance
+123	assumption	one of them will take you up on the offer
+124	no-unit	.
+125	no-unit	And
+126	assumption	that one meeting could change you
+127	no-unit	,
+128	continued	because	Modd-NU
+129	assumption	great energy is contagious
+130	no-unit	and
+131	continued	being in the company of it
+132	assumption	can stay with you
+133	no-unit	.
+-1	par-sep	
+134	no-unit	5
+135	no-unit	\.
+136	continued	Give
+137	continued	some amount (no matter how small) to the charity
+138	assumption	you care most about	imp
+139	no-unit	.
+140	assumption	Giving is a miracle
+141	no-unit	,
+142	continued	because	Modd-NU
+143	continued	it helps others
+144	continued	while
+145	continued	also telling your unconscious mind
+146	continued	that yours is a life of abundance
+147	continued	,
+148	assumption	not scarcity
+149	no-unit	.
+150	assumption	And that invites more treasures into your existence
+151	no-unit	.
+-1	par-sep	
+152	no-unit	6
+153	no-unit	\.
+154	continued	Stop telling yourself
+155	continued	you love people	imp
+156	continued	just because	imp
+157	assumption	you grew up with them	imp
+158	no-unit	.
+159	assumption	This is a big one, but a really important one
+160	no-unit	.
+161	continued	Did your parents and siblings earn your love by	modd_UN
+162	anecdote	unconditionally loving you as a child?	m-question
+163	assumption	If so, great
+164	no-unit	.
+165	no-unit	But
+166	no-unit	if
+167	continued	you've been wishing
+168	continued	that had been the case and have felt unwilling
+169	continued	to let the dream of
+170	continued	having had
+171	continued	unconditionally loving
+172	assumption	parents or siblings slip away	cond
+173	no-unit	, then	cond
+174	assumption	loosen your grip	imp
+175	no-unit	.
+176	no-unit	If
+177	continued	the people
+178	continued	you grew up with
+179	continued	weren't focused on
+180	assumption	helping	cond
+181	assumption	you stay true to yourself
+182	no-unit	,
+183	assumption	then admit it to yourself	imp
+184	no-unit	.
+185	assumption	You might stop unconsciously recruiting people just like them into your life
+186	no-unit	.
+-1	par-sep	
+187	no-unit	7
+188	no-unit	\.
+189	assumption	Schedule an initial psychotherapy session
+190	no-unit	.
+191	continued	Psychotherapy is the gold standard way
+192	continued	to begin
+193	continued	to get
+194	continued	to know
+195	assumption	yourself more deeply
+196	no-unit	.
+197	continued	In a world of distractions and depersonalization, it remains the technique most reliably focused on
+198	assumption	restoring your connection to your true self
+199	no-unit	.
+200	no-unit	Hopefully
+201	no-unit	,
+202	continued	that first session will convince you of the power of psychotherapy
+203	assumption	to change your life
+204	no-unit	,
+205	no-unit	and
+206	assumption	you'll schedule more
+207	no-unit	.
+208	continued	No one with the financial ability
+209	continued	to be in psychotherapy
+210	continued	should deny
+211	assumption	himself or herself that transformational opportunity
+212	no-unit	.
+-1	par-sep	
+213	no-unit	8
+214	no-unit	\.
+215	assumption	Get angry about something unfair, say so out loud and don't stand for it	imp
+216	no-unit	.
+217	assumption	Anger gets a really bad rap in our culture
+218	no-unit	;
+219	continued	it's accused of everything from
+220	continued	destroying people spiritually to
+221	assumption	causing heart attacks
+222	no-unit	.
+223	continued	But suppressed anger can be more toxic	modd-ASM
+224	continued	.	Modd-NU
+225	continued	When	Modd-NU
+226	continued	you're offended by something
+227	continued	you hear about in the news
+228	continued	or
+229	continued	you see unfolding in your personal life, try
+230	continued	saying so
+231	continued	,
+232	continued	in no uncertain terms
+233	continued	,
+234	continued	when
+235	continued	you're asked about it -- or maybe
+236	continued	even if
+237	assumption	you aren't	modd-ASM
+238	no-unit	.
+239	continued	For those of you	Modd-NU
+240	continued	who have been living lives of quiet frustration	Modd-NU
+241	continued	,	Modd-NU
+242	continued	letting yourselves be very direct and very mad about something
+243	continued	that sincerely
+244	continued	outrages
+245	continued	you can start
+246	continued	to crack the shell
+247	assumption	that has your most powerful self inside it
+248	no-unit	.
+-1	par-sep	
+249	no-unit	9
+250	no-unit	\.
+251	continued	Take two minutes
+252	assumption	to think about life as a labyrinth	imp
+253	no-unit	.
+254	continued	Mazes are built
+255	continued	to frustrate people and get
+256	common-ground	them lost
+257	no-unit	.
+258	continued	They're full of dead ends designed
+259	continued	to make
+260	continued	people give up
+261	continued	and call for helicopters
+262	common-ground	to pluck them out
+263	no-unit	.
+264	no-unit	Not so with labyrinths
+265	no-unit	.
+266	common-ground	Labyrinths may wind this way and that way
+267	no-unit	.
+268	continued	They may take you far from
+269	continued	where
+270	continued	you thought
+271	anecdote	you were heading
+272	no-unit	.
+273	common-ground	But they always, always lead to the center
+274	no-unit	.
+275	continued	And that's
+276	continued	what
+277	assumption	life is like
+278	no-unit	.
+279	continued	Keep walking, keep your faith and life
+280	continued	will take you
+281	continued	where
+282	continued	you are supposed
+283	assumption	to go
+284	no-unit	.
+285	assumption	The turn toward the center could be just a few steps away	modd-ASM
+286	continued	,	Modd-NU
+287	continued	when	Modd-NU
+288	assumption	you least expect it	modd-ASM
+289	no-unit	.
+-1	par-sep	
+290	no-unit	10
+291	no-unit	\.
+292	assumption	Try praying, at least once	imp
+293	no-unit	.
+294	no-unit	If	cond
+295	assumption	you haven't prayed ever or haven't prayed lately
+296	no-unit	,
+297	continued	you'll discover
+298	continued	that the act of
+299	continued	praying for
+300	continued	what
+301	continued	you care deeply about
+302	continued	has the effect of
+303	continued	reminding you
+304	continued	what
+305	assumption	that thing or those things really are
+306	no-unit	.
+307	continued	It also has the effect of
+308	continued	reminding you
+309	continued	that there is a great power in the universe
+310	assumption	that you are a part of
+311	no-unit	.
+312	continued	There'
+313	continued	s something interesting about
+314	assumption	praying
+315	no-unit	;
+316	continued	even people
+317	continued	who say
+318	continued	they don't believe in God
+319	continued	are loathe
+320	continued	to pray for the opposite of
+321	continued	what
+322	assumption	they really want
+323	no-unit	.
+324	continued	How	modd-NU
+325	no-unit	come?
+326	continued	Is it because that, underneath all that cynicism
+327	continued	,
+328	assumption	they actually do believe?
+-1	par-sep	
+329	no-unit	11
+330	no-unit	\.
+331	assumption	Read "Franny and Zooey" by J.D  Salinger, "The War of Art" by Steven Pressfield or "Blue Dog" by George Rodrigue (or, even better, all three)	imp
+332	no-unit	.
+333	continued	These slim volumes have the power
+334	assumption	to transform people
+335	no-unit	,
+336	no-unit	and
+337	continued	I keep
+338	anecdote	handing them out to patients and friends
+339	no-unit	(along with 
+340	no-unit	--
+341	no-unit	please forgive the narcissism -- my book
+342	no-unit	,
+343	no-unit	"Living the Truth")
+344	no-unit	.
+-1	par-sep	
+345	no-unit	12
+346	no-unit	\.
+347	continued	Buy one piece of art
+348	continued	.
+349	continued	It doesn't need
+350	assumption	to be expensive
+351	no-unit	.
+352	continued	It just needs
+353	assumption	to appeal to you
+354	no-unit	.
+355	no-unit	Why?
+356	assumption	Because art is the antidote to our sometimes sterile, technologically driven culture
+357	no-unit	.
+358	continued	It makes
+359	continued	humanity go viral in a way
+360	assumption	that YouTube can't
+361	no-unit	.
+362	continued	It also confirms your connection to things
+363	assumption	that can't be measured -- like your personal vision of beauty
+364	no-unit	.
+-1	par-sep	
+365	no-unit	13
+366	no-unit	\.
+367	assumption	Watch the movie "Miracle," with Kurt Russell	imp
+368	no-unit	.
+369	assumption	This film about the 1980 U.S  Olympic men's hockey team defeating Russia's team is so good
+370	no-unit	,
+371	continued	it can convince
+372	assumption	you to take on the next great challenge in your life
+373	no-unit	.
+374	continued	I don't know anyone
+375	anecdote	who has watched it and been unaffected by it
+376	no-unit	.
+-1	par-sep	
+377	no-unit	14
+378	no-unit	\.
+379	continued	Tell your romantic partner one thing	imp
+380	continued	you would find exciting	imp
+381	assumption	that you have not yet told that person	imp
+382	no-unit	.
+383	continued	In my experience as a therapist, I've found
+384	anecdote	that people can remain strangers to one another, in terms of passion, even after 10 or 20 years of marriage
+385	no-unit	.
+386	assumption	We keep sexual secrets
+387	no-unit	.
+388	assumption	Let one out	imp
+389	no-unit	.
+390	continued	See
+391	continued	what
+392	assumption	happens	imp
+393	no-unit	.
+394	assumption	Take the risk	imp
+395	no-unit	.
+-1	par-sep	
+396	no-unit	15
+397	no-unit	\.
+398	assumption	Stand up for someone else	imp
+399	no-unit	.
+400	assumption	You'll have the opportunity in 2015
+401	no-unit	.
+402	other	I promise
+403	no-unit	.
+404	continued	Maybe in your home
+405	continued	.
+406	continued	Maybe in your neighborhood
+407	continued	.
+408	continued	Maybe at work
+409	continued	.
+410	assumption	Defending someone will reassure that person and empower you
+411	no-unit	.
+-1	par-sep	
+412	continued	So, there are your 15 keys to
+413	assumption	making 2015 a transformational year
+414	no-unit	.
+-1	par-sep	
+415	assumption	Don't delay	imp
+416	no-unit	.
+417	assumption	Start on the list January 1	imp
+418	no-unit	,
+419	no-unit	and
+420	continued	by this time next year, God willing
+421	continued	,
+422	assumption	you'll be ready for the 16 steps for 2016
+423	no-unit	.
+424	assumption	Like is life that: a never-ending process of self-improvement
+425	no-unit	.
+-1	par-sep	
+426	other	Dr  Keith Ablow is a psychiatrist and member of the Fox News Medical A-Team
+427	no-unit	.
+428	other	Dr  Ablow can be reached at info@keithablow.com
+429	no-unit	.

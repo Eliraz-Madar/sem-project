@@ -1,0 +1,207 @@
+0	title	Max Factor can't claim credit for Marilyn Monroe.
+-1	par-sep	
+1	continued	Max Factor has appointed Marilyn Monroe as its new "global ambassador", leaving
+2	continued	some people bemused at the idea of
+3	continued	selecting an ambassador
+4	assumption	who has been dead since 1962
+5	no-unit	.
+6	continued	They seem
+7	continued	to suspect
+8	assumption	this might limit her diplomatic utility
+9	no-unit	.
+10	continued	But Monroe represents
+11	continued	just what
+12	continued	Max Factor wants
+13	continued	to resuscitate: the glamour
+14	assumption	for which the company was once a byword
+15	no-unit	.
+-1	par-sep	
+16	anecdote	In the era of classic Hollywood (about 1920-1965), Max Factor ran the only cosmetic game in town
+17	no-unit	,
+18	anecdote	pioneering the use of makeup for cinema, and then, with his sons, adapting and selling those products commercially
+19	no-unit	.
+20	continued	Monroe remains
+21	common-ground	one of the most iconic Hollywood movie stars
+22	no-unit	,
+23	no-unit	and
+24	continued	Max Factor's spokeswoman said
+25	continued	they chose her
+26	continued	because
+27	testimony	she epitomises their history
+28	no-unit	.
+-1	par-sep	
+29	continued	"Marilyn
+30	continued	made the sultry red lip, creamy skin and dramatically lined eyes the most famous beauty look of the 1940s
+31	continued	,
+32	continued	and
+33	continued	it's a look
+34	continued	that continues
+35	continued	to dominate the beauty and fashion industry
+36	continued	.
+37	continued	It is the ultimate look
+38	continued	that defines glamour 
+39	continued	-
+40	continued	nothing else compares,"
+41	testimony	the spokeswoman said
+42	no-unit	.
+-1	par-sep	
+43	continued	The campaign will emphasise Monroe's metamorphosis
+44	continued	,
+45	continued	it was reported this week, from "mousey" Norma Jeane Mortenson to glamorous Marilyn Monroe, a decision
+46	assumption	that seems, at face value, rather canny
+47	no-unit	.
+48	assumption	Certainly it has stirred up a bit of welcome publicity around the campaign
+49	no-unit	,
+50	continued	which claims in particular
+51	continued	that it was Max Factor Jr's idea
+52	assumption	to bleach the star's naturally chestnut hair to that famous platinum blonde
+53	no-unit	.
+54	continued	The ad campaign reads: "From Norma Jeane to Marilyn Monroe
+55	continued	.
+56	testimony	Created By Max Factor."
+57	other	Hang on, boys
+58	no-unit	.
+59	assumption	Created by whom?	m-question
+-1	par-sep	
+60	no-unit	If
+61	continued	Max Factor wants
+62	assumption	to emphasise history
+63	continued	it should start by
+64	assumption	paying a little more attention to it
+65	no-unit	.
+66	anecdote	Monroe had her first - tiny - film role in 1947
+67	no-unit	;
+68	anecdote	she did not have her first starring role until 1952
+69	no-unit	.
+70	assumption	Throughout the 1940s, she was still "mousey" Norma Jeane
+71	no-unit	.
+72	anecdote	For my book on Monroe, I read every major biography then published, as well as many ancillary accounts - about 300 books in all
+73	no-unit	.
+74	continued	Not one reported
+75	continued	that Max Factor suggested
+76	anecdote	the aspiring starlet should bleach her hair
+77	no-unit	.
+78	assumption	I don't think any of them mentioned Max Factor at all
+79	no-unit	.
+80	no-unit	Instead	Modd-NU
+81	no-unit	,	Modd-NU
+82	continued	 nearly all credit a woman named Emmeline Snively, the head of Monroe's first modelling agency, with
+83	anecdote	whom she signed in 1945
+84	no-unit	.
+-1	par-sep	
+85	continued	Snively gave Marilyn lessons in fashion, lighting and grooming, and
+86	continued	,
+87	continued	most biographers report
+88	continued	,
+89	continued	recommended
+90	testimony	that she lighten her hair
+91	no-unit	,
+92	continued	"because
+93	testimony	a blonde could be photographed in any wardrobe and in any light"
+94	no-unit	.
+95	continued	By 1946 the model Norma Jeane had appeared on 33 magazine covers - quite a feat for a "mousey" young woman waiting
+96	anecdote	to be created by Max Factor
+97	no-unit	.
+-1	par-sep	
+98	continued	Marilyn Monroe was not created by Max Factor - or
+99	continued	by her studio head, Darryl F Zanuck
+100	continued	(who hated her)
+101	continued	;
+102	continued	or by her agent, Johnny Hyde
+103	continued	,
+104	continued	who paid
+105	continued	for
+106	continued	her to have minor plastic surgery (to the tip of her nose and her jawline)
+107	continued	and got her first big roles
+108	continued	;
+109	assumption	or by any of her directors, or husbands, or any other of a legion of men, and a handful of women
+110	no-unit	,
+111	continued	who have tried
+112	assumption	to claim the credit, now including Max Factor's heirs
+113	no-unit	.
+114	assumption	She was not created by makeup, in any sense
+115	no-unit	:
+116	continued	cosmetics were not sufficient
+117	assumption	to create Marilyn Monroe
+118	no-unit	,
+119	no-unit	and
+120	assumption	neither were other people
+121	no-unit	.
+122	continued	Emmeline Snively
+123	continued	herself said
+124	continued	that
+125	continued	what
+126	continued	distinguished the girl
+127	continued	she knew
+128	continued	was
+129	continued	how hard
+130	testimony	she worked
+131	no-unit	:
+132	continued	"She wanted
+133	continued	to learn
+134	continued	,
+135	continued	wanted
+136	continued	to be somebody, more than anybody
+137	testimony	I ever saw before in my life."
+-1	par-sep	
+138	continued	Everyone from Elton John to Joyce Carol Oates
+139	continued	(who should know better)
+140	assumption	has trotted out this tenacious, tiresome story
+141	no-unit	:
+142	continued	"ordinary"
+143	assumption	Norma Jeane was changed by someone else into the glamorous movie star Marilyn Monroe
+144	no-unit	.
+145	continued	But Norma Jeane Baker
+146	continued	,
+147	continued	as
+148	continued	she was known in childhood
+149	continued	(Mortenson was the name on her birth certificate
+150	continued	,
+151	continued	but
+152	continued	she never knew her father)
+153	continued	,
+154	assumption	was always an extremely beautiful girl
+155	no-unit	.
+-1	par-sep	
+156	continued	An army photographer discovered her
+157	continued	when
+158	continued	she was 19
+159	continued	,
+160	anecdote	working at a munitions factory
+161	no-unit	.
+162	continued	She went on
+163	anecdote	to be a popular model on the cover of dozens of magazines
+164	continued	before	Modd-NU
+165	continued	she bleached her hair
+166	anecdote	or focused her look
+167	no-unit	.
+168	assumption	There was never anything "mousey" about this woman
+169	no-unit	,
+170	no-unit	and
+171	no-unit	when	cond
+172	assumption	she changed her hair, her makeup, and her name	cond
+173	no-unit	,	cond
+174	assumption	she didn't become a different person
+175	no-unit	.
+176	assumption	She created an iconic style
+177	no-unit	,
+178	assumption	which she developed in collaboration with her personal makeup artist for many years, Whitey Snyder
+179	no-unit	.
+-1	par-sep	
+180	assumption	No doubt Marilyn attended the Max Factor beauty salon near Hollywood Boulevard in the 1940s, along with hundreds of other young starlets
+181	no-unit	.
+182	continued	I have no reason
+183	continued	to disbelieve
+184	continued	that she may have worked with Max Factor Jr himself in the 1950s	modd-ASM
+185	continued	,	Modd-NU
+186	continued	once	Modd-NU
+187	assumption	she was famous	modd-ASM
+188	no-unit	.	
+189	no-unit	But
+190	assumption	no one except Marilyn Monroe created Marilyn Monroe
+191	no-unit	,
+192	no-unit	and
+193	continued	in 2015 it's past time for us
+194	continued	to give credit to the woman
+195	assumption	who earned it
+196	no-unit	.

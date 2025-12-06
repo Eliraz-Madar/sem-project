@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="364" begin="0" end="4905" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="364" begin="0" end="79" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="364" begin="81" end="187" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="364" begin="189" end="423" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="364" begin="425" end="495" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="364" begin="497" end="560" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="364" begin="563" end="601" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="364" begin="603" end="694" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="364" begin="696" end="712" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="364" begin="714" end="717" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="364" begin="718" end="742" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="364" begin="744" end="829" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="364" begin="831" end="836" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="364" begin="837" end="938" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="364" begin="941" end="950" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="364" begin="953" end="1200" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="364" begin="1202" end="1234" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="364" begin="1236" end="1275" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="364" begin="1277" end="1369" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="364" begin="1372" end="1468" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="364" begin="1470" end="1530" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="364" begin="1532" end="1575" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="364" begin="1578" end="1640" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="364" begin="1642" end="1726" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="364" begin="1728" end="1856" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="364" begin="1859" end="2019" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="364" begin="2021" end="2102" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="364" begin="2104" end="2175" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="364" begin="2177" end="2192" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="364" begin="2194" end="2222" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="364" begin="2225" end="2343" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="364" begin="2348" end="2390" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="364" begin="2392" end="2401" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="364" begin="2403" end="2484" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="364" begin="2488" end="2575" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="364" begin="2578" end="2636" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="364" begin="2637" end="2642" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="364" begin="2643" end="2698" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="364" begin="2700" end="2809" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="364" begin="2811" end="2818" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="364" begin="2820" end="2891" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="364" begin="2892" end="2984" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="364" begin="2987" end="3004" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="364" begin="3007" end="3061" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="364" begin="3063" end="3066" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="364" begin="3067" end="3083" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="364" begin="3085" end="3133" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="364" begin="3134" end="3137" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="364" begin="3138" end="3164" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="364" begin="3166" end="3239" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="364" begin="3240" end="3243" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="364" begin="3244" end="3300" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="364" begin="3303" end="3350" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="364" begin="3352" end="3441" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="364" begin="3443" end="3696" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="364" begin="3700" end="3770" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="364" begin="3773" end="3943" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="364" begin="3945" end="4068" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="364" begin="4071" end="4207" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="364" begin="4209" end="4270" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="364" begin="4272" end="4467" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="364" begin="4470" end="4594" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="364" begin="4596" end="4701" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="364" begin="4704" end="4712" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="364" begin="4714" end="4793" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="364" begin="4796" end="4841" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="364" begin="4843" end="4846" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="336" sofa="364" begin="4850" end="4887" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="341" sofa="364" begin="4889" end="4904" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="346" sofa="364" begin="0" end="4905" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/260-turkeyredlinefreespeechcen.txt" offsetInSource="0" documentSize="4905" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="371" sofa="364" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/aljazeera/260-turkeyredlinefreespeechcen.xmi" offsetInSource="0" documentSize="4905" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="354" sofa="364" begin="0" end="4905" lastUpdate="2015-01-19T12:23:03Z" url="http://www.aljazeera.com/indepth/opinion/2015/01/turkey-red-line-free-speech-cen-201511953215836507.html" portal="aljazeera" authors="Merve Sebnem Oruc" articleSum="For Turkey's self-styled free speech defenders, it's all about double&amp;#10;standards and selective memory.&amp;#10;&amp;#10;" title="Turkey's red line."/>
+    <cas:Sofa xmi:id="364" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="I remember the days when all Turkish citizens had to love Mustafa Kemal Ataturk. From kindergarten to high school, all students had to recite an oath of allegiance every morning at school. I still can't erase the verses from my mind: &quot;Oh Great Ataturk, who had created our life of today; on the path that you have paved, in the country that you established, I swear to walk incessantly with the purposes that you have set.&quot;&#10;&#10;Every Turkish citizen had to put their hearts and souls into that oath. The louder you spoke those words, the better a citizen you were.&#10;&#10;Those days are not yet ancient history. The ruling Justice and Development Party (AKP) only abolished this fascist practice in 2013. It was good news, but some weren't so thrilled. Pro-Kemalist media attacked the reform package, including many democratic regulations, while their columnists harshly criticised the move because Turkey was leaving behind its worship of Ataturk.&#10;&#10;Red lines.&#10;&#10;In the days following the global outrage over the attack on the French satirical newspaper, Charlie Hebdo, many in Turkey seem to have forgotten those days when any criticism of Ataturk was a punishable offence - one that could label you a traitor. Kemalism is not only an ideology; for many Turks, it was akin to religion. Poems depicting Ataturk as a God are evidence of an attempt to impose Kemalism as a religion.&#10;&#10;That's why Islam, the religion of the majority of Turkish society, was seen as a threat for them. It was not enough that Ataturk was beloved by his supporters. We all had to submit to - and idolise - him.&#10;&#10;Roland Barthes' famous words would describe what we lived then: &quot;Fascism is not the prohibition of saying things; it is the obligation to say them.&quot;&#10;&#10;Cumhuriyet, a leading daily newspaper of the old guard founded in 1924, has always been a symbol of Kemalism since the beginning.&#10;&#10;The Turkish public were accustomed to their publications attacking Muslims, seeing them as a threat, despising them, or their columnists' pieces insulting Islam. On the other hand,  they have always had clear red lines when it came to Kemalism. Cumhuriyet has never given a place to a critique of Ataturk or Kemalism; on the contrary,  it has attacked the critics.&#10;&#10;Last week, Cumhuriyet announced that it would publish the Charlie Hebdo cartoons in order to defend freedom expression. In so doing, they attracted a lot of reaction. Of course,  the Turkish community, mostly Muslim, was dissatisfied with the daily's decision as they do not consider the insulting of religions as a manifestation of freedom of speech.&#10;&#10;Some say the move was a provocation - or reckless at least - but the majority have regarded the decision as hypocritical. Critics on social media or even conventional media pointed out their intolerance for any criticism of Ataturk. However,  the daily exaggerated the responses, chose to sail under false colours and pictured the insults and the mockery against the publication as an attack on free speech.&#10;&#10;Freedom of speech.&#10;&#10;Islamists protested against the paper and its decision, but nothing happened. The police did pay a visit to the printing house but there were no restrictions. The government took precautions against any possible attacks on the daily but they portrayed the situation as if they were under siege.&#10;&#10;Charlie Hebdo is known as a satirical newspaper, which is against any authority, any halidom or any individual or group claiming supremacy. Even if we accept this - and I personally don't agree as we are familiar with Charlie Hebdo's double standards insofar as Israel - Cumhuriyet or other Kemalist publications in Turkey are certainly in no position to defend the values of freedom of speech as they have zero tolerance for any negative words of their idol, Ataturk.&#10;&#10;On the same day, the Islamist newspaper Yeni Akit's Istanbul office was attacked with stones and eggs during a protest against its publication of beaten images of Ataturk. No so-called &quot;freedom of speech&quot; defenders who supported the publication of Charlie Hebdo caricatures, condemned the attack.&#10;&#10;The Gulenist media figures who introduced themselves as Muslims announced their support for Cumhuriyet for the sake of freedom of speech; however they were silent against the attack against Yeni Akit. The Gulenist media was against Charlie Hebdo's publishing of insulting images of Prophet Muhammad until 2013 and have always been against any publication criticising their leader, Fethullah Gulen.&#10;&#10;Their about-face on Charlie Hebdo is linked to their turn on Islam but criticising Gulen has always been a red line for them. According to Zaman daily columnist Ali Unal, criticising Gulen is tantamount to infidelity and polytheism.&#10;&#10;In short,  the Kemalists and the Gulenists have their own &quot;gods&quot;, or their own &quot;prophets&quot;.&#10;&#10;Insulting Islam is freedom of speech for them, but if you dare to speak against their idols, it is blasphemy."/>
+    <cas:View sofa="364" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 341 346 371 354"/>
+</xmi:XMI>

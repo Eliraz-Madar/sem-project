@@ -1,0 +1,136 @@
+0	title	Oscars delirium: a seasonal condition in which even critics become starstruck.
+-1	par-sep	
+1	continued	With the announcement of the Oscar nominations, we shall undoubtedly see examples of
+2	continued	what
+3	continued	I call
+4	assumption	"awards season transference"
+5	no-unit	,
+6	continued	a strange phenomenon
+7	continued	that afflicts
+8	continued	film journalists called upon
+9	no-unit	to comment on radio and TV
+10	no-unit	.
+11	anecdote	I myself am an occasional sufferer
+12	no-unit	.
+-1	par-sep	
+13	assumption	It's simply the delirium in the air
+14	no-unit	.
+15	no-unit	Just as
+16	assumption	patients can fall in love with their psychoanalysts
+17	no-unit	,
+18	assumption	so movie journalists can take these prizes very personally
+19	no-unit	.
+20	continued	Critics
+21	continued	who are so airily humorous and drily detached the rest of the year
+22	continued	will sternly announce
+23	continued	that they are actually pretty angry or upset
+24	assumption	that their personal favourite hasn't been nominated
+25	no-unit	.
+26	assumption	They will undergo a radical personality change
+27	no-unit	.
+-1	par-sep	
+28	no-unit	Having steadfastly refused to as much as sip the Kool-Aid for the preceding 12 months	Modd-NU
+29	no-unit	,	Modd-NU
+30	continued	they suddenly glug down about a gallon of it in five minutes and effectively proclaim their deep personal stake in	Modd-NU
+31	continued	what
+32	assumption	happens on Oscar night
+33	no-unit	.
+-1	par-sep	
+34	no-unit	And
+35	continued	what
+36	continued	is seen as good news
+37	assumption	produces even more extraordinary behaviour: a kind of luvvyism-by-proxy
+38	no-unit	.
+39	continued	Actual grownup journalists with mortgages and adult responsibilities will coo
+40	continued	:
+41	continued	"I'm just so delighted for Meryl ..."
+42	continued	or
+43	continued	"I'm so happy for Emily
+44	assumption	..."
+-1	par-sep	
+45	assumption	Did these starstruck reporters meet the celebs briefly at some press junket or interview?
+46	continued	Did these stars convince these poor unfamous journalists
+47	assumption	that they were their mates?
+48	assumption	I fear so
+49	no-unit	.
+50	assumption	And they are therefore brilliant actors, and deserve every Oscar going
+51	no-unit	.
+-1	par-sep	
+52	continued	Confectionery lovers are enraged at news
+53	continued	that the US owners of Cadbury have been tampering with the recipe for the Cadbury's Creme Egg
+54	continued	,
+55	continued	and
+56	continued	at what
+57	continued	they say
+58	assumption	is an outrageous lack of any consultative process with the consumer
+59	no-unit	.
+60	anecdote	The shell is no longer made from Cadbury's Dairy Milk but from the inferior "standard cocoa mix"
+61	no-unit	.
+-1	par-sep	
+62	assumption	This insidious messing with its components could provoke an Indian mutiny among Creme Egg lovers
+63	no-unit	.
+64	assumption	Surely we need one of those change.org online petitions
+65	no-unit	.
+66	continued	I personally have never quite got over my childhood suspicion
+67	continued	that the spelling "creme" means
+68	assumption	that the Creme Egg is not in fact made of actual cream
+69	no-unit	.
+70	continued	But I have been prepared
+71	anecdote	to put these considerations to one side in the cause of continued snacking
+72	no-unit	.
+-1	par-sep	
+73	assumption	For me, however, this is not the worst snack-related catastrophe imaginable
+74	no-unit	.
+75	no-unit	If	cond
+76	continued	Pringles started
+77	assumption	tinkering with the recipe for their Sour Cream & Onion flavour	cond
+78	no-unit	,	cond
+79	assumption	that would be appalling
+80	no-unit	.
+81	no-unit	If	cond
+82	no-unit	,	cond
+83	no-unit	 for example	Modd-NU
+84	no-unit	,	Modd-NU
+85	continued	they started
+86	continued	using a kind of artificial "creme" instead of "cream"
+87	continued	,
+88	anecdote	and introduced some form of artificial substitute instead of actual onions 
+89	no-unit	...
+90	assumption	Unthinkable
+91	no-unit	.
+-1	par-sep	
+92	continued	There are new and interesting
+93	continued	reasons
+94	continued	to relish the imminent release of Paul Thomas Anderson's fascinating film
+95	assumption	Inherent Vice
+96	no-unit	,
+97	anecdote	based on Thomas Pynchon's novel of the same name: a quasi-noir about a bleary stoner private detective on the trail of his ex-girlfriend's kidnapped lover
+98	no-unit	.
+99	anecdote	It is set in Los Angeles in 1970
+100	no-unit	,
+101	no-unit	and
+102	anecdote	its black-comic tone of paranoia is crucially set by the horrendous killings carried out in that era by the Charles Manson gang
+103	no-unit	.
+-1	par-sep	
+104	continued	Manson passionately wanted those killings
+105	continued	to trigger an apocalyptic race war
+106	continued	,
+107	continued	and was every bit as serious about his ideological vision
+108	continued	as
+109	assumption	the Charlie Hebdo murderers were about theirs
+110	no-unit	- and
+111	assumption	as an American political issue, racial tension was and is real enough
+112	no-unit	.
+113	assumption	But of course no one took Charlie Manson seriously as a revolutionary warrior
+114	no-unit	.
+115	continued	And Thomas Pynchon and Paul Thomas Anderson find
+116	continued	the right register
+117	assumption	to respond
+118	no-unit	:
+119	continued	with comedy, scorn and a resilient and healthy sense of surreality and the absurd
+120	continued	that, however dark, absorbs and transcends
+121	assumption	hate
+122	no-unit	.
+-1	par-sep	
+123	no-unit	@PeterBradshaw1
+124	no-unit	.

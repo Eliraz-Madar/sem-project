@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="5434" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="222" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="224" end="288" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="290" end="293" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="294" end="374" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="376" end="459" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="461" end="486" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="487" end="533" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="535" end="540" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="542" end="606" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="608" end="801" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="803" end="828" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="830" end="855" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="857" end="860" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="861" end="914" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="916" end="998" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1001" end="1274" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1276" end="1290" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1291" end="1341" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1345" end="1351" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1353" end="1436" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1439" end="1468" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1471" end="1575" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1577" end="1740" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1742" end="1842" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1844" end="1876" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1878" end="1962" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1965" end="2050" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2052" end="2055" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2056" end="2091" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2093" end="2325" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2328" end="2402" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2404" end="2407" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2408" end="2524" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2527" end="2731" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2734" end="2925" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2927" end="2948" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2949" end="3000" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3002" end="3124" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3127" end="3317" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3319" end="3490" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3492" end="3551" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3554" end="3631" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3633" end="3636" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3637" end="3675" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3677" end="3725" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3727" end="3820" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3823" end="3832" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3834" end="3949" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3952" end="3956" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3957" end="4056" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="4058" end="4167" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4170" end="4304" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4306" end="4427" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4428" end="4460" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4461" end="4538" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4541" end="4741" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4744" end="4805" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4807" end="4810" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4811" end="4923" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4926" end="4933" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4935" end="5001" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="5003" end="5155" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="5158" end="5166" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="5167" end="5229" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="5231" end="5318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="5320" end="5433" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="343" sofa="1" begin="0" end="5434" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/115-hostagesydneysiege.txt" offsetInSource="0" documentSize="5434" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="351" sofa="1" begin="0" end="5434" lastUpdate="2014-12-16T09:48:45Z" url="http://www.aljazeera.com/indepth/opinion/2014/12/hostage-sydney-siege-201412166656785333.html" portal="aljazeera" authors="Tom Burns" articleSum="It was clear that the hostage-taker wanted media attention and Australian&amp;#10;media gave him what he wanted.&amp;#10;&amp;#10;" title="Fearmongering in Sydney."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Australians turning on their televisions Monday morning to watch breakfast and cooking shows were instead greeted with news channels beaming minute-to-minute fearmongering of the ongoing siege at a chocolate shop in Sydney. When customers and employees were taken hostage by a lone gunman, and a flag with &quot;There is only one God&quot; inscription in Arabic was held in the window, it was enough to hold the rest of the country hostage to their fears and TV screens. Should it be that way and what should an appropriate response look like?&#10;&#10;First,  consider what this violent thug had designed our reaction to be. The site of the siege was likely no afterthought - located in the heart of the Sydney CBD and directly opposite a major television station, the shop had made it ideal for the media to report on. Streets were cordoned off, public transport diverted, and a strong contingent of police sent to the Opera House. All made for good visuals of the incident and terror in an otherwise peaceful city.&#10;&#10;Even the most left-leaning and progressive members of parliament, like Greens MP Adam Bandt, who have repeatedly defended the Muslim community from unjust discrimination and generalisation, tweeted to their followers in the first hours of the siege that it was &quot;terrifying&quot;. Was it really? Was it at all terrifying for you personally, Adam? If it was, I'd hate to know what the hostages experienced, including the two who were murdered.&#10;&#10;A strike in the public's dark.&#10;&#10;For once, Prime Minister Tony Abbott had a more mature response than his colleagues on the opposite side. Such a situation can &quot;scare people out of being themselves&quot;, he said in his first press briefing, before urging all Australians to go about their business as usual. Although he told the public to remain vigilant and report any suspicious activity to the authorities, he said so with calm and caution. Vitally, he avoided using the t-word at this early stage, or any formulation thereof.&#10;&#10;No doubt we have since learnt a lot more about this deranged outsider and his motives, and it is clear he had terrorist intent. His website, which was shut down during the final hours of the siege, had a message dated December 14, which described why Muslims &quot;fight against the oppression and terrorism&quot; of the US and its allies, including the UK and Australia.&#10;&#10;The rampant speculation before this was unnecessary and unhelpful, however, and letting the siege sow fear, enough so to publicly describe it as &quot;terrifying&quot;, was handing a victory to an extremist.&#10;&#10;With the hot Australian summer setting in, many people's minds turn to beer, barbeques, family, and Christmas presents, not the possibility of &quot;politically motivated violence&quot;, as Abbott wisely phrased it.&#10;&#10;Intriguingly, Australians fear terrorism more than a foreign invasion, despite many believing we'd have no hope of fending off the latter and despite us never directly experiencing the former. Given the opportunity to attribute a complexly motivated act to terrorism, it's no wonder this all-too-easy escape mechanism which avoids rigorous thought or objective analysis was adopted en masse.&#10;&#10;The most noted incidents in Australia's experience of terrorism have been mostly foreign tragedies, like the Bali bombings in 2002 and 2005, or the 2004 Australian embassy bombing in Jakarta. Although the September raids and arrests of suspected domestic terrorists in Sydney and Brisbane set a new landscape and brought the thought of an attack to our own shores, they merely raised the thought, not the authentic actuality.&#10;&#10;The raids sparked limited local backlash against peaceful Muslims at the time, and this was both unwarranted and unwanted. Though it only goes to further support my thesis; Australians just aren't used to this sort of thing and thus are unpractised in their response.&#10;&#10;That said, it hasn't stopped thousands on social media to show solidarity with minorities through the #IllRideWithYou campaign.&#10;&#10;When the Abbott government raised the domestic terrorism threat level to high before the September raids, many local commentators criticised what they branded as political theatre (both before and after the arrests).&#10;&#10;To consider this is to suggest an even baser type of political animal than is presently expected by even the most cynical of observers. Would any rational actor toy with people's lives for short-term political ends in what was an unimportant political week? What end does that even achieve? Plainly, none, and it is sensationally conspiratorialist to suggest otherwise.&#10;&#10;To protest against such raids and continue looking at them through a political lens was just as unwarranted and unwanted as the racial-profiling and racial- hatred which events like these have sparked.&#10;&#10;Terrorism isn't something that we should let foster, anywhere, and the public reactions to the raids were unjustifiably sceptical in comparison to the response to the Sydney siege.&#10;&#10;Even so,  the authorities' heed for caution may have come too late for some. Slipshod media reports that the flag held in the shop window was an ISIL flag  - when it was not - may have already fuelled the imaginations of too many.&#10;&#10;Whatever the outcome of the full investigation, one thing remains clear: This was a tragic learning experience for the Australian media, public, and politicians. Keep calm and carry on, though pay a thought or two to how we ought to respond to events like these in the future."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 351"/>
+</xmi:XMI>

@@ -1,0 +1,342 @@
+0	title	NATO's nuclear relapse.
+-1	par-sep	
+1	assumption	Moscow's latest tests of intercontinental missiles and its parading of nuclear capable strategic bombers have rightly prompted international concern
+2	no-unit	.
+3	continued	In December 2014, Russian Foreign Minister Sergei Lavrov implied
+4	anecdote	that Russia might be moving nuclear weapons to Crimea
+5	no-unit	.
+-1	par-sep	
+6	assumption	From violations of airspace to near mid-air collisions, the number of incidents between Russia and NATO has soared dramatically
+7	no-unit	,
+8	assumption	increasing the danger of an unintended escalation
+9	no-unit	.
+10	no-unit	Yet	Modd-NU
+11	no-unit	,	Modd-NU
+12	continued	 it is rarely mentioned
+13	assumption	that NATO, too, is back in the game of nuclear deterrence
+14	no-unit	.
+-1	par-sep	
+15	assumption	Washington has recently sent its nuclear capable B-2 and B-52 to Europe for training missions with its NATO partners
+16	no-unit	.
+17	continued	It also continues
+18	assumption	to test intercontinental ballistic missiles
+19	no-unit	.
+20	continued	Most problematically	Modd-NU
+21	continued	,	Modd-NU
+22	continued	the western military alliance is currently modernising the air-launched nuclear gravity bombs
+23	assumption	that fall under NATO's nuclear sharing initiative
+24	no-unit	.
+-1	par-sep	
+25	continued	It is a warm afternoon
+26	continued	and
+27	anecdote	thick clouds hang over the houses and farmyards of Buchel, a small village in western Germany and home to 20 of NATO's remaining thermonuclear bombs on European soil
+28	no-unit	.
+29	no-unit	Or
+30	no-unit	so
+31	continued	we can only speculate, for the exact location of these approximately 180 air-launched B61 weapons
+32	assumption	is of course secret
+33	no-unit	.
+-1	par-sep	
+34	continued	The local baker smiles uneasily
+35	continued	when
+36	continued	I ask her about the base and is quick
+37	continued	to assure me
+38	continued	that there is nothing
+39	anecdote	to see
+40	no-unit	.
+41	continued	After a 20-minute walk through muddy fields, I can glimpse a large barbed wire fence on the horizon and
+42	continued	what
+43	continued	seems
+44	anecdote	to be a succession of bunkeresque fortifications
+45	no-unit	.
+46	anecdote	A biting smell of kerosene creeps up my nose
+47	no-unit	.
+-1	par-sep	
+48	continued	A sign warns me
+49	continued	that soldiers may make use of their weapons
+50	continued	if
+51	anecdote	I enter
+52	no-unit	.
+53	no-unit	As
+54	continued	I walk back across the fields
+55	continued	,
+56	continued	I frighten a herd of deer
+57	anecdote	that scramble into the bushes
+58	no-unit	.
+59	continued	Suddenly	Modd-NU
+60	continued	,	Modd-NU
+61	anecdote	 a jet plane soars into the sky with a deafening thunder
+62	no-unit	.
+63	assumption	In the event of a nuclear war, it would most likely be heading East from here
+64	no-unit	.
+-1	par-sep	
+65	continued	Designed in the 1960s for use by high-speed aircraft	Modd-NU
+66	continued	,	Modd-NU
+67	continued	the thermonuclear B61 is a versatile weapon
+68	continued	that comes
+69	continued	both as an intermediate range strategic
+70	assumption	and a short-range tactical weapon with a wide variety of yields
+71	no-unit	.
+-1	par-sep	
+72	continued	A relic of the early Cold War	Modd-NU
+73	continued	,	Modd-NU
+74	assumption	it is not just a US but a "NATO weapon"
+75	continued	in that its stationing and delivery also involves non-nuclear member states
+76	continued	,
+77	assumption	such as Belgium, Germany, Italy, the Netherlands and Turkey
+78	no-unit	.
+-1	par-sep	
+79	assumption	Tactical nukes are particularly problematic
+80	continued	because	Modd-NU
+81	assumption	their short range provides the missing link between a localised conventional war and a highly improbable global exchange of strategic nuclear missiles between Moscow and Washington
+82	no-unit	.
+-1	par-sep	
+83	assumption	Tactical nuclear weapons are no status quo weapons
+84	no-unit	.
+85	assumption	Their battlefield purpose increases the chance of a nuclear escalation
+86	no-unit	,
+87	continued	which is
+88	continued	why
+89	assumption	the superpowers removed most of them from Central Europe in the late 1980s and early 1990s
+90	no-unit	.
+-1	par-sep	
+91	no-unit	If	cond
+92	continued	everything goes
+93	assumption	to plan
+94	no-unit	,
+95	assumption	the controversial B61 weapons will be modernised by around 2020
+96	no-unit	.
+97	continued	This "life extension programme" is not simply
+98	continued	an initiative to replace rusty old nukes with shiny new ones
+99	continued	,
+100	continued	but
+101	continued	an attempt to increase their accuracy
+102	continued	,
+103	assumption	to replace free fall with precision guided bombs
+104	no-unit	.
+-1	par-sep	
+105	continued	Ultimately, this will transform the B61 into a new kind of weapon and undermine any pretence
+106	assumption	that the West is still in the game of denuclearisation
+107	no-unit	.
+-1	par-sep	
+108	continued	Interestingly, plans
+109	continued	to modernise the B61
+110	continued	were initiated in April 2010, only shortly
+111	continued	after
+112	continued	NATO decided
+113	continued	to scrap its nuclear missile shield in Eastern Europe and in the same month
+114	assumption	that the two largest nuclear powers signed a new Strategic Arms Reductions Treaty
+115	no-unit	.
+-1	par-sep	
+116	continued	How
+117	continued	does NATO explain this nuclear relapse precisely at a time
+118	continued	when
+119	continued	the alliance had just "reset" its relations
+120	assumption	with Russia?
+121	continued	And what role
+122	assumption	does the B61 play in the Ukrainian proxy war?
+-1	par-sep	
+123	assumption	Jamie Shea is famous in Brussels for his rhetorical skill, expressive body language and London twang
+124	no-unit	.
+125	continued	"He could sell
+126	continued	you a landmine
+127	continued	if
+128	continued	he wanted to"
+129	continued	,
+130	testimony	an activist once told me about the man
+131	anecdote	who spun NATO's war against Serbia to a lethargic European public 15 years ago
+132	no-unit	.
+-1	par-sep	
+133	continued	The alliance's Deputy Assistant Secretary General has come to University College London
+134	anecdote	to talk to students about the Ukrainian crisis and Europe's new security architecture
+135	no-unit	.
+136	no-unit	Charming his audience with jokes and anecdotes
+137	no-unit	,
+138	continued	Shea tells the story of an underfunded alliance
+139	continued	that urgently needs
+140	assumption	to up its military game	cond
+141	no-unit	if	cond
+142	continued	it wants
+143	anecdote	to stand up to Putin's Russia
+144	no-unit	.
+-1	par-sep	
+145	anecdote	He is excited about NATO's new "very high readiness joint task force" and about new and larger planned NATO manoeuvrrs in Eastern Europe
+146	no-unit	.
+147	continued	One topic
+148	continued	he has precious little
+149	continued	to say about
+150	assumption	is the alliance's nuclear policy
+151	no-unit	.
+-1	par-sep	
+152	no-unit	When
+153	assumption	I prompt him	cond
+154	continued	,
+155	continued	Shea explains
+156	continued	that while
+157	continued	the life extension programme was originally meant
+158	continued	to provide NATO with a bargaining chip for future nuclear disarmament talks with the Kremlin
+159	continued	,
+160	continued	Russia's involvement in Eastern Ukraine fundamentally altered the strategic context
+161	continued	,
+162	continued	rendering
+163	anecdote	the B61 "once again a part of NATO's deterrence posture"
+164	no-unit	.
+-1	par-sep	
+165	continued	"I'm not nostalgic for the Cold War"
+166	continued	,
+167	continued	he laughs
+168	continued	,
+169	continued	"but
+170	continued	you have
+171	continued	to prepare
+172	continued	for
+173	continued	Cold War mark two
+174	continued	even if
+175	testimony	you don't want it"
+176	no-unit	.
+177	assumption	In this, Shea is on the same page as US Secretary of State John Kerry
+178	continued	who recently claimed
+179	continued	that the crisis in Ukraine was calling NATO
+180	continued	"back to the role
+181	continued	that this alliance was originally created
+182	testimony	to perform"
+183	no-unit	.
+-1	par-sep	
+184	continued	Why
+185	continued	this relapse to
+186	continued	what
+187	continued	Shea calls
+188	assumption	"the nuclear game"?
+-1	par-sep	
+189	assumption	The first part of the answer lies in NATO's recent failures
+190	no-unit	.
+191	assumption	Clearly, the stand off with Russia is a welcome distraction from its fiasco in Afghanistan and the alliance's lack of a purpose in the absence of Milosevic or Gaddafi
+192	no-unit	.
+193	no-unit	Yet
+194	no-unit	,
+195	assumption	 there is more to this than just an identity crisis
+196	no-unit	.
+197	continued	NATO
+198	continued	,
+199	continued	as
+200	continued	Trine Flockhardt so aptly puts it
+201	continued	,
+202	testimony	is something of a "nuclear addict"
+203	no-unit	-
+204	continued	it hangs on to its nuclear weapons despite
+205	continued	frequently declaring its desire
+206	assumption	to abandon them
+207	no-unit	.
+-1	par-sep	
+208	assumption	Both US President Obama and NATO's new General Secretary Stoltenberg are known advocates of nuclear disarmament
+209	no-unit	- but
+210	continued	in 2014
+211	assumption	their alliance is stepping up its nuclear deterrence
+212	no-unit	and
+213	anecdote	the US administration is pouring $1trn into the future of its nuclear weapons systems
+214	no-unit	.
+-1	par-sep	
+215	assumption	There are obvious pressures behind this nuclear habit, from the nuclear arms industry via hawkish politicians and generals to certain Eastern European NATO members
+216	no-unit	- but
+217	assumption	the real issue is a lack of public scrutiny
+218	no-unit	.
+219	continued	In the UK, the debate about nuclear weapons tends
+220	continued	to concentrate on Britain's nuclear submarines
+221	continued	and
+222	continued	what
+223	continued	would happen to them
+224	continued	if
+225	assumption	Scotland declared independence
+226	no-unit	.
+-1	par-sep	
+227	assumption	The US is currently preoccupied with the safety of its nuclear silos
+228	no-unit	.
+229	assumption	These issues are of course important
+230	no-unit	,
+231	no-unit	but
+232	continued	they should not cause
+233	assumption	us to overlook NATO's nuclear relapse
+234	no-unit	.
+235	continued	People like Shea publicly admit their relief
+236	assumption	that the public has kept so quiet about nuclear weapons since the end of the Cold War
+237	no-unit	.
+-1	par-sep	
+238	no-unit	Indeed
+239	no-unit	,
+240	assumption	 governments remember all too well their predecessors' struggles with the peace and anti-nuclear movement of the 1980s
+241	no-unit	.
+242	continued	This is
+243	continued	why
+244	continued	today's NATO does
+245	continued	"not want
+246	continued	to wake up a sleeping dog"
+247	continued	,
+248	testimony	he explains
+249	no-unit	.
+-1	par-sep	
+250	assumption	In 2014, the spotlight briefly returned to that one-time symbol of division in Europe, the Berlin wall
+251	no-unit	.
+252	anecdote	Even Mikhail Gorbachev attended the festivities on November 9, a spectacle of lights, balloons and emotions
+253	no-unit	.
+254	assumption	Twenty-five years after its fall, the Berlin wall is one of the world's most heavily memorialised sites, a tourist attraction like few other 20th century structures
+255	no-unit	.
+-1	par-sep	
+256	no-unit	But
+257	no-unit	while
+258	assumption	the wall remains the symbol of the Cold War in schoolbooks, op-eds and emotive speeches
+259	no-unit	,
+260	assumption	it is also a highly problematic one
+261	no-unit	.
+262	continued	Rather than	Modd-NU
+263	continued	representing the threat of mutual nuclear annihilation	Modd-NU
+264	continued	,	Modd-NU
+265	assumption	it always stood for a much simpler lesson - that of the West's moral victory over the "prison" of real existing socialism
+266	no-unit	.
+-1	par-sep	
+267	no-unit	If
+268	continued	we want
+269	assumption	to understand the Cold War in all its self-destructiveness
+270	no-unit	,
+271	continued	we need
+272	assumption	to look elsewhere
+273	no-unit	.
+-1	par-sep	
+274	continued	A visitor to villages
+275	continued	that lie near nuclear weapons storage sites in Europe
+276	continued	might be surprised
+277	assumption	to be greeted by American flags in shop windows and front gardens
+278	no-unit	.
+279	continued	This form of identification with US nuclear weapons is puzzling given
+280	assumption	that these sites would be primary targets in the event of a nuclear war with Moscow
+281	no-unit	.
+-1	par-sep	
+282	continued	The West is currently too preoccupied with Russia's new nuclear militarism
+283	assumption	to notice the way that its own military alliance functions as an agent of regional insecurity
+284	no-unit	.
+285	no-unit	Lest
+286	no-unit	we forget
+287	no-unit	,
+288	assumption	NATO never abandoned its "first use" doctrine
+289	no-unit	.
+290	continued	It does not rule out the possibility of
+291	continued	being first
+292	assumption	to go nuclear in an armed conflict with another nuclear power
+293	no-unit	.
+-1	par-sep	
+294	continued	Some will argue
+295	continued	that "now is not the time"
+296	assumption	to start a public debate on NATO's tactical nukes
+297	no-unit	,
+298	no-unit	but
+299	continued	even these critics would have
+300	continued	to concede
+301	assumption	that the modernisation of the B61 further compromises the West's position in the 2015 revision of the Nuclear Non-Proliferation Treaty
+302	no-unit	.
+303	continued	If
+304	continued	a new arms race is
+305	assumption	to be prevented in its infancy
+306	no-unit	,
+307	continued	the sleeping dog might have
+308	continued	to learn
+309	assumption	to bark and bite again
+310	no-unit	.

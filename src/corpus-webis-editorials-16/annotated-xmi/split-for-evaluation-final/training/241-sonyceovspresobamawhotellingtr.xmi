@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="119" begin="0" end="1461" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="119" begin="0" end="20" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="119" begin="22" end="46" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="119" begin="47" end="121" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="119" begin="122" end="125" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="119" begin="126" end="173" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="119" begin="176" end="390" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="119" begin="392" end="548" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="119" begin="551" end="570" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="119" begin="572" end="588" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="119" begin="589" end="717" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="119" begin="719" end="859" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="119" begin="861" end="921" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="119" begin="924" end="1025" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="119" begin="1030" end="1106" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="119" begin="1110" end="1151" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="119" begin="1152" end="1236" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="119" begin="1239" end="1367" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="119" begin="1369" end="1407" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="119" begin="1409" end="1460" unitType="other"/>
+    <core:SourceDocumentInformation xmi:id="101" sofa="119" begin="0" end="1461" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/241-sonyceovspresobamawhotellingtr.txt" offsetInSource="0" documentSize="1461" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="126" sofa="119" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/241-sonyceovspresobamawhotellingtr.xmi" offsetInSource="0" documentSize="1461" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="109" sofa="119" begin="0" end="1461" lastUpdate="2014-12-22T19:40:58Z" url="http://www.foxnews.com/opinion/2014/12/22/sony-ceo-vs-pres-obama-who-telling-truth/" portal="foxnews" authors="Gretchen Carlson" articleSum="Sony CEO versus Pres. Obama: Whose telling the truth? Gretchen Carlson's take.&amp;#10;&amp;#10;" title="Sony CEO vs  Pres  Obama: Who's telling the truth?"/>
+    <cas:Sofa xmi:id="119" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Time for my take now. Whose telling the truth? It's not like Hollywood types like Sony are adversaries of President Obama but they're telling two different stories right now.&#10;&#10;On Friday during this show, the president said he wished Sony execs had reached out to him to discuss the cyber-attack or vandalism, as he calls it, before they decided to pull the movie the interview from theaters. But just a few hours later  ... the Sony CEO said in fact he had contacted Senior White House officials to discuss what the government though they should do.&#10;&#10;So, I ask you today, which one is it? Could it be that any senior white house advisor would not have relayed the message to the president that they'd heard from Sony?&#10;&#10;We were reporting all last week that the president was receiving daily updates and holding daily meetings about the North Korea cyber crisis. Seems implausible that could have slipped through the cracks.&#10;&#10;So now the president says he'll weigh the options presented to him about what to do about North Korea. If trying to bring down an entire Hollywood company like Sony is only vandalism -- what would actually constitute an attack? Because rest assured -- unfortunately - I don't think this attack won' t be the last.&#10;&#10;Gretchen Carlson currently serves as anchor of FOX News Channel's (FNC) The Real Story with Gretchen Carlson (weekdays 2-3PM/ET). She joined the network in June of 2005. Click here for more information on Gretchen Carlson."/>
+    <cas:View sofa="119" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 126 109"/>
+</xmi:XMI>

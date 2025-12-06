@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="339" begin="0" end="4129" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="339" begin="0" end="111" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="339" begin="116" end="152" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="339" begin="155" end="393" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="339" begin="395" end="418" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="339" begin="421" end="506" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="339" begin="508" end="566" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="339" begin="567" end="607" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="339" begin="610" end="652" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="339" begin="654" end="673" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="339" begin="678" end="696" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="339" begin="698" end="717" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="339" begin="719" end="751" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="339" begin="753" end="793" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="339" begin="795" end="836" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="339" begin="837" end="888" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="339" begin="890" end="975" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="339" begin="977" end="991" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="339" begin="993" end="1076" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="339" begin="1079" end="1123" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="339" begin="1124" end="1183" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="339" begin="1186" end="1301" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="339" begin="1302" end="1311" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="339" begin="1313" end="1354" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="339" begin="1356" end="1388" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="339" begin="1390" end="1465" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="339" begin="1468" end="1493" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="339" begin="1495" end="1569" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="339" begin="1571" end="1609" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="339" begin="1611" end="1614" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="339" begin="1615" end="1647" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="339" begin="1649" end="1696" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="339" begin="1698" end="1787" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="339" begin="1789" end="1792" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="339" begin="1793" end="1871" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="339" begin="1874" end="1878" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="339" begin="1883" end="1900" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="339" begin="1902" end="1933" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="339" begin="1935" end="1990" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="339" begin="2000" end="2136" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="339" begin="2138" end="2157" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="339" begin="2159" end="2230" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="339" begin="2233" end="2417" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="339" begin="2419" end="2457" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="339" begin="2459" end="2507" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="339" begin="2510" end="2616" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="339" begin="2618" end="2625" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="339" begin="2627" end="2884" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="339" begin="2887" end="3129" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="339" begin="3131" end="3278" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="339" begin="3281" end="3360" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="339" begin="3362" end="3423" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="339" begin="3425" end="3492" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="339" begin="3495" end="3499" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="339" begin="3501" end="3535" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="339" begin="3536" end="3539" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="339" begin="3540" end="3605" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="339" begin="3607" end="3680" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="339" begin="3683" end="3710" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="339" begin="3712" end="3809" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="339" begin="3811" end="3908" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="339" begin="3910" end="4036" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="339" begin="4039" end="4072" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="339" begin="4073" end="4128" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="321" sofa="339" begin="0" end="4129" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/062-connecticutsupremecourtsaveste.txt" offsetInSource="0" documentSize="4129" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="346" sofa="339" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/062-connecticutsupremecourtsaveste.xmi" offsetInSource="0" documentSize="4129" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="329" sofa="339" begin="0" end="4129" lastUpdate="2015-01-08T20:52:55Z" url="http://www.foxnews.com/opinion/2015/01/08/connecticut-supreme-court-saves-teen-life/" portal="foxnews" authors="Gregg Jarrett" articleSum="The Justices of the Connecticut Supreme Court took over parenting duties of a&amp;#10;cancer-stricken teenager. In so doing, they surely saved her life.&amp;#10;&amp;#10;" title="Connecticut Supreme Court saves teen's life."/>
+    <cas:Sofa xmi:id="339" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="The Justices of the Connecticut Supreme Court took over parenting duties of a cancer-stricken teenager Thursday. In so doing, they surely saved her life.&#10;&#10;At the conclusion of oral arguments, the high court took just minutes to determined that state officials were right to take custody of the girl known in court documents only as &quot;Cassandra C &quot; and force her to undergo life-saving treatment. No thanks to her mother.&#10;&#10;Jackie Fortin had encouraged her 17-year-old daughter's desire to refuse chemotherapy. She naively pronounced, &quot;my daughter is not going to die.&quot; As if wishing it could make it come true.&#10;&#10;Sadly, both mother and daughter were wrong. They were in denial. If they got their way, Cassandra would die. It was the equivalent of suicide. I wonder how her mother would feel then?&#10;&#10;Cassandra has advanced Hodgkin's lymphoma which attacks and consumes the body's immune system. Her doctors say chemotherapy treatment will give her an 85 percent chance of survival. Excellent odds. Yet,  the teenager refused, saying she did not want to &quot;poison&quot; her body with chemo.&#10;&#10;How does that make sense to a rational mind? Let's employ Cassandra's own tortured terminology and logic.&#10;&#10;Does she not realize that her body is already being poisoned by the rapidly multiplying cancer in her lymph system? Untreated, it will quickly spread until it kills her. That is what her doctors predict. Reliable statistics from the National Cancer Institute prove they are right.&#10;&#10;Chemotherapy can save her. Chemicals are introduced into the diseased body to attack the cancer cells. You can call it a &quot;poison&quot; if you want, but a more accurate term is curative. Yes, the chemicals also harm other normal cells. To that extent they are a poison, of sorts, producing painful and unpleasant side effects. But once the body recovers and is free of the cancer cells, the chemicals are gone.&#10;&#10;Thus, if chemo is a poison, it is not normally a lethal one. The cancer which is ravaging Cassandra's body surely is.&#10;&#10;If, by using the term &quot;poison,&quot; Cassandra means she does not want to endure the side effects of nausea, vomiting, hair loss and exhaustion cond, she is being myopic. The final stages of untreated lymphoma are far more extreme and painful.&#10;&#10;Cassandra's disdain for the treatment that will likely save her young life is, perhaps, the best evidence that she was not mature enough to make a wise and informed decision on her own. But then again, neither was her mother. Which is why the state of Connecticut stepped in.&#10;&#10;As an adult, Fortin, is presumed to be competent under the law to make decisions for her daughter, a minor. However,  Fortin's aberrant judgment in rejecting the treatment that could save Cassandra's life and her concomitant belief that her daughter would somehow, miraculously, not succumb to an insidious, fatal illness ... called that legal presumption into serious doubt.&#10;&#10;There is also evidence that Fortin ignored obvious signs of her daughter's malignant disease at an early stage, failed to seek prompt and continuing medical attention, and has been unduly influencing Cassandra's negative reaction to treatment. The court records suggest a domineering mother with an abiding distrust of medicine, and a daughter fearful of running afoul of her mother's wishes.&#10;&#10;To deny a child beneficial, life-sustaining treatment constitutes child neglect. States have a duty to protect children from abuse and neglect. Courts rarely hesitate to step in where a child's life is in danger.&#10;&#10;Thus, the state was correct to intervene and the lower court was equally correct to remove the mother as unfit. Fortunately, the Connecticut Supreme Court agreed and did the right thing.&#10;&#10;Time is on Cassandra's side. The fact that she is 9 months away from turning 18 years old may, in the end, have saved her life. It gave the high court an excuse to adhere strictly to the law as it relates to protecting minors. Those 9 months will also give doctors valuable time to complete her therapy and give her a new chance at a full and happy life.&#10;&#10;As for her mother, Jackie Fortin? She will have ample time to wrestle with her conscience."/>
+    <cas:View sofa="339" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 346 329"/>
+</xmi:XMI>

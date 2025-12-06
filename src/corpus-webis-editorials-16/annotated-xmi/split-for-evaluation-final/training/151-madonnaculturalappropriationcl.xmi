@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="319" begin="0" end="3938" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="319" begin="0" end="46" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="319" begin="48" end="51" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="319" begin="52" end="76" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="319" begin="78" end="90" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="319" begin="91" end="203" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="319" begin="205" end="289" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="319" begin="291" end="298" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="319" begin="299" end="390" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="319" begin="393" end="481" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="319" begin="483" end="564" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="319" begin="568" end="787" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="319" begin="789" end="960" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="319" begin="962" end="1077" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="319" begin="1079" end="1088" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="319" begin="1089" end="1117" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="319" begin="1119" end="1181" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="319" begin="1184" end="1233" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="319" begin="1235" end="1333" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="319" begin="1335" end="1404" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="319" begin="1406" end="1433" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="319" begin="1435" end="1619" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="319" begin="1620" end="1623" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="319" begin="1624" end="1665" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="319" begin="1667" end="1674" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="319" begin="1675" end="1698" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="319" begin="1701" end="1770" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="319" begin="1773" end="1780" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="319" begin="1781" end="1819" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="319" begin="1821" end="1905" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="319" begin="1907" end="1972" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="319" begin="1974" end="2100" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="319" begin="2103" end="2268" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="319" begin="2270" end="2500" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="319" begin="2502" end="2639" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="319" begin="2641" end="2644" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="319" begin="2645" end="2654" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="319" begin="2655" end="2659" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="319" begin="2661" end="2665" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="319" begin="2666" end="2692" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="319" begin="2694" end="2717" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="319" begin="2720" end="2729" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="319" begin="2731" end="2879" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="319" begin="2882" end="3016" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="319" begin="3019" end="3053" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="319" begin="3055" end="3058" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="319" begin="3059" end="3264" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="319" begin="3266" end="3385" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="319" begin="3387" end="3467" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="319" begin="3470" end="3486" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="319" begin="3488" end="3517" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="319" begin="3519" end="3536" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="319" begin="3538" end="3677" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="319" begin="3679" end="3747" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="319" begin="3749" end="3788" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="319" begin="3790" end="3795" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="319" begin="3796" end="3850" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="319" begin="3851" end="3858" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="319" begin="3859" end="3888" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="319" begin="3891" end="3937" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="301" sofa="319" begin="0" end="3938" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/151-madonnaculturalappropriationcl.txt" offsetInSource="0" documentSize="3938" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="326" sofa="319" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/151-madonnaculturalappropriationcl.xmi" offsetInSource="0" documentSize="3938" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="309" sofa="319" begin="0" end="3938" lastUpdate="2015-01-06T16:44:14Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/madonna-cultural-appropriation-cliche-iggy-azalea" portal="guardian" authors="Nesrine Malik" articleSum="Nesrine Malik: As they plunder minority cultures in their desperation to appear edgy, all artists such as Iggy Azalea and Madonna succeed in doing is flaunting their unoriginality" title="Madonna's cultural appropriation confirms what a cliche she has become."/>
+    <cas:Sofa xmi:id="319" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="There' s only thing duller than a Twitterstorm, and that's an Instagramstorm. Particularly when said storms feature figures who like to think of themselves as controversial and as deliberately baiting us: Rihanna posing in a clingy burqa at a mosque, Mario Balotelli posting a racist image, and now Madonna doctoring pictures of African and African-American leaders to promote her new album.&#10;&#10;Really, the only dignified thing to do is to not dignify it with a response, and move on. Who cares if Madonna straps black ropes on the images of dead black rights icons? As Peter Robinson wrote in the Guardian: &quot;It's slightly heartbreaking that Madonna, an artist who made her name through an intuitive grasp of almost every major trend and zeitgeist fluctuation, is so crap at social media.&quot;&#10;&#10;But sometimes a solely jaded response betrays our own complacency, like resigning yourself to the fact that there will always be people who think of racist slurs as banter, or those who think it is just fine to appropriate the symbols of others to give their own tepid existence some edge, or people who still wear bootcut jeans. It's not OK, no matter how persistent and ever - present it is.&#10;&#10;Even though Madonna has always been controversial, it also seems that as the world around her has got sharper, she has got duller and more derivative. The appropriation that she and others have carried out is nothing new; we're just noticing it more. That's because those who are piggybacking on others' journeys do not only have more channels to flaunt their cluelessness and sense of entitlement (Iggy Azalea, walk away from Twitter) but they are also being called out on it more. Whether it is usurping religion - crucifixes and nun habits are passe now; it's niqabs on naked bodies  - keep up - homosexuality or now minority rights, Madonna is a manifestation of how privilege feeds off the authenticity of &quot;struggle&quot;. This is a double plundering that leads to further marginalisation: the dominant narrative will oppress you, then co-opt you, and then weave you into your own tiny little section of the tapestry.&#10;&#10;Some would argue that slavery and segregation ended long ago (well, segregation in the US in the 60s and apartheid in South African in the 90s, so not that long ago). But that doesn't mean white people can now happily vandalise the cultural and historical totems of a minority's struggle as part of some universal poster for the white western narrative of overcoming and learning from our mistakes. Imagine a pop artist using the recent CIA torture as part of their campaign  - perhaps showing dead Arab personalities being waterboarded. No? Too soon? Well, when it comes to certain issues, it will always too soon.&#10;&#10;Of course,  the charitable position is that Madonna, or to a different extent, Iggy Azalea, are not doing this with any high degree of self-awareness or design - they might see all contemporary culture as equal-access human heritage that they can dip into and sample as a vehicle for their talent.&#10;&#10;They would be right to some extent, but the sad fact is that these modern iterations of minority culture that they are sampling all arose from suffering and oppression rather than from a series of tortured geniuses in drawing rooms across Europe. Yes, there are spaces where our common mix of religious, sexual and racial legacies intermingle - gloriously, sometimes. But that is usually an uncurated, spontaneous thing, not a cynical shopping list.&#10;&#10;To put it simply, edginess comes from just that: being on the edge. Ironically, all Madonna and her ilk's desperate antics to appear so only confirm that they are, in fact, utterly comfortable and mainstream. Cultural appropriation is now the standard default of the unoriginal. It is a common and predictable template, where one becomes a cliche in trying to avoid being a cliche because you have nothing new to offer - something Madonna would surely be mortified by."/>
+    <cas:View sofa="319" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 326 309"/>
+</xmi:XMI>

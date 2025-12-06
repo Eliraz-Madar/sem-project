@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="304" begin="0" end="4400" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="304" begin="0" end="127" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="304" begin="128" end="135" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="304" begin="136" end="156" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="304" begin="158" end="198" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="304" begin="199" end="230" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="304" begin="232" end="248" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="304" begin="249" end="252" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="304" begin="253" end="359" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="304" begin="361" end="414" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="304" begin="415" end="484" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="304" begin="486" end="504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="304" begin="507" end="578" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="304" begin="580" end="646" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="304" begin="648" end="798" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="304" begin="800" end="803" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="304" begin="804" end="841" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="304" begin="843" end="846" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="304" begin="847" end="959" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="304" begin="961" end="1021" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="304" begin="1023" end="1228" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="304" begin="1231" end="1381" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="304" begin="1383" end="1543" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="304" begin="1545" end="1683" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="304" begin="1685" end="1800" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="304" begin="1803" end="1847" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="304" begin="1849" end="2119" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="304" begin="2121" end="2367" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="304" begin="2370" end="2475" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="304" begin="2476" end="2515" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="304" begin="2517" end="2520" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="304" begin="2522" end="2604" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="304" begin="2606" end="2674" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="304" begin="2679" end="2700" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="304" begin="2702" end="2924" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="304" begin="2926" end="3006" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="304" begin="3009" end="3074" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="304" begin="3076" end="3109" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="304" begin="3111" end="3157" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="304" begin="3159" end="3217" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="304" begin="3219" end="3285" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="304" begin="3287" end="3391" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="304" begin="3394" end="3487" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="304" begin="3492" end="3569" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="304" begin="3571" end="3606" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="304" begin="3608" end="3611" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="304" begin="3612" end="3677" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="304" begin="3679" end="3773" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="304" begin="3775" end="3923" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="304" begin="3925" end="4133" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="304" begin="4135" end="4164" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="304" begin="4166" end="4169" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="304" begin="4171" end="4219" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="304" begin="4221" end="4282" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="304" begin="4284" end="4287" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="304" begin="4288" end="4361" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="304" begin="4363" end="4399" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="286" sofa="304" begin="0" end="4400" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/033-cameronfrittvdebatebashingfara.txt" offsetInSource="0" documentSize="4400" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="311" sofa="304" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/033-cameronfrittvdebatebashingfara.xmi" offsetInSource="0" documentSize="4400" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="294" sofa="304" begin="0" end="4400" lastUpdate="2015-01-14T13:04:25Z" url="http://www.theguardian.com/commentisfree/2015/jan/14/cameron-frit-tv-debate-bashing-farage" portal="guardian" authors="Anne Perkins" articleSum="Anne Perkins: First thoughts: For the prime minister, encountering the Ukip leader in the TV debates could be akin to a grilling from a pub bore" title="Cameron would rather look 'frit' than face a bashing from Farage."/>
+    <cas:Sofa xmi:id="304" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Ed Miliband, Nick Clegg and Nigel Farage have each written to David Cameron saying they are willing to have TV election debates even if he doesn't take part. Cameron's people insist he won't come on unless the Greens are there too. Listen carefully and there is a faint creaking noise, the sound of a politician trying to wind back the great clock of politics. In Cameron's case, he wants it back to the happy days before Gordon Brown conceded the prime ministerial veto on TV debates. It might just work.&#10;&#10;Rule one in any prime minister's handbook is never give up an advantage. In an election, that's what being prime minister is - an advantage. That's why it took 12 general elections between most voters having access to a television in 1964 and the first (and last? ) television debate in 2010. Yet debates are as old as politics itself, and putting them on TV has had that &quot;well, obviously&quot; feel to it ever since the first US presidential debate in 1960. It must have helped perpetuate the brand, that first contest, for it was between the two men whose lives and deaths shadowed the rest of the American century: the beautiful young upstart John F Kennedy and the so much less telegenic, even rather sweaty, Richard Nixon.&#10;&#10;Cameron's people have been trying to back out of TV debates in 2015 almost since the lights went down on the last debate of the last election campaign. It has been a carefully played, inch-by-inch retreat covered by protestations of enthusiasm, framed in the context of a wider concern for the state of democracy. Last August he ruminated on the way they sucked the oxygen out of the last campaign (and poured a good deal of it into the Lib Dems' camp). Now he says he is standing up for the right of the Greens, excluded for - according to Ofcom - not being big enough.&#10;&#10;Questioning the value of the debates is easy. The doyen of electoral coverage, David Dimbleby, who chaired the BBC session, said later that he thought they didn't let in as much light as when politicians were made to face the voters on their own in the kind of Question Time event that, as it happens, he also chairs. There' s no doubt that accidental encounters with ordinary people - Brown's &quot;bigoted woman&quot;, or Margaret Thatcher being confronted over the sinking of the Belgrano - have earned a place in history as moments of truth that have told a bigger story.&#10;&#10;There is something rather odd about the &quot;one of these people will be prime minister&quot; hype before a debate that has been widened to include Farage. But,  of course, the debates aren't about debating in the traditional sense of the word, even when they are between two very different versions of the future, as they were in Scotland. What really mattered in those brutal encounters between Alex Salmond and Alistair Darling was the extraordinary depth of Darling's antipathy to Salmond and, for a while, the unexpected haplessness of Salmond under pressure. That first debate will always be remembered as the moment the rabbit bit the car.&#10;&#10;All the same, Cameron's opponents cannot take victory for granted. They accuse him of running scared. The Twittersphere throbs with shouts of &quot;frit&quot;. It is a charge that might have a price for the Tory leader. It will certainly disconcert his less politically savvy supporters. But mainly it will just confirm the prejudices of those who were never going to vote Conservative anyway.&#10;&#10;What it does prove, if proof were needed, is that the Tories are running a core vote strategy. If the broadcasters find the nerve to go ahead anyway, which is a punt in itself, an empty podium would not look good. But try to imagine the view from the perspective of a Tory strategist: the bill for looking frit is tiny compared with the enduring burden of being savaged by Farage. For Cameron, the strategist would reckon, it would be like being assessed for a job by someone who had watched you in conversation with the pub bore. Putting the two together is on a par with divorce proceedings where the party who has walked out stands and shouts a string of excuses unconnected with the facts in a way that is somehow illogically appealing. Just say you've gone off him!&#10;&#10;And,  of course, that's why it must be made to happen. Let's hear Cameron talking to both wings of his party at once. And just as importantly, please, please let's have the Greens in the room too. It really would be an outrage not to."/>
+    <cas:View sofa="304" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 311 294"/>
+</xmi:XMI>

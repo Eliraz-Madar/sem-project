@@ -1,0 +1,186 @@
+0	title	Ferguson unrest: Make protesters pay for riot damage.
+-1	par-sep	
+1	continued	No matter
+2	continued	whose side
+3	continued	you are on in the upheaval following the killing of Michael Brown by police officer Darren Wilson in Ferguson, Missouri
+4	continued	,
+5	continued	everyone should agree on the profound sadness of it all: sadness
+6	continued	that an 18-year-old boy-man walked a path
+7	continued	that led to his destruction
+8	continued	;
+9	continued	sadness
+10	continued	that a police officer felt the need
+11	continued	to defend himself by
+12	continued	shooting another human being
+13	continued	;
+14	continued	sadness over the rioting and looting
+15	continued	that followed a grand jury's decision
+16	continued	not to indict Officer Wilson
+17	continued	;
+18	continued	and for some, sadness
+19	assumption	that Wilson was not indicted
+20	no-unit	.
+-1	par-sep	
+21	continued	Much of the sadness was encapsulated in a sound bite
+22	anecdote	I saw on one TV network
+23	no-unit	.
+24	continued	An African-American business owner, surveying the destruction of his store, plaintively asked
+25	continued	,
+26	continued	"How
+27	continued	am I going
+28	testimony	to feed my kids?"
+-1	par-sep	
+29	assumption	I have an answer
+30	no-unit	and
+31	continued	it is one
+32	continued	that should be applied to anyone
+33	assumption	convicted of riotous behavior, destruction of property and looting
+34	no-unit	.
+35	assumption	It's called restitution
+36	no-unit	.
+-1	par-sep	
+37	continued	Restitution is an Old Testament concept instituted
+38	continued	to remind people
+39	continued	that when
+40	continued	one harms another person, or steals or destroys property
+41	continued	,
+42	assumption	someone else suffers and deserves reimbursement
+43	no-unit	.
+44	continued	It says
+45	assumption	the state is less a debtor than the victim of a crime
+46	no-unit	.
+47	assumption	Restitution can also instill true moral guilt in a person
+48	no-unit	,
+49	continued	which can lead to genuine repentance and a decision by the perpetrator
+50	assumption	to make different choices leading to a better life
+51	no-unit	.
+-1	par-sep	
+52	no-unit	As
+53	continued	the authorities in Ferguson examine videos
+54	continued	that show the faces of many of the rioters and looters
+55	continued	,
+56	assumption	charges will undoubtedly be filed
+57	no-unit	.
+58	no-unit	If
+59	assumption	convicted	cond
+60	no-unit	,
+61	continued	the perpetrators should be forced
+62	continued	to pay for the damage
+63	assumption	they caused
+64	no-unit	.
+-1	par-sep	
+65	no-unit	If	cond
+66	assumption	they have jobs	cond
+67	continued	,
+68	assumption	their paychecks should be garnished
+69	no-unit	.
+70	no-unit	If	cond
+71	assumption	they are on welfare	cond
+72	continued	,
+73	continued	those checks should be forwarded to the businesses
+74	assumption	they destroyed
+75	no-unit	.
+-1	par-sep	
+76	no-unit	If	cond
+77	assumption	they receive food-purchasing assistance	cond
+78	no-unit	,	cond
+79	assumption	that assistance should be withdrawn
+80	no-unit	.
+81	assumption	This should be the practice going forward
+82	no-unit	.
+83	continued	Those
+84	continued	who destroy
+85	continued	their communities will be required
+86	continued	to pay back those harmed by their hooliganism and forfeit any government
+87	continued	benefits
+88	assumption	they receive
+89	no-unit	.
+90	assumption	This might require legislation
+91	no-unit	,
+92	no-unit	but
+93	assumption	politicians should have the public's support
+94	no-unit	.
+-1	par-sep	
+95	assumption	A close relative of restitution is shaming
+96	no-unit	.
+97	assumption	The convicted should be brought before those harmed by their behavior and publicly shamed
+98	no-unit	.
+-1	par-sep	
+99	continued	No one seems
+100	assumption	to be ashamed of anything nowadays
+101	no-unit	,
+102	no-unit	but
+103	assumption	shaming might help prevent future violence
+104	no-unit	.
+105	continued	Rioters and looters
+106	continued	who are black
+107	assumption	could be shamed by law-abiding African-Americans
+108	no-unit	.
+-1	par-sep	
+109	continued	They can be asked
+110	continued	,
+111	continued	"Is this
+112	continued	why
+113	anecdote	Dr  Martin Luther King Jr  marched and went to prison?
+114	anecdote	Is this why he paid the ultimate price?
+115	anecdote	Would he and other civil rights leaders dating back to Frederick Douglass be proud of your behavior today?
+116	continued	Don't you owe
+117	continued	them something better
+118	assumption	than this?"
+-1	par-sep	
+119	continued	Perhaps if
+120	continued	people realize
+121	continued	that their destructive behavior will cost them something
+122	continued	,
+123	continued	they think
+124	assumption	might twice about harming others and robbing them of a living
+125	no-unit	.
+-1	par-sep	
+126	continued	People from around the country are reportedly donating money
+127	continued	to help those
+128	continued	whose businesses
+129	assumption	were destroyed
+130	no-unit	.
+131	assumption	That again demonstrates the generosity of Americans of all races and backgrounds
+132	no-unit	.
+-1	par-sep	
+133	no-unit	While
+134	assumption	donations will help, along with insurance
+135	no-unit	,
+136	no-unit	if	cond
+137	assumption	it covers damage caused by violent protesters
+138	no-unit	,
+139	continued	the lawbreakers should still be required
+140	assumption	to take responsibility for their actions
+141	no-unit	.
+142	continued	In addition
+143	continued	to whatever
+144	continued	legal penalties might result
+145	continued	,
+146	assumption	restitution and shaming should be part of the punishment
+147	no-unit	.
+-1	par-sep	
+148	continued	We've gotten away from personal responsibility and accountability
+149	continued	,
+150	continued	preferring instead
+151	assumption	to cast lawbreakers as "victims,"
+152	continued	when	Modd-NU 
+153	assumption	the true victims are often ignored
+154	no-unit	.
+155	assumption	Too often many blame others for their circumstances
+156	no-unit	.
+-1	par-sep	
+157	continued	Too often many feel entitled to
+158	continued	what
+159	assumption	others have achieved through hard work and dedication
+160	no-unit	.
+-1	par-sep	
+161	continued	Too often too many feel justified in
+162	assumption	taking and destroying the property of others instead of working and building for themselves
+163	no-unit	.
+-1	par-sep	
+164	continued	If	cond
+165	assumption	they don't feel ashamed
+166	no-unit	,	cond
+167	assumption	they should
+168	no-unit	.

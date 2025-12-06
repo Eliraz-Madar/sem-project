@@ -1,0 +1,388 @@
+0	title	Try my new NHS helpline. You've nothing to lose but the will to live...
+-1	par-sep	
+1	continued	The NHS has had a pretty horrible Christmas, with A&Es; swamped, more than a dozen hospitals declaring
+2	assumption	major incidents and a bleak midwinter bed shortage worthy of first-century Bethlehem
+3	no-unit	.
+4	continued	Various causes
+5	continued	have been cited
+6	continued	:
+7	assumption	not enough money, too many ill people, the government, the previous government and GPs
+8	no-unit	.
+9	continued	But a major contributory factor appears
+10	assumption	to be the NHS 111 helpline
+11	no-unit	.
+-1	par-sep	
+12	continued	That's the number
+13	continued	you're now supposed
+14	continued	to ring
+15	continued	if
+16	assumption	you don't need an ambulance
+17	no-unit	.
+18	common-ground	Not any time you don't need an ambulance, obviously
+19	no-unit	.
+20	continued	Not, for example
+21	continued	,
+22	continued	when
+23	other	you need a fire engine or the police instead
+24	no-unit	- stick with 999 for those
+25	no-unit	.
+26	continued	It's for
+27	continued	when
+28	continued	you don't need an ambulance, a fire engine or the police
+29	continued	but
+30	continued	,
+31	no-unit	if	cond
+32	assumption	you were pressed
+33	no-unit	,	cond
+34	continued	you'd have
+35	continued	to admit
+36	continued	it's an ambulance
+37	assumption	that you don't need least
+38	no-unit	.
+39	no-unit	If	cond
+40	continued	you were
+41	continued	to pick one of those things
+42	continued	you don't need and try
+43	assumption	to make some sort of use of it	cond
+44	no-unit	,	cond
+45	assumption	you'd go for the ambulance
+46	no-unit	.
+47	no-unit	On balance
+48	no-unit	.
+49	no-unit	Because
+50	no-unit	,
+51	no-unit	come
+52	no-unit	to think of it
+53	no-unit	,
+54	assumption	you might actually need an ambulance
+55	no-unit	.
+56	continued	I absolutely can't think of a simpler way of
+57	assumption	describing it
+58	no-unit	.
+-1	par-sep	
+59	continued	It seems
+60	assumption	that NHS 111 works slightly differently from NHS Direct
+61	no-unit	,
+62	continued	which preceded it
+63	assumption	and was staffed by nurses
+64	no-unit	,
+65	continued	in that very few of the people
+66	continued	who answer the phone
+67	anecdote	are medically trained
+68	no-unit	.
+69	continued	They have no more chance of
+70	continued	fixing a human body themselves
+71	continued	than
+72	continued	someone in an EE call centre has of
+73	assumption	generating a 3G signal using an alkaline battery and a radio transmitter
+74	no-unit	.
+75	anecdote	They work off a computer system called Pathways
+76	continued	which tells them
+77	continued	what questions
+78	continued	to ask
+79	continued	and then
+80	continued	,
+81	continued	the answers having been typed in
+82	continued	,
+83	continued	what
+84	anecdote	advice to give
+85	no-unit	.
+-1	par-sep	
+86	continued	As	Modd-NU
+87	continued	triage goes	Modd-NU
+88	continued	,	Modd-NU
+89	assumption	this is flawed
+90	no-unit	.
+91	continued	The first stage of it - the decision
+92	continued	to opt for 111 rather than, on the one hand, 999 or, on the other, a paracetamol and a lie-down
+93	assumption	- is conducted by the patients themselves
+94	no-unit	.
+95	continued	This ensures
+96	continued	that the new service gets a nice mix of those
+97	continued	who are definitely dying
+98	continued	but don't want
+99	continued	to be any trouble and malingerers
+100	assumption	who are losing the courage of their convictions
+101	no-unit	.
+102	continued	Then the next stage is a sort of medical version of those magazine surveys
+103	continued	that claim
+104	continued	to tell you
+105	continued	whether
+106	continued	you're romantic or sociopathic
+107	assumption	or spiritual or a typical Scorpio
+108	no-unit	.
+109	no-unit	But
+110	no-unit	,
+111	continued	 regardless of
+112	continued	whether
+113	continued	most of your answers are As, Bs or Cs
+114	continued	,
+115	continued	the system still just advises
+116	continued	you to consult someone trained
+117	continued	to diagnose
+118	continued	whether	Modd-NU
+119	continued	there'	Modd-NU
+120	continued	s anything really wrong with you	modd-ASM
+121	continued	,	Modd-NU
+122	continued	rather than waste any more time describing your nasty rash to a guy	Modd-NU
+123	continued	whose last job	Modd-NU
+124	assumption	was cold-calling about missold PPIs	modd-ASM
+125	no-unit	.
+-1	par-sep	
+126	no-unit	And
+127	continued	that's
+128	continued	what
+129	continued	causes the trouble for A&E;: the combination of a risk-averse computer algorithm, call centre staff
+130	continued	who don't want blood on their hands and the scarcity of GP appointments on public holidays, weekends
+131	continued	and
+132	continued	when
+133	continued	there'
+134	continued	s good skiing
+135	continued	to be had
+136	continued	,
+137	continued	is driving thousands of 111 callers into A&E	Modd-NU
+138	continued	;	Modd-NU
+139	assumption	to be put on a trolley and ignored like a rum baba in a 70s restaurant
+140	no-unit	.
+-1	par-sep	
+141	assumption	The solution is simple
+142	no-unit	:
+143	assumption	the algorithm needs some backbone
+144	no-unit	.
+145	continued	By
+146	continued	which I don't mean
+147	continued	that the decisions should be taken by actual live vertebrates
+148	assumption	- that's obviously unworkably expensive
+149	no-unit	.
+150	continued	But we need
+151	assumption	to be honest with ourselves
+152	no-unit	:
+153	continued	the whole point of this phone line is
+154	assumption	to fob people off 
+155	no-unit	-
+156	continued	to stop
+157	continued	them going to hospital
+158	continued	,
+159	assumption	not encourage them
+160	no-unit	.
+161	continued	Deep down, they want
+162	continued	to be told
+163	continued	they're fine
+164	continued	and to stop
+165	continued	moaning - otherwise
+166	assumption	they would've dialled 999
+167	no-unit	-
+168	no-unit	so
+169	continued	a new version of Pathways needs
+170	assumption	to be designed with that in mind
+171	no-unit	...
+-1	par-sep	
+172	no-unit	Ring ring
+173	no-unit	.
+174	no-unit	Click
+175	no-unit	.
+-1	par-sep	
+176	no-unit	Recorded Voice
+177	no-unit	:
+178	continued	We're sorry
+179	continued	that you too have found
+180	continued	it necessary
+181	other	to call NHS 111
+182	no-unit	.
+183	continued	We apologise for the delay
+184	continued	but
+185	other	we're experiencing extremely high call volume
+186	no-unit	.
+-1	par-sep	
+187	no-unit	Hold music: Eye of the Tiger or Feeling Good
+188	no-unit	.
+189	other	The music fades in between the following recorded messages
+190	no-unit	.
+-1	par-sep	
+191	other	It's that time of year
+192	no-unit	.
+193	no-unit	Colds, sniffles - nothing serious
+194	no-unit	,
+195	no-unit	but
+196	continued	you know
+197	continued	how
+198	assumption	people are
+199	no-unit	.
+200	assumption	Bloody hypochondriacs
+201	no-unit	...
+-1	par-sep	
+202	continued	Not
+203	continued	saying that's
+204	no-unit	you, of course
+205	no-unit	.
+206	continued	I'm sure
+207	assumption	you're at death's door
+208	no-unit	...
+-1	par-sep	
+209	continued	Just
+210	continued	hope
+211	continued	there'	Modd-NU
+212	other	s no one with a burst appendix in the phone queue just behind you
+213	no-unit	,
+214	other	that's all
+215	no-unit	.
+216	continued	Wouldn't want
+217	assumption	you to have that on your conscience
+218	no-unit	.
+-1	par-sep	
+219	no-unit	Still
+220	no-unit	,
+221	assumption	 nice music, eh?	m-question
+222	no-unit	Stirring stuff
+223	no-unit	.
+224	continued	I expect
+225	other	you're feeling better already
+226	no-unit	.
+-1	par-sep	
+227	anecdote	Calls may be recorded for subsequent publication as a book of hilarious and embarrassing medical anecdotes
+228	no-unit	.
+229	continued	Your continuing
+230	continued	to hold
+231	continued	will be taken as consent for your name
+232	assumption	to be used
+233	no-unit	.
+-1	par-sep	
+234	anecdote	Each caller will remain on hold for at least 10 minutes
+235	no-unit	.
+236	assumption	This will thin down the numbers considerably - for various reasons
+237	no-unit	.
+238	continued	When	cond
+239	assumption	the call is finally answered	cond
+240	no-unit	,	cond
+241	assumption	the following questions will be asked
+242	no-unit	:.
+-1	par-sep	
+243	continued	Q  Thank you for
+244	other	calling NHS 111
+245	no-unit	.
+246	other	Please enter the last seven digits of your NHS number into your HealthSentry device sponsored by Nivea Visage, and read out the resultant 16-letter Medicode
+247	no-unit	.
+-1	par-sep	
+248	continued	Q  How
+249	other	are you?
+-1	par-sep	
+250	continued	If
+251	continued	answer is "Fine, thanks"
+252	continued	,
+253	other	even as a reflex, hang up immediately
+254	no-unit	.
+255	assumption	It's worth a try
+256	no-unit	.
+-1	par-sep	
+257	no-unit	Q
+258	other	Have you experienced your current symptoms before?
+-1	par-sep	
+259	continued	If
+260	other	answer is yes
+261	no-unit	:
+262	other	Well, they didn't kill you last time
+263	no-unit	.
+-1	par-sep	
+264	continued	If
+265	other	answer is no
+266	no-unit	:
+267	continued	And you didn't think
+268	continued	you might give it a week and see
+269	continued	if
+270	assumption	they clear up?	m-question
+-1	par-sep	
+271	continued	Q  How
+272	continued	can you be sure
+273	continued	that the way
+274	continued	you feel now
+275	continued	isn't
+276	continued	how
+277	continued	you're meant
+278	continued	to feel
+279	continued	and
+280	continued	the way
+281	continued	you used
+282	continued	to feel
+283	continued	wasn't an illness
+284	assumption	from which you've now recovered?	m-question
+-1	par-sep	
+285	no-unit	Q
+286	continued	Are you aware
+287	other	that, in the vast majority of cases, there's nothing wrong with the patient
+288	assumption	that won't clear up of its own accord?	m-question
+-1	par-sep	
+289	no-unit	Q
+290	continued	Are you aware
+291	other	that, in a significant percentage of the remaining cases, there's no effective treatment
+292	no-unit	and
+293	no-unit	so
+294	continued	it's probably kinder
+295	assumption	to remain undiagnosed?
+-1	par-sep	
+296	no-unit	Q
+297	continued	You don't fancy
+298	continued	giving homeopathy a try
+299	continued	,
+300	other	do you?
+301	continued	It's very convenient, assuming
+302	anecdote	you've got access to mains water
+303	no-unit	.
+-1	par-sep	
+304	no-unit	Q
+305	assumption	Have you made a will?	m-question
+-1	par-sep	
+306	continued	If
+307	other	answer is no
+308	no-unit	:
+309	continued	Don't you think that's
+310	continued	a priority, instead of
+311	assumption	wasting time on the phone?	m-question
+-1	par-sep	
+312	continued	If
+313	other	answer is yes
+314	no-unit	:
+315	continued	It's not from one of those will kits
+316	continued	,
+317	other	is it?
+318	no-unit	Because
+319	continued	they're about as likely
+320	anecdote	to stand up in court as Oliver Reed after a heavy night
+321	no-unit	.
+322	no-unit	I mean
+323	no-unit	,
+324	assumption	you might as well just bequeath everything to lawyers now
+325	no-unit	.
+326	anecdote	No, you need a proper one, done by a solicitor
+327	no-unit	.
+328	continued	It's an absolute priority
+329	continued	to get
+330	continued	that sorted
+331	continued	before
+332	continued	you let
+333	anecdote	some junior doctor open you up and poke around
+334	no-unit	.
+-1	par-sep	
+335	no-unit	Q  On a scale of 1 to 10
+336	no-unit	,
+337	no-unit	where
+338	no-unit	1 means "strongly disagree"
+339	no-unit	and 10 means "strongly agree"
+340	no-unit	,
+341	continued	how
+342	continued	would you respond to the phrase
+343	continued	"We've all got
+344	anecdote	to go some time"?
+-1	par-sep	
+345	continued	David Mitchell's new book
+346	continued	,
+347	continued	Thinking
+348	continued	About It Only Makes
+349	continued	It Worse
+350	continued	,
+351	continued	is published by Guardian Faber (?
+352	other	18.99)
+353	no-unit	.
+354	continued	To order a copy for ?
+355	continued	11.99 go
+356	other	to bookshop.theguardian.com or call 0330 333 6846
+357	no-unit	.

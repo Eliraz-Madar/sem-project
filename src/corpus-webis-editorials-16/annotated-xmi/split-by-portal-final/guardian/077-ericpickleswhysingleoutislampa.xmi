@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3290" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="4" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="5" end="9" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="14" end="56" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="59" end="75" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="77" end="220" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="221" end="337" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="339" end="342" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="344" end="359" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="362" end="499" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="501" end="593" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="595" end="706" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="709" end="808" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="810" end="861" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="863" end="978" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="980" end="1032" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1033" end="1093" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1094" end="1214" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1215" end="1306" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1308" end="1449" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1451" end="1522" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1525" end="1580" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1582" end="1759" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1761" end="1882" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1885" end="2046" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2048" end="2092" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2094" end="2250" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2252" end="2293" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2295" end="2345" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2347" end="2361" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2363" end="2460" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2462" end="2487" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2489" end="2549" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2551" end="2625" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2627" end="2637" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2639" end="2678" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2681" end="2710" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2712" end="2804" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2806" end="2895" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2897" end="3020" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3023" end="3080" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3083" end="3157" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3159" end="3261" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3264" end="3279" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3284" end="3289" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="233" sofa="1" begin="0" end="3290" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/077-ericpickleswhysingleoutislampa.txt" offsetInSource="0" documentSize="3290" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="241" sofa="1" begin="0" end="3290" lastUpdate="2015-01-20T20:10:42Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/eric-pickles-why-single-out-islam-patronising-treatment" portal="guardian" authors="Areeb Ullah" articleSum="Areeb Ullah: You question our loyalty for no reason other than our spiritual beliefs. Will you ever sit down with the diverse peoples who make up Britain and really listen to us?" title="Dear Eric Pickles - why single out Islam for this patronising treatment?"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Dear Eric ,.&#10;&#10;Walaikum salam warahmatullahi wabarakatuhu.&#10;&#10;Serious question. Will you be sending a letter any time soon to members of the Roman Catholic church following the child-abuse scandals in Catholic institutions? Or a letter to the Board of Deputies of British Jews on the subject of illegal Israeli settlements in the West Bank?&#10;&#10;No?&#10;&#10;Thought as much.&#10;&#10;Ten years on from 9/11 and you're still asking the same questions, questions that have proved worse than useless in the intervening years. Still wondering aloud about the loyalty of British citizens based on their spiritual beliefs. Still demanding that these people prove themselves compatible with the &quot;British way of life&quot;, as defined by you.&#10;&#10;In your letter this week, you say that you &quot;know acts of extremism are not representative of Islam&quot;. You mention that &quot;British values are Muslim values&quot;. Yet you insist on asking us to speak to our young people, telling them that &quot;extremists have nothing to offer them&quot;. Do you really think that little of our young people? That they can't tell the difference between right and wrong? Do you imagine that they are already that different, that set apart from British society, simply because they're Muslim? Do you think that little of our ability to bring them up to know that taking life is a sin?&#10;&#10;To accept the terms of your argument for a moment, we already know that 83% of Muslims living in the UK say they identify with British values. Others are as free not to identify with them as any non-Muslim might be - the right to be disaffected isn't limited to Christians. That a tiny number of Muslims are also lost to violent extremism says as much about other members of our faith as the conduct of abusers in the Catholic church does about theirs. But still you require our religious leaders do more in &quot;demonstrating how faith in Islam can be part of British identity&quot;.&#10;&#10;Rather than send a patronising letter telling Muslim leaders what to do, maybe you should actually sit down with Muslim leaders and listen to them, really listen. You've been in the job for nearly five years. They would tell you that since 9/11 we have condemned, apologised and worked tirelessly to expose the incompatibility of the terrorists' ideology with Islam. We have done what you have asked us to do. But we are like any other citizens of the UK today. We are anxious. Anxious about an increase in intolerance towards minorities, including but not limited to our own. Anxious about the economy. Anxious about whether the NHS can continue to meet our needs. Anxious about whether our children will be able to afford higher education. In general,  it seems our fears are not listened to.&#10;&#10;You are communities secretary. You have a duty of care to the diverse peoples who make up Britain and define British values. Sadly, it seems the only time you engage with us is under the rubric of counter-terrorism. With attacks against Muslims taking place across the country, more than ever before we need your reassurance and protection.&#10;&#10;Instead we get a letter suggesting we're not doing enough.&#10;&#10;I would say it's you, communities secretary, who hasn't done nearly enough. I'm afraid your letter will be received respectfully, but with disappointment, up and down the country.&#10;&#10;Yours sincerely ,.&#10;&#10;Areeb."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 241"/>
+</xmi:XMI>

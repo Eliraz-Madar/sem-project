@@ -1,0 +1,198 @@
+0	title	Do we really need to cancel Christmas?
+-1	par-sep	
+1	continued	It's wonderful (and
+2	continued	a good thing)
+3	continued	to see the new emphasis on
+4	continued	"giving over
+5	assumption	receiving" at Christmas time
+6	no-unit	.
+7	assumption	It's become a trend this year with so many families
+8	continued	because	Modd-NU
+9	continued	as parents we want
+10	common-ground	to teach kids about generosity
+11	no-unit	.
+-1	par-sep	
+12	continued	Moms and dads everywhere are using Christmas as an opportunity
+13	continued	to get their kids
+14	continued	thinking about
+15	assumption	serving others and giving to the less fortunate
+16	no-unit	,
+17	continued	rather than encouraging
+18	continued	them to create monstrous Christmas lists
+19	continued	describing all the things
+20	assumption	they want this season
+21	no-unit	.
+-1	par-sep	
+22	continued	Some parents are even "cancelling" Christmas for their kids
+23	continued	,
+24	anecdote	not giving any family members any gifts
+25	no-unit	.
+-1	par-sep	
+26	no-unit	But
+27	continued	do we really need	modd-NU
+28	continued	to cancel Christmas in order	modd-NU
+29	assumption	to foster a spirit of generosity in our kids?	m-question
+-1	par-sep	
+30	continued	Wednesday I joined Lisa Henderson on "Fox & Friends"
+31	anecdote	to debate this very question
+32	no-unit	.
+-1	par-sep	
+33	anecdote	Lisa has "cancelled Christmas" in her Utah home
+34	no-unit	because
+35	no-unit	,
+36	continued	she says
+37	continued	,
+38	continued	her kids have become too entitled
+39	continued	,
+40	testimony	"acting so ungrateful" and "extremely disrespectful."
+-1	par-sep	
+41	anecdote	So there will be no presents for Christmas
+42	no-unit	,
+43	no-unit	but
+44	no-unit	,
+45	continued	as	modd-NU	
+46	continued	she writes on her blog Overthebigmooon.com	modd-NU
+47	continued	,	modd-NU
+48	continued	"There is a good possibility
+49	continued	that Santa will be writing
+50	continued	them a letter of
+51	continued	how proud of them
+52	testimony	he is and perhaps put a few pieces of hard candy and an orange in their stockings."
+-1	par-sep	
+53	continued	While	Modd-NU
+54	continued	I have great respect for
+55	continued	what
+56	continued	Lisa wants
+57	assumption	to accomplish
+58	no-unit	,
+59	assumption	I disagree with her approach
+60	no-unit	.
+61	assumption	Christmas should begin, not end, at home
+62	no-unit	.
+-1	par-sep	
+63	continued	We are already under immense pressure
+64	assumption	to purge Christmas from our culture
+65	no-unit	.
+66	continued	First nativity scenes in public places were under attack, now
+67	assumption	it's Christmas trees
+68	no-unit	.
+69	continued	Even saying
+70	assumption	"Merry Christmas" has taken a back seat to "Happy Holidays."
+-1	par-sep	
+71	continued	Cancelling Christmas and using letters from Santa
+72	continued	to motivate our kids
+73	continued	to be generous
+74	assumption	is not the answer
+75	no-unit	.
+76	continued	The answer is in
+77	assumption	putting the emphasis on the miracle not the material
+78	no-unit	.
+-1	par-sep	
+79	assumption	And here's the good news
+80	no-unit	.
+81	assumption	Even our gift giving can point to the miracle
+82	no-unit	.
+-1	par-sep	
+83	assumption	So, yes, we give a few gifts to our kids
+84	no-unit	.
+85	assumption	But we also give many gifts to the less fortunate
+86	no-unit	.
+-1	par-sep	
+87	no-unit	For example	Modd-NU
+88	no-unit	,	Modd-NU
+89	continued	 we've taught our own kids
+90	continued	that the gifts
+91	continued	we give them at Christmas
+92	continued	aren't based on
+93	continued	whether
+94	anecdote	they've been bad or good all year
+95	no-unit	.
+96	continued	The gifts
+97	continued	we give
+98	continued	them are free
+99	continued	,
+100	assumption	unearned, underserved gifts
+101	no-unit	,
+102	continued	just like	Modd-NU
+103	assumption	the gift of Jesus is a free, unearned, and underserved gift
+104	no-unit	.
+105	continued	This is a very tangible, concrete concept for kids
+106	assumption	to grasp
+107	no-unit	.
+-1	par-sep	
+108	no-unit	And
+109	continued	when	Modd-NU
+110	continued	we serve and give to others
+111	continued	,
+112	continued	we teach our kids
+113	continued	what
+114	assumption	Jesus said in Matthew 25:40
+115	no-unit	:
+116	continued	"Whatever
+117	continued	you do for the least of your brothers and sisters
+118	continued	,
+119	testimony	you do for me."
+-1	par-sep	
+120	continued	So we give gifts to Jesus on his "birthday" by
+121	assumption	serving and loving and giving to others!
+-1	par-sep	
+122	continued	This is
+123	continued	how
+124	continued	parents can infuse real meaning into Christmas -- not by
+125	continued	refusing
+126	assumption	to celebrate it all together
+127	no-unit	.
+-1	par-sep	
+128	continued	Cancelling Christmas is simply not the key to
+129	assumption	fostering generosity in our kids
+130	no-unit	.
+131	continued	The key to
+132	continued	fostering generosity in our kids
+133	continued	is by
+134	continued	making
+135	continued	giving something	
+136	continued	we do all year round
+137	continued	.	Modd-NU
+138	continued	By	Modd-NU
+139	continued	making	Modd-NU
+140	assumption	it a lifestyle
+141	no-unit	.
+-1	par-sep	
+142	continued	And a lifestyle of
+143	continued	giving
+144	continued	springs from a deep well of gratitude for
+145	continued	how
+146	assumption	Jesus first gave his life for us
+147	no-unit	.
+-1	par-sep	
+148	continued	We have
+149	continued	to be so careful
+150	continued	not to teach our kids
+151	continued	that Christmas is about
+152	continued	doing more, trying harder, and being better
+153	assumption	to be worthy of gifts
+154	no-unit	.
+-1	par-sep	
+155	continued	Christmas is about
+156	continued	anticipating and celebrating the greatest gift
+157	continued	that has already been given
+158	assumption	-- the unconditional love of God in the birth of Jesus Christ
+159	no-unit	.
+-1	par-sep	
+160	continued	Our focus shouldn't be on
+161	continued	whether or not
+162	continued	we have a tree overflowing with gifts, but on
+163	continued	whether
+164	assumption	we have a home overflowing with love
+165	no-unit	.
+166	no-unit	His love
+167	no-unit	.
+-1	par-sep	
+168	no-unit	And
+169	no-unit	if
+170	assumption	that's our starting place
+171	no-unit	,
+172	continued	we have a pretty good shot at
+173	continued	getting
+174	assumption	Christmas, and all the 364 other days of the year, right
+175	no-unit	.

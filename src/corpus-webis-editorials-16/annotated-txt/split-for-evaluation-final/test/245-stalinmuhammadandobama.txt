@@ -1,0 +1,186 @@
+0	title	Stalin, Muhammad and Obama.
+-1	par-sep	
+1	continued	Pundits agonize over President Obama's resistance
+2	assumption	to calling Islamist terror "Islamist terror."
+3	continued	How
+4	assumption	can he not see the obvious?
+5	continued	How
+6	assumption	can he ignore the overwhelming and ever-increasing evidence?
+7	continued	How
+8	continued	can he insist
+9	continued	that his subordinates continue their buffoonish insistence
+10	continued	that Islamist terror has nothing
+11	continued	to do with Islam
+12	continued	and
+13	continued	that they--secularized Christians and non- observant Jews--know
+14	continued	Islam's character better than
+15	assumption	Muslims themselves?
+-1	par-sep	
+16	assumption	It's easy
+17	no-unit	.
+18	continued	President Obama and his commissars fit the longstanding pattern of behavior (insistence, denial, castigation)
+19	assumption	that the hard left has embraced for generations
+20	no-unit	.
+21	continued	In the mid-20th century, leftists, bereft of God and desperate for a new faith, insisted for decade after decade
+22	continued	that Comrade Stalin was a paragon of political virtues
+23	continued	and
+24	assumption	that the Soviet Union was Utopia
+25	no-unit	.
+26	assumption	All reports of purges, terror, man-made famines and the Gulag were fabrications of capitalists and their servants
+27	no-unit	.
+-1	par-sep	
+28	continued	Even after
+29	continued	Premier Khrushchev revealed Stalin's crimes to the world, hardcore leftists excused or ignored the truth
+30	continued	,
+31	continued	insisting still
+32	continued	that Red terror wasn't terror
+33	continued	and
+34	continued	that Communism was a movement (religion?)
+35	assumption	of peace and progress, that humankind's hope still waited in the east
+36	no-unit	.
+37	continued	Only the fall of the Berlin Wall and the Soviet collapse briefly sobered a few on the extreme left--the milieu
+38	assumption	in which our president spent his youth and pre-presidency adulthood
+39	no-unit	.
+-1	par-sep	
+40	continued	But leftists need
+41	assumption	a utopia, a fantasy heaven on earth, to comfort them and to give their lives purpose
+42	no-unit	.
+43	continued	Robbed of the Soviet dream
+44	continued	,
+45	assumption	the forlorn left was in need of a new redeemer
+46	no-unit	.
+-1	par-sep	
+47	other	Welcome, Comrade Usama!
+48	continued	The left--and young Barack Obama 
+49	continued	--
+50	assumption	already saw Islam as an oppressed religion, the noble faith of the wretched of the earth
+51	no-unit	,
+52	no-unit	while
+53	continued	casting Christianity and Judaism in the role
+54	continued	once occupied by capitalist imperialists
+55	continued	:
+56	assumption	that of oppressors
+57	no-unit	.
+58	continued	Bin Laden gave the left a new torch
+59	assumption	to carry
+60	no-unit	.
+61	no-unit	While
+62	continued	it remained necessary
+63	assumption	to condemn terrorism in public
+64	no-unit	,
+65	assumption	the left simultaneously justified it in a globalized version of the Marxist construct of a class struggle
+66	no-unit	.
+-1	par-sep	
+67	continued	Really
+68	continued	,
+69	assumption	didn't American deserve 9/11?
+-1	par-sep	
+70	assumption	Islamism fit the left like a tailored glove
+71	no-unit	.
+72	continued	Just as Western Reds didn't need
+73	assumption	to endure life in the Soviet Union
+74	no-unit	("Pass the foie gras, Comrade!")
+75	no-unit	.
+76	no-unit	,
+77	assumption	so today's leftwing cadres need not actually live in the Middle East or North Africa
+78	no-unit	.
+79	continued	From the comfort of Cambridge or the splendor of California's coast, they can rationalize radical Islam, a creed
+80	continued	that would
+81	continued	,
+82	continued	if
+83	continued	imported here
+84	continued	,
+85	continued	exterminate them as surely
+86	continued	as
+87	assumption	Comrade Stalin would have purged the old American left
+88	no-unit	.
+-1	par-sep	
+89	assumption	The staff of Charlie Hebdo?	m-question
+90	assumption	Stalin would have killed those pranksters, too
+91	no-unit	.
+92	continued	The only difference is
+93	assumption	that "Uncle Joe" would have gotten them all
+94	no-unit	.
+-1	par-sep	
+95	continued	When
+96	continued	you take the long view
+97	continued	,
+98	continued	it's disheartening
+99	continued	(to put it mildly)
+100	continued	that the Western left simply cannot live without
+101	continued	dreaming of an impossible utopia
+102	assumption	to be imposed by one ideology or another on the rest of us
+103	no-unit	.
+104	assumption	Radical Islam?	m-question
+105	assumption	It's a "religion of peace."
+106	continued	Just
+107	continued	as
+108	assumption	Soviet Communism was an ideology of peace, justice and brotherhood
+109	no-unit	.
+-1	par-sep	
+110	no-unit	So
+111	continued	President Obama's just playing by the time-honored rules
+112	continued	,
+113	continued	substituting Muhammad for Josef Stalin or Mao
+114	continued	:
+115	assumption	Never criticize the Party
+116	no-unit	.
+117	assumption	Ignore the facts
+118	no-unit	.
+119	no-unit	If	cond
+120	assumption	the facts can't be ignored
+121	no-unit	,	cond
+122	assumption	deny or twist them
+123	no-unit	.
+124	continued	No matter
+125	continued	what
+126	continued	,
+127	assumption	stick to the script
+128	continued	(let
+129	continued	them laugh
+130	continued	for
+131	continued	now
+132	continued	,
+133	assumption	they'll see soon enough
+134	no-unit	...).
+135	continued	And anyone
+136	continued	who strays one inch
+137	assumption	must be neutralized
+138	no-unit	,
+139	continued	whether as
+140	continued	a Trotskyist yesteryear
+141	assumption	or slandered as an Islamophobe today
+142	no-unit	.
+-1	par-sep	
+143	continued	The left's existential bleakness and its resultant need
+144	continued	to embrace
+145	assumption	horrid schemes for man-made heavens on earth form a peerless argument for humankind's need for religion
+146	no-unit	.
+147	assumption	In the absence of belief there is only a desert of the soul
+148	no-unit	.
+149	assumption	And Red terror gives way to Islamist terror
+150	no-unit	.
+151	assumption	The Communist International cedes pride of place to the global caliphate
+152	no-unit	.
+153	assumption	Comrade Stalin fades into Comrade Muhammad
+154	no-unit	.
+-1	par-sep	
+155	assumption	Truth is malleable
+156	no-unit	.
+157	continued	Facts are nuisances
+158	assumption	to be exterminated, along with troublesome people
+159	no-unit	.
+160	assumption	Middle-class notions of freedom must be shouted down
+161	no-unit	.
+162	assumption	The rule of the intellectuals must be imposed
+163	no-unit	.
+164	assumption	Never, ever criticize the cause
+165	no-unit	.
+166	assumption	Deny everything
+167	no-unit	.
+168	continued	Never forget
+169	assumption	that Islam's a religion of peace
+170	no-unit	.
+-1	par-sep	
+171	assumption	The future is ours, Comrades
+172	no-unit	.

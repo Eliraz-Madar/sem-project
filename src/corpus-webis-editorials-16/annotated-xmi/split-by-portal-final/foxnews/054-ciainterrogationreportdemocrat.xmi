@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4327" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="41" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="43" end="202" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="204" end="262" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="264" end="340" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="342" end="502" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="504" end="789" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="792" end="803" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="805" end="926" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="929" end="982" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="984" end="1075" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="1077" end="1146" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1148" end="1280" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1283" end="1302" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1303" end="1467" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1469" end="1513" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1514" end="1550" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1552" end="1628" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1630" end="1752" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1755" end="1886" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1888" end="1929" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1931" end="1959" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1961" end="2010" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="2012" end="2103" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2105" end="2173" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2175" end="2228" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2231" end="2237" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2239" end="2327" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2329" end="2444" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2447" end="2698" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2700" end="2705" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2707" end="2766" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2768" end="2773" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2775" end="2786" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2789" end="2844" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2846" end="2917" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2919" end="3071" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="3074" end="3155" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3159" end="3299" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3301" end="3308" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3310" end="3337" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3339" end="3377" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3379" end="3472" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3474" end="3488" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3490" end="3556" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3558" end="3633" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3635" end="3671" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3673" end="3739" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3741" end="3773" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3775" end="3778" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3779" end="3843" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3845" end="4004" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4007" end="4148" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4150" end="4183" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4185" end="4273" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4274" end="4326" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="288" sofa="1" begin="0" end="4327" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/054-ciainterrogationreportdemocrat.txt" offsetInSource="0" documentSize="4327" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="296" sofa="1" begin="0" end="4327" lastUpdate="2014-12-08T19:19:51Z" url="http://www.foxnews.com/opinion/2014/12/08/cia-interrogation-report-democrats-want-to-punish-america-blame-bush/" portal="foxnews" authors="K.T. McFarland" articleSum="There is nothing to be gained by releasing the CIA intelligence report. The&amp;#10;CIA’s actions in the immediate aftermath of September 11 attacks have long&amp;#10;since ceased.&amp;#10;&amp;#10;" title="CIA interrogation report: Democrats want to punish America, blame Bush."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In its ideological zeal to punish America, the outgoing Democratically- controlled Senate, plans to make public a report that, according to Fox News will examine &quot;the alleged use of torture by the CIA.&quot;&#10;&#10;Although the 6,000 page full report will remain classified, the 500 page summary is expected to be released to the public in coming days. According to press reports from those who are familiar with the study, it is expected to portray the American intelligence community in the worst possible light. The report's release and details about CIA interrogations that took place a decade ago will endanger Americans abroad today, destroy essential relationships with foreign intelligence communities going forward, and cripple American human intelligence gathering networks for a generation.&#10;&#10;Put bluntly, Democrats in the Senate are behaving like tenants who got evicted and decide to trash the house on their way out the door.&#10;&#10;There is nothing to be gained by releasing the report. The CIA's actions in the immediate aftermath of September 11 attacks have long since ceased. Although President Obama has approved release of the report's summary, even Secretary of State John Kerry has warned that the report's release will put Americans and U.S  embassies at risk of retaliation.&#10;&#10;So why do this now? Perhaps Democrats in Congress think that by excoriating our intelligence community before the entire world they will expiate the sins of the previous administration. Yes, it's another chance it's to blame Bush! This is the apology tour on steroids. According to media reports, the report concludes that we tortured terrorists. These are the same terrorists who blew up the World Trade Center, bombed the Pentagon, and tried to level the U.S  Capitol.&#10;&#10;These are the same terrorists that today have beheaded Christians, Westerners and, just this past weekend, another American citizen. Think back to the days after September 11. We were blind about Al Qaeda. Most Americans feared another attack was imminent. And the best legal advice in government said CIA actions to get that information were legal. So CIA officers did what they thought necessary to protect Americans. A decade later we're suddenly castigating them for it.&#10;&#10;Second,  the report concludes that the intelligence gathered from CIA's actions wasn't effective. Yet that has been disputed by the very people in the Obama administration who used it to track down Usama bin Laden.&#10;&#10;To quote highly regarded former CIA Director Gen  Michael Hayden, &quot;it is inconceivable to believe that three different CIA directors, and three different Deputy CIA directors, conspired over a seven year period to lie about the program's effectiveness. Third,  there is a rule in foreign policy like the one in medicine. First,  do no harm.&#10;&#10;Public release of this report will do immeasurable harm. It will encourage terrorists around the world to launch revenge attacks. It will cause foreign intelligence agencies to clam up and no longer cooperate with US intelligence for fear that their sources and method will be blown.&#10;&#10;It will cause every American intelligence officer to go into the defensive crouch -- don't stick your head out to protect America because years later somebody in government who wants to score political points will chop it off. Finally,  take a lesson from history. We did this once before, in the 1970's, when presidential-hopeful Senator Frank Church launched a widespread investigation of the CIA. It didn't work, Senator Church's presidential aspirations never got off the ground. But his handiwork crippled American intelligence gathering for a generation. American agents overseas were killed, foreign intelligence agencies stopped sharing intelligence with us, our own human networks collapsed, and CIA officers played it safe and stopped thinking outside the box. This was one of the reasons a generation later we never knew about a bunch of Islamic extremists in a cave in Afghanistan plotting to take down the Twin Towers.&#10;&#10;Releasing the report to the public will do considerable harm to our efforts to gather essential intelligence about those hoping to do us harm. It will be a self-inflicted wound. The next time we are caught unprepared it won' t just be with 747s flying into buildings it could be with weapons too terrible to contemplate."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 296"/>
+</xmi:XMI>

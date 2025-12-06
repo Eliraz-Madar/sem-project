@@ -1,0 +1,143 @@
+0	title	We are the last generation that can fight climate change. We have a duty to act.
+-1	par-sep	
+1	anecdote	This year the UN marks its 70th anniversary
+2	no-unit	.
+3	assumption	Sadly, there is little time for reflection or celebration
+4	no-unit	.
+5	assumption	More pressing are the competing demands and challenges fuelled by an upsurge in conflict, disease and human suffering
+6	no-unit	.
+7	continued	These compel the international community
+8	continued	to step up
+9	continued	and provide the leadership needed
+10	assumption	to tackle them
+11	no-unit	.
+-1	par-sep	
+12	continued	Ebola continues
+13	anecdote	to plague west Africa
+14	no-unit	.
+15	continued	For some of the affected countries, struggling
+16	continued	to overcome the effects of bitter civil war
+17	continued	,
+18	assumption	the outbreak has been a major setback for development
+19	no-unit	.
+20	continued	We are beginning
+21	assumption	to see some improvements
+22	no-unit	.
+23	anecdote	During my visit to the region in December, I was deeply moved by the efforts of local Ebola responders and health workers from across Africa and the world
+24	no-unit	.
+25	no-unit	But
+26	continued	rebuilding shattered lives and economies
+27	assumption	will require significantly more resources and long-term commitment
+28	no-unit	.
+-1	par-sep	
+29	no-unit	As
+30	assumption	conflicts raged
+31	no-unit	and
+32	assumption	extremism rose
+33	no-unit	,
+34	assumption	2014 pushed the UN's humanitarian, peacekeeping and diplomatic efforts to the limit
+35	no-unit	.
+36	anecdote	More than 100 million people needed assistance
+37	no-unit	.
+38	assumption	An unprecedented number of UN troops and police are deployed in highly volatile security environments
+39	no-unit	.
+-1	par-sep	
+40	assumption	The elimination of Syria's chemical weapons programme was a major achievement
+41	no-unit	,
+42	no-unit	but
+43	continued	the conflict continues
+44	continued	to inflict immense suffering
+45	assumption	and will soon enter its fifth year
+46	no-unit	.
+47	no-unit	As
+48	assumption	bitter winter conditions set in	cond
+49	no-unit	,	cond
+50	assumption	millions of refugees are in need of life-saving humanitarian assistance
+51	no-unit	.
+52	assumption	The presence of thousands of foreign terrorist fighters there and in Iraq has added a further volatile dimension
+53	no-unit	.
+-1	par-sep	
+54	assumption	Groups responsible for atrocities have capitalised on a legacy of atrocious governance towards disenfranchised populations
+55	no-unit	.
+56	continued	Our response to brutality and extremism cannot be limited to military action	Modd-NU
+57	continued	,	Modd-NU
+58	continued	important	Modd-NU
+59	continued	as	Modd-NU
+60	assumption	it is	Modd-NU
+61	no-unit	.
+62	continued	We must address the conditions
+63	assumption	that give rise to such poison in the first place
+64	no-unit	.
+65	continued	In the same vein, those conducting military actions against terrorists must be sure
+66	assumption	that such efforts fully observe human rights
+67	no-unit	.
+68	continued	As	Modd-NU
+69	assumption	we have seen time and again	modd-ASM
+70	no-unit	,
+71	continued	failure
+72	continued	to do so
+73	continued	can end up
+74	assumption	serving as a recruiting agent for terrorists
+75	no-unit	.
+-1	par-sep	
+76	continued	Elsewhere, the recent appalling terrorist attacks in Paris show
+77	continued	how vulnerable
+78	assumption	any society can be
+79	no-unit	.
+80	assumption	Countries in Europe and elsewhere have witnessed a deeply worrying escalation of tensions between communities and within societies
+81	no-unit	.
+82	continued	Giving in to hatred and sowing division only guarantees a spiral of violence	Modd-NU
+83	continued	-	Modd-NU
+84	continued	precisely what	Modd-NU
+85	assumption	terrorists seek	Modd-NU
+86	no-unit	.
+87	assumption	We must not fall into that trap
+88	no-unit	.
+89	continued	Addressing discord in a manner
+90	continued	that solves
+91	continued	,
+92	continued	rather than multiplies
+93	continued	,
+94	continued	the problem may be the greatest test
+95	assumption	our human family faces in the 21st century
+96	no-unit	.
+-1	par-sep	
+97	continued	There is a long list of other hot-spots	modd-ASM
+98	continued	-	Modd-NU
+99	continued	stretching from Nigeria to Yemen, from the rise in	Modd-NU
+100	assumption	fighting in Darfur to the transition in Afghanistan	modd-ASM
+101	no-unit	.
+102	assumption	Conflict in Ukraine has endangered security and stability in Europe, and reanimated the ghosts of the cold war
+103	no-unit	.
+104	assumption	Israelis and Palestinians must ease the explosive situation in Gaza and the West Bank, and move away from confrontation and towards a negotiated settlement
+105	no-unit	.
+-1	par-sep	
+106	continued	But in a year marked by turmoil, UN member states have also proposed an initial draft set of sustainable development goals
+107	assumption	that will guide anti- poverty efforts for the next generation
+108	no-unit	.
+109	anecdote	Further negotiations will begin this month and culminate at a special summit in New York in September with the adoption of a development agenda
+110	continued	that can help tackle inequality
+111	continued	,
+112	assumption	empower women and girls, and promote shared prosperity
+113	no-unit	.
+-1	par-sep	
+114	assumption	Climate action took on significant momentum with major announcements by the EU, the US and China, and a successful climate conference in Lima, Peru
+115	no-unit	,
+116	assumption	that kept complex negotiations on track
+117	no-unit	.
+118	continued	We must aim high: for the adoption of an ambitious and universal agreement in Paris in December
+119	assumption	to keep the rise in global temperatures below the dangerous threshold of 2C
+120	no-unit	.
+-1	par-sep	
+121	continued	Ours is the first generation
+122	continued	that can end poverty
+123	continued	,
+124	continued	and the last
+125	continued	that can take
+126	assumption	steps to avoid the worst impacts of climate change
+127	no-unit	.
+128	continued	In this 70th anniversary year	Modd-NU
+129	continued	in which we renew our commitment to the goals and principles of the UN charter	Modd-NU
+130	continued	,	Modd-NU
+131	assumption	the international community must rise to the moment
+132	no-unit	.

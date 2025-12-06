@@ -1,0 +1,240 @@
+0	title	Iran talks: Moving beyond 'worn out' policies.
+-1	par-sep	
+1	assumption	The stakes are high in the latest round of nuclear talks starting today in Geneva between Iran and the P5+1 at the deputy foreign minister level
+2	no-unit	.
+3	continued	Over the past week, US Secretary of State John Kerry and his Iranian counterpart Mohammad Jawed Zarif have held long conversations in Geneva and Paris
+4	continued	,
+5	anecdote	lasting over seven hours
+6	no-unit	.
+7	continued	Both realise
+8	continued	that more flexibility is required
+9	assumption	to avoid the break up of the talks
+10	no-unit	.
+-1	par-sep	
+11	anecdote	British Prime Minister David Cameron spoke on the subject with US President Barack Obama and the foreign ministers of France, Germany and the EU foreign policy chief all held talks separately with Zarif
+12	no-unit	.
+13	no-unit	Yet
+14	no-unit	if	cond
+15	continued	both sides continue
+16	assumption	to stick to their strict red lines
+17	continued	it is questionable	cond
+18	continued	whether
+19	assumption	this round of talks will be any better than the last
+20	no-unit	.
+21	assumption	It may be time for more flexible red lines	cond
+22	no-unit	if	cond
+23	continued	failure is
+24	assumption	to be avoided
+25	no-unit	.
+-1	par-sep	
+26	continued	"Chances
+27	continued	are less than 50/50,"
+28	testimony	admits Obama, in a joint press conference with the British Prime Minister David Cameron
+29	continued	when	Modd-NU
+30	continued	both leaders spent well over half of their press
+31	continued	conferences spelling out
+32	continued	what
+33	continued	was at stake
+34	continued	if
+35	assumption	a deal with Iran was not finalised by the June deadline
+36	no-unit	.
+-1	par-sep	
+37	continued	Obama explained
+38	continued	how
+39	testimony	"the most successful, the most effective sanctions regime" had eventually led Iran to the negotiating table
+40	no-unit	.
+41	continued	He said
+42	continued	:
+43	continued	"If
+44	continued	we can get a verifiable deal with the necessary assurances
+45	testimony	then that would be the best deal."
+-1	par-sep	
+46	continued	Yet Iran's foreign ministry spokesperson said
+47	continued	sanctions are a "worn out policy"
+48	continued	and asked
+49	anecdote	the White House to adopt a "logical approach"
+50	no-unit	.
+-1	par-sep	
+51	continued	Iran would not accept a deal
+52	continued	that constrains its enrichment programme without
+53	assumption	the West reducing sanctions
+54	no-unit	.
+-1	par-sep	
+55	continued	"Now
+56	continued	we have come to a stage in the talks
+57	continued	that requires the other side
+58	continued	to take its decision
+59	continued	to enable
+60	continued	us to move forward,"
+61	continued	said Zarif
+62	continued	when
+63	testimony	arriving in Geneva
+64	no-unit	.
+65	continued	"There needs
+66	testimony	to be some new and comprehensive proposals."
+-1	par-sep	
+67	continued	The latest directive from Iran's leader
+68	continued	,
+69	continued	Ali Khamenei is
+70	testimony	that officials "should take away the weapon of sanctions from the enemy"
+71	no-unit	.
+-1	par-sep	
+72	continued	"Even
+73	continued	one step in retreat will lead to enemy's advance,"
+74	testimony	he said
+75	no-unit	.
+76	continued	He is angered
+77	continued	that "Americans say flagrantly
+78	continued	that even if
+79	continued	Iran withdraws in the nuclear issue
+80	continued	,
+81	testimony	the sanctions will not be lifted all together and at once"
+82	no-unit	.
+-1	par-sep	
+83	continued	Khamenei is referring to the main point of contention
+84	continued	;
+85	continued	the issue of the period of
+86	continued	curbing Iran's enrichment programme in exchange for the lifting of four sets of sanctions
+87	assumption	imposed on Iran by the UN, EU and the US
+88	no-unit	.
+-1	par-sep	
+89	continued	The US wants
+90	continued	the curbing of sanctions to be in a period covering well over 10 years, closer to 20 or in "double digits"
+91	continued	as
+92	testimony	US administration officials put it
+93	no-unit	.
+94	continued	This is
+95	continued	to ensure
+96	assumption	Iran's breakout time is prolonged
+97	no-unit	.
+98	continued	Iran sees this as an attempt for
+99	continued	forcing it to forego
+100	continued	what
+101	assumption	it calls its peaceful enrichment programme
+102	no-unit	.
+-1	par-sep	
+103	continued	It does not accept this long period of
+104	assumption	curbing its enrichment programme without the reciprocal reduction in sanctions
+105	no-unit	.
+106	continued	It is believed
+107	assumption	that the Iranian leader could be persuaded with anything below 10 years or a timeframe in a "single digit"
+108	no-unit	.
+-1	par-sep	
+109	continued	"Iran
+110	continued	is deeply suspicious of the US and the West,"
+111	testimony	said Obama
+112	no-unit	.
+113	continued	Mutual distrust is at the core of the failure of the unwillingness on both side
+114	assumption	to be flexible
+115	no-unit	.
+116	continued	Khamenei still refers to the US
+117	continued	as
+118	continued	"enemy" and the US continues
+119	continued	to refuse
+120	continued	to lift sanctions fearing Iran's return
+121	assumption	to enrichment
+122	no-unit	.
+123	continued	It is not clear
+124	continued	if
+125	continued	western trust has taken another blow from reports
+126	continued	that Syria is still trying
+127	continued	to make nuclear weapons
+128	assumption	and has been getting help from Iran and North Korea
+129	no-unit	.
+-1	par-sep	
+130	continued	The two sides would not be able
+131	continued	to reach an agreement especially
+132	continued	when
+133	continued	the US Congress is pushing daily for
+134	assumption	imposing further sanctions in support of the Israeli lobby
+135	no-unit	.
+-1	par-sep	
+136	assumption	Republican Senator Mark Kirk and Democratic Senator Robert Menendez are finalising a bill for tougher sanctions
+137	no-unit	.
+138	continued	Senator Bob Corker is also working on a bill
+139	continued	to ensure
+140	assumption	the congress must approve any final deal with Iran
+141	no-unit	.
+-1	par-sep	
+142	assumption	Iran hardliners answer sanctions with the threat of enrichment
+143	no-unit	.
+-1	par-sep	
+144	continued	"Further
+145	continued	sanctions will result in a vote in the Iranian parliament for continuing enrichment,"
+146	testimony	said Ali Larijani, the head of Judiciary
+147	no-unit	.
+-1	par-sep	
+148	continued	"The enemies wanted
+149	continued	to deprive Iran from its right to the nuclear technology
+150	testimony	and even resorted to military threats to this end."
+-1	par-sep	
+151	continued	Hardline members of parliament are proposing a bill
+152	assumption	to increase the uranium enrichment programme to 60 percent
+153	no-unit	.
+-1	par-sep	
+154	continued	"I
+155	continued	am not
+156	continued	,
+157	continued	repeat, not suggesting
+158	continued	that we are in immediate war footing
+159	continued	,
+160	continued	should negotiations with Iran fail,"
+161	testimony	said Obama
+162	no-unit	.
+163	continued	At the same time he made
+164	continued	it clear
+165	assumption	he would veto any congressional attempts at new sanctions against Iran
+166	no-unit	.
+167	continued	"Hold
+168	continued	your fire,"
+169	testimony	he told the congress
+170	no-unit	.
+171	continued	"We must not jeopardise the chance"
+172	testimony	to get a verifiable deal with Iran
+173	no-unit	.
+-1	par-sep	
+174	continued	Although	Modd-NU
+175	anecdote	Republicans now hold a 54-46 seat majority in the Senate
+176	no-unit	,
+177	continued	it is not clear
+178	continued	whether
+179	continued	there would manage
+180	continued	to get the 67 votes required in the Senate
+181	assumption	to override an Obama veto of any Iran legislation
+182	no-unit	.
+-1	par-sep	
+183	continued	In intensive meetings with his European counterpart, Zarif has no doubt conveyed to them
+184	continued	that if
+185	continued	there is no easing of the sanctions
+186	continued	there would be little
+187	assumption	he could do back home
+188	no-unit	.
+189	continued	He has asked for "serious and brave decisions"
+190	continued	in order
+191	testimony	to move forward
+192	no-unit	.
+-1	par-sep	
+193	assumption	The world has heard expressions of commitments and hope from Iran and the countries P5+1 for over a year now
+194	no-unit	.
+195	continued	Yet those brave words must be coupled either with more flexibility
+196	continued	as
+197	continued	recommended by experts
+198	assumption	or coupled alternatively with new ideas, new methods and possibly new redlines
+199	no-unit	.
+-1	par-sep	
+200	assumption	There is still time
+201	no-unit	and
+202	assumption	several avenues are still open
+203	no-unit	.
+204	assumption	For example there could be more direct involvement by UN Secretary General Ban Ki-moon, in the form of a representative, a high calibre UN negotiator
+205	no-unit	,
+206	assumption	who could add momentum to the talks and create synergy
+207	no-unit	.
+-1	par-sep	
+208	continued	Otherwise it is difficult
+209	continued	to see
+210	continued	how
+211	continued	the negotiators can come up with a solution
+212	continued	if
+213	assumption	they have not managed it in the past 14 months
+214	no-unit	.

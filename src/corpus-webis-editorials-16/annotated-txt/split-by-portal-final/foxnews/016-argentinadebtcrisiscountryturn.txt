@@ -1,0 +1,211 @@
+0	title	Argentina's Debt Crisis: Country turns to UN to avoid accountability.
+-1	par-sep	
+1	continued	Defaulting on sovereign debt
+2	assumption	is never a good strategy
+3	no-unit	.
+4	assumption	Just ask Argentina	modd-ASM
+5	no-unit	.
+6	anecdote	The South American nation has defaulted 10 times- -most recently this summer--on its international obligations and has experienced sharp economic decline as a result
+7	no-unit	.
+8	statistics	In the early 1900s, Argentina ranked among the world's top 10 in per capita income
+9	no-unit	.
+10	statistics	By 2012, it had fallen to 55th
+11	no-unit	.
+-1	par-sep	
+12	no-unit	Rather than
+13	no-unit	learn anything from this unhappy history
+14	no-unit	,
+15	no-unit	however
+16	no-unit	,
+17	assumption	 Argentina is opting for stubbornness, bullying and intimidation of its debt-holders, all with a helping hand from the United Nations
+18	no-unit	,
+19	no-unit	as
+20	continued	it refuses
+21	assumption	to pay back bondholders for billions of dollars
+22	no-unit	.
+-1	par-sep	
+23	continued	What
+24	continued	Argentina wants
+25	continued	is
+26	assumption	to establish "a multilateral legal framework for sovereign debt restructuring processes."
+27	continued	Such a multilateral endeavor -- established, run, and funded by governments -- will no doubt be more sympathetic to financial deadbeats like Argentina than a U.S  court
+28	continued	that has
+29	assumption	to give equal standing to the private sector
+30	no-unit	.
+-1	par-sep	
+31	continued	It's also the kind of thing
+32	continued	that the United Nations loves
+33	continued	to endorse
+34	continued	:
+35	continued	high- minded and technical sounding, larded with ostensible respect for international legal processes, and standing above any single national interest--with absolutely no chance whatsoever
+36	assumption	that it will be any of these things
+37	no-unit	.
+-1	par-sep	
+38	continued	Sure enough, Argentina has successfully rallied a majority of U.N  member nations
+39	continued	to join in
+40	assumption	denouncing Argentina's debt holders and endorsing its multilateral debt restructuring framework
+41	no-unit	.
+42	continued	This September the U.N  General Assembly voted 124-11, with 41 abstentions
+43	continued	,
+44	anecdote	to support Argentina's position
+45	no-unit	.
+-1	par-sep	
+46	continued	The U.N  Human Rights Council soon followed suit
+47	continued	,
+48	continued	adopting a similar resolution 33-5
+49	continued	,
+50	anecdote	with 9 abstentions
+51	no-unit	.
+52	continued	The notorious Council
+53	continued	,
+54	continued	which includes
+55	continued	some of the world's worst human rights violators in its membership
+56	continued	,
+57	continued	got involved
+58	continued	because
+59	continued	it says
+60	testimony	excessive debt is an impediment to full realization of "social, economic and cultural" rights
+61	no-unit	.
+-1	par-sep	
+62	continued	It is certainly true
+63	assumption	that debt defaults take a huge toll
+64	no-unit	because
+65	continued	the defaulting country loses access to international financial markets and foreign exchange
+66	continued	,
+67	continued	limiting its ability
+68	assumption	to finance expenditures and obligations and pay for imported goods
+69	no-unit	.
+70	assumption	The end result is typically sharp recession and rising unemployment
+71	no-unit	.
+72	assumption	But Argentina's latest default is is different from earlier defaults
+73	no-unit	,
+74	assumption	which were driven by economic crises
+75	no-unit	.
+76	continued	The 2014 crisis, though rooted in a previous $100 billion default
+77	continued	that occurred 13 years ago
+78	continued	,
+79	assumption	is a deliberate--and unnecessary--choice of the Argentine government
+80	no-unit	.
+-1	par-sep	
+81	continued	In 2005 and 2010, Argentina offered to exchange bonds
+82	anecdote	that it had defaulted on at about 35 cents on the dollar
+83	no-unit	.
+84	no-unit	Eventually
+85	no-unit	,
+86	anecdote	 about 93 percent of debt holders agreed to the swap
+87	no-unit	.
+88	continued	Some debt holders, however, held out and went to U.S  court
+89	continued	arguing
+90	continued	that Argentina had
+91	anecdote	to pay them the full value of their bonds
+92	no-unit	.
+93	continued	In 2012, a U.S  judge ruled in their favor and further ruled
+94	continued	that any financial institution
+95	continued	that assisted in partial payment
+96	anecdote	would be in contempt
+97	no-unit	.
+-1	par-sep	
+98	continued	Following the court's ruling, Argentina could have complied or at least paid interest on the bonds
+99	continued	while
+100	continued	trying
+101	assumption	to renegotiate a more favorable debt arrangement
+102	no-unit	.
+103	continued	Instead
+104	continued	,
+105	continued	 this summer it decided
+106	continued	to pay nothing, abandon negotiations, and rely on demagoguery
+107	assumption	to press its case in the court of public opinion
+108	no-unit	.
+-1	par-sep	
+109	assumption	Argentina has denounced its debt holders--shrilly and often--as "vulture" funds
+110	no-unit	.
+111	continued	Of course
+112	continued	,
+113	continued	 it never mentions
+114	continued	that it was Argentina
+115	assumption	that voluntarily issued the debt in the first place, presumably in good faith
+116	no-unit	.
+117	continued	Nor does it acknowledge
+118	assumption	that the government's own reckless economic policies precipitated the debt crisis in the first place
+119	no-unit	.
+-1	par-sep	
+120	continued	If
+121	continued	you think
+122	continued	that sort of dishonest name-calling would fall on deaf ears
+123	continued	,
+124	assumption	you don't know the United Nations
+125	no-unit	.
+126	continued	Argentina's success in
+127	continued	rallying a majority of U.N  member nations
+128	continued	to join in
+129	continued	denouncing the debt holders
+130	assumption	results from an underlying fact
+131	no-unit	.
+132	continued	At the U.N  the agenda of many developing nations consists of
+133	continued	blaming others for the consequences their poor economic choices and demanding
+134	continued	that the developed nations provide more aid, less accountability for money already given, and no right
+135	continued	to object
+136	continued	when
+137	assumption	feckless countries misbehave
+138	no-unit	.
+-1	par-sep	
+139	common-ground	The U.N  resolutions in support of Argentina do not have the force of law
+140	no-unit	.
+141	continued	But the intended goal is clearly
+142	assumption	to establish a "a multilateral legal framework for sovereign debt restructuring processes" via a treaty or international convention
+143	no-unit	.
+144	assumption	Historically, U.N  resolutions are the first step in this process
+145	no-unit	.
+-1	par-sep	
+146	assumption	That is clearly the hope of Hector Timerman, Argentina's Minister for Foreign Affairs
+147	no-unit	,
+148	continued	who made clear
+149	continued	why
+150	continued	his country had pressed so hard
+151	assumption	to get the resolutions
+152	no-unit	.
+153	continued	"Vulture
+154	continued	funds will not stop
+155	continued	until
+156	continued	we put the brake on...,"
+157	testimony	he declared
+158	no-unit	.
+159	continued	"The resolution not only condemns vulture's activities, but also urges
+160	testimony	the UN to investigate their behavior and analyze their effect over sovereign economies."
+-1	par-sep	
+161	continued	In other words
+162	continued	,
+163	continued	 he is arguing
+164	continued	:
+165	continued	Let's point the finger at someone else
+166	assumption	to avoid responsibility for our own economic failings
+167	no-unit	.
+-1	par-sep	
+168	continued	As	Modd-NU
+169	continued	the U.S  made clear in its statement opposing the effort
+170	continued	,
+171	no-unit	if	cond
+172	continued	the terms of debt obligations are subject to review, renegotiation, or negation by a government
+173	continued	as
+174	assumption	it feels like it	cond
+175	no-unit	,	cond
+176	continued	the cost of lending to everyone will rise
+177	testimony	to meet the perceived risk
+178	no-unit	.
+179	continued	Indeed many countries may find
+180	continued	it impossible
+181	assumption	to access international capital markets at all
+182	no-unit	.
+183	continued	And many of the countries hardest hit will be a lot poorer than Argentina, a middle income country
+184	continued	that has never learned
+185	assumption	to live within its means
+186	no-unit	.
+-1	par-sep	
+187	continued	U.N.-endorsed demagoguery is no way
+188	assumption	to resolve a problem of habitual economic and fiscal incompetence
+189	no-unit	.
+190	continued	Unfortunately, however, it may be an effective means for
+191	continued	seducing other countries
+192	continued	to join Argentina in the misery of
+193	assumption	being a financial pariah
+194	no-unit	.

@@ -1,0 +1,180 @@
+0	title	'Unbroken': Where's the rest of Louis Zamperini's story?
+-1	par-sep	
+1	continued	I wanted
+2	continued	to like the movie
+3	continued	because
+4	anecdote	I love the book
+5	no-unit	.
+6	assumption	Laura Hillenbrand's bestseller, "Unbroken," is a classic
+7	no-unit	.
+-1	par-sep	
+8	no-unit	While
+9	continued	I had heard reports
+10	anecdote	that the turning point in the book never made it to film
+11	no-unit	,
+12	anecdote	I attended a pre-release screening with an open mind
+13	no-unit	.
+-1	par-sep	
+14	continued	Audiences are told
+15	assumption	"Unbroken" is a "true story."
+16	continued	It is true, as far
+17	continued	as
+18	assumption	it goes
+19	no-unit	,
+20	no-unit	but
+21	assumption	the story is incomplete
+22	no-unit	.
+-1	par-sep	
+23	common-ground	There have been many World War II stories told in film depicting triumphs of personal courage and survival
+24	no-unit	.
+25	assumption	The story of Louis Zamperini is one such story, but with an added dimension
+26	no-unit	.
+27	continued	Zamperini
+28	continued	,
+29	continued	who died earlier this year at age 97
+30	continued	,
+31	assumption	came home an angry man
+32	no-unit	.
+-1	par-sep	
+33	assumption	He became addicted to alcohol and cigarettes and verbally abused his young wife as he wrestled with his inner demons
+34	no-unit	.
+35	continued	The skeleton of his story is in the film -- the plane crash at sea while on a rescue mission; the 47 days floating on a raft before
+36	continued	being picked up by a Japanese ship and thrown into a prison camp
+37	continued	;
+38	anecdote	the relentless torture and eventual liberation at the end of the war
+39	no-unit	.
+-1	par-sep	
+40	continued	After
+41	continued	returning to Los Angeles
+42	continued	we see
+43	anecdote	Zamperini hugging his brother and parents
+44	no-unit	,
+45	no-unit	but
+46	anecdote	the story ends there
+47	no-unit	.
+-1	par-sep	
+48	continued	Director Angelina Jolie attempts
+49	continued	to put some flesh on the bones at the end of the film with some still shots and words
+50	continued	that tell us
+51	continued	that Zamperini's faith led
+52	anecdote	him to return to Japan on a personal mission of reconciliation
+53	no-unit	.
+-1	par-sep	
+54	continued	In media appearances, Jolie has refused
+55	continued	to discuss
+56	continued	why
+57	anecdote	the most remarkable part of Zamperini's story was excluded from the film
+58	no-unit	.
+59	continued	That would be the night
+60	anecdote	he was converted at the 1949 Billy Graham crusade in Los Angeles
+61	no-unit	.
+-1	par-sep	
+62	continued	As
+63	continued	Hillenbrand tells it in her book
+64	continued	,
+65	continued	Louis came home, poured his alcohol down the drain, threw out his cigarettes, was reconciled to his wife and became a new man
+66	continued	because
+67	continued	,
+68	continued	he said
+69	continued	,
+70	continued	he had asked
+71	testimony	Jesus Christ to be his savior
+72	no-unit	.
+-1	par-sep	
+73	no-unit	As
+74	assumption	stories about faith have made a recent comeback on TV and in movies
+75	no-unit	,
+76	assumption	attracting high ratings and large ticket sales at the box office
+77	no-unit	,
+78	continued	it is puzzling
+79	continued	why
+80	continued	Jolie
+81	continued	,
+82	continued	who directed the film, and the Coen brothers
+83	continued	,
+84	continued	who wrote it
+85	continued	,
+86	assumption	left out the most important part of Zamperini's story
+87	no-unit	.
+-1	par-sep	
+88	continued	Once
+89	continued	word gets around
+90	continued	that Zamperini's conversion
+91	continued	,
+92	continued	which was so faithfully and beautifully chronicled in Hillenbrand's book
+93	continued	,
+94	continued	is not in the film
+95	continued	,
+96	continued	I suspect many
+97	continued	who share
+98	assumption	Louis' faith will not buy tickets
+99	no-unit	.
+-1	par-sep	
+100	continued	Apologists for Universal Pictures say
+101	assumption	people can always read the rest of the story in the book
+102	no-unit	.
+-1	par-sep	
+103	continued	Yes, they can, but then why
+104	continued	should
+105	continued	they see a film
+106	assumption	that highlights only half a life?
+-1	par-sep	
+107	continued	Just before
+108	continued	he died
+109	continued	,
+110	anecdote	Jolie showed Zamperini a rough cut of the film
+111	no-unit	.
+112	continued	He professed
+113	continued	to like it
+114	continued	and said
+115	continued	it doesn't force religion down people\'s
+116	testimony	throats
+117	no-unit	.
+-1	par-sep	
+118	assumption	That's a cliche
+119	no-unit	,
+120	assumption	which doesn't really fit in this instance
+121	no-unit	.
+122	continued	Nothing is "forced"
+123	continued	when
+124	common-ground	it is true
+125	no-unit	.
+-1	par-sep	
+126	continued	The film, "Selma,"
+127	continued	which is scheduled for release on January 9
+128	continued	,
+129	continued	would be incomplete
+130	continued	if
+131	continued	it failed
+132	continued	to depict Martin Luther King Jr  as a minister
+133	continued	whose faith
+134	continued	motivated
+135	assumption	him to be a modern-day Moses
+136	no-unit	.
+-1	par-sep	
+137	assumption	Fortunately, in addition to Hillenbrand's book, people can read Louis\' story in his own words
+138	no-unit	.
+139	continued	His book is titled
+140	continued	,
+141	continued	"Don't Give Up
+142	continued	,
+143	anecdote	Don't Give In: Lessons from an Extraordinary Life."
+144	continued	The One
+145	continued	who preserved his life to the end
+146	assumption	is more powerful than his Japanese prison camp abuser
+147	no-unit	.
+-1	par-sep	
+148	continued	In the film "Kings Row," Ronald Reagan awakens
+149	continued	to learn
+150	anecdote	that a botched operation has resulted in the amputation of his legs
+151	no-unit	.
+152	continued	"Where's
+153	continued	the rest of me?"
+154	anecdote	he asks
+155	no-unit	.
+-1	par-sep	
+156	continued	Where'
+157	continued	s
+158	continued	the rest of Zamperini's story is the question
+159	continued	I had
+160	anecdote	after seeing "Unbroken."

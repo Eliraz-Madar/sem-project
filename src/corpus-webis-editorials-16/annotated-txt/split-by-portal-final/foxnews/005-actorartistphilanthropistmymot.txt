@@ -1,0 +1,85 @@
+0	title	Actor, artist, philanthropist: My mother's selfless love with me at the holidays and always.
+-1	par-sep	
+1	anecdote	The holidays are my favorite time of year
+2	no-unit	.
+3	no-unit	As
+4	continued	my home fills with the joy and laughter of my six children and four grandchildren
+5	continued	,
+6	continued	I'm reminded of
+7	continued	how lucky
+8	continued	I am
+9	continued	to have the most wonderful job in the world
+10	continued	-
+11	assumption	being a mother and grandmother
+12	no-unit	.
+13	continued	It's the single most important thing
+14	assumption	I've done with my life
+15	no-unit	,
+16	no-unit	and
+17	continued	I know
+18	continued	just how important
+19	assumption	the job is
+20	continued	because	Modd-NU
+21	continued	I am constantly reminded of
+22	continued	what an influence
+23	anecdote	my own mother was in my life
+24	no-unit	.
+25	anecdote	My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II
+26	no-unit	.
+27	continued	During that time, she focused all of her energy on
+28	anecdote	caring for fellow prisoners
+29	continued	who were far worse off
+30	continued	than
+31	assumption	she was
+32	no-unit	.
+-1	par-sep	
+33	continued	When
+34	continued	I think of my mother
+35	continued	,
+36	continued	I think of the selfless love
+37	continued	she had not only for my family, but for complete strangers
+38	anecdote	as well
+39	no-unit	.
+40	continued	She's with me every day
+41	continued	as
+42	continued	I challenge
+43	anecdote	myself to live my life in the same way
+44	no-unit	.
+45	continued	I am so blessed
+46	continued	to have a wonderful family and career
+47	assumption	that I love
+48	no-unit	,
+49	no-unit	and
+50	anecdote	I see my mother in all of those things
+51	no-unit	.
+52	anecdote	I see her every day in the faces of my children and grandchildren
+53	no-unit	.
+54	continued	I am reminded of
+55	continued	her each time
+56	continued	a single white feather floats through the air
+57	continued	-
+58	continued	whether
+59	anecdote	on good days or bad days
+60	no-unit	-
+61	no-unit	and
+62	continued	I have to smile
+63	continued	knowing
+64	anecdote	that she is always with me
+65	no-unit	.
+66	assumption	Her love is reflected in my work as an actor, artist and philanthropist
+67	no-unit	.
+68	continued	Without her example, I wouldn't be
+69	assumption	who I am today
+70	no-unit	and
+71	continued	while	Modd-NU
+72	anecdote	I miss her endlessly during the holidays
+73	no-unit	,
+74	continued	I know
+75	continued	that if
+76	continued	I live my life the way
+77	continued	she did
+78	continued	,
+79	assumption	I will make the same impact on my family
+80	no-unit	and
+81	assumption	that is truly a gift
+82	no-unit	.

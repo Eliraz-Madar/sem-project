@@ -1,0 +1,234 @@
+0	title	Five ways Obama could make Castro pay Cuba's $6 billion debt to Americans.
+-1	par-sep	
+1	assumption	In his half century reign of terror, Cuban dictator Fidel Castro committed manifold atrocities
+2	no-unit	.
+3	continued	Documented evidence reveals
+4	assumption	him to be a ruthless tyrant
+5	assumption	who endlessly abused the most basic of human rights
+6	continued	-a man	Modd-NU 
+7	continued	who played a pivotal role in
+8	assumption	bringing the world to the precipice of nuclear annihilation for 13 harrowing days in October of 1962
+9	no-unit	.
+-1	par-sep	
+10	continued	Beyond
+11	continued	his crimes against humanity and the callous suffering
+12	continued	he inflicted on the people of Cuba
+13	continued	,
+14	assumption	he ruined the lives and livelihoods of thousands of Americans
+15	no-unit	.
+16	assumption	He stole their land, homes, bank accounts, possessions and businesses
+17	no-unit	.
+18	assumption	He absconded with their property under the guise of "nationalization."
+19	assumption	But he is, in truth, a thief
+20	no-unit	.
+-1	par-sep	
+21	assumption	Will his victims now be fairly compensated or otherwise see the return of their confiscated property in the wake of America's first steps toward rapprochement with Cuba?	m-question
+22	assumption	The answer is both legal and political
+23	no-unit	.
+24	common-ground	President Obama holds the key
+25	no-unit	.
+26	assumption	So, don't get your hopes up
+27	no-unit	.
+-1	par-sep	
+28	no-unit	The Theft
+29	no-unit	.
+-1	par-sep	
+30	assumption	In the first half of the 20th century, Americans and U.S  businesses dominated Cuba
+31	no-unit	.
+32	assumption	They accumulated vast holdings of property and operated many of the most lucrative businesses
+33	no-unit	.
+34	assumption	All of that ended with the Cuban Revolution in 1959
+35	no-unit	.
+36	assumption	Castro "nationalized" U.S.-owned industries and seized much of the island's private property from Americans
+37	no-unit	.
+38	assumption	There was no restitution
+39	no-unit	.
+40	continued	One legal scholar called
+41	testimony	it the largest uncompensated expropriation by a foreign government in history
+42	no-unit	.
+-1	par-sep	
+43	continued	The U.S  retaliated with an embargo
+44	continued	,
+45	anecdote	prohibiting all trade
+46	no-unit	.
+47	continued	But the Americans
+48	continued	who were expelled from Cuba
+49	continued	were left holding titles and deeds to homes and businesses to
+50	assumption	which they had no access
+51	no-unit	.
+52	assumption	Their property rights were dissolved
+53	no-unit	,
+54	no-unit	and
+55	continued	any legal judgments obtained were unenforceable against an isolated nation
+56	continued	that refused
+57	assumption	to recognize any authority other than its own
+58	no-unit	.
+-1	par-sep	
+59	anecdote	Thousands pursued legal recourse and sought reparations under indemnification programs established by Congress
+60	no-unit	.
+61	anecdote	Others filed lawsuits and secured judgments
+62	no-unit	.
+63	assumption	But Castro didn't care
+64	no-unit	.
+65	assumption	He repudiated the legitimacy of the restitution programs, the valuation of losses and the legal authority of the courts
+66	no-unit	.
+67	no-unit	This
+68	no-unit	,
+69	continued	even though	Modd-NU 
+70	continued	Cuba admits
+71	continued	their renegade nationalization was, and is
+72	continued	,
+73	assumption	compensable
+74	no-unit	.
+-1	par-sep	
+75	no-unit	So what
+76	no-unit	,
+77	no-unit	then
+78	no-unit	,
+79	continued	 does Castro
+80	assumption	consider fair compensation?	m-question
+81	continued	Judging from his payouts to other aggrieved nations
+82	continued	,
+83	assumption	it is mere pennies on the dollar
+84	no-unit	.
+-1	par-sep	
+85	no-unit	How
+86	assumption	do you value dirt?	m-question
+-1	par-sep	
+87	continued	In 1961, the U.S  Commerce Department valued
+88	statistics	American property seized by the Cuban government at roughly $ 1 to 1.8 billion
+89	no-unit	.
+90	anecdote	Nearly 6-thousand claims were legally certified
+91	no-unit	.
+92	statistics	Other published reports placed the theft as high as $ 9 billion
+93	no-unit	.
+94	continued	But the truth is
+95	continued	,
+96	continued	it's impossible
+97	continued	to know -especially inasmuch
+98	continued	as
+99	continued	the value of everything plummeted the moment
+100	assumption	Castro took control of the island
+101	no-unit	.
+-1	par-sep	
+102	continued	What	modd-NU
+103	assumption	would the same confiscated properties be worth in today's dollars?	m-question
+104	assumption	$50 billion?	m-question
+105	assumption	$100 billion?	m-question
+106	assumption	How about nothing at all?	m-question
+107	continued	Given	Modd-NU 
+108	continued	how	Modd-NU 
+109	continued	the Castro brothers have driven their economy into the ground
+110	continued	,
+111	assumption	making Cuba one of the poorest nations in the world
+112	no-unit	,
+113	assumption	valuation could be closer to dirt than dollars
+114	no-unit	.
+-1	par-sep	
+115	assumption	Which invites another question
+116	no-unit	:
+117	continued	assuming a monetary value
+118	continued	could somehow be devised
+119	continued	,
+120	continued	how
+121	assumption	would Cuba pay for it?	m-question
+122	assumption	With the collapse of the Soviet Union, the Castros lost their financial benefactor
+123	no-unit	.
+124	assumption	The island is blighted and broke
+125	no-unit	.
+126	no-unit	Even if	cond
+127	assumption	it offered government bonds as compensation	cond
+128	continued	,
+129	continued	are they worth the paper upon
+130	assumption	which they are written?	m-question
+131	continued	How
+132	assumption	could they be secured?	m-question
+-1	par-sep	
+133	assumption	Reclaim the property?	m-question
+-1	par-sep	
+134	continued	Theoretically, it is possible for the confiscated property
+135	common-ground	to be reclaimed someday by the original owners
+136	no-unit	.
+137	continued	But that would require a dramatic Cuban transformation from socialism to democracy
+138	continued	where
+139	assumption	private property ownership is permitted
+140	no-unit	.
+141	continued	In a recent speech, Cuban President Raul Castro insisted
+142	continued	Cuba would not renounces its core socialist ideals as part of the deal
+143	continued	he negotiated with President Obama
+144	anecdote	to renew diplomatic relations
+145	no-unit	.
+-1	par-sep	
+146	no-unit	Even if
+147	continued	some semblance of democracy were
+148	assumption	to be restored to Cuba in the distant future
+149	no-unit	,
+150	continued	what
+151	assumption	remains of the stolen property?	m-question
+152	continued	No one knows
+153	continued	how
+154	continued	many of the private residences
+155	continued	that were seized
+156	assumption	have been divided or fallen into decay
+157	no-unit	.
+158	common-ground	Some may no longer exist
+159	no-unit	.
+160	assumption	And what of the current occupants?	m-question
+161	continued	Would they allow
+162	assumption	themselves to be kicked out?	m-question
+-1	par-sep	
+163	continued	The same may be true of the many farms, industries and commercial businesses
+164	continued	that were confiscated
+165	assumption	and have been put to other uses in the last 5 decades
+166	no-unit	.
+167	assumption	Yes, they have development potential in an open, free market society
+168	no-unit	.
+169	no-unit	But
+170	no-unit	,
+171	assumption	 again, the future of Cuba is nebulous
+172	no-unit	.
+173	continued	How realistic
+174	assumption	is the return of these vast holdings under a continuing Castro regime?
+-1	par-sep	
+175	assumption	What Obama should do	modd-ASM
+176	no-unit	.
+-1	par-sep	
+177	continued	As a first condition to normalizing relations, President Obama should demand
+178	continued	that all American victims of stolen property be compensated
+179	assumption	equitably
+180	no-unit	.
+181	continued	He is already obligated by law
+182	assumption	to do this under the Helms-Burton Act
+183	no-unit	.
+184	continued	But Obama has a propensity
+185	continued	to ignore or overrule with impunity those laws
+186	assumption	he regards as misguided or inconvenient
+187	no-unit	.
+188	continued	This is one law
+189	assumption	he should follow
+190	no-unit	.
+-1	par-sep	
+191	assumption	A second condition should be the establishment of a commission of judges with legally binding authority to render compensation decisions
+192	no-unit	.
+193	continued	Several reparation models can be studied and replicated, notably the tribunal
+194	assumption	that dispensed claims in post-unification Germany
+195	no-unit	.
+-1	par-sep	
+196	continued	President Obama has the power and leverage
+197	continued	to force
+198	continued	the Castro regime to capitulate
+199	continued	if
+200	continued	Cuba wants
+201	assumption	to end the sanctions and restore economic relations
+202	no-unit	.
+203	continued	But so far, he has uttered not a word about a desire
+204	assumption	to do so
+205	no-unit	.
+-1	par-sep	
+206	no-unit	And
+207	continued	when
+208	continued	it comes to negotiations with adversaries
+209	continued	,
+210	continued	Obama tends
+211	assumption	to give away the store
+212	no-unit	.

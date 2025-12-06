@@ -1,0 +1,156 @@
+0	title	Coca-Colanisation is coming to Britain.
+-1	par-sep	
+1	continued	In the heart of a Mexican traditional covered market	Modd-NU
+2	continued	,	Modd-NU
+3	continued	where
+4	assumption	chilli peppers sell in every conceivable size and colour amid a fabulous variety of fruits and vegetables
+5	no-unit	,
+6	continued	I was stunned
+7	continued	to come across avenues of tables and chairs
+8	anecdote	that all looked exactly the same
+9	no-unit	.
+10	anecdote	These were dozens of small restaurants
+11	no-unit	but
+12	no-unit	,
+13	continued	like the painted roses in Alice in Wonderland, they were uniformly
+14	anecdote	decorated and equipped
+15	no-unit	.
+16	anecdote	Everything was bright red
+17	no-unit	.
+18	no-unit	The colour of Coca-Cola
+19	no-unit	.
+-1	par-sep	
+20	continued	Coke's sponsorship paid for the menus
+21	anecdote	offering meal deals including everybody's favourite fizzy pop, the fridges sporting logos and the T-shirts and red Coca-Cola aprons of every waiter behind every counter
+22	no-unit	.
+23	no-unit	But
+24	continued	to say the soft drinks brand
+25	continued	had a marketing monopoly
+26	continued	would be to understate
+27	continued	what
+28	assumption	was going on here
+29	no-unit	.
+30	assumption	Few people object to this Coca-Colanisation
+31	no-unit	.
+32	assumption	The soft drink has cult status in Mexico
+33	no-unit	.
+34	continued	There is even a church
+35	continued	that was said
+36	assumption	to use it instead of wine for communion
+37	no-unit	.
+-1	par-sep	
+38	statistics	Mexico has one of the highest levels of child obesity in the world
+39	no-unit	.
+40	continued	Sugary drinks
+41	continued	,
+42	continued	foremost of which in popularity is Coke
+43	continued	,
+44	continued	have a lot
+45	continued	to do with
+46	assumption	that, according to the Mexican obesity experts I interviewed
+47	no-unit	.
+48	no-unit	So
+49	continued	when	Modd-NU
+50	continued	the London Eye, the most famous big wheel in the UK, announced
+51	assumption	it would turn red courtesy of Coca-Cola
+52	no-unit	,
+53	continued	I found
+54	continued	it hard
+55	assumption	to repress a shudder
+56	no-unit	.
+-1	par-sep	
+57	continued	It's the normalisation of Coca-Cola
+58	assumption	that worries me - its insinuation into our lives
+59	no-unit	.
+60	continued	In London it's hard
+61	assumption	to get away from the Eye
+62	no-unit	.
+63	continued	You glimpse
+64	continued	it unexpectedly
+65	assumption	all the time
+66	no-unit	.
+67	continued	The corporation doesn't need slogans
+68	continued	or
+69	continued	the jingly tunes
+70	continued	it once employed
+71	assumption	to get into our heads
+72	no-unit	.
+73	continued	We know
+74	continued	what
+75	assumption	the red on the wheel represents
+76	no-unit	.
+77	assumption	And it is red, of course - the full sugar colour
+78	no-unit	.
+79	assumption	Not the green of the lower sugar brand, nor the black of Coke Zero
+80	no-unit	.
+-1	par-sep	
+81	assumption	We may be more sceptical of it than those in remote parts of Mexico
+82	no-unit	where
+83	continued	people were grateful for the delivery van
+84	continued	because
+85	assumption	they had no safe drinking water
+86	no-unit	.
+87	continued	But it is part of our culture too	Modd-NU
+88	continued	,	Modd-NU
+89	continued	as	Modd-NU
+90	assumption	the company points out on its website
+91	no-unit	.
+92	anecdote	It arrived in London in 1900
+93	continued	when	Modd-NU
+94	assumption	Charles Candler, son of the founder, brought over a jug of syrup from the US
+95	no-unit	.
+96	continued	In 1969, Coca-Cola teamed up with Biba for a TV ad
+97	continued	featuring Carnaby Street and a recording of Things Go Better with Coke by The
+98	anecdote	Who
+99	no-unit	.
+100	anecdote	And in 2012, there was the sponsorship of the Olympics by both Coca-Cola and McDonald's
+101	no-unit	.
+-1	par-sep	
+102	continued	Marketing and advertising have become much subtler, particularly in the hands of vast corporations with huge profits and products
+103	assumption	that are under attack from health lobbies
+104	no-unit	.
+105	assumption	Jingles have given way to associations, to dreams and nostalgia
+106	no-unit	.
+107	assumption	And the format has changed
+108	no-unit	.
+109	anecdote	Online advertising outdid TV ads in 2009
+110	no-unit	.
+111	assumption	Social media is a gift
+112	no-unit	.
+113	continued	Young people can be invited
+114	continued	to join in with cool groups of online friends
+115	continued	who have the good taste
+116	assumption	to like certain drinks, snacks or - on the case of children - sweets
+117	no-unit	.
+118	continued	The Yale Rudd Center for food policy and obesity in the US reported
+119	statistics	that 6 billion fast-food ads appeared on Facebook in 2012
+120	no-unit	,
+121	statistics	which amounted to 19% of all fast-food advertising
+122	no-unit	.
+123	anecdote	The World Health Organisation in a report on Europe warned of "advergames"
+124	no-unit	-
+125	no-unit	game playing and fantasy video sites launched online by snack and sweet companies
+126	no-unit	.
+-1	par-sep	
+127	assumption	So no - we don't worship Coca-Cola in Britain or see its presence on our dinner table as a status symbol
+128	no-unit	.
+129	no-unit	But
+130	continued	do we really want
+131	continued	our children to see
+132	continued	and
+133	continued	one day nostalgically remember the magnificent spectacle of the Eye
+134	continued	on the London skyline bathed for years
+135	assumption	to come in Coca-Cola red?
+136	assumption	At least we can turn off the TV
+137	no-unit	.
+-1	par-sep	
+138	continued	o Sarah Boseley is the author of The Shape
+139	continued	We're in
+140	continued	:
+141	continued	how
+142	continued	junk food and diets
+143	continued	and
+144	no-unit	shortening our lives
+145	no-unit	,
+146	no-unit	published by Guardian Faber
+147	no-unit	.

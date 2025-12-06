@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="229" begin="0" end="2674" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="229" begin="0" end="25" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="229" begin="27" end="288" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="229" begin="290" end="375" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="229" begin="378" end="433" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="229" begin="434" end="495" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="229" begin="497" end="557" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="229" begin="559" end="611" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="229" begin="613" end="739" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="229" begin="741" end="828" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="229" begin="830" end="859" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="229" begin="862" end="866" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="229" begin="867" end="886" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="229" begin="888" end="907" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="229" begin="909" end="967" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="229" begin="971" end="1001" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="229" begin="1003" end="1015" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="229" begin="1020" end="1074" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="229" begin="1076" end="1132" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="229" begin="1134" end="1224" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="229" begin="1226" end="1272" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="229" begin="1275" end="1291" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="229" begin="1292" end="1297" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="229" begin="1298" end="1350" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="229" begin="1355" end="1497" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="229" begin="1499" end="1549" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="229" begin="1551" end="1652" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="229" begin="1654" end="1699" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="229" begin="1701" end="1774" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="229" begin="1777" end="1961" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="229" begin="1964" end="2029" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="229" begin="2031" end="2119" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="229" begin="2120" end="2143" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="229" begin="2145" end="2210" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="229" begin="2213" end="2318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="229" begin="2320" end="2409" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="229" begin="2411" end="2452" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="229" begin="2454" end="2457" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="229" begin="2458" end="2485" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="229" begin="2487" end="2555" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="229" begin="2557" end="2601" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="229" begin="2603" end="2673" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="211" sofa="229" begin="0" end="2674" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/169-nhscantsurvivewithoutpaymentfr.txt" offsetInSource="0" documentSize="2674" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="236" sofa="229" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/169-nhscantsurvivewithoutpaymentfr.xmi" offsetInSource="0" documentSize="2674" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="219" sofa="229" begin="0" end="2674" lastUpdate="2015-01-06T12:26:14Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/nhs-cant-survive-without-payment-frontline-treatments" portal="guardian" authors="Simon Jenkins" articleSum="Simon Jenkins: First thoughts: Rationing supply of care by payment may offend tradition, but rationing by chaos is cruel" title="The NHS can't survive without payment for frontline treatments."/>
+    <cas:Sofa xmi:id="229" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Politicians have gone mad. The NHS is to be rescued with? 2bn from the banks (Tories), with ? 2.5bn from cigarettes (Labour), with ? 1.5bn from London mansions (Labour), with the same ? 1.5bn for Scottish nurses (Scottish Labour) or with ? 8bn &quot;from the proceeds of growth&quot; (the Lib Dems). Or it can always be rescued with &quot;efficiency savings&quot; (everyone, for the past decade).&#10;&#10;Meanwhile six hospitals have declared &quot;major incidents&quot; (which admittedly have a broad definition under NHS guidance). Accident and emergency delivery is at its worst for a decade. There is a chronic shortage of A&amp;E; doctors and beds. The NHS boss, Simon Stevens, lets not a month pass without demanding money with menaces from ministers, and usually getting it. His doctors, long adept at financial terrorism, have the politicians by the short hairs. The result is political panic.&#10;&#10;When any service is free, demand is unlimited. Aneurin Bevan feared the NHS would put doctors out of work as people got richer and less ill. He was wrong. As they got rich they lived longer and demanded more care. Even where care costs money, as in America, demand soars. The NHS needs 5% more cash a year in real terms to meet rising demand, without improvement. There is no way this can continue indefinitely.&#10;&#10;So what happens? Where demand is unlimited, supply must be rationed somehow. As economists know, if it is not rationed by payment - as in most insurance - based health services - it is rationed &quot;by congestion&quot;, by queueing. That is precisely what is now happening in the NHS. The service worsens, the rich move to private insurance while the poor queue, for hours, days, months. Britain's cancer performance shows the result. More Britons die of cancer delays than in insurance-based health services.&#10;&#10;The NHS frontline - surgeries and A&amp;E; departments - are crippled by the strain of trivial visits for minor injuries, repeat prescriptions or just lonely people and confused immigrants.&#10;&#10;There is no way this can be sustained sufficiently or efficiently. Desperate attempts at internal pricing have led hospital trust A&amp;E; departments to close because they lose money. They cannot charge or turn away even drunks and nuisance patients.&#10;&#10;More and more doctors are now pleading for payment for frontline treatments, recoverable in certain cases. There is no other way any government can restore 24-hour care and a &quot;personal&quot; GP service. Rationing by payment may offend tradition, but rationing by chaos is cruel. Britain is just one step away from a network of private A&amp;E; centres. That would be a catastrophe for NHS staffing. Yet no politician has the courage to propose what is needed to stop it."/>
+    <cas:View sofa="229" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 236 219"/>
+</xmi:XMI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="394" begin="0" end="4681" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="394" begin="0" end="23" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="394" begin="24" end="27" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="394" begin="28" end="92" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="394" begin="94" end="165" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="394" begin="167" end="170" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="394" begin="172" end="268" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="394" begin="270" end="327" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="394" begin="329" end="371" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="394" begin="376" end="427" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="394" begin="430" end="563" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="394" begin="565" end="601" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="394" begin="603" end="606" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="394" begin="607" end="637" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="394" begin="639" end="644" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="394" begin="645" end="688" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="394" begin="693" end="837" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="394" begin="839" end="926" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="394" begin="928" end="1023" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="394" begin="1025" end="1083" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="394" begin="1085" end="1252" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="394" begin="1255" end="1306" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="394" begin="1308" end="1383" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="394" begin="1385" end="1388" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="394" begin="1390" end="1450" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="394" begin="1453" end="1518" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="394" begin="1520" end="1580" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="394" begin="1582" end="1585" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="394" begin="1586" end="1609" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="394" begin="1611" end="1684" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="394" begin="1686" end="1789" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="394" begin="1791" end="1924" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="394" begin="1927" end="2011" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="394" begin="2013" end="2039" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="394" begin="2041" end="2044" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="394" begin="2045" end="2077" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="394" begin="2079" end="2151" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="394" begin="2154" end="2193" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="394" begin="2195" end="2282" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="394" begin="2284" end="2352" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="394" begin="2354" end="2381" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="394" begin="2385" end="2417" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="394" begin="2419" end="2516" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="394" begin="2519" end="2539" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="394" begin="2540" end="2560" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="394" begin="2563" end="2634" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="394" begin="2637" end="2693" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="394" begin="2695" end="2698" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="394" begin="2699" end="2730" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="394" begin="2732" end="2796" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="394" begin="2799" end="2830" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="394" begin="2832" end="2835" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="394" begin="2836" end="2886" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="394" begin="2888" end="3019" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="394" begin="3022" end="3064" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="394" begin="3065" end="3161" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="394" begin="3164" end="3269" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="394" begin="3271" end="3372" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="394" begin="3374" end="3468" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="394" begin="3471" end="3533" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="394" begin="3535" end="3586" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="394" begin="3588" end="3619" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="394" begin="3621" end="3682" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="394" begin="3684" end="3716" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="394" begin="3719" end="3824" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="394" begin="3826" end="3951" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="394" begin="3953" end="4096" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="336" sofa="394" begin="4099" end="4160" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="341" sofa="394" begin="4162" end="4234" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="346" sofa="394" begin="4236" end="4329" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="351" sofa="394" begin="4334" end="4349" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="356" sofa="394" begin="4351" end="4490" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="361" sofa="394" begin="4495" end="4518" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="366" sofa="394" begin="4520" end="4564" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="371" sofa="394" begin="4566" end="4680" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="376" sofa="394" begin="0" end="4681" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/130-isurvivedbhopalgastragedy.txt" offsetInSource="0" documentSize="4681" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="401" sofa="394" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/aljazeera/130-isurvivedbhopalgastragedy.xmi" offsetInSource="0" documentSize="4681" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="384" sofa="394" begin="0" end="4681" lastUpdate="2014-12-02T11:34:43Z" url="http://www.aljazeera.com/indepth/opinion/2014/12/i-survived-bhopal-gas-tragedy-2014121194116413879.html" portal="aljazeera" authors="Sanjay Verma" articleSum="It has been 30 years and Bhopalis are still fighting for their basic rights.&amp;#10;&amp;#10;" title="I survived the Bhopal gas tragedy."/>
+    <cas:Sofa xmi:id="394" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="I was born in July 1984 and I was only five months old when the disaster struck my community. I was too young to remember anything from the night of December 2, 1984, but, throughout the years, I have heard many stories from the people who were there and saw it happen. My sister would sometimes tell me things about that night, though we generally avoided bringing it up, as we knew that it would only hurt us to talk about it.&#10;&#10;After the disaster, some of our relatives, who had heard about it on the radio, came and took us to Lucknow, around 600km from Bhopal. We stayed with them for a few months, but they started treating us badly, as if we were a burden to them and their families, so it was our brother Sunil, another survivor from our family of 10 - aged 13 at the time of the disaster  - who decided to bring us back to Bhopal. Subsequently, we were sent to an orphanage in Bhopal, called The SOS Children's Village. Sunil refused to live with us in the orphanage, and got involved with the anti-Carbide campaign. He created an organisation called Children Against Carbide. Most of the members of this organisation were children from the community we were from - Jay Prakash Nagar (JP Nagar), right across the road from the main Bhopal plant.&#10;&#10;I was happy with my life at the orphanage in Bhopal, I had almost everything: cricket bats, skates, football, good education etc. But,  at the same time, I did not know anything about our parents.&#10;&#10;In middle school, we would have parent-teacher meetings at school; my classmates had their parents next to them for the meeting, but I had no one next to me. It was around that time that I started asking my sister about our parents. It was then that my sister first told me about the Bhopal gas disaster and what had happened that night. Until then, I never fully understood that I was growing up in an orphanage and didn't really know the meaning of the word &quot;orphanage&quot;.&#10;&#10;My sister Mamta told me that there were four brothers and four sisters in our family. Our father was a carpenter, and I was the youngest in the family. We lost three sisters and two brothers along with our parents that night.&#10;&#10;I then asked her, &quot;How did we survive?&quot;&#10;&#10;She told me that she wrapped me in a blanket, and ran away along with our brother Sunil. When they were running, Sunil had to go to the bathroom, and fainted. The streets were so crowded as people were running and shouting, my sister was forced by the crowd, and couldn't wait any longer for my brother Sunil to come back.&#10;&#10;He succeeded in 2006 when he hung himself.&#10;&#10;So, now it is just Mamta and I - the only survivors from a family of 10.&#10;&#10;Mamta lives in Lucknow with her husband and two children, and I live here in Bhopal on my own. She would often complain about severe headaches and eye problems.&#10;&#10;It has been almost 30 years now, and Bhopalis are still fighting for their basic rights. The disaster took so many lives, and is still killing people, as the abandoned factory continues poisoning our soil, water, and air.&#10;&#10;I started learning more about the disaster when I saw people of different ages chanting slogans in the streets of Bhopal when I was a child.&#10;&#10;In 2004, Greenpeace flew me to Paris to participate in a demonstration outside Dow's shareholders meeting. I got involved with the campaign in 2004 partly because of my brother's participation in the campaign. It was better to die fighting for our rights than succumb to depression over what had happened.&#10;&#10;I had a stroke in 2005, and started taking an aspirin everyday. I also had a pulmonary embolism in the US last year. Now I no longer take an aspirin, because now I have to take 7.5mg of warfarin, a blood thinner, which is also used as rat poison.&#10;&#10;In 2008, I was one of a number of Bhopal survivors in New Delhi who fasted for 21 days, only having water. We were asking then Prime Minister Manmohan Singh to set up an empowered commission to look into the issues related to Bhopal. We also wanted clean water to be supplied to the people who were living in the affected communities and were forced to drink contaminated water.&#10;&#10;Everyone on this earth should feel this anger and frustration. It has been 30 years and justice continues to elude the people of Bhopal. We, the people of Bhopal, believe that the whole world has transformed into a Bhopal in a way: If you look around, you see multinational corporations being allowed to do business without accountability, poisoning the world and placing profits over people. If justice comes to Bhopal, then it would be justice for the whole world. It would set a precedent and ensure that in the future, corporations committing such crimes are brought to justice."/>
+    <cas:View sofa="394" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 341 346 351 356 361 366 371 376 401 384"/>
+</xmi:XMI>

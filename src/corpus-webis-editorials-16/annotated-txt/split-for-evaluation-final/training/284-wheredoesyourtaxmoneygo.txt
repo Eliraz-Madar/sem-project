@@ -1,0 +1,201 @@
+0	title	Where does your tax money go?
+-1	par-sep	
+1	continued	To many people overseas, the United States government is viewed as an aggressive empire of military bases, drones, and special forces
+2	assumption	that transcend national borders
+3	no-unit	.
+4	continued	But to big corporations, the US government is a patsy
+5	continued	that gives away trillions of dollars of natural resources, tax revenues and public assets to
+6	assumption	grasping giant companies and industries
+7	no-unit	.
+-1	par-sep	
+8	continued	The US has an unsurpassed record of
+9	continued	transferring
+10	continued	what
+11	assumption	belongs to all Americans to a few giant business interests
+12	no-unit	.
+13	continued	Unlike any other country, the federal government, under the 1872 Mining Act, gives away hard rock minerals (eg gold, silver, platinum, molybdenum) discovered on federal lands
+14	continued	that belong to the American people, to the foreign or domestic companies
+15	assumption	that find these minerals
+16	no-unit	.
+17	anecdote	In 1986, for example, a gold company found over $9bn worth of gold under federal land in Nevada
+18	no-unit	.
+-1	par-sep	
+19	continued	The company bought rights to that gold for $5 per acre
+20	continued	(less than $6,000
+21	continued	total)
+22	continued	without
+23	continued	having
+24	anecdote	to pay any royalties on the mined gold back to the Department of Interior
+25	no-unit	.
+26	assumption	For over 100 years, valuable minerals worth hundreds of billions of dollars have been given away to the mining industry for $5 or less per acre
+27	no-unit	.
+28	continued	Once
+29	continued	these mines are exhausted
+30	continued	,
+31	continued	the law only requires
+32	continued	companies to do little
+33	assumption	to clean up their toxic waters and waste
+34	no-unit	.
+-1	par-sep	
+35	continued	As for other natural resources on federal land such as timber, grazing fields, oil, gas and coal, the companies pay very low fees to the government
+36	assumption	to obtain these valuable natural resources
+37	no-unit	.
+-1	par-sep	
+38	common-ground	The public airwaves belong to the people
+39	no-unit	.
+40	no-unit	Yet
+41	no-unit	,
+42	anecdote	 under a law passed in 1934 by the radio lobby (sustained later by the television industry), the broadcasting stations control their licensed portion of the broadcast spectrum 24/7 for free
+43	no-unit	.
+44	anecdote	As tenants they pay nothing to the Federal Communications Commission
+45	no-unit	,
+46	anecdote	which represents the landlords
+47	no-unit	,
+48	assumption	who are the people
+49	no-unit	.
+50	continued	These free licenses allow
+51	continued	radio and television stations to exclusively decide
+52	continued	who gets airtime
+53	continued	and
+54	assumption	who does not
+55	no-unit	.
+56	continued	Entertainment and advertisements now make up over 90 percent of the broadcasting time of these very profitable commercial stations	modd-STA
+57	continued	,	Modd-NU 	
+58	statistics	using our public airwaves	changtype
+59	no-unit	.
+-1	par-sep	
+60	assumption	For many decades, the federal government has used taxpayer-funded research and development as hand-outs for private industries in the US
+61	no-unit	.
+62	no-unit	For instance	Modd-NU
+63	no-unit	,	Modd-NU
+64	continued	 the research and development of the Pentagon has resulted in technologies
+65	anecdote	that built the aero-space, computer and containerisation industries
+66	no-unit	.
+67	continued	It was the Pentagon
+68	continued	that funded the basic and applied research
+69	anecdote	that led to the creation of the Internet
+70	no-unit	.
+-1	par-sep	
+71	continued	The National Aeronautics and Space Administration (NASA) has transferred, for free, many diverse technologies
+72	anecdote	that were developed through taxpayer-funded research and development to the transportation, detection and medical service industries
+73	no-unit	.
+-1	par-sep	
+74	continued	The National Institutes of Health (NIH) has funded many of the major pharmaceuticals
+75	anecdote	which, under contracts known as CRADA agreements, are given away to large drug companies
+76	no-unit	.
+-1	par-sep	
+77	anecdote	The anti-cancer drug, Taxol, was developed with $31m of taxpayer funds by the National Cancer Institute and, after clinical testing, given away to Bristol- Myers-Squibb under a monopoly marketing agreement
+78	no-unit	.
+79	anecdote	The biotechnology industry was formed out of free NIH research programmes
+80	no-unit	.
+81	continued	Without a century of freely transferred research and development investments by the US Department of Agriculture, pesticide, herbicide and other chemical industries would not be
+82	continued	where
+83	assumption	they are today
+84	no-unit	.
+-1	par-sep	
+85	continued	At the state and local level, companies and their consulting firms put the location of new factories, warehouses or large retail stores up for
+86	assumption	bidding by the states and municipalities
+87	no-unit	.
+88	continued	It becomes a race to the bottom by states and municipalities competing against each other
+89	continued	to create the most "business friendly environment" with incentives like tax breaks, cash donations and other subsidies
+90	continued	to convince
+91	continued	companies to locate to a community called
+92	assumption	corporate welfare or crony capitalism
+93	no-unit	.
+94	continued	These deals amount to governments paying companies
+95	continued	to make money while
+96	continued	depleting their public tax base
+97	assumption	that pays for schools, public works and other public services
+98	no-unit	.
+-1	par-sep	
+99	continued	Recently, Tesla, the electric car company, put the location of a proposed one billion dollar factory
+100	anecdote	to produce lithium ion batteries up for bid
+101	no-unit	.
+102	anecdote	Texas, California, Arizona, and Nevada offered large giveaways in incentive subsidies
+103	no-unit	.
+104	continued	Nevada won
+105	continued	,
+106	continued	offering a package worth at least $1bn
+107	anecdote	that included tax vacations, cash reimbursements of expenses and even a cash bonus for signing
+108	no-unit	.
+-1	par-sep	
+109	no-unit	Similarly	Modd-NU
+110	no-unit	,	Modd-NU
+111	continued	 professional sports businesses have routinely demanded taxpayer- funded stadiums and ballparks as a condition of
+112	assumption	either staying in a city or relocating to another
+113	no-unit	.
+-1	par-sep	
+114	continued	Many billions of dollars have been spent
+115	continued	to make
+116	assumption	these rich football and baseball giants even richer
+117	no-unit	.
+118	continued	This is money
+119	continued	that could have been spent
+120	assumption	to create and improve neighbourhood recreational facilities for participatory sports and healthy exercise
+121	no-unit	.
+122	assumption	Under those corporate subsidies, the taxpayers are paying far too much (sometimes between $100,000 to $200,000 per job) for their governments' race to the bottom during these bidding wars
+123	no-unit	.
+-1	par-sep	
+124	assumption	There are many thousands of similar corporate subsidy programmes
+125	no-unit	,
+126	assumption	which are not regularly reviewed by the federal government
+127	no-unit	.
+128	no-unit	Instead	Modd-NU
+129	no-unit	,	Modd-NU
+130	continued	 Congress just lets
+131	assumption	them continue on indefinitely without regulatory standards, cost-benefit tests or sunset provisions
+132	no-unit	,
+133	continued	which is
+134	continued	exactly what
+135	assumption	these corporate lobbyists are paying for with their ample campaign contributions to these indentured legislators
+136	no-unit	.
+-1	par-sep	
+137	assumption	The most profitable companies in the world make demands for such subsidies
+138	no-unit	.
+139	anecdote	Some years ago the former CEO of Intel Corporation, Andy Grove, testified before the Senate urging continuation of the generous tax credits given to computer companies like Cisco, Microsoft, Google, and Apple
+140	no-unit	.
+141	continued	These are companies with staggering profit margins
+142	continued	,
+143	anecdote	year after year
+144	no-unit	.
+-1	par-sep	
+145	continued	Grove was candid
+146	continued	when
+147	continued	he told the Senators
+148	continued	that his industry was not very eager
+149	continued	to spend money
+150	testimony	to do basic research
+151	no-unit	.
+152	continued	What
+153	continued	these companies do
+154	continued	,
+155	continued	he noted
+156	continued	,
+157	testimony	is apply the research to their products and services
+158	no-unit	.
+159	continued	He called on the government
+160	continued	to take this responsibility by
+161	continued	extending tax credits (big checks) from the Treasury
+162	continued	to pay
+163	testimony	companies to do such basic work
+164	no-unit	.
+-1	par-sep	
+165	continued	The unfairness of all these giveaways is inducing a Left-Right alliance
+166	assumption	that opposes such giveaways
+167	no-unit	.
+168	anecdote	The Left calls this corporate welfare
+169	no-unit	,
+170	no-unit	while
+171	continued	the Right calls
+172	anecdote	it crony capitalism
+173	no-unit	.
+174	continued	Thus far, the politicians from both the Democratic and the Republican parties have not wanted
+175	assumption	to make these giveaways debatable issues in their electoral campaigns or the subject of thorough congressional or state legislative hearings
+176	no-unit	.
+-1	par-sep	
+177	continued	The time is coming for a Left-Right public coalition
+178	assumption	to go operational and exert political demands for reform of this gigantic largesse
+179	no-unit	,
+180	no-unit	while
+181	assumption	many other necessities of the people are subjected to cruel, austere cutbacks
+182	no-unit	.

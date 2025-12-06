@@ -1,0 +1,138 @@
+0	title	Sydney Hostage Crisis: Australia has lost its innocence.
+-1	par-sep	
+1	assumption	Australia is known as the "lucky country."
+-1	par-sep	
+2	continued	It was a phrase first coined in 1964 by social critic Donald Horne, and has come
+3	continued	to represent the visceral feelings of both Australians
+4	continued	,
+5	anecdote	and visitors to the nation
+6	no-unit	.
+-1	par-sep	
+7	assumption	It is seen as a reflection of a high standard of living, and a geographical insulation from the bad actors of the world theater
+8	no-unit	.
+-1	par-sep	
+9	assumption	But ten days out from Christmas, Australia has lost its innocence
+10	no-unit	.
+-1	par-sep	
+11	anecdote	On a day of brilliant blue skies, the terrorism of the post-9/11 world finally arrived on Australian soil
+12	no-unit	,
+13	assumption	taking hold of city streets
+14	no-unit	.
+-1	par-sep	
+15	anecdote	A man wielding a gun and an Islamic flag took customers and staff hostage at a cafe in central Sydney
+16	no-unit	.
+-1	par-sep	
+17	continued	As a native of Sydney, home for the holidays, safe and sound but shaken and furious, December 15 is a day
+18	anecdote	that will forever be seared into my mind
+19	no-unit	.
+20	anecdote	I've been to the Lindt Cafe
+21	no-unit	;
+22	no-unit	in fact
+23	no-unit	,
+24	anecdote	 I once worked across the street from it
+25	no-unit	.
+26	anecdote	Emotions have run high here all day -- from fear to anger to a desire for vengeance
+27	no-unit	.
+28	anecdote	I never expected this in Sydney
+29	no-unit	.
+-1	par-sep	
+30	assumption	The profoundly shocking standoff with all its disruptions to city life has struck fear in Sydneysiders, unaccustomed to these types of events
+31	no-unit	.
+-1	par-sep	
+32	assumption	The mood in Sydney is one of fear and uncertainty
+33	no-unit	.
+-1	par-sep	
+34	continued	Until now
+35	continued	,
+36	continued	 Australian authorities have been flawless in
+37	assumption	preventing terror attacks on Australian soil
+38	no-unit	.
+39	assumption	They have been aggressive in their pursuit of intelligence and would-be terrorists
+40	no-unit	,
+41	assumption	foiling plot after plot
+42	no-unit	.
+-1	par-sep	
+43	continued	September saw
+44	anecdote	the biggest anti-terrorism operation in Australia's history
+45	no-unit	,
+46	anecdote	involving up to 800 police in coordinated raids
+47	no-unit	,
+48	continued	sparked by intelligence reports
+49	continued	that Islamic State supporters were planning
+50	continued	to seize a random member of the public
+51	continued	and behead
+52	anecdote	them live on camera
+53	no-unit	.
+-1	par-sep	
+54	no-unit	Yet
+55	no-unit	,
+56	continued	it was inevitable
+57	assumption	that one would finally slip through the cracks
+58	no-unit	,
+59	no-unit	and
+60	continued	Monday Sydney joined the ranks of cities such as New York, London and Madrid as the latest victim of
+61	continued	what
+62	continued	appears
+63	assumption	to be Islamic terrorism
+64	no-unit	.
+-1	par-sep	
+65	assumption	Monday's distressing events have renewed Australians' concerns about Islamist objectives, and a growing Islamic presence in the country
+66	no-unit	.
+-1	par-sep	
+67	continued	Some Australians recognize
+68	assumption	that this likely terrorist attack is a result of the poor immigration decisions of Australian governments, both conservative and liberal, over the last four decades
+69	no-unit	.
+-1	par-sep	
+70	assumption	A lack of liberty, an abandonment of reason, the imposition of Sharia on Muslims and non-Muslims, as well as the treatment of women are just some of the serious moral problems within the Muslim world
+71	no-unit	.
+72	assumption	Islamist views are incompatible with the liberty enjoyed by Australians and Americans
+73	no-unit	.
+-1	par-sep	
+74	continued	Interestingly, Monday's events have also prompted Australians
+75	assumption	to revisit their gun laws
+76	no-unit	.
+-1	par-sep	
+77	continued	With Islamic supremacism a mainstream interpretation of Islam, deeply rooted in Islamic scripture and endorsed by many of Islam's most influential scholars, Australians are beginning
+78	assumption	to understand the nature of the Islamic threat
+79	no-unit	,
+80	assumption	and studying their own weaknesses in its wake
+81	no-unit	.
+-1	par-sep	
+82	continued	The United Kingdom has had two beheadings of members of the public in the last two years, with neither police nor civilians able
+83	anecdote	to prevent it
+84	no-unit	.
+85	common-ground	It also has prohibitive gun laws
+86	no-unit	.
+-1	par-sep	
+87	assumption	Australians are looking to America, and not the UK for guidance
+88	no-unit	.
+-1	par-sep	
+89	continued	With this sort of threat, the normal calculus of a civilized society with a small, armed (or unarmed) police force upon
+90	continued	which the citizens are forced
+91	continued	to rely, no longer
+92	assumption	adds up
+93	no-unit	.
+-1	par-sep	
+94	continued	It is unsurprising
+95	assumption	that home-grown terrorism is most rampant in nations with strict gun control
+96	no-unit	.
+97	continued	It is a reality
+98	continued	that Australia's powerful anti-gun lobby seems
+99	continued	to wish
+100	assumption	to ignore
+101	no-unit	.
+-1	par-sep	
+102	continued	It is times like these
+103	continued	that Americans should be thankful for their Second Amendment, and crush any effort or force seeking
+104	assumption	to weaken or remove it
+105	no-unit	.
+-1	par-sep	
+106	continued	Right now, they are the envy of a growing number of Australians
+107	continued	that wish
+108	assumption	they were armed
+109	no-unit	.
+-1	par-sep	
+110	assumption	Australia will never be the same again
+111	no-unit	.
+112	assumption	Sydney just lost a little of its shine
+113	no-unit	.

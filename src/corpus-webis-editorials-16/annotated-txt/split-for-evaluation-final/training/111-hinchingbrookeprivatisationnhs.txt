@@ -1,0 +1,209 @@
+0	title	The Hinchingbrooke fiasco shows privatisation is no answer to NHS woes.
+-1	par-sep	
+1	continued	The great delusion of Andrew Lansley was
+2	continued	to imagine
+3	continued	that by
+4	continued	bringing the market into the NHS
+5	continued	,
+6	assumption	he could take the politics out
+7	no-unit	.
+8	continued	News this morning
+9	continued	that Circle - the first private company
+10	continued	to run an entire health service hospital
+11	continued	- is manoeuvring
+12	continued	to pull itself out
+13	assumption	will demonstrate precisely the opposite
+14	no-unit	.
+15	continued	The ramifications of privatisation could leave
+16	continued	the service more electorally
+17	assumption	charged than ever before
+18	no-unit	.
+-1	par-sep	
+19	assumption	Parliament eventually imposed a deeply confused rewrite on the former health secretary's bill
+20	no-unit	,
+21	no-unit	but
+22	continued	his original masterplan 
+23	continued	-
+24	continued	which David Cameron and Nick Clegg initially endorsed without
+25	continued	bothering
+26	continued	to read
+27	assumption	- was arrestingly clear
+28	no-unit	.
+29	continued	There would be a new healthcare market
+30	continued	where
+31	assumption	funds followed the patients
+32	no-unit	.
+33	continued	NHS clinics and hospitals
+34	continued	that couldn't win enough customers
+35	assumption	would go to the wall
+36	no-unit	,
+37	continued	while	Modd-NU
+38	assumption	new commercial entrants storm in
+39	no-unit	.
+40	continued	Holding the ring
+41	continued	would be a remote regulator similar to that
+42	continued	which oversees the electricity sector
+43	continued	- with an overriding duty
+44	assumption	to "promote competition"
+45	no-unit	.
+46	continued	The thinking was
+47	continued	that all those painful decisions
+48	continued	that the experts always say
+49	continued	are needed
+50	continued	,
+51	continued	but
+52	continued	which the politicians have always ducked
+53	continued	,
+54	assumption	would finally be settled as the unarguable consequence of choices made by patients themselves
+55	no-unit	.
+-1	par-sep	
+56	continued	While	Modd-NU
+57	continued	it is true
+58	continued	that the particular process
+59	continued	that led to Circle
+60	continued	assuming control of Hinchingbrooke hospital
+61	continued	predates the Lansley reforms
+62	continued	,
+63	anecdote	tracing back to earlier New Labour flirtations with privatisation
+64	no-unit	,
+65	continued	its story nonetheless illustrates neatly
+66	continued	why
+67	continued	the Lansley plan was never going
+68	assumption	to work
+69	no-unit	.
+70	common-ground	Hinchingbrooke is in Huntingdon
+71	no-unit	,
+72	continued	where
+73	continued	- as across much of the south of England - the local area supports more hospitals
+74	continued	than
+75	continued	a health service planner
+76	continued	who was starting from scratch
+77	assumption	would go for
+78	no-unit	.
+79	continued	Every academic and thinktank report in health says
+80	continued	that the way
+81	continued	to make
+82	continued	the NHS more efficient
+83	continued	is
+84	testimony	"to move care closer to patients in their communities", and away from general infirmaries
+85	no-unit	.
+86	assumption	But the move is rarely made decisively
+87	no-unit	,
+88	continued	because	Modd-NU
+89	continued	no politician wants
+90	assumption	to shut things down
+91	no-unit	.
+92	continued	The pre-privatisation Hinchingbrooke quietly sank into
+93	assumption	being a basket case
+94	no-unit	.
+95	continued	Private enterprise spotted a chance
+96	continued	to prove its worth
+97	continued	,
+98	continued	and - with some fanfare - rode in
+99	continued	to "turn
+100	assumption	it round"
+101	no-unit	.
+-1	par-sep	
+102	assumption	Glowing headlines about both improving patient experience and even improving finances would soon follow
+103	no-unit	.
+104	continued	But today one surely has
+105	continued	to ask
+106	assumption	how much of that was just sharp PR
+107	no-unit	.
+108	no-unit	After all	Modd-NU
+109	no-unit	,	Modd-NU
+110	continued	 the tricky underlying economics of healthcare in the region were not transformed
+111	continued	-
+112	assumption	as the financial woes of nearby Peterborough and Stamford NHS foundation trust illustrate
+113	no-unit	.
+114	continued	And now, out of the blue - in a manner reminiscent of G4S's eve-of-Olympics confession
+115	continued	that it was not going
+116	continued	to do the full security
+117	continued	that it had signed up for
+118	continued	- the private contractor at Hinchingbrooke has admitted
+119	assumption	that it is losing its appetite for the job
+120	no-unit	.
+-1	par-sep	
+121	continued	The same spin
+122	continued	that previously flattered the company
+123	assumption	is now directed without mercy against the politicians instead
+124	no-unit	.
+125	continued	The company's statement highlights not only the developing A&E; crisis, but also the "inconsistent and conflicting regulatory regime" in the post-Lansley landscape, as well the gulf between NHS and social care services
+126	assumption	that Labour's Andy Burnham has made a particular line of attack on the coalition
+127	no-unit	.
+128	assumption	These are real problems
+129	no-unit	,
+130	no-unit	but
+131	continued	all could have been seen
+132	continued	coming
+133	continued	when
+134	assumption	Circle first got involved
+135	no-unit	.
+-1	par-sep	
+136	no-unit	If	cond
+137	assumption	this were a more conventional marketplace	cond
+138	no-unit	,	cond
+139	continued	it would be hard
+140	continued	to grasp
+141	continued	why
+142	assumption	serious investors would suddenly be pulling out
+143	no-unit	.
+144	no-unit	But then again
+145	no-unit	,
+146	no-unit	if	cond
+147	assumption	healthcare were a more conventional market	cond
+148	no-unit	,	cond
+149	assumption	serious investors would probably not have piled in, particularly in a region with one hospital too many in the first place
+150	no-unit	.
+151	continued	As with rail franchises, the emerging NHS market is attractive to private industry precisely
+152	continued	because
+153	assumption	politicians stand behind it with a public chequebook
+154	no-unit	.
+155	continued	Much more detail is still
+156	assumption	to emerge
+157	no-unit	,
+158	no-unit	but
+159	continued	my best guess is
+160	continued	that Circle is moving
+161	continued	to terminate its contract now
+162	continued	because
+163	continued	it imagined
+164	continued	it would be able
+165	continued	to swing more favourable treatment
+166	continued	than
+167	assumption	it got
+168	no-unit	.
+-1	par-sep	
+169	continued	From outsourced IT systems to over-priced PFIs, the British taxpayer has over a generation been learning the hard way
+170	continued	that it is not wise
+171	continued	to sign contracts
+172	continued	that are hard
+173	assumption	to specify
+174	no-unit	.
+175	continued	When
+176	continued	unexpected contingencies crop up private "partners"
+177	assumption	have got you over a barrel
+178	no-unit	;
+179	continued	when
+180	continued	you fail
+181	continued	to bend to their wishes
+182	continued	,
+183	assumption	they can simply walk away
+184	no-unit	.
+185	assumption	Today we are, perhaps, seeing exactly the same sort of problems affecting the NHS
+186	no-unit	.
+-1	par-sep	
+187	assumption	The big questions in healthcare remain unanswered
+188	no-unit	,
+189	no-unit	and
+190	assumption	the political blame game remains just as intense as before
+191	no-unit	.
+192	no-unit	Indeed
+193	no-unit	,
+194	assumption	 it is even spiced up by the enterprising resources of private spin
+195	no-unit	.
+196	continued	And what solution has Monitor
+197	continued	-
+198	assumption	Lansley's regulator - floated for Hinchingbrooke's struggling NHS neighbour at Peterborough and Stamford?	m-question
+199	no-unit	Why, bringing in the private sector, of course
+200	no-unit	.

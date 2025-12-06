@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4388" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="172" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="174" end="294" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="300" end="367" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="369" end="489" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="492" end="526" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="528" end="531" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="532" end="574" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="576" end="595" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="596" end="740" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="743" end="873" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="875" end="881" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="883" end="971" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="974" end="1078" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1081" end="1105" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1108" end="1209" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1211" end="1277" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1280" end="1436" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1438" end="1443" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1444" end="1553" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1556" end="1570" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1572" end="1642" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1645" end="1774" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1776" end="1938" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1944" end="1949" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1950" end="2025" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2027" end="2075" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2078" end="2359" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2362" end="2494" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2495" end="2500" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2501" end="2581" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2583" end="2807" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2810" end="2824" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2826" end="2981" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2984" end="3069" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="3071" end="3203" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="3205" end="3340" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="3343" end="3353" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3355" end="3438" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3440" end="3477" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3478" end="3481" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3482" end="3487" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3488" end="3545" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3547" end="3597" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3599" end="3711" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3714" end="3810" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3815" end="3820" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3821" end="3908" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3910" end="3946" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3949" end="4104" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="4106" end="4174" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="4179" end="4184" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4185" end="4245" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4247" end="4303" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4305" end="4387" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="283" sofa="1" begin="0" end="4388" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/253-therenodebateabouttorture.txt" offsetInSource="0" documentSize="4388" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="291" sofa="1" begin="0" end="4388" lastUpdate="2014-12-31T12:27:27Z" url="http://www.aljazeera.com/indepth/opinion/2014/12/there-no-debate-about-torture-2014123012163988743.html" portal="aljazeera" authors="Jonathan Hafetz" articleSum="Nobody who matters actually says it works.&amp;#10;&amp;#10;" title="There is no debate about torture."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="The Senate Intelligence Committee's scathing torture report not only described the brutality of the CIA's interrogation methods, but also demonstrated their ineffectiveness. Led by ex-Vice President Dick Cheney, former Bush administration officials have rushed to the airwaves to defend the CIA.&#10;&#10;&quot;I would do it again in a minute,&quot; Cheney said on NBC's Meet the Press, claiming that Enhanced Interrogation Techniques (EITs) produced &quot;actionable intelligence that kept us safe from attacks&quot;.&#10;&#10;Cheney &amp; Co may not win the debate, but they have succeeded in muddying the waters. That is unfortunate because, beneath their bombastic caricatures of the torture programme, there's more agreement than first appears among people who actually count.&#10;&#10;Aside from former officials trying to save their reputations, it isn't one camp saying torture didn't &quot;work&quot; and one saying it did. Rather, it's one camp saying it didn't, and the other saying &quot;we have no idea but did it anyway&quot;.&#10;&#10;On several key points, the CIA is closer in substance to the Senate report than to its loudest defenders.&#10;&#10;'Unprepared' for torture.&#10;&#10;The Senate report found that the CIA was &quot;unprepared&quot; to operate a detention and interrogation system. The Agency's written response to the report says; &quot;We fully agree&quot; - the CIA had &quot;no cadre of trained and experienced interrogators, little experience handling and moving prisoners, and no core competency in prison management. [...] The Agency had too few analysts and linguists with the expertise required to support [a detention] programme&quot;.&#10;&#10;In other words,  there is no dispute that the programme was started and run on the fly.&#10;&#10;A critical finding of the Senate report was that torturing detainees did not yield otherwise unobtainable actionable intelligence. CIA director, John O Brennan, admitted that the agency &quot;has not concluded that it was the use of EITs that allowed us to obtain useful information from detainees&quot;.&#10;&#10;So while the CIA still maintains that it gained valuable intelligence from detainees, it is not saying the abusive methods produced it.&#10;&#10;The Senate report also describes how the CIA sought out two psychiatrists, James Mitchell and Bruce Jessen, to construct the torture programme instead of actual experienced interrogators, on the assumption that long-established humane and lawful interrogation methods wouldn't work.&#10;&#10;In its response, the CIA acknowledged that it had to look beyond the agency to find experts on &quot;non-standard means of interrogation&quot; since it was not an area of expertise that CIA officers or the US government possessed. The CIA called Mitchell and Jessen's background &quot;so unique&quot; that the agency &quot;would have been derelict had [it] not sought them out when it became clear that CIA would be heading into the uncharted territory of the programme&quot;.&#10;&#10;In other words,  the torture programme was so out of whack with what professional interrogators do that the CIA had to go outside the US government to find people to do it.&#10;&#10;There still are important areas of disagreement between the Senate report and the CIA. The CIA is too protective of its own to acknowledge the full import of its descent into torture or to disavow the programme entirely. But the agency - unlike its loudest defenders - is not endorsing torture as a means of gaining intelligence or keeping the country safe.&#10;&#10;To be sure, basing the case against torture on its total ineffectiveness is a risky proposition. Torture produces a lot of information and while victims frequently make things up to ease their suffering, they may also on occasion say things of some value. That's why it is important to remember that torture is illegal under any circumstances regardless of its utility.&#10;&#10;But in a democracy, the strength of legal norms depends partly on their acceptance by the public. So while the public shouldn't have to be persuaded that barbaric methods fail to make them safer, doing so reinforces their illegality.&#10;&#10;The flurry of media appearances by Cheney and other torture defenders has created a false sense that there is a genuine divide over whether torture &quot;works&quot;. But neither the CIA nor professional interrogators actually say that. So while we can continue to debate other aspects of the CIA programme, including whether those responsible should be sanctioned, let's stop pretending that there are two legitimate sides to this particular story."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 291"/>
+</xmi:XMI>

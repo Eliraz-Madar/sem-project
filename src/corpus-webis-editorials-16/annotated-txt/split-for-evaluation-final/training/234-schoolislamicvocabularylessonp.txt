@@ -1,0 +1,239 @@
+0	title	High School: Islamic vocabulary lesson part of Common Core standards.
+-1	par-sep	
+1	continued	Parents in Farmville, North Carolina want
+2	continued	to know
+3	continued	why
+4	continued	their children were given a Common Core vocabulary assignment in an English class
+5	assumption	that promoted the Prophet Muhammad and the Islamic faith
+6	no-unit	.
+-1	par-sep	
+7	continued	"It
+8	continued	really caught me off guard,"
+9	continued	a Farmville Central High School student
+10	continued	who was in the class
+11	testimony	told me
+12	no-unit	.
+13	continued	"If
+14	continued	we are not allowed
+15	continued	to talk about any other religions in school 
+16	continued	-
+17	continued	how
+18	testimony	is this appropriate?"
+-1	par-sep	
+19	anecdote	The Islamic vocabulary worksheet was assigned to seniors
+20	no-unit	.
+-1	par-sep	
+21	continued	"I
+22	continued	was reading it
+23	continued	and
+24	continued	it caught me off guard,"
+25	testimony	the student told me
+26	no-unit	.
+27	continued	"I
+28	continued	just looked at it and knew
+29	continued	something was not right
+30	continued	- so
+31	testimony	I emailed the pages to my mom."
+-1	par-sep	
+32	continued	"In
+33	continued	the following exercises, you will have the opportunity
+34	continued	to expand your vocabulary by
+35	continued	reading about Muhammad and the Islamic word,"
+36	testimony	the worksheet read
+37	no-unit	.
+-1	par-sep	
+38	anecdote	The lesson used words like astute, conducive, erratic, mosque, pastoral, and zenith in sentences about the Islamic faith
+39	no-unit	.
+-1	par-sep	
+40	no-unit	CLICK HERE	modd-del
+41	no-unit	TO FOLLOW TODD ON FACEBOOK FOR CONSERVATIVE CONVERSATION!	modd-del
+-1	par-sep	
+42	continued	"The
+43	continued	zenith of any Muslim's life is a trip to Mecca,"
+44	testimony	one sentence read
+45	no-unit	.
+46	continued	For "erratic," the lesson included this statement
+47	continued	:
+48	continued	"The responses to Muhammad's teachings were at first erratic
+49	continued	.
+50	continued	Some people responded favorably
+51	continued	,
+52	continued	while
+53	continued	other resisted his claim
+54	testimony	that 'there is no God but Allah and Muhammad his Prophet."
+-1	par-sep	
+55	continued	Another section required students
+56	anecdote	to complete a sentence
+57	no-unit	:.
+-1	par-sep	
+58	continued	"There are such vast numbers of people
+59	continued	who are anxious
+60	continued	to spread the Muslim faith
+61	continued	that it would be impossible
+62	testimony	to give a(n)___ amount."
+-1	par-sep	
+63	continued	I spoke to one parent
+64	continued	who asked
+65	anecdote	not to be identified
+66	no-unit	.
+67	continued	She was extremely troubled by
+68	continued	what
+69	continued	her child was exposed
+70	continued	to
+71	anecdote	in the classroom
+72	no-unit	.
+-1	par-sep	
+73	continued	"What
+74	continued	if right after Pearl Harbor our educational system was talking about
+75	continued	how
+76	continued	great the Japanese emperor was?"
+77	testimony	the parent asked
+78	no-unit	.
+79	continued	"What
+80	continued	if during the Cold War our educational system was telling students
+81	continued	how
+82	testimony	wonderful Russia was?"
+-1	par-sep	
+83	continued	The parent said
+84	anecdote	the material was classwork disguised as Islamic propaganda
+85	no-unit	.
+-1	par-sep	
+86	continued	"It's
+87	continued	very shocking,"
+88	testimony	she said
+89	no-unit	.
+90	continued	"I just told my daughter
+91	continued	to read it
+92	continued	as if
+93	continued	it's fiction
+94	continued	.
+95	continued	It's no different than another of fictional book
+96	testimony	you've read."
+-1	par-sep	
+97	anecdote	A spokesman for Pitt County Schools defended the lesson 
+98	no-unit	-
+99	continued	noting
+100	anecdote	that it came from a state-adopted supplemental workbook and met the "Common Core standards for English Language Arts."
+-1	par-sep	
+101	continued	"The
+102	continued	course is designed
+103	continued	to accompany the world literature text
+104	continued	,
+105	continued	which emphasizes culture in literature,"
+106	testimony	the statement read
+107	no-unit	.
+-1	par-sep	
+108	continued	The problem is
+109	assumption	it's emphasizing a specific culture and religion
+110	no-unit	- and
+111	continued	the school district acknowledged
+112	continued	there were concerns "related to the religious nature of sentences
+113	testimony	providing vocabulary words in context."
+-1	par-sep	
+114	continued	"Our
+115	continued	school system understands
+116	continued	all concerns related to proselytizing
+117	continued	,
+118	continued	and
+119	continued	there is no place for it in our instruction,"
+120	continued	the statement goes on
+121	testimony	to say
+122	no-unit	.
+123	continued	"However, this particular lesson was one of many the students
+124	continued	in
+125	continued	this class have had and will have
+126	continued	that expose them to the various religions
+127	continued	and
+128	continued	how
+129	testimony	they shape cultures throughout the world."
+-1	par-sep	
+130	continued	I asked the school district
+131	continued	to provide me with a copy of vocabulary worksheets
+132	anecdote	that promoted the Jewish, Hindu and Christian faiths
+133	no-unit	.
+-1	par-sep	
+134	anecdote	The school district did not reply
+135	no-unit	.
+-1	par-sep	
+136	continued	I also asked for the past or future dates
+137	continued	when
+138	anecdote	the students would be given those vocabulary worksheets
+139	no-unit	.
+-1	par-sep	
+140	continued	The school district has yet
+141	anecdote	to reply
+142	no-unit	.
+-1	par-sep	
+143	continued	The student
+144	continued	I spoke
+145	continued	with
+146	continued	told me
+147	continued	they have not had any other assignments dealing with religion
+148	testimony	- other than the one about Islam
+149	no-unit	.
+-1	par-sep	
+150	continued	Why
+151	assumption	is that not surprising?
+-1	par-sep	
+152	continued	Based on its official statement, Pitt County Schools seems confident
+153	assumption	that the vocabulary lessons are in compliance with three Common Core standards related to literacy
+154	no-unit	.
+155	no-unit	If
+156	continued	you want	cond
+157	assumption	to look up those standards	cond
+158	no-unit	,
+159	continued	reference CCSSELA- Literary L11-12.4
+160	continued	.
+161	continued	A, 12.4
+162	continued	.
+163	no-unit	D and 12.6
+164	no-unit	.
+-1	par-sep	
+165	continued	Since
+166	continued	the Common Core folks seem
+167	continued	to be infatuated with sentence completion - let
+168	other	me try one out on them
+169	no-unit	.
+-1	par-sep	
+170	other	Use "Islamic" and "proselytizing" in the following sentence
+171	no-unit	:
+172	other	Somebody got their ____ hand caught in the ____ cookie jar
+173	no-unit	.
+-1	par-sep	
+174	no-unit	UPDATE
+175	no-unit	:
+176	continued	I asked the school district
+177	continued	if
+178	anecdote	there had been similar vocabulary assignments about Judaism, Christianity or other religions
+179	no-unit	.
+180	anecdote	I also asked for the exact dates of those assignments
+181	no-unit	.
+182	continued	Here's the reply
+183	anecdote	I received from the school district
+184	no-unit	:.
+-1	par-sep	
+185	continued	"The class recently finished
+186	testimony	reading Night by Elie Wiesel
+187	no-unit	.
+188	testimony	As part of the study of this book, students were exposed to Judaism
+189	no-unit	.
+190	continued	I'm told
+191	continued	that one of the next couple of lessons
+192	continued	that will be taught in this class
+193	testimony	includes an examination of Psalm 23 as part of the lesson
+194	no-unit	.
+195	no-unit	Additionally
+196	no-unit	,
+197	testimony	 the workbook in question has another vocabulary lesson with words used in a passage about India's three great beliefs (Hinduism, Jainism, Buddhism)
+198	no-unit	.
+199	continued	Keep in mind
+200	testimony	that this workbook is just one of numerous resources used in the course
+201	no-unit	.
+202	continued	Students are exposed to various cultures, values, and beliefs through the reading of multiple types of literature
+203	continued	,
+204	continued	but
+205	testimony	teachers certainly aren't advocating for any of them."
+-1	par-sep	
+206	continued	Notice
+207	continued	how
+208	assumption	the school district dodged my question?

@@ -1,0 +1,265 @@
+0	title	The trap of insecurity: Extrajudicial killings in Kenya.
+-1	par-sep	
+1	continued	Over the years, Kenyan police have acquired a dubious reputation of
+2	assumption	being a source of insecurity instead of one of security
+3	no-unit	.
+4	assumption	In many instances, the police represent clear, palpable and imminent danger to the lives of Kenyan citizens
+5	no-unit	.
+-1	par-sep	
+6	assumption	The transformation of the police from a security institution into a bastion of insecurity didn't occur overnight
+7	no-unit	,
+8	continued	nor
+9	assumption	did it come as a surprise
+10	no-unit	;
+11	assumption	it was the inevitable outcome of a number of factors
+12	no-unit	.
+13	assumption	Some of these factors are beyond their control
+14	no-unit	.
+15	no-unit	For instance	Modd-NU
+16	no-unit	,	Modd-NU
+17	continued	 policemen are underpaid and ill-equipped
+18	assumption	to do their job
+19	no-unit	;
+20	continued	others seem
+21	assumption	to be an institutional choice, such as the endemic corruption within the police force
+22	no-unit	.
+-1	par-sep	
+23	assumption	Under the previous constitution, the police were at the beck and call of the executive
+24	no-unit	,
+25	continued	which used it as a tool of coercion
+26	assumption	to further its political goals
+27	no-unit	.
+28	no-unit	As a result
+29	no-unit	,
+30	continued	when
+31	continued	confronted by a new security situation
+32	continued	,
+33	continued	the executive's default response has been
+34	continued	to set up a "special" police unit
+35	assumption	to address the situation
+36	no-unit	.
+37	continued	In most cases, t he
+38	assumption	unit would operate under minimum oversight and maximum impunity
+39	no-unit	.
+-1	par-sep	
+40	assumption	More than any other institution in the country, the police has deep institutional problems
+41	no-unit	,
+42	no-unit	but
+43	continued	one of the most detrimental ones is its involvement in extrajudicial killings
+44	assumption	.
+45	assumption	Remarkably, this is not only a new phenomenon
+46	no-unit	,
+47	no-unit	but
+48	assumption	it is deeply entrenched with a clear pattern
+49	no-unit	.
+-1	par-sep	
+50	anecdote	In the 1990s, crime was on the rise in Kenya
+51	no-unit	.
+52	continued	In order	Modd-NU
+53	continued	to stem the high rates of carjacking and violent robberies
+54	continued	,
+55	continued	in 1995 the government formed
+56	continued	a new police unit called the Flying Squad
+57	anecdote	.
+58	continued	This special unit was given the express authority
+59	anecdote	to shoot any suspect on sight without due process
+60	no-unit	.
+61	assumption	As a result, the unit was implicated in multiple and egregious extrajudicial killings
+62	no-unit	,
+63	continued	which they claimed
+64	continued	was their way of
+65	assumption	dealing with the new security reality
+66	no-unit	.
+67	continued	In some cases, the police officers were caught
+68	continued	shooting suspects
+69	continued	after
+70	anecdote	they had surrendered or were lying face down
+71	no-unit	.
+-1	par-sep	
+72	assumption	The unit executed several innocent people in cold blood
+73	no-unit	.
+74	continued	The police command instead of
+75	continued	seeing the unit's trigger-happy attitude as dangerous
+76	continued	,
+77	continued	celebrated it as the only "medicine" with
+78	assumption	which to treat spiralling crime
+79	no-unit	.
+-1	par-sep	
+80	continued	The late 1980s and 1990s saw deep economic problems
+81	continued	,
+82	assumption	shrinking political space for dissent and increasing insecurity
+83	no-unit	.
+84	continued	This was the time
+85	continued	when
+86	assumption	criminal gangs emerged and flourished
+87	no-unit	.
+-1	par-sep	
+88	continued	These gangs e stablished
+89	assumption	their "spheres of influence"
+90	no-unit	,
+91	continued	mostly in slum areas
+92	continued	,
+93	continued	where
+94	assumption	the state's presence was negligible
+95	no-unit	.
+96	continued	To establish loyalty from the community and enhance their legitimacy
+97	continued	,
+98	assumption	these groups provided security for a token fee
+99	no-unit	.
+100	continued	To exert their superiority, from time to time
+101	continued	,
+102	assumption	these groups engaged each other over "territories" and business interests
+103	no-unit	.
+104	anecdote	Among these groups were the Mungiki, the Taliban, the Kosovo boys, the Baghdad boys, Chinkororo, and the Kalenjin Warriors
+105	no-unit	.
+-1	par-sep	
+106	anecdote	Mungiki is a Kikuyu word for multitude
+107	no-unit	.
+108	assumption	The organisation had both a cultural and political element to it
+109	no-unit	.
+110	continued	In the beginning of the group's existence
+111	continued	,
+112	assumption	the social aspect was more prominent
+113	no-unit	and
+114	continued	it involved traditional Kikuyu beliefs in the god named Ngai
+115	anecdote	.
+116	no-unit	But
+117	continued	as
+118	continued	the organisation expanded
+119	continued	,
+120	continued	it began
+121	assumption	taking an overtly political posture
+122	no-unit	,
+123	assumption	which brought them into confrontation with the state
+124	no-unit	.
+-1	par-sep	
+125	anecdote	Mungiki operated primarily in the Nairobi slums, in the Central Province and parts of the Rift Valley
+126	no-unit	.
+127	continued	In these areas, the group started
+128	assumption	providing the poor in slum areas with protection and social services for a fee
+129	no-unit	.
+130	continued	Refusal
+131	continued	to pay the protection " tax " almost always
+132	assumption	resulted in violence and killings
+133	no-unit	.
+-1	par-sep	
+134	anecdote	In 2002, the Kenyan government banned 18 of these criminal gangs
+135	no-unit	.
+-1	par-sep	
+136	continued	The spread of Mungiki's influence forced the government in 2007
+137	anecdote	to establish a special police unit called Kwekwe
+138	continued	which was tasked primarily with
+139	anecdote	hunting down members of Mungiki
+140	no-unit	.
+-1	par-sep	
+141	assumption	But Kwekwe's operation against the criminal group went too far
+142	no-unit	.
+-1	par-sep	
+143	continued	According to a National Commission on Human Rights 2008 report
+144	continued	:
+145	continued	"Extrajudicial executions and other brutal acts of extreme cruelty have been perpetrated by the police against so-called Mungiki adherents and
+146	testimony	that these acts may have been committed pursuant to official policy sanctioned by the political leadership, the police commissioner and top police commander"
+147	no-unit	.
+148	continued	HRW observed in 2008
+149	continued	that
+150	continued	,
+151	testimony	"The brutality of the police crackdown matched or even exceeded that of the Mungiki itself."
+-1	par-sep	
+152	assumption	Kenya has been in the crosshairs of the transnational jihadi movement
+153	no-unit	.
+154	continued	In the past, the fact
+155	continued	that Kenya was seen as
+156	continued	being firmly in the western sphere of influence
+157	assumption	made Kenya a target , with most of the incidents, including the 1998 US embassy attack, targeting western interests
+158	no-unit	.
+-1	par-sep	
+159	no-unit	However
+160	no-unit	,
+161	assumption	 after Kenya's intervention in Somalia in 2011, the country itself become a target
+162	no-unit	.
+163	anecdote	Terrorism activity in Kenya reached a peak with the attack on the Westgate shopping mall in September 2013
+164	no-unit	,
+165	no-unit	when
+166	anecdote	unidentified gunmen killed 67 people and injured almost 200 others
+167	no-unit	.
+-1	par-sep	
+168	anecdote	As a response to the growing terrorism threat, the Kenyan government created the Anti-Terrorism Police Unit (ATPU) in March 2003, following the 2002 attack on an Israeli-owned Mombasa hotel
+169	no-unit	.
+170	anecdote	This was also accompanied by the passage of Anti-Terrorism Act in 2012
+171	no-unit	.
+172	assumption	As part of the wider counterterrorism effort, the government also began a huge crackdo wn on the Somali and Muslim communities especially in Nairobi, parts of Northern Kenya and coastal Kenya
+173	no-unit	.
+-1	par-sep	
+174	no-unit	As
+175	continued	the crackdown intensified
+176	continued	,
+177	anecdote	a number of extrajudicial killings of Muslim preachers took place, some in the coastal city of Mombasa
+178	no-unit	.
+179	continued	Most of the victims were suspected of
+180	assumption	having connections with Somalia's al-Shabab group
+181	no-unit	.
+-1	par-sep	
+182	no-unit	While
+183	assumption	in almost all the cases the police deny culpability
+184	no-unit	,
+185	assumption	research by human rights organisations reveals the ATPU's involvement
+186	no-unit	.
+187	continued	In its August 2014 report
+188	continued	,
+189	continued	"Kenya: Killings, disappearance by anti-terror police," HRW points to
+190	continued	" ...evidence of at least 10 cases of extrajudicial killings of terrorism suspects
+191	continued	,
+192	continued	some of whom were last seen in ATPU custody or had been threatened by the unit's officers after courts
+193	testimony	had released them"
+194	no-unit	.
+-1	par-sep	
+195	continued	The Kenyan government has accused some of the clerics
+196	continued	who were killed of
+197	testimony	recruiting Muslim youth for terrorism activities through their mosques
+198	no-unit	.
+199	no-unit	However	Modd-NU
+200	no-unit	,	Modd-NU
+201	continued	 despite
+202	continued	initiating investigations against them
+203	continued	,
+204	continued	the government never followed through
+205	anecdote	to prosecute the imams
+206	no-unit	.
+-1	par-sep	
+207	continued	After public outcry over the killing of Muslim cleric Ibrahim "Rogo" Omar, the government set up a task force
+208	anecdote	to investigate his murder
+209	no-unit	.
+210	continued	The director of public prosecution promised in 2013
+211	anecdote	that he will institute an inquest, but has not done so yet
+212	no-unit	.
+-1	par-sep	
+213	continued	One of the commissions established following the 2007-2008 violence
+214	continued	to look at the role of the police
+215	continued	,
+216	anecdote	was the Waki Commission
+217	no-unit	.
+218	continued	Established
+219	continued	to look into the circumstances and facts surrounding the violence and provide recommendations
+220	continued	,
+221	continued	the Waki Commission found
+222	testimony	that of the 1,500 deaths, the police was responsible for more than 30 percent of them
+223	no-unit	.
+-1	par-sep	
+224	assumption	As a result several reform measures were proposed including the establishment of a civilian oversight of the police, and many other reforms
+225	no-unit	.
+226	no-unit	However
+227	no-unit	,
+228	assumption	 due to lack of political will, the police reforms have stalled
+229	no-unit	.
+-1	par-sep	
+230	assumption	The extrajudicial killings by the police in Kenya are anchored in a systemic lack of accountability and deeply entrenched culture of pervasive impunity
+231	no-unit	.
+232	no-unit	While
+233	continued	the police undoubtedly face ever
+234	assumption	changing security challenges
+235	no-unit	,
+236	continued	its involvement in extrajudicial killings make
+237	assumption	matters worse
+238	no-unit	.
+239	assumption	Effective security sector reform is the only way forward
+240	no-unit	.

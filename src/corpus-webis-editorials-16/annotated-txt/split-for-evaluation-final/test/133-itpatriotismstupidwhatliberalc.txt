@@ -1,0 +1,167 @@
+0	title	It's the patriotism, stupid. What liberal critics don't get about "American Sniper".
+-1	par-sep	
+1	continued	There'
+2	continued	s no
+3	assumption	denying it
+4	no-unit	.
+5	continued	Clint Eastwood's "American Sniper" has struck a chord with the American people, and did
+6	continued	so
+7	continued	by
+8	continued	tapping into the deepest civic values
+9	assumption	we have as Americans - duty, honor, fidelity, courage, love for country...and a love for others
+10	no-unit	.
+-1	par-sep	
+11	no-unit	However
+12	no-unit	,
+13	assumption	no war movie can live on the big screen without a spew of liberal backlash
+14	no-unit	,
+15	no-unit	and
+16	assumption	this film is no different
+17	no-unit	.
+18	anecdote	Criticism has come quickly from Michael Moore, Seth Rogen, former Vermont Gov  Howard Dean and other Hollywood leftists
+19	no-unit	.
+-1	par-sep	
+20	assumption	Thankfully, some things speak louder than cowardly tweets
+21	no-unit	--
+22	statistics	like the more than $200 million in ticket sales the movie has raked in just one week
+23	no-unit	.
+24	no-unit	In fact	Modd-NU
+25	no-unit	,	Modd-NU
+26	continued	 the new war film featuring Bradley Cooper as well-known Navy SEAL sniper, Chris Kyle, is on pace
+27	statistics	to become the top-grossing war film of all time
+28	no-unit	.
+-1	par-sep	
+29	continued	As much	Modd-NU
+30	continued	as	Modd-NU
+31	continued	the left would like
+32	assumption	you to believe it
+33	no-unit	,
+34	assumption	Chris Kyle was not a bloodthirsty warmonger
+35	no-unit	;
+36	continued	he was a noble warrior
+37	continued	who fought
+38	continued	to defend his fellow troops
+39	continued	,
+40	assumption	watched over the lives of his brothers, and advanced the cause of (eventual) peace
+41	no-unit	.
+42	continued	This is
+43	continued	where
+44	continued	the true success of "American Sniper" comes
+45	assumption	to light
+46	no-unit	.
+-1	par-sep	
+47	continued	The film is not a movie about the Iraq war, or
+48	continued	whether
+49	continued	we won or lost
+50	continued	;
+51	continued	or
+52	continued	even whether
+53	assumption	our motivations were justified
+54	no-unit	.
+55	no-unit	Instead
+56	no-unit	,
+57	assumption	 it's a story about a man and the many trials of war, including coming home from it
+58	no-unit	.
+59	continued	In the words of my good friend and former Army Ranger, Sean Parnell,"[American Sniper] isn't a pro-war film
+60	continued	.
+61	testimony	It's a pro-warrior film."
+-1	par-sep	
+62	assumption	That's the key
+63	no-unit	.
+64	assumption	The movie is a testament to the warrior - to the man in the arena
+65	no-unit	.
+66	continued	Everyone criticizing the film is on
+67	assumption	the sidelines hurling insults
+68	no-unit	.
+69	continued	Chris was in the arena
+70	continued	,
+71	assumption	fighting for us in a dangerous and complicated war
+72	no-unit	.
+-1	par-sep	
+73	no-unit	Nonetheless	Modd-NU
+74	no-unit	,	Modd-NU
+75	continued	 outspoken liberals will continue
+76	continued	to cast judgment
+77	continued	,
+78	continued	saying
+79	assumption	that they support the warrior but not the war
+80	no-unit	.
+81	assumption	But they contradict themselves even on that point
+82	no-unit	.
+83	continued	The left sees warriors--men like Chris Kyle--as bloodthirsty and ignorant Americans from fly-over country
+84	assumption	who cling to God and guns in blind support of our military
+85	no-unit	.
+86	assumption	They dislike both the warandthe warrior
+87	no-unit	.
+-1	par-sep	
+88	assumption	Nothing could be further from the truth
+89	no-unit	.
+90	continued	In reality
+91	continued	,
+92	continued	 middle-America is full of hard working people of faith and fidelity
+93	continued	who love their nation and believe in
+94	assumption	celebrating someone like Chris Kyle
+95	no-unit	.
+96	continued	These are people
+97	continued	who feel
+98	continued	like
+99	continued	they're already taxed enough
+100	continued	,
+101	continued	that the government is over-bearing in their lives
+102	continued	,
+103	continued	that religion has been stripped from every aspect of civil society
+104	continued	,
+105	continued	and
+106	assumption	that the president is misguided in his gutting of their military
+107	no-unit	.
+108	assumption	They are, in a word, patriots
+109	no-unit	.
+-1	par-sep	
+110	continued	Despite their frustrations with leftists, middle America is the beating heart of our nation and remains the first in line
+111	continued	to selflessly strap on their boots and defend the very freedoms
+112	continued	that people like Michael Moore use
+113	assumption	to criticize them
+114	no-unit	.
+-1	par-sep	
+115	continued	It's awfully easy for progressives
+116	assumption	to cast criticism down from their isolated ivory towers
+117	no-unit	,
+118	no-unit	but
+119	continued	next time they consider
+120	continued	demeaning the warriors protecting
+121	continued	them afar
+122	continued	,
+123	continued	as
+124	continued	Chris Kyle once did
+125	continued	,
+126	continued	they may want
+127	continued	to consider
+128	continued	who protects
+129	continued	those towers and keeps them from
+130	assumption	tumbling
+131	no-unit	.
+-1	par-sep	
+132	continued	They're not only the folks
+133	assumption	who see this movie
+134	no-unit	,
+135	no-unit	but
+136	assumption	more often than not, they're the kind of people depicted in these movies
+137	no-unit	.
+138	continued	They're the kind of people
+139	continued	who embody
+140	continued	"citizenship,"
+141	continued	and the very idea of
+142	assumption	living and fighting for something bigger than oneself
+143	no-unit	.
+-1	par-sep	
+144	assumption	Chris Kyle understood that
+145	no-unit	.
+146	assumption	Today's servicemen and women understand that
+147	no-unit	.
+148	continued	And that's
+149	continued	why
+150	assumption	millions of people are seeing this movie
+151	no-unit	.
+152	continued	They want
+153	assumption	to celebrate and believe in America again, if only for two short hours in a crowded dark theater
+154	no-unit	.

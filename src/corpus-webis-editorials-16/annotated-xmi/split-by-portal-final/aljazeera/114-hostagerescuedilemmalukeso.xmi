@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="5683" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="67" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="69" end="150" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="152" end="336" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="339" end="438" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="440" end="500" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="502" end="584" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="586" end="651" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="654" end="716" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="718" end="886" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="888" end="943" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="945" end="993" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="995" end="998" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="999" end="1072" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1074" end="1150" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1152" end="1155" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1156" end="1181" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1183" end="1336" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1338" end="1384" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1387" end="1404" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1407" end="1486" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1488" end="1599" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1601" end="1759" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1762" end="1851" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1853" end="2044" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2047" end="2109" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2111" end="2129" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2131" end="2194" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2196" end="2301" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2304" end="2421" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2423" end="2603" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2605" end="2638" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2639" end="2649" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2651" end="2671" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2677" end="2793" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2795" end="2850" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2852" end="2910" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2912" end="3109" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3111" end="3253" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3255" end="3300" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3302" end="3305" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3306" end="3340" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3343" end="3468" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3470" end="3549" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3551" end="3657" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3659" end="3663" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3664" end="3726" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3728" end="3790" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3792" end="3821" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3824" end="3846" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3849" end="4002" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="4004" end="4009" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4011" end="4061" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4062" end="4156" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4158" end="4195" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4198" end="4201" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4206" end="4276" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4278" end="4363" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4365" end="4440" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4442" end="4500" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4502" end="4574" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4577" end="4710" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4712" end="4757" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4760" end="4794" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4796" end="5033" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="5035" end="5116" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="5119" end="5208" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="343" sofa="1" begin="5210" end="5228" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="348" sofa="1" begin="5230" end="5233" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="353" sofa="1" begin="5234" end="5285" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="358" sofa="1" begin="5287" end="5430" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="363" sofa="1" begin="5433" end="5682" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="368" sofa="1" begin="0" end="5683" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/114-hostagerescuedilemmalukeso.txt" offsetInSource="0" documentSize="5683" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="376" sofa="1" begin="0" end="5683" lastUpdate="2014-12-07T02:11:02Z" url="http://www.aljazeera.com/indepth/opinion/2014/12/hostage-rescue-dilemma-luke-so-2014127125227887573.html" portal="aljazeera" authors="Martin Reardon" articleSum="Sometimes it's less risky to act than not to.&amp;#10;&amp;#10;" title="The hostage rescue dilemma."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Saturday's failed hostage rescue mission in Yemen was indeed tragic. While the official details as to exactly what happened have not yet been released, it appears Luke Somers, an American journalist, and Pierre Korkie, a South African teacher, were killed by their captors during a night-time rescue attempt carried out by US Navy SEALs.&#10;&#10;Al-Qaeda in the Arabian Peninsula (AQAP) had been holding Somers and Korkie captive for over a year. It was the second such attempt to rescue Somers in two weeks. On November 25, a SEALs team hit what they thought was the compound holding Somers, who, as it turns out, had been moved from there just hours before.&#10;&#10;In Saturday's operation, the SEALs knew Somers' exact location. To maintain stealth, they landed by V-22 Osprey several kilometres away, and then made the trek overland to the compound where Somers and Korkie were being held captive. But something went terribly wrong in the final approach. Perhaps it was a barking dog or some other noise, but the SEALs came under fire as they approached the compound's main entrance. The element of surprise, which is so critical to rescue operations, was lost, and a fierce firefight ensued. Within 30 minutes, the SEALs had secured the compound and put Somers and Korkie, who were both still alive on a V-22 that had a surgical team standing by. Unfortunately, medics were unable to save them.&#10;&#10;Plainly necessary.&#10;&#10;For Somers, Saturday's rescue mission was as urgent as it was plainly necessary. Late last week AQAP released a video stating he would be killed in 72 hours unless unspecified demands were met. Those demands have not been made public, but likely involved payment of a ransom or release of AQAP captives, something the US is prohibited by law from doing.&#10;&#10;For Korkie, the sense of urgency in attempting the rescue operation is more controversial. According to the South African charity Gift of the Giving, a deal had been made with AQAP to release Korkie in just a matter of days, suggesting to many that it would have been better to wait.&#10;&#10;Maybe there was a deal that would have gone through in the end. Maybe there wasn't. But in rescue operations, hope is not figured into the equation, where planners and decision makers have to weigh the risks of action against the consequences of inaction.&#10;&#10;By their very nature, hostage rescue operations are among the most difficult and risky military missions to carry out. With little margin for error, either in intelligence or the operation itself, they demand highly trained and equipped special operations units that only a handful of countries have. Are they dangerous and uncertain? Absolutely. Are they impossible? No.&#10;&#10;In 2012, US Navy SEALs rescued Jessica Buchanan, an American aid worker, and Poul Hagen Thisted, a Danish aid worker, who had been held hostage by Somali pirates for 93 days. The pirates were demanding a $45m ransom for their release. In this particular case, precise intelligence as to their exact location, along with concerns about Buchanan's rapidly declining health, were major factors in moving forward with the rescue mission. Under the cover of darkness, the SEAL Team parachuted 19km from where they were being held, and then moved cross-country to conduct the rescue. Nine pirates were killed during the operation, and Buchanan and Thisted were unharmed.&#10;&#10;In 2009, US Navy SEAL snipers ended the hostage ordeal of American Richard Phillips, captain of the cargo ship Maersk Alabama, which had been hijacked by Somali pirates in the Indian Ocean five days earlier. Talks with the pirates ended when they threw the phone used to communicate with negotiators into the ocean. When one of the pirates pointed his rifle at Captain Phillips' back, snipers shot and killed all three in near simultaneous fashion. Captain Phillips was unharmed.&#10;&#10;Heartbreaking failures.&#10;&#10;In 2005, US Delta Force operators rescued Roy Hallums, an American civilian contractor kidnapped by an al-Qaeda cell in Iraq, after 311 days in captivity. Again, the intelligence as to Hallums' location was exact - pull up the kitchen carpet and open the faux cement trap door leading into his one room cell. Hallums was unharmed in the operation.&#10;&#10;But, as was all too evident on Saturday, there are heartbreaking failures, too. This past July, US special operations forces attempted to rescue James Foley in Syria. Unfortunately, the intelligence as to where he was being held was incorrect. Foley was brutally murdered by ISIL just a few weeks later, the videotape of which was released on the internet for the world to see.&#10;&#10;In 2010, the US special operations team attempting to rescue her in Afghanistan accidentally killed Linda Norgrove, a British citizen. There are other failures, all tragic, as well.&#10;&#10;But there are also other successes, where hostages like Jessica Buchanan, Poul Thisted, Captain Phillips and Roy Hallums, all of whom faced indefinite captivity or even death, are home with their families because decisions were made to rescue them based on calculated risks. No guessing, no maybes, no &quot;let's keep our fingers crossed and hope for the best&quot;.&#10;&#10;Rescue missions are risky, both for the hostages and for the operators who carry them out. Lives are at stake, and it's never an easy choice to give the &quot;green light&quot;. But given the circumstances, particularly when dealing with terrorist organisations, leaders can't always sit back and wait to see what happens.&#10;&#10;Sometimes, it's less risky to act than not to. And in the case of a hostage rescue operation, I'd place my life in the hands of men dedicated to the task before taking my chances with the likes of a terrorist in the hope that maybe they'll let me go."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 348 353 358 363 368 376"/>
+</xmi:XMI>

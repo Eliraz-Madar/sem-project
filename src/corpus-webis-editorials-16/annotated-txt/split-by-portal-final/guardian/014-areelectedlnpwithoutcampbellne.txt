@@ -1,0 +1,169 @@
+0	title	A re-elected LNP without Campbell Newman: could this be the election that returns Queensland to normality?
+-1	par-sep	
+1	anecdote	Campbell Newman's LNP government won power in 2012 in a huge landslide
+2	no-unit	- and
+3	continued	polls suggest
+4	continued	that most of those gains are expected
+5	continued	to be swept away
+6	continued	as
+7	continued	Queensland politics returns
+8	assumption	to normality
+9	no-unit	.
+-1	par-sep	
+10	anecdote	In 2012, the sitting Labor government's seats in the parliament were cut savagely from 51 to seven
+11	no-unit	.
+12	anecdote	The LNP opposition increased their seats from 34 to 78
+13	no-unit	.
+14	anecdote	In the new parliament, there were seven government members for every member of the opposition and crossbench
+15	no-unit	.
+-1	par-sep	
+16	continued	Since 2012	Modd-NU
+17	continued	,	Modd-NU
+18	anecdote	the LNP has lost two seats to Labor at by-elections	
+19	no-unit	,
+20	no-unit	and
+21	anecdote	three other MPs elected for the LNP now sit on the crossbench
+22	no-unit	.
+23	continued	Despite these changes	Modd-NU
+24	continued	,	Modd-NU
+25	anecdote	the LNP has a massive majority
+26	no-unit	and
+27	assumption	a large swing will be required for a change in government
+28	no-unit	.
+-1	par-sep	
+29	continued	Because of the huge swing in 2012, it's hard
+30	continued	to predict
+31	assumption	which seats will be the key battlegrounds
+32	no-unit	.
+33	continued	In a normal election campaign, you would look first at the seats held by the government by the smallest margins (those seats
+34	continued	they came closest to
+35	assumption	losing at the previous election)
+36	no-unit	.
+-1	par-sep	
+37	continued	Yet in Queensland, most LNP seats on slim margins are seats traditionally considered
+38	assumption	to be "safe" Labor seats 
+39	no-unit	-
+40	no-unit	if	cond
+41	continued	Labor has any chance of
+42	assumption	taking power	cond
+43	no-unit	,
+44	continued	you would expect
+45	continued	those seats to fall easily
+46	continued	and the election
+47	assumption	to focus on seats further along the pendulum
+48	no-unit	.
+-1	par-sep	
+49	continued	At the last election, it was estimated
+50	statistics	that the LNP won 62.8% of the vote after preferences
+51	no-unit	.
+52	continued	Recent polls indicate
+53	statistics	there has been a large swing back to Labor
+54	no-unit	.
+55	statistics	The most recent Newspoll had Labor and the LNP tied on 50% each
+56	no-unit	.
+-1	par-sep	
+57	continued	These polls suggest
+58	continued	that Labor is in with a chance of
+59	continued	winning the election
+60	continued	,	Modd-NU
+61	continued	despite the massive number of seats	Modd-NU
+62	continued	they need	Modd-NU
+63	statistics	to gain	Modd-NU
+64	no-unit	.
+65	continued	In order	Modd-NU
+66	continued	to ward off this threat	Modd-NU
+67	continued	,	Modd-NU
+68	continued	the LNP will likely need
+69	continued	to sacrifice many of its seats
+70	continued	in order
+71	continued	to focus energy on those seats
+72	assumption	they can retain
+73	no-unit	.
+-1	par-sep	
+74	continued	Labor needs
+75	continued	a uniform swing of approximately 12.5% to win the 36 extra seats
+76	continued	they need
+77	statistics	to win a majority
+78	no-unit	.
+79	continued	Current polling suggests
+80	statistics	that Labor is close to that number
+81	no-unit	,
+82	no-unit	and
+83	continued	this suggests
+84	continued	that most of the seats
+85	continued	that will be key battlegrounds
+86	continued	are seats
+87	assumption	the LNP now holds by margins of 10-15%
+88	no-unit	,
+89	no-unit	but
+90	continued	there will be seats
+91	assumption	that swing more or less than the average
+92	no-unit	.
+-1	par-sep	
+93	no-unit	If
+94	assumption	you focus on those with margins of between 10% and 15%
+95	no-unit	,
+96	anecdote	there are a smattering of seats in Brisbane, as well as four seats on the Gold Coast, one on the Sunshine Coast, one in Townsville and two rural seats near Mackay
+97	no-unit	.
+-1	par-sep	
+98	no-unit	In addition
+99	no-unit	,
+100	assumption	 the LNP will be fighting on another front against populist and right-wing independents and minor parties
+101	no-unit	.
+102	assumption	The Palmer United Party and Katter's Australian Party will both be running hard
+103	no-unit	.
+104	anecdote	KAP now holds three seats
+105	no-unit	,
+106	no-unit	and
+107	anecdote	there are four independents in the Parliament
+108	no-unit	.
+-1	par-sep	
+109	continued	While	Modd-NU
+110	assumption	many seats will be in play
+111	no-unit	,
+112	continued	Ashgrove in northern Brisbane - Campbell Newman's seat - is likely
+113	assumption	to be the focus of the campaign
+114	no-unit	.
+-1	par-sep	
+115	anecdote	The premier won the seat off Kate Jones in 2012
+116	no-unit	.
+117	anecdote	Newman had never held a seat in parliament before winning power in 2012
+118	no-unit	-
+119	anecdote	he made his name as lord mayor of Brisbane
+120	no-unit	.
+121	assumption	Jones had been a minister in the Bligh government, and was a high- profile target
+122	no-unit	.
+-1	par-sep	
+123	statistics	In 2012, Newman won Ashgrove with a 12.8% swing, but holds the seat by a margin of only 5.7% - half as big as the expected Labor swing
+124	no-unit	.
+125	continued	Local polling suggests
+126	statistics	that Newman is trailing in local Ashgrove polls behind Jones
+127	no-unit	,
+128	continued	who is aiming
+129	assumption	to win back her former seat
+130	no-unit	.
+-1	par-sep	
+131	no-unit	If
+132	continued	Newman is seen
+133	continued	to be in danger of
+134	assumption	losing his seat
+135	no-unit	,
+136	continued	his party's campaign may struggle
+137	continued	to answer questions about
+138	assumption	who would lead a re-elected LNP government
+139	no-unit	.
+140	continued	With
+141	continued	Labor needing 5.7
+142	continued	%
+143	continued	to win Ashgrove, and 12.5
+144	continued	%
+145	continued	to win the overall election
+146	continued	,
+147	continued	it's entirely conceivable
+148	assumption	that the government could be re-elected without Newman in the lead
+149	no-unit	.
+150	continued	That scenario may help
+151	continued	Labor reach the vote
+152	continued	it needs
+153	assumption	to win back power
+154	no-unit	.

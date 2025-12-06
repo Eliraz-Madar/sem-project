@@ -1,0 +1,210 @@
+0	title	New Year's Resolution for the VA: Lose the 'ICARE' pin, embrace real reform.
+-1	par-sep	
+1	continued	Visit a U.S  Department of Veterans Affairs facility
+2	continued	and
+3	continued	there'
+4	continued	s a good chance
+5	continued	you'll see
+6	continued	a VA employee sporting a shiny lapel pin
+7	continued	that reads
+8	assumption	"ICARE."
+-1	par-sep	
+9	continued	That's an acronym for "Integrity, Commitment, Advocacy, Respect and Excellence," a list of words
+10	assumption	that represents the VA's "core values."
+11	continued	As one of VA Secretary Bob McDonald's first orders of business, the ICARE pins were intended
+12	assumption	to signal a renewed commitment to service and honesty at the troubled VA
+13	no-unit	.
+-1	par-sep	
+14	continued	During his confirmation in August, McDonald promised
+15	testimony	he would lead the push for "unprecedented and critical cultural change and accountability" at the VA
+16	no-unit	.
+17	no-unit	Instead	Modd-NU
+18	no-unit	,	Modd-NU
+19	continued	 five months later, most of
+20	continued	what
+21	continued	veterans have
+22	continued	to show for it
+23	assumption	are watered-down reforms and a new slogan
+24	no-unit	.
+-1	par-sep	
+25	no-unit	Or
+26	no-unit	,
+27	no-unit	as	cond
+28	assumption	a few of our members put it	cond
+29	no-unit	:	cond
+30	continued	"We pass historic VA reforms through Congress
+31	continued	,
+32	continued	and
+33	continued	all we got
+34	testimony	was a lousy ICARE lapel pin."
+-1	par-sep	
+35	continued	It's not enough
+36	continued	to hire
+37	continued	a slick PR firm to devise a catchy acronym
+38	continued	that says
+39	assumption	you "care"
+40	no-unit	;
+41	continued	what
+42	continued	matters to veterans
+43	continued	and
+44	continued	their families is
+45	continued	that you demonstrate your "care" through the results
+46	common-ground	you deliver
+47	no-unit	.
+48	continued	That is
+49	continued	why
+50	continued	the ICARE lapel pins are such an affront to those of us
+51	assumption	who fought so hard for reform last year
+52	no-unit	.
+-1	par-sep	
+53	continued	So how	modd-NU
+54	continued	can veterans get the results	modd-NU
+55	continued	we want	modd-NU
+56	assumption	to see at the VA in the new year?	m-question
+57	continued	We need
+58	continued	to continually press McDonald and his department
+59	continued	to take a much more decisive approach
+60	continued	to reform
+61	continued	that gets to the real root of the problem
+62	continued	:
+63	assumption	an entrenched and unaccountable bureaucracy
+64	no-unit	.
+65	no-unit	After all	Modd-NU
+66	no-unit	,	Modd-NU
+67	continued	 it's much easier
+68	continued	to put on an ICARE pin every morning
+69	continued	than
+70	continued	it is
+71	continued	to shoulder the shame
+72	assumption	that too many VA executives should feel
+73	no-unit	.
+74	no-unit	Make no mistake about it
+75	no-unit	;
+76	continued	corrupt employees and a bloated bureaucracy are the problems
+77	assumption	that must be addressed -- and urgently
+78	no-unit	.
+-1	par-sep	
+79	continued	To be fair to McDonald
+80	continued	,
+81	continued	there have been limited signs of progress at the VA, thanks to reforms passed by Congress
+82	continued	that bring greater accountability and more patient choice to
+83	continued	what
+84	assumption	is now the government's second-largest department
+85	no-unit	.
+-1	par-sep	
+86	no-unit	For example	Modd-NU
+87	no-unit	,	Modd-NU
+88	continued	 Sharon Helman, the director of the VA's Phoenix Medical Center
+89	continued	,
+90	continued	which was ground zero for the secret waiting list scandal
+91	continued	,
+92	anecdote	was finally terminated in November 
+93	no-unit	--
+94	anecdote	but only after more than 200 days of paid administrative leave
+95	no-unit	.
+96	continued	A handful of other VA officials have also been forced out, but only after
+97	continued	being given a chance
+98	assumption	to retire with benefits
+99	no-unit	.
+-1	par-sep	
+100	assumption	It's a start, but not nearly adequate considering the depth and breadth of dysfunction
+101	no-unit	.
+102	continued	McDonald must keep up -- or preferably turn up -- the pressure in the year
+103	assumption	to come
+104	no-unit	.
+-1	par-sep	
+105	no-unit	Moreover	Modd-NU
+106	no-unit	,	Modd-NU
+107	continued	 the VA needs
+108	continued	to stop
+109	continued	resisting the expansion of patient choice for veterans
+110	assumption	that Congress has mandated
+111	no-unit	.
+112	continued	The department has been slow-walking the implementation of the reform law's provisions
+113	continued	that would allow veterans
+114	continued	who are facing a wait of more than 30 days
+115	continued	to see a physician
+116	continued	,
+117	continued	or those
+118	continued	who live far from VA facilities
+119	assumption	to consult with a medical provider in the private sector
+120	no-unit	.
+121	continued	This is an important measure
+122	continued	that will ensure veterans more timely access to care
+123	continued	,
+124	continued	while
+125	continued	bringing much
+126	continued	needed competitive pressure
+127	assumption	to bear on the VA care system
+128	no-unit	.
+-1	par-sep	
+129	no-unit	If	cond
+130	continued	he is truly going
+131	continued	to put the care of veterans above the agency
+132	assumption	he leads	cond
+133	no-unit	,	cond
+134	assumption	McDonald should make good on his promise and champion patient choice expansion, rather than treat it as a pilot project
+135	no-unit	.
+-1	par-sep	
+136	continued	In all honesty, the great risk for McDonald in the new year is
+137	continued	that he'll "go native" and embrace, defend and shield the dysfunctional culture of the department
+138	continued	he promised
+139	assumption	to change
+140	no-unit	.
+141	continued	That's a risk, and a temptation, for anyone
+142	continued	who is charged with
+143	assumption	leading a large bureaucracy
+144	no-unit	.
+145	assumption	We cannot allow it
+146	no-unit	.
+-1	par-sep	
+147	continued	Perhaps McDonald's slowness in
+148	continued	taking
+149	continued	action is part of a strategy of
+150	continued	presenting himself as a friend to VA employees
+151	continued	in order
+152	assumption	to earn their trust and confidence
+153	no-unit	.
+154	continued	But it's not bureaucrats
+155	assumption	who have lost trust in the VA
+156	no-unit	--
+157	assumption	it's veterans, taxpayers and Congress
+158	no-unit	.
+159	continued	It remains
+160	continued	to be seen
+161	continued	whether
+162	continued	he'll reveal
+163	continued	himself to be a tough-love manager
+164	continued	who will stand up to the self-serving bureaucrats
+165	continued	who have proven time
+166	continued	and
+167	continued	again that they "care" more about their job security and compensation than the patients
+168	continued	they are supposed
+169	assumption	to serve
+170	no-unit	.
+-1	par-sep	
+171	no-unit	If	cond
+172	continued	McDonald, and the entire VA, want
+173	continued	to show
+174	assumption	that they truly "care" about veterans in 2015	cond
+175	no-unit	,	cond
+176	continued	they should resolve
+177	assumption	to take off the cheesy ICARE pins and get real results for veterans
+178	no-unit	.
+-1	par-sep	
+179	assumption	My advice to veterans, their families and advocates is this: Keep up the pressure
+180	no-unit	.
+181	continued	The VA bureaucracy is expecting
+182	assumption	that with scandals fading from the headlines, attention will move elsewhere
+183	no-unit	.
+184	continued	All
+185	continued	they want
+186	continued	is
+187	continued	to don their pins and go back to the same old way of
+188	assumption	doing business
+189	no-unit	.
+-1	par-sep	
+190	continued	Our job is
+191	continued	to keep that from
+192	assumption	happening
+193	no-unit	.

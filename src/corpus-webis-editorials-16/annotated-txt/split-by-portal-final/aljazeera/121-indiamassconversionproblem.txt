@@ -1,0 +1,240 @@
+0	title	India's mass conversion problem.
+-1	par-sep	
+1	continued	"Homecoming" in the Christmas season is supposed
+2	common-ground	to be a joyous occasion, accompanied by camaraderie and cheer
+3	no-unit	.
+4	assumption	Not so for the small community of Christians in Agra, a town in the northern Indian province of Uttar Pradesh
+5	no-unit	.
+6	assumption	On Christmas Eve, the flock of believers were cowering in fear
+7	no-unit	,
+8	continued	because	Modd-NU
+9	anecdote	a couple of churches were burnt
+10	no-unit	and
+11	assumption	there was the looming threat of more skirmishes with the belligerent among their Hindu brethren spiralling into serious communal clashes
+12	no-unit	.
+-1	par-sep	
+13	assumption	More portentous was the grand ghar wapsi (homecoming, or mass-reconversion) programme announced by the Dharam Jagran Samiti (loosely translated into Hindi-Religious Awakening Front) in the neighbouring town of Aligarh
+14	no-unit	,
+15	continued	where
+16	continued	Christmas was
+17	continued	to be "celebrated" by
+18	anecdote	bringing 4,000 Christians and 1,000 Muslims back into the folds of Hinduism
+19	no-unit	.
+-1	par-sep	
+20	continued	This Samiti, a not-so-small wing of the Vishwa Hindu Parishad, a militant Hindu organisation, contended
+21	continued	that far from
+22	continued	propagating religious intolerance
+23	continued	,
+24	continued	it was only righting historical wrongs
+25	continued	and
+26	continued	injustice perpetrated by Christian missionaries and Muslim clerics
+27	continued	who
+28	continued	,
+29	continued	in order
+30	continued	to bolster the numbers of their respective faiths
+31	continued	,
+32	continued	had lured and coerced
+33	continued	Hindus
+34	testimony	to stray from their original religion
+35	no-unit	.
+-1	par-sep	
+36	no-unit	Attack on secularism
+37	no-unit	.
+-1	par-sep	
+38	no-unit	When
+39	assumption	these turn of events created a furore in parliament
+40	no-unit	,
+41	continued	the Narendra Modi- led
+42	continued	central government instructed the local administration
+43	continued	to thwart the Samiti's grandiose plans
+44	continued	,
+45	no-unit	and
+46	anecdote	Christmas day went peacefully
+47	no-unit	.
+-1	par-sep	
+48	no-unit	But	Modd-NU
+49	no-unit	,	Modd-NU
+50	continued	 the solution - a national legislation to ban and criminalise conversions - assertively advocated by the Bharatiya Janata Party (BJP)
+51	continued	,
+52	continued	which commands an absolute majority in parliament
+53	continued	,
+54	continued	and
+55	continued	despite repeated disavowals
+56	continued	,
+57	continued	remains rooted in essentially a chauvinistic, right-wing Hindu ideology
+58	continued	,
+59	continued	is far more disconcerting
+60	no-unit	,	Modd-NU
+61	no-unit	and	Modd-NU
+62	no-unit	if	cond
+63	assumption	implemented	cond
+64	no-unit	,
+65	assumption	would deal a grievous blow to the constitutional ideal of secularism
+66	no-unit	.
+-1	par-sep	
+67	continued	It would be downright specious, even dishonest
+68	continued	,
+69	continued	to claim
+70	assumption	that missionaries and proselytisers' activities in India had nothing but a salubrious effect
+71	no-unit	.
+72	continued	Historical records bear ample testimony to the rigorous implementation of St Caprion's axiom - "extra ecclessium nulla salus" (outside the Church, no salvation), even by the proverbial fire and sword, especially by explorer-cum
+73	continued	-
+74	continued	conquistadors like Vasco da Gama, the tales of
+75	continued	whose brutalities in
+76	continued	enforcing a harvest of faith in the erstwhile Portuguese-controlled state of Goa
+77	assumption	are legion
+78	no-unit	.
+-1	par-sep	
+79	assumption	Active proselytisation was an integral part of the colonial project
+80	no-unit	;
+81	no-unit	indeed
+82	no-unit	,
+83	continued	as	Modd-NU
+84	continued	historian Ranajit Guha states
+85	continued	,
+86	testimony	"the Bible and the toothbrush were one of the main instruments of the British colonialists"
+87	no-unit	.
+-1	par-sep	
+88	continued	This reveals
+89	assumption	that the missionaries did bring "material" gifts to the native population - especially western medicine and hygiene
+90	no-unit	.
+91	continued	But these benefits aside	Modd-NU	
+92	continued	,	Modd-NU
+93	continued	there was another more substantive reason
+94	continued	why
+95	assumption	many Indians, especially the Dalits (Untouchables) and tribals embraced Christianity, and even Islam
+96	no-unit	.
+-1	par-sep	
+97	continued	Both these religions liberate them, or at least hold out the promise of
+98	assumption	unshackling them from the pernicious burden of the caste-system
+99	assumption	which is so deeply entrenched in Hinduism
+100	no-unit	.
+-1	par-sep	
+101	continued	Though	Modd-NU
+102	continued	ostensibly secular in objective
+103	continued	,
+104	assumption	the anti-conversion laws in force in various states of India - Odisha, Madhya Pradesh, Gujarat, Himachal Pradesh, Chhattisgarh (all areas with a significantly high population of tribals, Dalits, the depressed castes, and reeling from poverty, illiteracy and abysmal healthcare) in effect gives the government a vast swathe of control over people's choices in matters of faith and religion
+105	no-unit	.
+-1	par-sep	
+106	no-unit	Going way beyond
+107	no-unit	,
+108	assumption	they endow the government with surveillance powers over a constituency of people
+109	no-unit	.
+-1	par-sep	
+110	continued	Starting from the premise
+111	continued	that the freedom of religion and religious chose of "those
+112	continued	who are converted"
+113	continued	(note
+114	continued	;
+115	continued	the laws never say "those
+116	continued	who convert")
+117	continued	need
+118	continued	to be protected from incursions of proselytisers - the various anti-conversion legislations, ironically termed as "freedom of religion"
+119	continued	laws - make it mandatory for the convertees
+120	continued	to inform the head
+121	assumption	of the district administration
+122	no-unit	.
+-1	par-sep	
+123	continued	They will then give the go-ahead
+124	continued	only once
+125	continued	he is satisfied
+126	continued	that one is not swapping religions for monetary benefits or other inducements, or by
+127	continued	being taken in by fraud, or being swayed by either promises of salvation or threats of
+128	continued	incurring divine displeasure	Modd-NU
+129	continued	,	Modd-NU
+130	continued	as	Modd-NU
+131	assumption	the case may be	Modd-NU
+132	no-unit	.
+-1	par-sep	
+133	continued	The laws of Gujarat, Madhya Pradesh and Himachal Pradesh make
+134	continued	it incumbent upon neighbours or villagers
+135	continued	to inform the administration and the police of any activities of pastors, nuns and clergymen
+136	assumption	which could give rise to a suspicion of proselytising motives
+137	no-unit	.
+138	continued	Without
+139	continued	defining
+140	continued	what
+141	continued	all would
+142	continued	,
+143	continued	and
+144	continued	could, possibly count as "inducement" or "fraud"
+145	continued	,
+146	assumption	these laws impose stringent criminal sanctions on violators
+147	no-unit	.
+-1	par-sep	
+148	continued	Anyone found
+149	continued	guilty
+150	assumption	is visited with imprisonment extending to three years, and with a financial penalty of 50,000 rupees (approximately $800)
+151	no-unit	.
+-1	par-sep	
+152	continued	Tellingly, the punishment is doubled
+153	continued	if
+154	continued	those
+155	continued	who convert
+156	assumption	are women, or members of the lower castes and tribal communities
+157	no-unit	.
+158	continued	These laws are invoked and enforced only
+159	continued	when
+160	continued	a group of people, not individuals, seek
+161	assumption	to move out of Hinduism
+162	no-unit	.
+163	continued	One might well question - in face of such provisions
+164	continued	,
+165	continued	do the laws
+166	continued	even
+167	continued	need
+168	assumption	to use the modifiers "forcible" or "fraudulent"?
+-1	par-sep	
+169	no-unit	Also	Modd-NU
+170	no-unit	,	Modd-NU
+171	continued	 not a single legislation even addresses
+172	continued	,
+173	assumption	let alone punish, "reconversion"
+174	continued	which the many Hindu zealots are painstakingly
+175	assumption	claiming as totally voluntary and a righteous reply to the violation of rights by colonisers and their ilk
+176	no-unit	.
+-1	par-sep	
+177	continued	Indians look up to the judiciary
+178	assumption	to uphold the secular values of the republic
+179	no-unit	,
+180	no-unit	and
+181	assumption	the Supreme Court has, time and again, thwarted onslaughts on people's core fundamental right of religious freedom
+182	no-unit	.
+183	continued	But its record in
+184	continued	adjudicating the evidently unsecular
+185	assumption	anti-conversion statutes is dubious
+186	no-unit	.
+187	continued	The last time
+188	continued	it did
+189	assumption	was in 1977, in the Reverend Stanislaus case
+190	no-unit	,
+191	continued	wherein
+192	anecdote	the Odisha and Madhya Pradesh statutes were upheld
+193	no-unit	.
+-1	par-sep	
+194	continued	Basing its ruling on a 1956 report entitled "Report of the Christian Missionaries Activity Enquiry Commission"
+195	continued	,
+196	continued	which deemed proselytisation as a threat to India's territorial integrity and internal security
+197	continued	,
+198	continued	the court ended up
+199	assumption	conflating every act of propagation of one's faith - Christianity, in this case (enshrined as a fundamental right in the constitution) as an attack on Hinduism and its followers, tantamount to blasphemy
+200	no-unit	,
+201	assumption	which, incidentally, is also a criminal offence in India
+202	no-unit	.
+-1	par-sep	
+203	continued	A national anti-conversion law
+204	continued	,
+205	no-unit	if	cond
+206	assumption	enacted	cond
+207	no-unit	,	Modd-NU
+208	assumption	would definitely be challenged in the Supreme Court
+209	no-unit	.
+210	continued	In that case
+211	continued	,
+212	continued	 the judges could remedy the errors of 1977 by
+213	assumption	seeking inspiration from the European Court of Human Right's 1993 ruling in the Kokkinakis case
+214	no-unit	,
+215	continued	which struck the right balance between
+216	continued	keeping out improper proselytism and Christians' right
+217	assumption	to practise, profess, and propagate their faith
+218	no-unit	.

@@ -1,0 +1,201 @@
+0	title	Student arrested after teacher takes smartphone: Do our devices own us?
+-1	par-sep	
+1	continued	Last Tuesday, a ninth-grader at John F  Kennedy High School in Paterson, N.J , was caught on video
+2	continued	throwing his 62-year-old teacher to the ground and wrestling with him
+3	continued	in order
+4	anecdote	to retrieve his cellphone
+5	no-unit	,
+6	anecdote	which the teacher had confiscated
+7	no-unit	.
+8	continued	Teachers at the school allow
+9	anecdote	cellphones to be used for educational purposes in the classroom
+10	no-unit	,
+11	no-unit	but
+12	assumption	they may take them and hold them until the end of class	cond
+13	no-unit	if	cond
+14	continued	a student appears
+15	anecdote	to be using his phone for any other purpose
+16	no-unit	.
+-1	par-sep	
+17	no-unit	Granted
+18	no-unit	,
+19	continued	the boy may have demonstrated problems
+20	assumption	controlling his impulses in other settings, too
+21	no-unit	,
+22	no-unit	but
+23	anecdote	the video of his attack has resulted in national attention
+24	no-unit	.
+25	no-unit	And
+26	continued	that's
+27	continued	because
+28	continued	it isn't the first dramatic example of
+29	continued	how
+30	continued	attached to our phones
+31	assumption	we have become
+32	no-unit	.
+-1	par-sep	
+33	continued	Last year, a Houston woman was shot by a mugger
+34	continued	when
+35	continued	she refused
+36	anecdote	to hand over her cellphone
+37	no-unit	.
+38	anecdote	She survived
+39	no-unit	,
+40	no-unit	and
+41	continued	she later asserted
+42	anecdote	that she had done the right thing
+43	no-unit	.
+-1	par-sep	
+44	continued	In 2013, a 22-year-old man was killed by a train
+45	continued	when
+46	continued	he tried
+47	continued	to retrieve the cellphone
+48	anecdote	he had dropped on the tracks
+49	no-unit	.
+-1	par-sep	
+50	continued	Without	Modd-NU
+51	continued	giving a great deal of thought to the psychological implications	Modd-NU
+52	no-unit	,	Modd-NU
+53	common-ground	our species has deployed mobile technology very quickly, in a very widespread manner
+54	no-unit	.
+55	continued	One reason is
+56	assumption	that the marketplace embraced smartphones in an astounding way 
+57	no-unit	--
+58	continued	as if
+59	assumption	our phones and their apps are a lock-and-key fit with our psyches
+60	no-unit	.
+61	statistics	According to one source, there are 7 billion mobile devices on earth, one for almost each person
+62	no-unit	.
+-1	par-sep	
+63	continued	What
+64	continued	is "in" our cellphones
+65	continued	that would lead
+66	continued	people to attack others or risk death
+67	assumption	to keep them?
+68	continued	I would argue
+69	continued	that the phones absorb
+70	continued	and record our thoughts and intentions so dramatically
+71	continued	that we become unconsciously convinced
+72	assumption	they are "parts of us."
+73	continued	Why
+74	continued	else would so many people hesitate even
+75	continued	to leave a room without
+76	assumption	taking their cellphones with them?
+77	continued	Why
+78	continued	would they interrupt meetings and family time
+79	assumption	to check them?
+80	continued	Why
+81	continued	would young people be opting
+82	assumption	to spend their money on newer, faster ones, instead of on clothing?
+-1	par-sep	
+83	continued	Why
+84	continued	would there be so much interest in
+85	continued	personalizing the sounds
+86	continued	they make
+87	continued	,
+88	continued	the apps
+89	continued	they hold
+90	continued	and the cases
+91	assumption	that hold them?
+-1	par-sep	
+92	continued	I contend
+93	continued	we have already crossed the Rubicon, almost irrevocably incorporating technology into our psyches in a way
+94	assumption	that makes us part flesh and blood, part hardware
+95	no-unit	.
+96	continued	The fact
+97	continued	that the hardware is outside our bodies
+98	continued	(for now) does not mean
+99	assumption	the integration has not occurred
+100	no-unit	.
+101	assumption	We are psychologically magnetized to our devices
+102	no-unit	.
+103	continued	That's
+104	continued	why
+105	assumption	some people will fight for them, and even die for them
+106	no-unit	.
+-1	par-sep	
+107	continued	The selfie has become so ubiquitous
+108	continued	that it no longer seems bizarre
+109	continued	to see someone smiling into a cellphone or sticking out her tongue or making a sad face 
+110	continued	--
+111	continued	acting
+112	common-ground	-- and then snapping a photo
+113	no-unit	.
+114	continued	And these images are then sent not only to her supposed "friends,"
+115	continued	who may number in the hundreds
+116	continued	,
+117	continued	but also to her unconscious mind 
+118	continued	--
+119	continued	reinforcing the idea
+120	continued	that she is
+121	continued	what
+122	continued	her cellphone records
+123	assumption	her to be
+124	no-unit	.
+125	continued	Take away the cellphone and, in some measure
+126	continued	,
+127	continued	she believes
+128	assumption	she disappears
+129	no-unit	.
+130	continued	She feels
+131	assumption	she dies a little bit, or more than a little bit, psychologically
+132	no-unit	.
+-1	par-sep	
+133	continued	The business of
+134	continued	selling "selfie sticks"
+135	continued	-- telescoping rods
+136	continued	that hold a cellphone far enough away
+137	continued	to facilitate a really good shot
+138	continued	-- is robust enough
+139	continued	to make
+140	assumption	many retailers place large kiosks of them near the checkout register
+141	no-unit	.
+142	continued	Cellphones
+143	continued	,
+144	continued	you might say
+145	continued	,
+146	assumption	are growing arms
+147	no-unit	.
+148	assumption	Ours apparently aren't long enough
+149	no-unit	.
+-1	par-sep	
+150	assumption	This is just the beginning
+151	no-unit	.
+152	continued	Cellphones will soon be able
+153	continued	to determine
+154	continued	whether
+155	continued	you are looking at the content on their screens, rather than
+156	assumption	looking away
+157	no-unit	.
+158	assumption	They will demand attention
+159	no-unit	.
+160	continued	The extent
+161	continued	to which we own them versus
+162	continued	them owning us
+163	assumption	will be increasingly in doubt
+164	no-unit	.
+-1	par-sep	
+165	other	Make no mistake
+166	no-unit	:
+167	no-unit	While
+168	continued	technology can be good
+169	continued	when
+170	assumption	harnessed for the good
+171	continued	(raising
+172	anecdote	money for charity occurs to me)
+173	no-unit	,
+174	continued	there will be hell
+175	continued	to pay for
+176	assumption	giving so little thought to the downside
+177	no-unit	.
+178	assumption	That downside likely includes an epidemic of narcissism in young people, increased rates of anxiety and dramatically decreased feelings of autonomy
+179	no-unit	.
+180	continued	Because to the extent
+181	continued	that one's self-image is outsourced to a mobile device
+182	continued	,
+183	assumption	it is no more deeply rooted than that
+184	no-unit	.
+-1	par-sep	
+185	continued	Bill Hemmer and Martha MacCallum bring
+186	continued	you the news
+187	assumption	that matters to you!

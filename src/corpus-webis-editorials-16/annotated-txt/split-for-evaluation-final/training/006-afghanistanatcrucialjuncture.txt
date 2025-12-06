@@ -1,0 +1,229 @@
+0	title	Afghanistan at crucial juncture.
+-1	par-sep	
+1	anecdote	On Thursday, the so-called London Conference on Afghanistan will convene
+2	no-unit	.
+3	continued	Of all the high-profile international conferences
+4	continued	that have been held on Afghanistan over the years
+5	assumption	- in Bonn, Tokyo, and Istanbul - this comes at a crucial juncture
+6	no-unit	.
+-1	par-sep	
+7	continued	At the end of October, British forces lowered the flag at Camp Bastion - from
+8	continued	where
+9	continued	they had engaged in the most intense fighting
+10	continued	the British army had seen since the Falklands War
+11	anecdote	- and handed over the base to Afghan forces
+12	no-unit	.
+13	continued	Just over a month later, the Taliban mounted a 14-hour attack on the very same site
+14	continued	,
+15	anecdote	killing six Afghan soldiers
+16	no-unit	.
+17	continued	To the north, in the capital Kabul, insurgents have pulled off a dozen attacks in the space of the last few weeks
+18	continued	,
+19	anecdote	striking at diplomats, NGOs, and US contractors
+20	no-unit	.
+21	continued	What	modd-NU
+22	assumption	explains this spate of violence, and is it a portent for the future of Afghanistan?	m-question
+-1	par-sep	
+23	continued	The International Security Assistance Force (ISAF), a US-led group
+24	continued	that includes NATO members and others
+25	continued	,
+26	anecdote	winds up its mission on New Year's Eve
+27	no-unit	.
+28	anecdote	A slimmed-down force of 12,000 foreign troops - mostly American - will stay behind
+29	no-unit	,
+30	no-unit	and
+31	continued	US President Barack Obama has authorised the US contingent
+32	continued	to continue
+33	continued	supporting Afghan National Security Forces (ANSF) throughout 2015
+34	continued	,
+35	continued	with all of these forces scheduled
+36	anecdote	to leave by the end of 2016
+37	no-unit	.
+38	continued	The US is not, therefore
+39	continued	,
+40	continued	leaving Afghanistan in the abrupt manner
+41	continued	than
+42	assumption	it left Iraq in 2011
+43	no-unit	.
+44	assumption	But this is a time of dramatic change
+45	no-unit	.
+-1	par-sep	
+46	no-unit	Drastic effects on casualties
+47	no-unit	.
+-1	par-sep	
+48	continued	For one thing	Modd-NU
+49	continued	,	Modd-NU
+50	assumption	 the ANSF are doing much of the fighting themselves, with drastic effects on casualties
+51	no-unit	:
+52	statistics	over 9,000 Afghan troops have died since 2013, four times greater than the entire American death toll since 2001
+53	no-unit	.
+54	statistics	Afghan police officers are suffering especially badly, with thousands being killed every month
+55	no-unit	.
+-1	par-sep	
+56	anecdote	At the political level, a new government of national unity, led by President Ashraf Ghani and Chief Executive Abdullah Abdullah, has taken charge after Hamid Karzai's departure
+57	no-unit	.
+-1	par-sep	
+58	continued	Ghani is already reported
+59	continued	to have opened backchannel talks with the Taliban
+60	continued	,
+61	continued	visiting both Pakistan and Beijing
+62	continued	to seek their help in this effort
+63	continued	,
+64	continued	cancelling an earlier arms request from India, and even making a highly unorthodox visit to Pakistan's army headquarters
+65	continued	,
+66	anecdote	in recognition of Pakistan's long-standing support for the insurgents
+67	no-unit	.
+-1	par-sep	
+68	assumption	On the ground, the overall picture is mixed
+69	no-unit	.
+70	continued	This year, Taliban-initiated attacks are reported
+71	statistics	to have fallen by 25 percent
+72	no-unit	,
+73	no-unit	and
+74	statistics	ANSF mounted offensives four to five times more frequently than last year
+75	no-unit	.
+76	no-unit	At the same time
+77	no-unit	,
+78	continued	as	Modd-NU
+79	continued	political scientist Jason Lyall observed
+80	continued	,
+81	testimony	the recently-concluded fighting season - from April to October - "witnessed the appearance of large Taliban units on the battlefield" for the first time, with a tenth of all Afghan districts seeing "at least one major Taliban offensive"
+82	no-unit	.
+-1	par-sep	
+83	continued	Lyall also notes reports of over 1,000 insurgents on the battlefield
+84	continued	,
+85	testimony	"numbers not seen since the Taliban's original push to capture Kabul during the 1992-96 civil war"
+86	no-unit	.
+87	continued	While	Modd-NU
+88	assumption	we should take these reports with a pinch of salt
+89	no-unit	-
+90	testimony	NATO commanders accuse their Afghan counterparts of exaggerating
+91	no-unit	-
+92	assumption	they do point to a simple, stark fact
+93	no-unit	:
+94	assumption	The insurgency is far from broken
+95	no-unit	,
+96	no-unit	and
+97	continued	it will be able
+98	continued	to pressure the Afghan state for years
+99	assumption	to come
+100	no-unit	.
+-1	par-sep	
+101	assumption	In this context, the wave of insurgent attacks might be explained in several ways
+102	no-unit	.
+-1	par-sep	
+103	no-unit	First	Modd-NU
+104	continued	,
+105	continued	 these attacks might be intended
+106	continued	to drive a wedge between the Afghan government and its foreign patrons
+107	continued	,
+108	continued	encouraging the latter
+109	assumption	to abandon their allies more quickly
+110	no-unit	.
+111	continued	As	Modd-NU
+112	continued	a Taliban spokesman put it bluntly
+113	continued	:
+114	continued	"Our objective is
+115	continued	to force
+116	continued	the foreigners to flee Kabul
+117	continued	.
+118	continued	Before
+119	continued	,
+120	continued	 the foreigners were visible in the provinces
+121	continued	.
+122	continued	Now that they have limited more of their activities to Kabul
+123	continued	,
+124	continued	we have also gone to Kabul
+125	testimony	to target them there."
+126	assumption	To some extent, this has worked
+127	no-unit	.
+128	anecdote	Many aid agencies have pulled out their staff, and restricted their movements
+129	no-unit	.
+-1	par-sep	
+130	no-unit	Tarnished credibility
+131	no-unit	.
+-1	par-sep	
+132	no-unit	Second	Modd-NU
+133	no-unit	,	Modd-NU
+134	continued	 the insurgents failed
+135	continued	to seriously disrupt either round of this year's Afghan elections
+136	continued	,
+137	continued	as
+138	continued	they had vowed	Modd-NU
+139	continued	to do	Modd-NU
+140	continued	,	Modd-NU
+141	assumption	leaving their credibility somewhat tarnished
+142	no-unit	.
+143	assumption	Prominent attacks - publicised with videos - redress this issue, and project strength at the end of a fighting season
+144	no-unit	.
+145	continued	They might also be ways of
+146	continued	strengthening
+147	assumption	the insurgency's bargaining position in advance of any peace talks that gain momentum over the next year
+148	no-unit	.
+-1	par-sep	
+149	no-unit	Third
+150	no-unit	,
+151	assumption	the insurgency is not a monolith
+152	no-unit	,
+153	no-unit	and
+154	assumption	different parts of the Taliban might be responsible for different attacks
+155	no-unit	.
+156	continued	The Haqqani Network, a semi- autonomous group with close ties to Pakistani intelligence, has proven
+157	continued	most effective
+158	continued	at
+159	assumption	projecting suicide bombings into Kabul
+160	no-unit	.
+161	continued	The Haqqanis were blamed for the most deadly atrocity of the past month, the bombing of a volleyball game
+162	anecdote	in which over 50 Afghans were killed
+163	no-unit	.
+164	continued	In the past, moves towards dialogue between the Afghan government and the Taliban have been met with carefully targeted attacks intended less
+165	continued	to strengthen bargaining positions
+166	continued	than
+167	assumption	to disrupt such talks altogether
+168	no-unit	.
+-1	par-sep	
+169	no-unit	Whatever
+170	no-unit	the explanation
+171	no-unit	,
+172	assumption	Afghanistan faces an extremely test period
+173	no-unit	.
+174	continued	Although	Modd-NU
+175	assumption	the presence of US forces provides a safety net throughout next year
+176	no-unit	,
+177	assumption	things look more precarious after that
+178	no-unit	.
+179	common-ground	International funding commitments for Afghanistan currently run to 2017
+180	no-unit	,
+181	continued	but	Modd-NU
+182	continued	that timeline had assumed
+183	continued	the insurgency would lose steam by then
+184	continued	,
+185	continued	allowing
+186	assumption	ANSF to slim down
+187	no-unit	.
+188	no-unit	If	cond
+189	assumption	that isn't possible	cond
+190	no-unit	,	cond
+191	assumption	the annual $4-6bn bill for the security forces is simply unsustainable
+192	no-unit	.
+-1	par-sep	
+193	continued	This week's London Conference is an opportunity
+194	assumption	to secure much greater contributions from regional powers
+195	no-unit	,
+196	continued	who have the most at stake
+197	continued	if
+198	assumption	Afghanistan does fall apart once more
+199	no-unit	.
+200	anecdote	China is, for instance, one of the world's largest economies, a direct neighbour of Afghanistan, and a significant investor there
+201	no-unit	.
+202	no-unit	But
+203	no-unit	if	cond
+204	continued	Beijing is unwilling
+205	assumption	to offer more than a meagre $327m - nearly half the amount Iran pledged in 2012, and far less than Japan or the EU	cond
+206	continued	-
+207	no-unit	then	cond
+208	continued	how are western governments, with their attention directed to threats from Russia and ISIL
+209	continued	,
+210	continued	supposed
+211	continued	to persuade their own public
+212	assumption	that, after a decade of war, Afghanistan must stay on financial life-support?

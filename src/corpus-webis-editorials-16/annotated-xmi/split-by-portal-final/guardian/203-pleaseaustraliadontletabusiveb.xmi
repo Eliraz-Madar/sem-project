@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3787" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="5" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="6" end="129" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="131" end="208" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="210" end="358" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="361" end="565" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="570" end="592" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="594" end="688" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="691" end="860" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="861" end="986" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="988" end="1067" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="1069" end="1120" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1123" end="1297" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1299" end="1365" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1367" end="1397" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1398" end="1401" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1402" end="1448" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1450" end="1532" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1534" end="1612" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1614" end="1692" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1695" end="1792" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1794" end="1914" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1917" end="2078" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="2080" end="2083" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2084" end="2297" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2299" end="2311" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2313" end="2332" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2335" end="2441" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2443" end="2493" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2498" end="2523" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2525" end="2596" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2598" end="2694" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2696" end="2722" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2728" end="2760" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2761" end="2794" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2795" end="2844" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2845" end="2848" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2849" end="2898" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2900" end="2931" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2933" end="2936" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2937" end="3017" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3020" end="3205" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3207" end="3301" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3306" end="3384" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3387" end="3539" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3541" end="3631" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3633" end="3701" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3704" end="3747" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3749" end="3774" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3776" end="3786" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="258" sofa="1" begin="0" end="3787" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/203-pleaseaustraliadontletabusiveb.txt" offsetInSource="0" documentSize="3787" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="266" sofa="1" begin="0" end="3787" lastUpdate="2015-01-20T01:31:17Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/please-australia-dont-let-abusive-boxer-floyd-mayweather-in" portal="guardian" authors="Alex McClintock" articleSum="Even boxing fans are questioning the character of serial domestic abuser Floyd Mayweather, who is due to visit Australia this month " title="Please Australia, don't let abusive boxer Floyd Mayweather in."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="While the boxing world's attention is focused on whether a fight between Floyd Mayweather and Manny Pacquiao might finally happen, Mayweather has announced that he will visit Australia at the end of the month. The world's best boxer and highest paid athlete won't be fighting of course, merely making promotional appearances in Sydney, Melbourne and Brisbane.&#10;&#10;Even leaving aside the disturbing idea that real, living people might pay to see the petulant man known as &quot;Money&quot; do anything other than box, there' s an issue: his extensive history of domestic violence. As Phil Lutton points out, Mayweather has been arrested or cited by police in seven assaults against five different women.&#10;&#10;Mayweather's history of domestic violence began in 2001, just a month after dedicating his fight against Diego &quot;Chico&quot; Corrales to &quot;all the battered women in the world.&quot; He allegedly closed a car door on his then-partner Melissa Brim before repeatedly punching her while she lay on the back seat. Not six months later he punched Brim in the neck at a Las Vegas shopping centre. He pleaded guilty and received a suspended sentence.&#10;&#10;In 2003 Mayweather allegedly punched two friends of his then-partner (and the mother of several of his children) Josie Harris in a nightclub and shook a female security guard. He was issued a citation and found guilty of two counts of battery, though the verdict was vacated and the charges were &quot;dismissed per negotiations.&quot;&#10;&#10;The same year he allegedly pummelled Harris and dragged her from a car by her hair, though she later dropped the charges and testified that she had lied to police. Mayweather bought Harries a $500,000, 25-carat diamond ring shortly afterwards.&#10;&#10;In 2011 he finally did jail time (90 days) for savagely beating Harris in front of their children. He might have done many more if he wasn't a multi- millionaire and a linchpin of the economy in his home state of Nevada.&#10;&#10;Even boxing fans, who are usually loathe to judge fighters for their conduct outside the ring (few boxers are angels, after all), are unimpressed with Mayweather. And though boxing is a bit of a cultural afterthought these days, comments Mayweather made in support of abuser Ray Rice before his most recent fight focused the attention of the mainstream media on his unsavoury past. Nevertheless,  he was unrepentant.&#10;&#10;Though Mayweather's criminal past might not automatically disqualify him from receiving an Australian visa, he would have to sit a &quot;character test&quot; on arrival. If you watch the video above, I'm sure you'll agree that such a test could be a major stumbling block. In a similar case, Australia granted Mike Tyson, who was jailed for rape in 1992, a visa in 2012, though New Zealand did not.&#10;&#10;So should Australia bar Mayweather? What's to gain from him visiting? He's a disgusting, unrepentant assaulter of women and his &quot;I do what I want-ism&quot; is totally undesirable. America might be stuck with him, but I don't see why we should welcome him and allow him to make money in our country.&#10;&#10;Last year Australia cancelled the visa of pick up artist Julien Blanc, whose techniques included simulated choking of women in bars, after a social media campaign and protests at venues. There has been nothing simulated about Mayweather's repeated punching of the women in his life, so I'd imagine he (and the venues that welcome him) can expect the same treatment.&#10;&#10;On a more selfish note, I simply can't face the prospect of sections of the Australian media writing seriously about Anthony Mundine fighting Mayweather. Mundine has begun to retweet fans (they are out there) who want him to call Mayweather out. The flow of indistinguishable-from-parody articles has already begun.&#10;&#10;Please Floyd, concentrate on fighting Manny. We'll be fine without you. No, really."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 266"/>
+</xmi:XMI>

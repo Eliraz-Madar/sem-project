@@ -1,0 +1,230 @@
+0	title	US economy: Why I'm optimistic about growth in 2015.
+-1	par-sep	
+1	assumption	Could 2015 be the breakout year for the economy?
+-1	par-sep	
+2	continued	Last week we got
+3	assumption	very joyful news
+4	no-unit	:.
+-1	par-sep	
+5	continued	All of this is good news
+6	continued	as
+7	assumption	we ring in the new year
+8	no-unit	.
+9	continued	And the best may be yet
+10	assumption	to come
+11	no-unit	.
+-1	par-sep	
+12	continued	So why
+13	assumption	is the economy finally shifting into a higher gear?
+14	continued	This isn'
+15	assumption	t a story of government-directed growth or stimulus spending
+16	no-unit	.
+17	assumption	It's the opposite
+18	no-unit	:
+19	continued	Washington's role in the economy is starting
+20	assumption	to shrink after years of Obama administration activism
+21	no-unit	.
+22	continued	The private sector is starting
+23	assumption	to take over
+24	no-unit	.
+-1	par-sep	
+25	statistics	The growth was propelled by a big rise in business investment, up nearly 9 percent; personal consumption, up 3.2 percent; and exports, up 4.5 percent
+26	no-unit	.
+-1	par-sep	
+27	continued	Government spending
+28	continued	,
+29	continued	which is a negative for the economy
+30	continued	,
+31	statistics	grew by 4.4 percent, thanks to a big rise in military spending
+32	no-unit	,
+33	no-unit	but
+34	assumption	domestic spending is still restrained
+35	no-unit	.
+-1	par-sep	
+36	continued	The news was so good
+37	continued	that even the threat
+38	continued	that the Fed will now have an excuse
+39	continued	to raise interest rates
+40	assumption	hasn't deterred the bulls on Wall Street
+41	no-unit	.
+-1	par-sep	
+42	other	Here is the case for optimism going forward
+43	no-unit	.
+-1	par-sep	
+44	no-unit	First
+45	no-unit	,
+46	assumption	 a huge factor in the economic rebound has been the fall in energy costs
+47	no-unit	.
+48	continued	As	Modd-NU
+49	continued	the price of oil has fallen from $105 a barrel this summer
+50	continued	to closer $70 by September
+51	continued	,
+52	continued	(and at the end of December
+53	continued	it was at $53)
+54	anecdote	the cost of oil imports has tumbled
+55	no-unit	.
+56	statistics	Imports fell by nearly 2 percent
+57	no-unit	,
+58	no-unit	and
+59	statistics	this alone added almost 0.2 percentage points to GDP growth
+60	no-unit	.
+-1	par-sep	
+61	assumption	Even that greatly understates the economic windfall from cheap energy
+62	no-unit	.
+63	continued	Production costs fall
+64	continued	when
+65	common-ground	energy costs do
+66	no-unit	,
+67	no-unit	so
+68	continued	the supply of American-produced non-oil and gas products, such as manufactured goods, rises
+69	continued	when
+70	assumption	gas is cheap
+71	no-unit	.
+72	continued	Gas prices should continue
+73	assumption	to fall
+74	no-unit	,
+75	assumption	the good-news story rolls on
+76	no-unit	,
+77	no-unit	and
+78	assumption	the addition to GDP from energy should be even higher
+79	no-unit	.
+80	other	Thank you, Texas and Oklahoma and North Dakota
+81	no-unit	.
+82	continued	And thank you
+83	continued	,
+84	other	fracking
+85	no-unit	.
+-1	par-sep	
+86	no-unit	Second
+87	no-unit	,
+88	assumption	businesses are clearly feeling less trepidation about investing
+89	no-unit	,
+90	no-unit	and
+91	continued	some of the wet blanket of Obama's anti-business, anti-shareholder agenda has dissipated
+92	continued	as
+93	assumption	the Republican Congress repels his worst ideas: cap-and-trade, minimum wage hikes, new taxes on the energy industry and massive new spending initiatives out of Washington
+94	no-unit	.
+95	continued	Gridlock now looks
+96	continued	to be built into the political system for the next two years, and in many ways
+97	assumption	that's reassuring
+98	no-unit	.
+-1	par-sep	
+99	no-unit	Third	Modd-NU
+100	no-unit	,	Modd-NU
+101	continued	 government spending has fallen a lot more
+102	continued	than
+103	assumption	people think
+104	no-unit	.
+105	assumption	Despite the boost in military spending in the last quarter, the biggest story of the U.S  economy over the last three years has been the retrenchment of government spending
+106	no-unit	.
+-1	par-sep	
+107	statistics	Federal spending has fallen from 24.4 percent of GDP in 2009 and 23.4 percent of GDP in 2010 to 21 percent of GDP in 2014
+108	no-unit	.
+109	continued	Even better news is
+110	statistics	that in the fourth quarter of 2014, federal spending as a share of GDP fell to below 20 percent, according to a new analysis by Dan Clifton of Strategas, an economic policy consulting firm
+111	no-unit	.
+112	continued	This is creating an anti-Keynesian boost to growth	modd-ASM
+113	continued	,	Modd-NU
+114	continued	because	Modd-NU
+115	assumption	the government is taking fewer private sector resources each month
+116	no-unit	.
+-1	par-sep	
+117	continued	The 4 percentage points less of GDP
+118	continued	that the government is spending
+119	continued	means
+120	continued	4 percent more GDP for private businesses and families
+121	assumption	to spend
+122	no-unit	.
+123	assumption	That's close to $700 billion a year more for private investment and construction and spending
+124	no-unit	.
+-1	par-sep	
+125	assumption	This, by the way, shows the foolhardiness of the Keynesian notion of a government-spending free lunch
+126	no-unit	.
+127	continued	Five years ago the Obama economics team was talking about multiplier effects from higher federal outlays 
+128	continued	--
+129	continued	the stimulus bill spent $830 billion
+130	continued	--
+131	anecdote	that would juice the economy with even more private spending
+132	no-unit	.
+-1	par-sep	
+133	assumption	It never happened
+134	no-unit	.
+135	continued	Even President Obama's own economic analysis found
+136	continued	the economy grew more slowly
+137	continued	than
+138	statistics	it would have without the government debt- financed spending
+139	no-unit	.
+140	assumption	The real effect of government spending is to crowd out private spending
+141	no-unit	.
+-1	par-sep	
+142	continued	A final reason for optimism is
+143	continued	that the incoming class of Republican governors and conservative state legislators across the country should mean more growth policies
+144	assumption	coming out of state capitals
+145	no-unit	.
+146	continued	At least a dozen governors from Massachusetts to Illinois to Tennessee are talking about tax cuts
+147	assumption	to create jobs
+148	no-unit	.
+149	no-unit	So
+150	no-unit	even if	cond
+151	assumption	we don't get tax reform at the federal level	cond
+152	no-unit	,	cond
+153	assumption	states should be providing an additional tax cut stimulus
+154	no-unit	.
+-1	par-sep	
+155	continued	Skeptics will say
+156	continued	that Obama's executive actions on climate change, immigration, energy policy and so on will continue
+157	assumption	to be a restraint on growth
+158	no-unit	.
+159	assumption	That's for sure
+160	no-unit	.
+-1	par-sep	
+161	continued	This recovery from recession is still nearly $2 trillion behind
+162	continued	where
+163	continued	we should would be
+164	continued	if
+165	assumption	we had a Reagan-paced boom
+166	no-unit	.
+167	assumption	This is still one of the most anemic recoveries
+168	no-unit	,
+169	continued	though	Modd-NU
+170	assumption	it is belatedly picking up steam
+171	no-unit	.
+-1	par-sep	
+172	continued	It's also true
+173	assumption	that wages are still flat for most workers
+174	no-unit	,
+175	no-unit	so
+176	continued	the big challenge for the economy is raising productivity
+177	continued	so
+178	continued	Americans get a well
+179	continued	-
+180	assumption	deserved pay raise
+181	no-unit	.
+-1	par-sep	
+182	continued	As
+183	continued	2014 comes to a close
+184	continued	,
+185	continued	here's
+186	continued	where
+187	assumption	we are
+188	no-unit	:
+189	continued	Interest rates are as low
+190	continued	as
+191	statistics	they've been in 40 years
+192	no-unit	;
+193	assumption	inflation is tame, thanks to the surge in oil and gas output
+194	no-unit	;
+195	no-unit	and
+196	assumption	corporate profits remain high
+197	no-unit	.
+-1	par-sep	
+198	assumption	The rest of the world economy, from Germany to Japan to Russia, is a debacle
+199	no-unit	.
+200	continued	But that's all the more reason
+201	assumption	to bet on the USA in 2015
+202	no-unit	.
+-1	par-sep	
+203	no-unit	And
+204	no-unit	,
+205	assumption	 no, Mr  President, you didn't build that
+206	no-unit	.

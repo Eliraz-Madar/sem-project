@@ -1,0 +1,241 @@
+0	title	Here's what happens when oil prices crash - and it's not pretty for producers.
+-1	par-sep	
+1	assumption	The longest and biggest oil boom in history is over
+2	no-unit	.
+3	continued	In a boom - and
+4	continued	the latest one lasted almost 10 years
+5	continued	-
+6	assumption	everything shines for producer nations
+7	no-unit	:
+8	anecdote	the economy grows
+9	no-unit	,
+10	anecdote	consumption explodes
+11	no-unit	,
+12	assumption	businesses make fat profits regardless of their productivity
+13	no-unit	,
+14	continued	poverty declines
+15	continued	even if
+16	assumption	social protection programmes are ineffective
+17	no-unit	,
+18	continued	politicians are popular and get
+19	continued	re-elected
+20	continued	even if
+21	assumption	they are incompetent and corrupt
+22	no-unit	,
+23	no-unit	and
+24	continued	people tend
+25	assumption	to be happier
+26	no-unit	.
+-1	par-sep	
+27	no-unit	But
+28	continued	oil prices tend
+29	assumption	to be cyclical
+30	no-unit	,
+31	no-unit	so
+32	continued	when
+33	continued	the downturn comes
+34	continued	,
+35	assumption	the party ends
+36	no-unit	.
+37	anecdote	During the oil price decline of the 1980s, most oil-dependent countries suffered the consequences of the resulting collapse in investment and consumption
+38	no-unit	.
+39	continued	A few, such as Oman and Malaysia, were able
+40	anecdote	to compensate for the price collapse by increasing production
+41	no-unit	,
+42	no-unit	but
+43	continued	many oil exporters suffered
+44	continued	,
+45	continued	also
+46	assumption	due to the production cuts agreed by Opec
+47	no-unit	.
+48	assumption	Some recovered better than others
+49	no-unit	,
+50	no-unit	but
+51	assumption	in general between 1982 and 2002 they fared much more poorly than the rest of the developing world
+52	no-unit	.
+-1	par-sep	
+53	continued	Those
+54	continued	that fared worst
+55	continued	were typically the ones
+56	assumption	that got into debt during the boom
+57	no-unit	.
+58	assumption	Poverty and unemployment rose sharply
+59	no-unit	.
+60	no-unit	In fact	Modd-NU
+61	no-unit	,	Modd-NU
+62	continued	 such underperformance led to the widespread idea
+63	continued	that having oil
+64	assumption	is a curse
+65	no-unit	,
+66	anecdote	which has generated extensive literature
+67	no-unit	.
+68	assumption	The reality is more complex
+69	no-unit	,
+70	continued	as
+71	assumption	shown by economic overperformance during the past decade's boom
+72	no-unit	.
+73	no-unit	In fact	Modd-NU
+74	no-unit	,	Modd-NU
+75	continued	taking out those two "bust" decades
+76	continued	,
+77	assumption	oil countries have outperformed their peers over the past 70 years
+78	no-unit	.
+79	assumption	So the real "curse" is in fact an oil price collapse
+80	no-unit	.
+-1	par-sep	
+81	continued	The current price collapse - for the first time
+82	continued	since
+83	continued	2009 prices are below the symbolic $50 a barrel
+84	assumption	- is largely a result of the boom in shale oil production in the US, adding more than 3m barrels over the past few years
+85	no-unit	.
+86	assumption	High prices bring investment and supply
+87	no-unit	,
+88	no-unit	and
+89	assumption	this boom was no different
+90	no-unit	.
+91	continued	Oil prices are notoriously difficult
+92	assumption	to predict
+93	no-unit	,
+94	no-unit	so
+95	continued	we do not know
+96	continued	if
+97	assumption	the current bust will last
+98	no-unit	,
+99	continued	despite evidence
+100	no-unit	that points to at least two more years of lower prices
+101	no-unit	.
+102	no-unit	Moreover
+103	no-unit	,
+104	assumption	 prices are still above historical standards
+105	no-unit	.
+106	statistics	For the majority of the more than 120 years of history of the oil industry the price has been below $50 in today's money
+107	no-unit	.
+108	assumption	But geopolitics or renewed consumption could alter the oversupply scenario and surprise us once again
+109	no-unit	.
+110	no-unit	In fact	Modd-NU
+111	no-unit	,	Modd-NU
+112	continued	 oil busts tend
+113	continued	to lead
+114	continued	to booms down the road precisely
+115	continued	because
+116	assumption	investment in oil exploration dries up
+117	no-unit	.
+-1	par-sep	
+118	assumption	Net importers, like most European countries, will benefit from the oil price decline
+119	no-unit	.
+120	continued	In the US, citizens will pay significantly less for gasoline
+121	continued	than
+122	continued	they have
+123	anecdote	over the past five years
+124	no-unit	,
+125	continued	leading
+126	assumption	them to spend more on other goods
+127	no-unit	.
+128	assumption	A vast transfer of wealth from exporters to importers is occurring
+129	no-unit	.
+-1	par-sep	
+130	no-unit	Even if	cond
+131	assumption	the fall is short term	cond
+132	no-unit	,	cond
+133	assumption	some pain will be suffered by all net oil exporters
+134	no-unit	,
+135	no-unit	but
+136	continued	it will only be disastrous for the countries
+137	continued	that failed
+138	assumption	to learn the lessons of the previous boom and bust cycle
+139	no-unit	.
+140	assumption	This time around many countries have saved a larger part of their windfall and invested more in productive assets, although generally significantly less than the value of the resource being depleted
+141	no-unit	.
+142	assumption	Many abandoned their conservative fiscal policies during the financial crisis of 2008-09
+143	no-unit	,
+144	assumption	which made sense
+145	no-unit	,
+146	no-unit	but
+147	assumption	they never got back to the prudence of the first few years of the boom
+148	no-unit	.
+-1	par-sep	
+149	continued	Middle Eastern producers were prompted
+150	assumption	to increase spending by the unrest produced by the Arab Spring
+151	no-unit	.
+152	no-unit	Still	Modd-NU
+153	no-unit	,	Modd-NU
+154	continued	 with few exceptions, most exporters are in better shape
+155	assumption	to weather the storm
+156	no-unit	.
+157	assumption	The wealthy countries of the Gulf, and some of the Caspian countries, can easily manage a temporary fall in prices 
+158	no-unit	-
+159	assumption	they have accumulated large external funds
+160	no-unit	,
+161	no-unit	although
+162	continued	some face more worrisome
+163	assumption	long- term fiscal prospects
+164	no-unit	.
+165	continued	Even Russia is in a better position
+166	continued	to manage the oil fall
+167	continued	than
+168	assumption	the Soviet Union was
+169	no-unit	,
+170	no-unit	but
+171	assumption	it would still suffer from the necessary cuts in imports and spending
+172	no-unit	,
+173	no-unit	and
+174	assumption	the sanctions will hurt more
+175	no-unit	.
+176	assumption	Iran is in worse shape
+177	continued	because	Modd-NU
+178	assumption	it had a less prudent economic policy
+179	no-unit	and
+180	assumption	sanctions had already produced a crisis even before the fall in the oil price
+181	no-unit	.
+182	continued	Nigeria, despite an improved macro policy in comparison with the previous boom, is going
+183	continued	to be significantly affected
+184	assumption	due to its excessive dependence on oil
+185	no-unit	,
+186	assumption	leading to an increase in poverty and political instability
+187	no-unit	.
+188	assumption	Angola is also vulnerable
+189	no-unit	.
+190	assumption	Latin American oil exporters with generally prudent macro policies, like Colombia and Mexico, will also be affected by the necessary fiscal adjustment
+191	no-unit	,
+192	no-unit	but
+193	continued	they should be able
+194	assumption	to manage it with limited trauma
+195	no-unit	.
+196	no-unit	However
+197	no-unit	,
+198	assumption	 no country is in worse shape entering into the price collapse than my home country, Venezuela
+199	no-unit	.
+-1	par-sep	
+200	anecdote	As the proverbial grasshopper of the fable, Venezuela did not only spend throughout the summer, mostly in consumption
+201	no-unit	,
+202	no-unit	but
+203	continued	it also went into a debt binge
+204	assumption	to afford even more consumption
+205	no-unit	:
+206	statistics	the country was running deficits of 15%-20% of GDP during the peak boom years
+207	no-unit	.
+208	assumption	Now comes the winter
+209	no-unit	and
+210	assumption	it faces economic collapse
+211	no-unit	.
+212	statistics	Inflation could top 100% in 2015
+213	no-unit	,
+214	assumption	shortages are widespread
+215	no-unit	,
+216	no-unit	and
+217	continued	there is a high probability
+218	continued	that many Venezuelans
+219	continued	who came out of poverty during the boom
+220	assumption	will fall back into it, with serious consequences for political stability
+221	no-unit	.
+-1	par-sep	
+222	assumption	Oil abundance is not necessarily a curse
+223	no-unit	.
+224	assumption	Most producers are better prepared this time around
+225	no-unit	,
+226	no-unit	but
+227	continued	for the few
+228	continued	that learned nothing from the past
+229	continued	,
+230	assumption	the reality will be as harsh as the grasshoppers' winter
+231	no-unit	.

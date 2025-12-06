@@ -1,0 +1,194 @@
+0	title	Another climate change summit: Don't give up.
+-1	par-sep	
+1	assumption	Many have simply lost faith in global climate negotiations summits such as COP 20 starting in Lima, Peru today
+2	no-unit	.
+3	no-unit	But
+4	no-unit	while	Modd-NU
+5	continued	the process has not delivered the climate action
+6	assumption	we need
+7	no-unit	,
+8	continued	I would argue
+9	assumption	that this year key things have changed
+10	no-unit	and
+11	continued	that we must continue
+12	continued	to demand from our politicians
+13	assumption	that they listen and act and, by that, safeguard the future of next and current generations on this planet
+14	no-unit	.
+-1	par-sep	
+15	continued	As	Modd-NU
+16	anecdote	nations start the latest global round of climate change negotiations in Lima, Peru today
+17	no-unit	,
+18	continued	it is easy
+19	assumption	to be cynical
+20	no-unit	.
+21	continued	Because in the 20 plus years
+22	continued	that our governments have been meeting for global climate meetings
+23	continued	,
+24	assumption	emissions have risen more than ever before
+25	no-unit	.
+26	continued	This year is already predicted
+27	continued	to be the warmest
+28	continued	since
+29	anecdote	records began
+30	no-unit	.
+-1	par-sep	
+31	no-unit	And yet
+32	no-unit	,
+33	assumption	 this is a moment of opportunity
+34	no-unit	.
+35	continued	Because	Modd-NU
+36	continued	things are changing	Modd-NU
+37	continued	,	Modd-NU
+38	assumption	really changing
+39	no-unit	.
+40	no-unit	In the climate movement, in the economy and in the politics of climate change
+41	no-unit	.
+42	assumption	Today, the climate movement all over the world is reenergised
+43	no-unit	.
+44	continued	The largest ever climate march in New York this September was a powerful symbol for the global rise of a movement
+45	continued	that is
+46	assumption	stopping pipelines and coal plants as well as forcing renewable energy solutions all over the world
+47	no-unit	.
+-1	par-sep	
+48	continued	In economics
+49	continued	,	Modd-NU
+50	continued	too	Modd-NU
+51	continued	,
+52	assumption	 we live in a different world
+53	no-unit	:
+54	assumption	Cost-effective, sensible renewable energy solutions have made quantum leaps
+55	no-unit	.
+56	assumption	Renewables are the most economical solution for new power capacity in an ever-increasing number of countries
+57	no-unit	.
+58	continued	One hundred percent of new power capacity added in the United States in
+59	statistics	August was renewable
+60	no-unit	and
+61	anecdote	countries such as Denmark and Germany are producing new "clean electricity" records almost every month
+62	no-unit	.
+63	continued	China is installing as much solar this year
+64	continued	as
+65	assumption	the US has ever done
+66	no-unit	.
+-1	par-sep	
+67	no-unit	Bilateral agreement
+68	no-unit	.
+-1	par-sep	
+69	continued	The recent bilateral agreement between China and the United States
+70	continued	to cut pollution and drive cleaner energy sources
+71	assumption	is, in addition, a sign of changing politics
+72	no-unit	.
+73	continued	Many said
+74	continued	that such an agreement was impossible
+75	continued	,
+76	assumption	that it would not happen in our lifetimes
+77	no-unit	.
+78	anecdote	And yet it did
+79	no-unit	.
+80	continued	Only a fool would argue
+81	continued	that the action proposed by these two biggest polluters
+82	continued	and
+83	assumption	biggest economies is enough
+84	no-unit	.
+-1	par-sep	
+85	continued	It is not enough
+86	continued	,
+87	continued	experts have already told
+88	continued	us
+89	continued	,
+90	continued	to protect our planet from a potential three or four degree Celsius rise in global temperatures - with all the disastrous consequences
+91	assumption	that would have for us, our children, and our ecosystems
+92	no-unit	.
+-1	par-sep	
+93	continued	But the fact
+94	continued	that the world's biggest emitters have come together
+95	continued	moves us from a
+96	continued	"you go first"
+97	continued	mentality
+98	continued	,
+99	continued	that had paralysed global climate negotiations for years, to an
+100	continued	"I will act
+101	continued	if
+102	continued	you will act"
+103	assumption	frame
+104	no-unit	.
+105	continued	At Lima
+106	continued	,
+107	assumption	others must now follow
+108	no-unit	and
+109	assumption	our pressure must speed up the action
+110	no-unit	.
+-1	par-sep	
+111	continued	Because	Modd-NU
+112	continued	we need
+113	assumption	an agreement to tackle the climate crisis
+114	no-unit	,
+115	assumption	which meets the needs of the many not the few
+116	no-unit	.
+117	continued	Because	Modd-NU
+118	continued	it is ordinary people living in flood and drought prone areas, dependent for their livelihoods on fishing, farming and forests, or living in cities engulfed by pollution or in housing
+119	continued	that cannot protect them from storms or heat waves
+120	continued	,
+121	assumption	who are bearing the brunt of our experiment with the world's climate
+122	no-unit	.
+-1	par-sep	
+123	continued	The United Nations 
+124	continued	-
+125	continued	where
+126	continued	every country has a voice, not matter how small, relatively poor or vulnerable
+127	continued	- are still the only place
+128	continued	where
+129	continued	we can hope
+130	continued	to secure action
+131	assumption	that takes full account of these peoples' rights
+132	no-unit	.
+-1	par-sep	
+133	continued	At Lima, we need
+134	continued	governments to make sure
+135	assumption	that the direction is right
+136	no-unit	.
+137	continued	They need
+138	continued	to agree a goal of
+139	continued	ending carbon pollution
+140	assumption	and deliver renewable energy for all people on this planet by 2050
+141	no-unit	.
+142	continued	And in Lima, governments must agree
+143	continued	to renew and review their targets
+144	assumption	every five years, starting in 2025
+145	no-unit	.
+-1	par-sep	
+146	continued	Not just to cut pollution, but to help the vulnerable adapt to climate change, and to support poorer countries	modd-ASM
+147	assumption	to provide sustainable energy access for their populations	modd-ASM
+148	no-unit	.
+-1	par-sep	
+149	assumption	Every government should already be preparing their "intended nationally determined contribution" - their offer towards the Paris deal
+150	no-unit	.
+151	continued	Before March 2015 we must see concrete, ambitious plans from each and every one of the world's polluting nations 
+152	continued	-
+153	continued	to phase out coal and nuclear power
+154	continued	,
+155	continued	to install solar and wind energy
+156	continued	,
+157	assumption	to increase energy efficiency, to build cleaner and more livable cities, and to protect forests
+158	no-unit	.
+-1	par-sep	
+159	continued	In Lima, governments must agree
+160	continued	to review
+161	continued	whether
+162	continued	these plans are enough
+163	continued	to prevent climate chaos
+164	continued	and
+165	continued	whether
+166	continued	the effort is shared fairly between richer and poorer nations
+167	continued	before
+168	assumption	they meet again in Paris in December 2015
+169	no-unit	.
+-1	par-sep	
+170	continued	In Lima, we expect scientists, business people and investors, city mayors, faith leaders and civil society organisations from all over the world
+171	assumption	to be calling for more ambitious climate action
+172	no-unit	.
+173	assumption	The climate movement gets broader and more effective day
+174	no-unit	.
+175	assumption	It is an unstoppable force now
+176	no-unit	- and
+177	assumption	in Lima and Paris, we will make our voices heard
+178	no-unit	.

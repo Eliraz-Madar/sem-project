@@ -1,0 +1,196 @@
+0	title	Confessions of a teenage shoplifter.
+-1	par-sep	
+1	continued	I couldn't help
+2	anecdote	letting out a low whistle of admiration
+3	continued	when	Modd-NU
+4	continued	I read news
+5	continued	that the cost of goods stolen in the average shoplifting incident is now
+6	continued	?
+7	anecdote	241
+8	no-unit	.
+9	anecdote	Bloody hell, I thought
+10	no-unit	,
+11	continued	as	Modd-NU
+12	continued	I tried
+13	continued	to imagine
+14	continued	how exactly
+15	continued	you would stash
+16	anecdote	that many eye-shadow compacts up your sleeve
+17	no-unit	.
+18	continued	You see for a few months	Modd-NU
+19	continued	back when	Modd-NU
+20	continued	I was 16
+21	continued	,
+22	anecdote	shoplifting was the hottest craze at my suburban girls school
+23	no-unit	.
+24	continued	It spread like a virus through Year 11, to the point
+25	anecdote	that students would pop into town at lunch and return with a huge cache of stolen goods
+26	no-unit	.
+27	continued	They'd upturn the contents of their bags on to a desk with a shout of
+28	continued	:
+29	anecdote	"Who wants what?"
+30	continued	Now
+31	continued	,
+32	continued	 the thieves providing the British Retail Consortium with a headache this week with their high-cost hauls are more likely
+33	assumption	to be professional "steal to order" shoplifters, not a gang of feckless teenage girls
+34	no-unit	.
+35	no-unit	Nevertheless	Modd-NU
+36	no-unit	,	Modd-NU
+37	continued	 it instantly brought back that rush of adrenaline
+38	anecdote	that always follows a bout of five-finger discount "shopping"
+39	no-unit	.
+-1	par-sep	
+40	continued	It all began with a couple of girls
+41	anecdote	nicking a few small items of makeup and jewellery
+42	continued	- and then	Modd-NU
+43	continued	we realised
+44	continued	how easy
+45	anecdote	it was
+46	no-unit	.
+47	continued	It was almost impossible
+48	anecdote	to get caught
+49	no-unit	.
+50	continued	Why
+51	continued	choose one eyeshadow
+52	continued	,
+53	continued	when
+54	anecdote	you could have it in every colour?
+55	continued	Why
+56	continued	bother
+57	continued	trying
+58	continued	to find the right shade of foundation
+59	continued	,
+60	continued	when
+61	anecdote	you could just take one of each?
+62	continued	In any case, there would always be someone at school
+63	anecdote	who would want it - or at least be impressed by it
+64	no-unit	.
+-1	par-sep	
+65	continued	As
+66	continued	the weeks went by things
+67	assumption	escalated
+68	no-unit	.
+69	anecdote	We went after bigger prizes
+70	no-unit	.
+71	continued	I vividly remember the thrill of the day
+72	continued	I walked out of Topshop with two bikinis on under my clothes, alongside my best friend
+73	continued	,
+74	anecdote	brazenly wearing a stolen denim jacket over hers
+75	no-unit	.
+76	anecdote	We graduated from our local town centre to field trips to the nearest shopping mall
+77	no-unit	.
+78	anecdote	On the train back we would compare our hauls and swap stories
+79	no-unit	.
+80	no-unit	How
+81	continued	the security guard didn't notice the Buffy
+82	anecdote	the Vampire Slayer boxset stuffed up my mate's jumper
+83	no-unit	.
+84	continued	How	Modd-NU
+85	continued	the Venus razor blade hadn't set off the alarm in Boots, but in the book shop	Modd-NU
+86	continued	,	Modd-NU
+87	continued	leading to suspicious	Modd-NU
+88	anecdote	looks but escape	Modd-NU
+89	no-unit	.
+90	continued	At school	Modd-NU
+91	continued	,	Modd-NU
+92	continued	when	Modd-NU
+93	continued	our teachers warned us
+94	continued	that they wouldn't lend out French dictionaries to those
+95	continued	who forgot
+96	anecdote	to bring their own to the oral exam
+97	no-unit	,
+98	continued	we sent a couple of girls into town
+99	anecdote	to empty WH Smith of its stock
+100	no-unit	.
+101	continued	On their return they defiantly plonked a stack on the desk for anyone
+102	anecdote	who needed one
+103	no-unit	.
+-1	par-sep	
+104	continued	I remember
+105	continued	discussing
+106	continued	what
+107	continued	we should tell our parents
+108	continued	when
+109	continued	they asked questions about
+110	continued	where
+111	continued	our new clothes came from, but don't remember anyone
+112	anecdote	raising the moral alarm
+113	no-unit	.
+114	continued	Far from	Modd-NU
+115	continued	being unable	Modd-NU
+116	continued	to sleep at night	Modd-NU
+117	continued	,	Modd-NU
+118	continued	I would go to bed dreaming of new things to "jack" and innovative ways
+119	anecdote	to do it
+120	no-unit	.
+121	continued	Yes, I had worries about
+122	continued	being caught but, as far
+123	continued	as
+124	continued	I can remember
+125	continued	,
+126	anecdote	there was no guilt whatsoever
+127	no-unit	.
+128	anecdote	It seemed like the perfect victimless crime
+129	no-unit	.
+130	no-unit	After all	Modd-NU
+131	no-unit	,	Modd-NU
+132	continued	 we were stealing from chain stores
+133	anecdote	that had plenty more
+134	no-unit	.
+135	no-unit	Looking back
+136	no-unit	,
+137	continued	it seems ludicrous
+138	assumption	that it ever felt so normal
+139	no-unit	.
+140	continued	What	modd-UN
+141	assumption	happened to us?	m-question
+142	assumption	We weren't stealing through need
+143	no-unit	-
+144	continued	most of us got pocket money from our parents and had more than enough clothes
+145	anecdote	to wear
+146	no-unit	.
+147	assumption	Maybe it was that particularly hot summer, or the pressure of our looming GCSEs
+148	no-unit	.
+149	assumption	Or maybe we were greedy little consumerists with an overdeveloped sense of entitlement and no moral compass
+150	no-unit	.
+-1	par-sep	
+151	assumption	Who knows?	m-question
+152	continued	I would like
+153	continued	to say
+154	continued	we came to our senses and decided
+155	assumption	to stop
+156	no-unit	,
+157	no-unit	but
+158	assumption	that's not true
+159	no-unit	.
+160	anecdote	The worst happened and two good friends were caught and arrested
+161	no-unit	.
+162	anecdote	They were let off with a caution 
+163	no-unit	-
+164	continued	because	modd-UN
+165	anecdote	their loot had included a GCSE maths revision guide
+166	no-unit	.
+-1	par-sep	
+167	continued	We're all upstanding members of the community now, with proper jobs and the inclination
+168	assumption	to pay for goods
+169	no-unit	.
+170	continued	I've learned
+171	continued	there'	Modd-NU
+172	assumption	s no such thing as a victimless crime
+173	no-unit	.
+174	anecdote	Stores close
+175	no-unit	,
+176	anecdote	prices go up
+177	no-unit	,
+178	assumption	maybe wages get kept down because of losses due to shoplifting
+179	no-unit	.
+180	assumption	But habits built up during that summer of madness die hard
+181	no-unit	.
+182	continued	I still occasionally find
+183	continued	myself in a shop thinking: "How silly
+184	continued	.
+185	no-unit	If	cond
+186	continued	they're not going
+187	assumption	to put a security tag on those expensive silk shirts	cond
+188	no-unit	,	cond
+189	anecdote	they really shouldn't put them right near the door."

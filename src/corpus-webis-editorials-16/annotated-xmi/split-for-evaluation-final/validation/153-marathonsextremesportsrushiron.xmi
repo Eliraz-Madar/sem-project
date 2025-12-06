@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="339" begin="0" end="3845" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="339" begin="0" end="44" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="339" begin="46" end="123" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="339" begin="126" end="185" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="339" begin="187" end="190" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="339" begin="191" end="283" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="339" begin="285" end="288" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="339" begin="289" end="325" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="339" begin="326" end="329" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="339" begin="330" end="363" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="339" begin="366" end="419" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="339" begin="420" end="423" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="339" begin="424" end="665" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="339" begin="666" end="724" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="339" begin="726" end="817" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="339" begin="819" end="851" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="339" begin="853" end="926" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="339" begin="928" end="931" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="339" begin="932" end="962" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="339" begin="964" end="1126" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="339" begin="1128" end="1274" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="339" begin="1276" end="1296" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="339" begin="1297" end="1300" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="339" begin="1301" end="1342" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="339" begin="1344" end="1364" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="339" begin="1365" end="1394" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="339" begin="1395" end="1436" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="339" begin="1437" end="1476" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="339" begin="1478" end="1513" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="339" begin="1515" end="1534" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="339" begin="1537" end="1626" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="339" begin="1628" end="1669" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="339" begin="1671" end="1778" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="339" begin="1780" end="1891" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="339" begin="1893" end="1961" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="339" begin="1964" end="2049" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="339" begin="2051" end="2129" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="339" begin="2134" end="2179" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="339" begin="2181" end="2380" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="339" begin="2382" end="2385" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="339" begin="2386" end="2530" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="339" begin="2533" end="2604" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="339" begin="2606" end="2637" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="339" begin="2639" end="2650" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="339" begin="2652" end="2655" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="339" begin="2656" end="2767" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="339" begin="2769" end="2822" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="339" begin="2824" end="2833" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="339" begin="2834" end="2837" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="339" begin="2838" end="2848" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="339" begin="2851" end="2948" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="339" begin="2953" end="3018" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="339" begin="3020" end="3067" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="339" begin="3069" end="3147" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="339" begin="3149" end="3212" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="339" begin="3214" end="3242" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="339" begin="3245" end="3357" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="339" begin="3358" end="3396" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="339" begin="3399" end="3441" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="339" begin="3443" end="3483" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="339" begin="3485" end="3610" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="339" begin="3612" end="3683" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="339" begin="3685" end="3732" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="339" begin="3734" end="3844" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="321" sofa="339" begin="0" end="3845" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/153-marathonsextremesportsrushiron.txt" offsetInSource="0" documentSize="3845" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="346" sofa="339" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/153-marathonsextremesportsrushiron.xmi" offsetInSource="0" documentSize="3845" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="329" sofa="339" begin="0" end="3845" lastUpdate="2015-01-14T10:32:56Z" url="http://www.theguardian.com/commentisfree/2015/jan/14/marathons-extreme-sports-rush-ironman-tough-mudder" portal="guardian" authors="Dougie Cameron" articleSum="Dougie Cameron: Once you’ve conquered your first 26 miles, it’s all about the buzz of the 140-plus miles of an Ironman, or even getting teargassed for fun at a Tough Mudder" title="Marathons don't cut it any more - the extreme events offer the best rush."/>
+    <cas:Sofa xmi:id="339" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="I'm not sure when the abnormal became normal. I remember a time not so long ago when a marathon runner was a mythical beast - we all knew someone who knew someone who had run a marathon, but most of us had only ever seen these creatures on the TV in their emaciated, long-limbed flow. But now everyone knows a marathon runner and they just look like normal people.&#10;&#10;Somewhere along the way, marathons became commonplace and a whole new breed of extreme activities came along - the Ironman triathlon; multi-day cycle events like John O'Groats to Lands End; crazy ultra marathons like the Thames Path 100; and events that defy description like the Tough Mudder. While a lot of extreme challenges are to do with ultra endurance, the Tough Mudder is short but involves getting hurt. Sometimes by electric shocks. And fire. What is wrong with you, Mudders?&#10;&#10;I have no idea what caused the rise of the extreme sports as a phenomenon, but I do know what happened for me. After many years of corporate life and general indolence I found myself resting a glass of champagne on a large belly, unable to get to the buffet without puffing. Horrified at the realisation that I had become Mr Creosote from The Meaning of Life, I resolved immediately to sign up for the Great Edinburgh Run. The GER was only 10k but it terrified me and filled me with doubts: what if I came last? Do I have to run all the way? Will I be the fattest dude on the course? Four months later I completed it easily. And then I signed up for a marathon. And then an Ironman.&#10;&#10;And this is the thing - every step of the way you reassess your judgment of what is crazy. It becomes a rapidly escalating obsession. What seemed like a hardcore event reserved solely for proper endurance loons soon becomes just within reach. Six years after the GER, the only event I still consider to be bonkers beyond belief is the Marathon des Sables. And that's only because everyone knows that Scots melt in the desert.&#10;&#10;My personal theory for the rise of the extreme sports is that life has become sterile. The chances of really getting an adrenaline rush in day-to-day life is minimal, so people search out ways to re-engage with life. After completing two Ironman events, I can testify that the feeling of sweeping down the finish chute after 140.6 miles to pumping pop music, flashing lights and a cheering crowd is the ultimate buzz. But finishing a marathon, in an empty car park, in the dark, in the pouring rain, is easily its equal for an overwhelming inner sense of achievement.&#10;&#10;The other personal joy I get from training for events is the quiet time. Although modern life is humdrum, it is noisy, and even a three-mile run gives me the chance to clear my head, breathe cold fresh air and feel the wind on my skin. Within 10 minutes of beginning a run my head is clear, I am calm and I am reset.&#10;&#10;The side benefit of all this training (and probably the reason that most people start ) is health. If you run, cycle or swim you lose weight and feel more vital for it. You are fitter, stronger and sleep more soundly. You are fit for life - the kid climbing on your shoulders, the run for the bus, even just climbing the stairs become infinitely more manageable. It also sets a great example - my three-year-old has now collected finisher's medals at Ironkids and Loch Ness Marathon and loves being outside because that's what mummy and daddy do.&#10;&#10;The increase in demand cannot be satisfied. A new event seems to spring up every day. No longer restricted by a single Ironman distance you can do double, triple or even (for the proper enthusiasts) deca Ironman. You can run the 268 frostbitten, British-winter miles of the Spine Race. You can even get teargassed in the Tough Mudder. Whether for the T-shirt, the tattoo or just the sheer pride of accomplishment, extreme sports are here to stay."/>
+    <cas:View sofa="339" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 346 329"/>
+</xmi:XMI>

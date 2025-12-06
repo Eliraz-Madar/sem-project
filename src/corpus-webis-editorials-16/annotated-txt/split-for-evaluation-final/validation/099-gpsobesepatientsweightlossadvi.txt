@@ -1,0 +1,210 @@
+0	title	It may be awkward, but GPs owe it to obese patients to give weight loss advice.
+-1	par-sep	
+1	continued	According to a study by researchers at King's College London, many doctors are failing
+2	assumption	to tackle their patients' weight problems
+3	no-unit	.
+4	continued	Researchers analysed the records of several thousand obese patients and found
+5	statistics	that 80% of them had never talked to their GP about their weight
+6	no-unit	.
+7	continued	This finding comes in the same week
+8	continued	as
+9	continued	it was reported
+10	anecdote	that diabetes, an obesity-related disease, is using up a tenth of the NHS budget and causing record numbers of complications
+11	no-unit	.
+-1	par-sep	
+12	no-unit	But
+13	anecdote	is fat a medical issue?	m-question
+14	anecdote	Should nurses and GPs like me broach the subject?	m-question
+15	anecdote	And does intervention ever work?	m-question
+16	continued	Some argue
+17	continued	that obesity is a symptom of poverty
+18	assumption	and should be tackled at source
+19	no-unit	.
+20	no-unit	But
+21	continued	while	Modd-NU
+22	continued	government, schools and other agencies clearly have a role
+23	assumption	to play
+24	no-unit	,
+25	continued	I don't see
+26	continued	how
+27	continued	GPs can ignore obesity
+28	continued	when
+29	assumption	faced with it
+30	no-unit	.
+31	continued	There is no doubt
+32	continued	that the 22% of men and 24% of women in the UK
+33	continued	who are obese
+34	assumption	are at increased risk of several cancers, heart, liver and respiratory disease, dementia and diabetes
+35	no-unit	.
+-1	par-sep	
+36	continued	As a busy GP faced with an overflowing waiting room of ill people, it's tempting
+37	continued	to avoid
+38	anecdote	bringing up the subject
+39	no-unit	.
+40	continued	I have
+41	continued	to pick
+42	continued	the right moment and phrase it
+43	anecdote	sensitively
+44	no-unit	:
+45	continued	"Do you feel
+46	continued	your weight is an issue?"
+47	continued	and "Is there something
+48	continued	we can do
+49	continued	to help?"
+50	assumption	are good openers
+51	no-unit	,
+52	no-unit	but
+53	continued	there needs
+54	continued	to be time
+55	assumption	to have the discussion
+56	no-unit	.
+57	continued	I admit
+58	anecdote	I often put it off
+59	no-unit	.
+60	no-unit	But	Modd-NU
+61	no-unit	,	Modd-NU
+62	continued	 arguably, one obese person referred
+63	continued	for
+64	continued	life-changing bariatric surgery is a more useful intervention than
+65	assumption	seeing a room full of people with coughs and colds
+66	no-unit	.
+-1	par-sep	
+67	assumption	Not everyone is receptive
+68	no-unit	.
+69	continued	Some say
+70	continued	"I'm overweight
+71	continued	but
+72	anecdote	I am fitter than most people my age"
+73	no-unit	.
+74	continued	Or "I know lots of thin people
+75	continued	who have died young and fat people
+76	anecdote	who are fine"
+77	no-unit	.
+78	continued	But these comments are the same as anecdotal tales of smokers
+79	continued	who live to 100 and young non-smokers
+80	assumption	who die of lung cancer
+81	no-unit	.
+82	continued	We are talking about increased risk, not a guaranteed death sentence
+83	continued	if
+84	continued	you're obese or smoke and certain
+85	continued	immortality if
+86	continued	you're thin
+87	common-ground	or a non-smoker
+88	no-unit	.
+89	common-ground	This sounds obvious
+90	no-unit	,
+91	no-unit	but
+92	continued	it's funny
+93	continued	how
+94	assumption	irrational many people are
+95	no-unit	,
+96	continued	especially if
+97	continued	you're telling them something
+98	continued	they don't want
+99	assumption	to hear
+100	no-unit	.
+-1	par-sep	
+101	continued	I think
+102	continued	GPs have a responsibility
+103	assumption	to initiate a conversation about obesity
+104	no-unit	because
+105	continued	it is clear
+106	assumption	that it is an important health risk
+107	no-unit	,
+108	assumption	overweight people often underestimate their weight
+109	no-unit	,
+110	assumption	losing weight can reduce that risk
+111	no-unit	,
+112	no-unit	and
+113	continued	there are interventions
+114	assumption	that can help
+115	no-unit	.
+116	no-unit	For example	Modd-NU
+117	no-unit	,	Modd-NU
+118	continued	 bariatric surgery
+119	continued	,
+120	continued	which is arguably the most effective way of
+121	continued	keeping weight off
+122	continued	,
+123	continued	may cut the risk of
+124	statistics	developing type 2 diabetes by 80%
+125	no-unit	.
+-1	par-sep	
+126	continued	We also owe it to the next generation
+127	assumption	to intervene
+128	no-unit	.
+129	assumption	Most fat children have fat parents
+130	no-unit	,
+131	no-unit	and
+132	assumption	most will become fat adults in turn
+133	no-unit	.
+134	continued	More than half of obese six- year-olds
+135	statistics	will become obese adults, compared with less than 10% of non-obese kids
+136	no-unit	.
+137	no-unit	And
+138	continued	having an obese parent
+139	continued	doubles your risk of
+140	continued	being an obese adult
+141	continued	,
+142	continued	even if
+143	statistics	you're a skinny child
+144	no-unit	.
+145	continued	So any intervention
+146	continued	that helps a parent
+147	continued	to tackle their obesity
+148	continued	is likely
+149	assumption	to have a positive impact on the adults of the future
+150	no-unit	.
+-1	par-sep	
+151	continued	There is no need for doctors
+152	continued	to be nihilistic and think
+153	continued	it's not worth
+154	continued	broaching the subject
+155	continued	because
+156	assumption	nothing can be done
+157	no-unit	.
+158	continued	True, we don't know the most effective way of
+159	assumption	tackling obesity yet
+160	no-unit	,
+161	no-unit	and
+162	continued	Europe-wide trials are ongoing
+163	continued	to try
+164	continued	to find out
+165	continued	what
+166	assumption	that would be
+167	no-unit	.
+168	anecdote	But there are options available: local council-run exercise programmes; referral to an NHS dietician; the prescription drug orlistat; or referral for bariatric surgery
+169	no-unit	.
+170	continued	Last month, a new anti-obesity drug, Mysimba, was approved by the European Medicines Agency, and is likely
+171	continued	to be available on prescription later this year
+172	continued	,
+173	anecdote	despite the reservations of some experts
+174	no-unit	.
+-1	par-sep	
+175	continued	There will be some GP consultations
+176	assumption	in which discussion about obesity just isn't appropriate or relevant
+177	no-unit	.
+178	no-unit	If	cond
+179	assumption	a person is devastated by a recent bereavement, for instance	cond
+180	no-unit	,	cond
+181	continued	it may be rude, crass, insensitive and offensive
+182	common-ground	to mention their weight
+183	no-unit	.
+184	no-unit	And
+185	continued	having discussed the subject
+186	continued	,
+187	continued	there is no need
+188	assumption	to bang on about it at every visit
+189	no-unit	.
+190	no-unit	But
+191	continued	putting it off forever
+192	assumption	is an abrogation of a doctor's duty of care
+193	no-unit	.
+194	continued	A person may choose
+195	continued	not to take up the doctor's offer
+196	assumption	to explore the problem
+197	no-unit	;
+198	common-ground	that's their right of course
+199	no-unit	.
+200	assumption	But there's no excuse for not offering
+201	no-unit	.

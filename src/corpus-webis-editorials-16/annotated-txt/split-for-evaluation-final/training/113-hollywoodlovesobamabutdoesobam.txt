@@ -1,0 +1,208 @@
+0	title	Hollywood loves Obama, but does Obama love it back?
+-1	par-sep	
+1	assumption	Hollywood loves Barack Obama
+2	no-unit	and
+3	continued	it has expressed this in every way
+4	assumption	it knows how, from celebrity endorsements and campaign appearances to huge donations
+5	no-unit	.
+-1	par-sep	
+6	statistics	In the 2012 presidential race, show biz folks gave Obama more than six million dollars, five times as much as Romney got
+7	no-unit	.
+-1	par-sep	
+8	continued	It has even been announced
+9	anecdote	that a biopic of Obama's first date with Michelle--dinner and a Spike Lee movie--is on the way
+10	no-unit	.
+11	continued	Without
+12	continued	spoiling the plot
+13	continued	I can reveal
+14	assumption	that it has a happy ending
+15	no-unit	.
+-1	par-sep	
+16	assumption	So Hollywood loves Obama
+17	no-unit	and
+18	no-unit	,
+19	assumption	not surprisingly, Obama loves it right back
+20	no-unit	.
+21	no-unit	In fact
+22	no-unit	,
+23	assumption	 he is an admirer of its role in the world
+24	no-unit	.
+-1	par-sep	
+25	continued	"Believe
+26	continued	it or not
+27	continued	,
+28	continued	entertainment is part of our American diplomacy,"
+29	testimony	Obama told an A-list gathering of movie stars and film executives at DreamWorks, in November 2013
+30	no-unit	.
+31	continued	"It is part of
+32	continued	what
+33	continued	makes us exceptional, part of
+34	continued	what
+35	testimony	makes us such a world power
+36	no-unit	.
+37	continued	Hundreds of millions of people may never set foot in the United States, but thanks to you
+38	continued	,
+39	continued	they've experienced a small part of
+40	continued	what
+41	testimony	makes our country special
+42	no-unit	.
+43	testimony	They've learned something about our values
+44	no-unit	.
+45	continued	We have shaped a world culture through you...in a way
+46	testimony	that has made the world better."
+-1	par-sep	
+47	continued	This is
+48	continued	what
+49	common-ground	is known as a matter of opinion
+50	no-unit	.
+51	continued	A dissenting view is held by hundreds of millions of Muslims
+52	continued	who consider
+53	assumption	the incursions of the American cinema to be a dangerous and despicable form of Zionist-Crusader cultural imperialism
+54	no-unit	.
+-1	par-sep	
+55	assumption	Obama's speech to Hollywood will not disabuse them of this belief
+56	no-unit	.
+57	continued	"
+58	continued	.
+59	continued	[Foreigners] might not know the Gettysburg Address,"
+60	testimony	Obama said
+61	no-unit	,
+62	continued	"but
+63	continued	if
+64	continued	they're watching some old movie, maybe "Guess
+65	continued	Who's Coming to Dinner,"
+66	continued	or "The Mary Tyler Moore Show," or "Will and Grace" and "Modern Family,"
+67	continued	they've
+68	continued	had a front-row seat to our march towards progress
+69	continued	,
+70	continued	even if
+71	testimony	their own nations haven't made that progress yet
+72	no-unit	.
+73	continued	And young people in countries
+74	continued	all around the world suddenly make a connection and have an affinity to people
+75	continued	who look
+76	continued	don't like them
+77	continued	and
+78	continued	maybe
+79	continued	originally they might have been fearful of
+80	continued	,
+81	continued	and
+82	continued	now suddenly they say
+83	continued	,
+84	continued	oh
+85	continued	,
+86	continued	this person is like me 
+87	continued	--
+88	testimony	which is one of the powers of art
+89	no-unit	,
+90	no-unit	but
+91	continued	that's
+92	continued	what
+93	testimony	you transmit."
+-1	par-sep	
+94	continued	It would be comforting
+95	continued	to think
+96	assumption	that the president was simply flattering his audience
+97	no-unit	.
+98	no-unit	If	cond
+99	assumption	he actually believes this	cond
+100	no-unit	,	cond
+101	continued	his lack of sophistication about the Middle East makes
+102	assumption	George W  Bush look like Lawrence of Arabia
+103	no-unit	.
+-1	par-sep	
+104	no-unit	"Mary Tyler Moore"?	m-question
+105	continued	Women aren't even allowed
+106	assumption	to drive in Saudi Arabia
+107	no-unit	.
+108	continued	They are forced
+109	assumption	to wear "modest" clothing down to their ankles in Iran
+110	no-unit	.
+-1	par-sep	
+111	continued	In most of the region, a woman
+112	continued	who disobeys her husband or talks back to him
+113	assumption	faces a beating at best, usually with the hearty approval of the wife's family father and brothers
+114	no-unit	.
+-1	par-sep	
+115	no-unit	"Will and Grace"?	m-question
+116	assumption	Homosexuality is a capital crime throughout most of the Arab world
+117	continued	because	Modd-NU
+118	assumption	it is seen as an offense against Allah and the family
+119	no-unit	.
+-1	par-sep	
+120	assumption	The only gay bars in the Arab world and Iran are on the windows of prison cells
+121	no-unit	.
+-1	par-sep	
+122	continued	"Guess	modd-NU
+123	anecdote	Who's Coming to Dinner"?	m-question
+124	continued	A Muslim girl crazy enough
+125	continued	to bring home an infidel fiance
+126	continued	is inviting a sequel: "Guess
+127	assumption	Who's Having a Funeral"?
+-1	par-sep	
+128	continued	Parents, clergy and community elders in the Middle East are not entertained
+129	continued	,
+130	continued	let alone edified
+131	continued	,
+132	assumption	by Hollywood values
+133	no-unit	.
+134	continued	They are horrified by
+135	continued	what
+136	assumption	they see as a godless foreign assault on their children, their religion and their way of life
+137	no-unit	.
+138	continued	In most places even G-rated films are considered
+139	assumption	transgressive
+140	no-unit	.
+-1	par-sep	
+141	assumption	They can be found mostly via under-the-counter bootleggers or downloaded in secret
+142	no-unit	.
+-1	par-sep	
+143	assumption	And they are
+144	no-unit	.
+-1	par-sep	
+145	continued	Their impact on young people is not the liberation
+146	assumption	Obama imagines
+147	no-unit	,
+148	no-unit	however
+149	no-unit	.
+150	assumption	Unmarried men do not have unfettered access to members of the opposite sex
+151	no-unit	and
+152	continued	many find
+153	assumption	explicit depictions to be frustrating and humiliating
+154	no-unit	.
+155	continued	In some, they even inspire a militant puritanical Islam
+156	assumption	that makes posthumous sex the ultimate reward for killing infidels
+157	no-unit	.
+158	continued	Unmarried young women, lacking even that outlet, need
+159	assumption	to be careful and obedient to the code of conduct
+160	no-unit	.
+-1	par-sep	
+161	continued	A girl caught
+162	continued	trying
+163	continued	to emulate the tamest teenage movie role model
+164	assumption	puts her life in danger
+165	no-unit	.
+-1	par-sep	
+166	continued	My point is not
+167	continued	that Hollywood is wrong
+168	continued	to make movies and television shows
+169	continued	that reflect American social values
+170	assumption	and suit the American audience
+171	no-unit	.
+172	continued	And I certainly don't expect the president
+173	continued	to inform his biggest boosters
+174	assumption	that their creations ignite resentment, hostility and holy war
+175	no-unit	.
+-1	par-sep	
+176	continued	I do hope, though
+177	continued	,
+178	continued	that the president and his advisers understand this
+179	continued	:
+180	continued	"Will and Grace," "Mary Tyler Moore" and even the new Obama biopic may win Oscars and Emmys, but in a struggle for hearts and minds in a region
+181	continued	where
+182	continued	cutting
+183	continued	-
+184	continued	edge refers to swords
+185	continued	,
+186	assumption	not cinema, Hollywood is not a strategic American asset
+187	no-unit	.

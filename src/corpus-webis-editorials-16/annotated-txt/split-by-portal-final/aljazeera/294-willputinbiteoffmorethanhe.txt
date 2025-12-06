@@ -1,0 +1,187 @@
+0	title	Will Putin bite off more than he can chew?
+-1	par-sep	
+1	continued	During a radio interview this week, French President Francois Hollande said
+2	continued	Russian President Vladimir Putin "doesn't want
+3	continued	to annex eastern Ukraine 
+4	continued	-
+5	continued	he told
+6	testimony	me that"
+7	no-unit	.
+-1	par-sep	
+8	continued	He even suggested
+9	assumption	that western sanctions should be eased
+10	no-unit	.
+11	assumption	Hollande's naivety harks back to George W Bush's infamous comments about Putin in 2001
+12	no-unit	.
+13	continued	When
+14	continued	asked by a reporter
+15	continued	if
+16	continued	he could trust Putin
+17	continued	,
+18	continued	he responded
+19	continued	;
+20	testimony	"I looked the man in the eye
+21	no-unit	.
+22	continued	I found
+23	testimony	him to be very straightforward and trustworthy
+24	no-unit	...
+25	continued	I was able
+26	testimony	to get a sense of his soul."
+27	assumption	As a former KGB officer, Putin probably looked into Bush's eyes and saw a case number!
+-1	par-sep	
+28	continued	In reality
+29	continued	,
+30	continued	 Putin has done nothing
+31	continued	to demonstrate
+32	assumption	that his commitment to Hollande is genuine
+33	no-unit	.
+34	anecdote	Crimea is still under the control of Russia after its illegal annexation last year
+35	no-unit	.
+36	continued	Moscow continues
+37	anecdote	to occupy the Georgian breakaway provinces of Abkhazia and South Ossetia
+38	no-unit	.
+39	assumption	Russian weapons and equipment are still pouring into eastern Ukraine
+40	no-unit	.
+-1	par-sep	
+41	anecdote	As recently as last November, NATO confirmed another build-up of Russian military equipment and troops inside Ukraine
+42	no-unit	.
+-1	par-sep	
+43	no-unit	Russia's next moves
+44	no-unit	.
+-1	par-sep	
+45	continued	In light of Russia's recent behaviour, what
+46	assumption	can be expected in eastern Ukraine in 2015?
+47	assumption	Predictions of this sort are almost impossible and are usually invariably wrong
+48	no-unit	.
+49	no-unit	However	Modd-NU
+50	no-unit	,	Modd-NU
+51	continued	 it is possible
+52	continued	to develop various scenarios
+53	continued	that could offer a glimpse into
+54	continued	what
+55	assumption	Russia's plans might be
+56	no-unit	.
+57	continued	Russia's ultimate goal is
+58	assumption	to keep Ukraine out of the transatlantic community - the EU and NATO
+59	no-unit	.
+60	continued	Russia will also want
+61	assumption	to consolidate the gains made by separatist forces in eastern Ukraine
+62	no-unit	.
+63	assumption	To this end, Russia will have short-term and long term goals
+64	no-unit	.
+-1	par-sep	
+65	continued	The primary short-term goal for Russia in Ukraine will be
+66	continued	to keep the conflict in
+67	continued	eastern
+68	assumption	Ukraine "frozen"
+69	no-unit	-
+70	continued	meaning
+71	continued	that while
+72	continued	the bullets might stop
+73	continued	flying
+74	continued	,
+75	continued	there will be no real effort
+76	assumption	to bring a conclusive end to the conflict
+77	no-unit	.
+-1	par-sep	
+78	assumption	This equates to victory for Moscow and defeat for Kiev
+79	no-unit	because
+80	assumption	it leaves Ukraine not in control of all its territory
+81	no-unit	.
+82	assumption	Russia can also use the "frozen" status of separatist-controlled regions of Donetsk and Luhansk as bargaining chips in future talks with the West on other issues
+83	no-unit	.
+-1	par-sep	
+84	continued	In terms of Russia's longer term goals in Ukraine for 2015 and beyond, there are a number of scenarios
+85	assumption	that can play out
+86	no-unit	.
+-1	par-sep	
+87	continued	It is safe
+88	continued	to assume
+89	continued	that Moscow will help
+90	continued	the separatists consolidate gains in Donetsk and Luhansk
+91	continued	to create a political entity
+92	assumption	that becomes more like a viable state
+93	no-unit	.
+94	assumption	This will be no easy task and will require the capture of important communication and transit nodes, such as Donetsk airport, the city of Mariupol and its port, and the Luhansk power plant
+95	no-unit	.
+96	continued	These are still under Ukrainian government control but are all needed
+97	continued	if
+98	continued	the separatists want
+99	assumption	to achieve true autonomy
+100	no-unit	.
+-1	par-sep	
+101	continued	A more ambitious scenario might see
+102	continued	Russia expanding separatist-controlled areas
+103	assumption	to include the entire eastern region of Ukraine consisting of the Donetsk and Luhansk oblasts and the eastern sections of Dnipropetrovsk and Kharkiv oblasts
+104	no-unit	.
+105	assumption	This would require capturing Kharkiv
+106	no-unit	,
+107	common-ground	which is Ukraine's second largest city
+108	no-unit	.
+109	assumption	Kharkiv also holds a certain degree of symbolism for those in Moscow dreaming of the days of Soviet glory
+110	no-unit	-
+111	continued	it was the first city in Ukraine
+112	anecdote	to recognise the Bolshevik takeover in 1917
+113	no-unit	.
+-1	par-sep	
+114	continued	The most aggressive scenario might see Moscow attempting
+115	assumption	to re-establish control of the historical Novorossiya region in modern-day southern Ukraine
+116	no-unit	.
+117	assumption	This would create a land bridge between Russia and Crimea 
+118	no-unit	-
+119	assumption	eventually linking up with the Russian-backed Transnistria, a breakaway region of Moldova
+120	no-unit	.
+-1	par-sep	
+121	assumption	This would be no easy undertaking and would require the capture of the heavily defended cities of Mariupol and Odessa, Ukraine's tenth-largest and third- largest cities, respectively
+122	no-unit	.
+-1	par-sep	
+123	continued	Russia is desperate
+124	assumption	to establish a land bridge to Crimea
+125	no-unit	since
+126	continued	the cost of
+127	continued	providing goods and services by sea and air to the peninsula
+128	assumption	is becoming prohibitively expensive
+129	no-unit	.
+130	no-unit	In fact	Modd-NU
+131	no-unit	,	Modd-NU
+132	continued	 Putin has ordered a bridge linking the Russian mainland with Crimea
+133	anecdote	to be built by 2018
+134	no-unit	.
+-1	par-sep	
+135	continued	With an economy in recession, the collapse of the rouble, and the low price of oil
+136	continued	,
+137	continued	finding the $5.2bn required
+138	continued	to build the bridge
+139	assumption	might not be possible
+140	no-unit	.
+141	no-unit	Instead	Modd-NU
+142	no-unit	,	Modd-NU
+143	continued	 Russia could be forced into
+144	assumption	creating a land bridge to Crimea
+145	no-unit	.
+-1	par-sep	
+146	continued	Out of all of Russia's previous leaders, Putin has more in common with Russia's imperial czars
+147	continued	than
+148	assumption	he does with the Soviet premiers
+149	no-unit	.
+150	assumption	Perhaps Putin has most in common with Emperor Nicolas I
+151	anecdote	who ruled Russia between 1825 and 1855
+152	no-unit	.
+153	anecdote	Nicolas I's reign was marked by a stagnate economy, territorial expansions in the Caucasus, the crushing of political dissent, and a war in Crimea
+154	no-unit	.
+-1	par-sep	
+155	continued	In the case of Nicolas I, his war in Crimea was disastrous and could have had serious implications for his rule
+156	continued	if
+157	continued	he had not died from pneumonia
+158	continued	before
+159	anecdote	the war ended
+160	no-unit	.
+161	assumption	Will Crimea prove the same for Putin today?	m-question
+162	assumption	Only time will tell
+163	no-unit	.
+164	assumption	One thing is for certain
+165	no-unit	:
+166	continued	Russia's designs on eastern Ukraine are far from over, 2015
+167	continued	will prove
+168	assumption	to be a very interesting year
+169	no-unit	.

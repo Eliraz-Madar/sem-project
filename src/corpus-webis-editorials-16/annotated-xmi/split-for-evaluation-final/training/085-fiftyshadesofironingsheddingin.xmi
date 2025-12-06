@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="324" begin="0" end="4158" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="324" begin="3" end="89" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="324" begin="91" end="246" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="324" begin="248" end="402" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="324" begin="404" end="587" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="324" begin="590" end="593" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="324" begin="597" end="651" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="324" begin="653" end="774" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="324" begin="776" end="806" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="324" begin="807" end="828" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="324" begin="830" end="897" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="324" begin="899" end="902" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="324" begin="903" end="952" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="324" begin="954" end="1044" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="324" begin="1047" end="1081" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="324" begin="1083" end="1092" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="324" begin="1094" end="1151" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="324" begin="1153" end="1280" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="324" begin="1282" end="1285" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="324" begin="1286" end="1415" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="324" begin="1417" end="1460" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="324" begin="1462" end="1481" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="324" begin="1482" end="1499" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="324" begin="1500" end="1505" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="324" begin="1506" end="1530" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="324" begin="1531" end="1632" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="324" begin="1633" end="1643" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="324" begin="1646" end="1740" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="324" begin="1742" end="1844" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="324" begin="1846" end="1958" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="324" begin="1960" end="2119" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="324" begin="2122" end="2151" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="324" begin="2153" end="2201" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="324" begin="2203" end="2328" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="324" begin="2330" end="2382" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="324" begin="2384" end="2428" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="324" begin="2430" end="2469" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="324" begin="2471" end="2543" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="324" begin="2546" end="2575" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="324" begin="2577" end="2632" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="324" begin="2633" end="2783" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="324" begin="2784" end="2839" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="324" begin="2842" end="2933" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="324" begin="2935" end="3020" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="324" begin="3022" end="3049" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="324" begin="3051" end="3149" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="324" begin="3151" end="3200" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="324" begin="3202" end="3309" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="324" begin="3311" end="3326" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="324" begin="3328" end="3346" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="324" begin="3348" end="3368" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="324" begin="3370" end="3381" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="324" begin="3383" end="3396" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="324" begin="3399" end="3492" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="324" begin="3494" end="3646" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="324" begin="3648" end="3773" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="324" begin="3775" end="3824" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="324" begin="3826" end="3950" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="324" begin="3952" end="3982" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="324" begin="3985" end="4028" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="324" begin="4030" end="4157" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="306" sofa="324" begin="0" end="4158" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/085-fiftyshadesofironingsheddingin.txt" offsetInSource="0" documentSize="4158" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="331" sofa="324" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/085-fiftyshadesofironingsheddingin.xmi" offsetInSource="0" documentSize="4158" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="314" sofa="324" begin="0" end="4158" lastUpdate="2015-01-06T19:30:12Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/fifty-shades-of-ironing-shedding-inhibitions" portal="guardian" authors="Catherine Shoard" articleSum="Catherine Shoard: I am a prude, it’s official – and it’s high time I jumped on board with this general shedding of inhibitions" title="Coming soon: Fifty Shades of Ironing."/>
+    <cas:Sofa xmi:id="324" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="As anyone who has been in a card shop lately will know, Valentine's Day is almost upon us. Like the petals of the mutabilis rose, still blooming in this global warming winter, the envelopes have turned from Christmas crimson to infatuated fuchsia. The plush reindeer have been stabled in the stock room, replaced by shelves of bears, declarations of love stitched to their torsos in the colour of blood. An Italian importer has started supplying to UK pubs a range of heart-shaped ravioli stuffed with cheese, tomato and basil, which can be reheated from frozen and cost? 30 per 3kg pack.&#10;&#10;And if you thought Valentine's Day couldn't get more romantic, here comes Fifty Shades of Grey, the movie version of EL James's sex slave saga, released just in time on Friday the 13th. Will it score or will it flop? The auguries are good: Fifty Shades is the bestselling book in Britain since records began; and more than 100m copies have been flogged worldwide. The trailer for the film was the most-watched on YouTube last year, beating even Star Wars.&#10;&#10;Yet until recently I was sceptical. After all,  books and trailers can be consumed with relative privacy. To see a movie legally you must leave your house, queue up, ask someone for a ticket and then sit down in the company of others. And unlike,  say, Basic Instinct and 9 1/2 weeks, Fifty Shades is not couples-friendly softcore, but specifically aimed at one gender. Even the most tolerant boyfriend would balk. Will women go solo? With girlfriends? Might it be another Mamma Mia! - still the highest grossing musical movie ever - with vast parties of galpals going again and again? Surely not.&#10;&#10;But the journey to work over the past few days has made me realise what an outmoded prude I am. It is no longer considered inappropriate for people - women, anyway - to openly consume porn in public. I had ascribed Fifty Shades's popularity to the rise of the e-reader, with its brown paper wrapping of propriety. But many commuters have their nose in the book itself, bondage cover on proud display, enjoying erotica in what might seem to be strikingly unsexy surroundings.&#10;&#10;Perhaps this isn't about porn. Maybe it's just a general slippage in inhibition. People seem happy enough to eat their breakfast and apply mascara with a stranger's thighs a couple of inches from their face; to treat the whole bus to their intimate phone calls. Perhaps it's not arrogance, but practicality: no one has enough time or space anymore. What you used to do in the bathroom or bedroom you now do on the commute.&#10;&#10;I need to make it work for me. Porn and sandwiches will take some getting used to, but I often struggle to get all my ironing done at home - and frequently travel on trains equipped with plugs and what I suspect are heat-resistant tables ... though in its way that could be a world of pain too.&#10;&#10;Last week my backlog of creased clothes was so enormous I went to the sales to buy new ones. The crowds were a doddle compared with the bleak epiphany of the changing room mirror. A diet is clearly essential. Likewise a wholescale rethink of hair and even face, plus radical fitness regime, implemented ASAP. At the moment I favour the Serena Williams method: with defeat looming in a match on Tuesday, she ordered a coffee mid-game and went on to thrash her opponent. No vitamin bars. No isotonic drinks. No complex stretches. Just coffee. I can do that.&#10;&#10;Perhaps it's just the clothes that got small - endless frocks ruined by the wrong wash option. Lucky, then, that this week electronics giant LG unveiled a swanky machine which runs two cycles simultaneously: hot cottons up top, cooler smalls below. &quot;Today's busy families consider laundry to be less like a chore and more like a chess match,&quot; explained LG's David VanderWaal. The statement is at once baffling and patronising; exactly what you'd expect from a firm that programmes its TVs to tell their owners &quot;Life's Good&quot; each time they turn them on. I still can't get used to this - it always provokes a little stab of despair, as if you're trapped in a future so terrible that even household gadgets have been deputed to encourage you not to top yourself."/>
+    <cas:View sofa="324" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 331 314"/>
+</xmi:XMI>

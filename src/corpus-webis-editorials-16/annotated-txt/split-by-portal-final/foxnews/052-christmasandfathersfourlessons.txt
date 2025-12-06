@@ -1,0 +1,110 @@
+0	title	Christmas and fathers: Four lessons we can learn from Joseph.
+-1	par-sep	
+1	common-ground	Mary, the mother of Jesus, features prominently in our Christmas celebrations
+2	no-unit	.
+3	continued	Christmas carols, greeting cards and nativity reenactments all celebrate the important role
+4	assumption	she played in the birth of the Messiah
+5	no-unit	.
+6	assumption	But what about Joseph?	m-question
+7	continued	What	modd-NU
+8	assumption	does the Christmas story say about the role of fathers?	m-question
+9	assumption	The Gospel of Matthew, written in the second half of the first century to a predominantly Jewish audience, places Joseph at the center of the birth of Christ
+10	no-unit	.
+11	continued	Complimentary to the Gospel of Luke	Modd-NU
+12	continued	where
+13	assumption	most of the activity centers on Mary
+14	no-unit	,
+15	continued	Matthew reports
+16	continued	that it is Joseph
+17	continued	that is instructed by an angel in a dream
+18	testimony	not to call off his impending marriage to Mary
+19	no-unit	.
+20	assumption	Joseph is pictured as a decisive leader, protector and provider for his family in this Gospel
+21	no-unit	.
+22	assumption	The birth narratives of Jesus in Matthew, not only highlights the importance of family as the building block of a stable society, but also communicates the importance of fathers in the raising of children
+23	no-unit	.
+24	assumption	With Joseph as our example, four lessons for fathers can be taken from this Christmas story
+25	no-unit	.
+-1	par-sep	
+26	no-unit	First
+27	no-unit	,
+28	continued	to be a father
+29	assumption	is not just a biological description
+30	no-unit	.
+31	continued	Joseph was not the physical father of Jesus
+32	continued	,
+33	continued	but
+34	continued	as
+35	continued	instructed by the angel
+36	anecdote	took Mary as his wife and provided a home for Jesus
+37	no-unit	.
+38	continued	Being a father
+39	assumption	is a matter of the heart
+40	no-unit	.
+41	continued	Joseph is a great role model for those fathers
+42	continued	that have chosen
+43	continued	to raise non
+44	continued	-
+45	assumption	biological children as their own
+46	no-unit	.
+47	continued	Fathers create homes for children by
+48	assumption	enlarging their hearts and providing a safe and nurturing environment for them
+49	no-unit	.
+50	no-unit	Second
+51	no-unit	,
+52	assumption	 fathers model good values to their children
+53	no-unit	.
+54	continued	Matthew calls
+55	anecdote	Joseph a just man
+56	no-unit	.
+57	assumption	This is in sharp contrast to the wicked Herod in the same Gospel
+58	no-unit	,
+59	continued	who kills numerous boys in his narcissistic rage
+60	continued	as
+61	continued	he attempts
+62	anecdote	to remove the pending threat of the birth of the King of the Jews
+63	no-unit	.
+64	continued	We are inundated with so many painful recollections of fathers
+65	assumption	that did not match the expectations of their children
+66	no-unit	.
+-1	par-sep	
+67	assumption	Good fathers embody the moral and hopeful ideals of their children
+68	no-unit	.
+69	assumption	They model the way
+70	no-unit	.
+71	no-unit	Third	Modd-NU
+72	no-unit	,	Modd-NU
+73	continued	 fathers do all in their power
+74	assumption	to protect their family
+75	no-unit	.
+76	anecdote	Joseph, warned in a dream about the murderous plans of Herod, moves his family to the safety of Egypt
+77	no-unit	.
+78	continued	This selfless act of Joseph illustrates
+79	continued	what
+80	assumption	good fathers do best
+81	no-unit	-
+82	assumption	they place the interest of their families above their own
+83	no-unit	.
+84	assumption	Lastly, fathers provide a future for their children
+85	no-unit	.
+86	continued	Once again, Matthew records
+87	continued	that Joseph in
+88	continued	returning from Egypt
+89	continued	scanned the environment and decided
+90	continued	to move Jesus and Mary to Galilee, far from the watchful eye of Archelaus, the ruler
+91	anecdote	that succeeded Herod
+92	no-unit	.
+93	continued	Good fathers recognize
+94	continued	that fathering does not end
+95	continued	when
+96	assumption	children turn of age
+97	no-unit	.
+98	continued	Fathers consider the future of their children beyond their own mortality and work
+99	assumption	to provide a prosperous and successful future for them
+100	no-unit	.
+101	continued	Perhaps the time has come
+102	assumption	to reconsider the role of Joseph in our celebration of Christmas
+103	no-unit	.
+104	continued	May we rediscover not only his good example, but the stabilizing and transformative effect
+105	assumption	that good fathers have on children, families and societies
+106	no-unit	.

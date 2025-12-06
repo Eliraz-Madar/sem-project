@@ -1,0 +1,236 @@
+0	title	I survived the Bhopal gas tragedy.
+-1	par-sep	
+1	anecdote	I was born in July 1984
+2	no-unit	and
+3	continued	I was only five months old
+4	continued	when
+5	anecdote	the disaster struck my community
+6	no-unit	.
+7	continued	I was too young
+8	anecdote	to remember anything from the night of December 2, 1984
+9	no-unit	,
+10	no-unit	but
+11	no-unit	,
+12	continued	throughout the years, I have heard many stories from the people
+13	continued	who were there and saw
+14	anecdote	it happen
+15	no-unit	.
+16	anecdote	My sister would sometimes tell me things about that night
+17	no-unit	,
+18	continued	though	Modd-NU
+19	continued	we generally avoided
+20	anecdote	bringing it up
+21	no-unit	,
+22	continued	as	Modd-NU
+23	continued	we knew
+24	continued	that it would only hurt
+25	anecdote	us to talk about it
+26	no-unit	.
+-1	par-sep	
+27	continued	After the disaster, some of our relatives
+28	continued	,
+29	continued	who had heard about it on the radio
+30	continued	,
+31	anecdote	came and took us to Lucknow, around 600km from Bhopal
+32	no-unit	.
+33	anecdote	We stayed with them for a few months
+34	no-unit	,
+35	no-unit	but
+36	continued	they started
+37	anecdote	treating us badly
+38	no-unit	,
+39	no-unit	as if	cond
+40	assumption	we were a burden to them and their families
+41	no-unit	,
+42	no-unit	so
+43	continued	it was our brother Sunil, another survivor from our family of 10 - aged 13 at the time of the disaster 
+44	continued	-
+45	continued	who decided
+46	anecdote	to bring us back to Bhopal
+47	no-unit	.
+48	anecdote	Subsequently, we were sent to an orphanage in Bhopal, called The SOS Children's Village
+49	no-unit	.
+50	continued	Sunil refused
+51	continued	to live with us in the orphanage
+52	continued	,
+53	anecdote	and got involved with the anti-Carbide campaign
+54	no-unit	.
+55	continued	He created
+56	anecdote	an organisation called Children Against Carbide
+57	no-unit	.
+58	continued	Most of the members of this organisation were children from the community
+59	anecdote	we were from - Jay Prakash Nagar (JP Nagar), right across the road from the main Bhopal plant
+60	no-unit	.
+-1	par-sep	
+61	anecdote	I was happy with my life at the orphanage in Bhopal
+62	no-unit	,
+63	anecdote	I had almost everything: cricket bats, skates, football, good education etc
+64	no-unit	.
+65	no-unit	But
+66	no-unit	,
+67	anecdote	 at the same time, I did not know anything about our parents
+68	no-unit	.
+-1	par-sep	
+69	anecdote	In middle school, we would have parent-teacher meetings at school
+70	no-unit	;
+71	anecdote	my classmates had their parents next to them for the meeting
+72	no-unit	,
+73	no-unit	but
+74	anecdote	I had no one next to me
+75	no-unit	.
+76	continued	It was around that time
+77	continued	that I started
+78	anecdote	asking my sister about our parents
+79	no-unit	.
+80	continued	It was then
+81	continued	that my sister first told me about the Bhopal gas disaster
+82	continued	and
+83	continued	what
+84	anecdote	had happened that night
+85	no-unit	.
+86	continued	Until then, I never fully understood
+87	continued	that I was growing up in an orphanage
+88	anecdote	and didn't really know the meaning of the word "orphanage"
+89	no-unit	.
+-1	par-sep	
+90	continued	My sister Mamta told me
+91	anecdote	that there were four brothers and four sisters in our family
+92	no-unit	.
+93	anecdote	Our father was a carpenter
+94	no-unit	,
+95	no-unit	and
+96	anecdote	I was the youngest in the family
+97	no-unit	.
+98	anecdote	We lost three sisters and two brothers along with our parents that night
+99	no-unit	.
+-1	par-sep	
+100	continued	I then asked her
+101	continued	,
+102	continued	"How
+103	continued	did
+104	anecdote	we survive?"
+-1	par-sep	
+105	continued	She told me
+106	anecdote	that she wrapped me in a blanket, and ran away along with our brother Sunil
+107	no-unit	.
+108	continued	When	Modd-NU
+109	continued	they were running
+110	continued	,
+111	continued	Sunil had
+112	continued	to go to the bathroom
+113	continued	,
+114	anecdote	and fainted
+115	no-unit	.
+116	anecdote	The streets were so crowded
+117	continued	as	Modd-NU
+118	anecdote	people were running and shouting
+119	no-unit	,
+120	continued	my sister was forced by the crowd, and couldn't wait any longer for my brother Sunil
+121	anecdote	to come back
+122	no-unit	.
+-1	par-sep	
+123	anecdote	He succeeded in 2006
+124	continued	when	Modd-NU
+125	anecdote	he hung himself
+126	no-unit	.
+-1	par-sep	
+127	anecdote	So, now it is just Mamta and I - the only survivors from a family of 10
+128	no-unit	.
+-1	par-sep	
+129	anecdote	Mamta lives in Lucknow with her husband and two children
+130	no-unit	,
+131	no-unit	and
+132	anecdote	I live here in Bhopal on my own
+133	no-unit	.
+134	anecdote	She would often complain about severe headaches and eye problems
+135	no-unit	.
+-1	par-sep	
+136	anecdote	It has been almost 30 years now
+137	no-unit	,
+138	no-unit	and
+139	assumption	Bhopalis are still fighting for their basic rights
+140	no-unit	.
+141	continued	The disaster took so many lives, and is still killing people, as the abandoned factory
+142	assumption	continues poisoning our soil, water, and air
+143	no-unit	.
+-1	par-sep	
+144	continued	I started
+145	anecdote	learning more about the disaster
+146	continued	when	Modd-NU
+147	continued	I saw people of different ages chanting slogans in the streets of Bhopal
+148	continued	when
+149	anecdote	I was a child
+150	no-unit	.
+-1	par-sep	
+151	continued	In 2004, Greenpeace flew me to Paris
+152	anecdote	to participate in a demonstration outside Dow's shareholders meeting
+153	no-unit	.
+154	anecdote	I got involved with the campaign in 2004 partly because of my brother's participation in the campaign
+155	no-unit	.
+156	continued	It was better
+157	continued	to die
+158	continued	fighting for our rights than succumb to depression over
+159	continued	what
+160	assumption	had happened
+161	no-unit	.
+-1	par-sep	
+162	continued	I had a stroke in 2005, and started
+163	anecdote	taking an aspirin everyday
+164	no-unit	.
+165	anecdote	I also had a pulmonary embolism in the US last year
+166	no-unit	.
+167	anecdote	Now I no longer take an aspirin
+168	no-unit	,
+169	continued	because now
+170	continued	I
+171	continued	have
+172	continued	to take 7.5mg of warfarin, a blood
+173	anecdote	thinner
+174	no-unit	,
+175	anecdote	which is also used as rat poison
+176	no-unit	.
+-1	par-sep	
+177	continued	In 2008, I was one of a number of Bhopal survivors in New Delhi
+178	continued	who fasted for 21 days
+179	continued	,
+180	anecdote	only having water
+181	no-unit	.
+182	continued	We were asking then Prime Minister Manmohan Singh
+183	continued	to set up an empowered commission
+184	continued	to look
+185	anecdote	into the issues related to Bhopal
+186	no-unit	.
+187	continued	We also wanted clean water
+188	continued	to be supplied to the people
+189	continued	who were living in the affected communities
+190	continued	and were forced
+191	anecdote	to drink contaminated water
+192	no-unit	.
+-1	par-sep	
+193	assumption	Everyone on this earth should feel this anger and frustration
+194	no-unit	.
+195	continued	It has been 30 years
+196	continued	and
+197	continued	justice continues
+198	assumption	to elude the people of Bhopal
+199	no-unit	.
+200	continued	We, the people of Bhopal, believe
+201	assumption	that the whole world has transformed into a Bhopal in a way
+202	no-unit	:
+203	no-unit	If	cond
+204	assumption	you look around	cond
+205	no-unit	,	cond
+206	continued	you see multinational corporations
+207	continued	being allowed
+208	continued	to do business without accountability
+209	continued	,
+210	assumption	poisoning the world and placing profits over people
+211	no-unit	.
+212	no-unit	If	cond
+213	assumption	justice comes to Bhopal	cond
+214	no-unit	,	cond
+215	assumption	then it would be justice for the whole world
+216	no-unit	.
+217	continued	It would set a precedent and ensure
+218	assumption	that in the future, corporations committing such crimes are brought to justice
+219	no-unit	.

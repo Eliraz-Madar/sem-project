@@ -1,0 +1,172 @@
+0	title	A defining moment for the French right.
+-1	par-sep	
+1	anecdote	France lost five of its most prominent political cartoonists yesterday
+2	no-unit	.
+3	continued	For decades, they had mocked the powerful, the sacred, the dictators, and all those
+4	assumption	who believed themselves above criticism
+5	no-unit	.
+6	continued	These cartoonists felt
+7	continued	there was no better way
+8	assumption	to fight fundamentalism than through derision and laughter
+9	no-unit	.
+10	continued	The late Charb, Charlie Hebdo's editor-in-chief, was killed
+11	continued	,
+12	continued	evoking the words of Spanish republican icon Dolores Ibarruri
+13	continued	,
+14	continued	who was known
+15	continued	to boast
+16	continued	:
+17	assumption	"I'd rather die standing than live kneeling."
+-1	par-sep	
+18	continued	It is this very impertinence, this freedom
+19	continued	to rebel against ideologies, structures and hierarchies through art and literature
+20	continued	,
+21	assumption	that has been targeted
+22	no-unit	.
+23	assumption	France is known for its triad "liberty, equality, brotherhood" engraved at the helm of every school, on all official buildings
+24	no-unit	.
+25	continued	This motto attributed to French theologian and writer
+26	anecdote	Francois Fenelon at the end of the 17th century was popularised during the French Revolution
+27	no-unit	,
+28	no-unit	when
+29	assumption	popular unrest toppled religious and authoritative powers
+30	no-unit	.
+31	continued	This philosophy was central to Charlie Hebdo's editorial line and promoted by Charb, known for his firm leftist stands, and for
+32	assumption	advocating for more justice and wealth redistribution
+33	no-unit	.
+-1	par-sep	
+34	no-unit	Yet
+35	no-unit	,
+36	assumption	 the likely beneficiaries of this heinous act will be the very opponents of this libertarian and humanist stance
+37	no-unit	.
+38	continued	A few hours after the events, extreme right leader Marine Le Pen immediately seized the opportunity
+39	assumption	to unleash her short-sighted Islamophobic attacks
+40	no-unit	.
+41	continued	While	Modd-NU
+42	continued	spontaneous gatherings and demonstrations took place across the country
+43	assumption	to show the country's grief and support for the victims
+44	no-unit	,
+45	continued	Le Pen dissuaded her supporters from
+46	assumption	participating
+47	no-unit	.
+48	continued	She later set conditions for
+49	anecdote	taking part in the Republican march organised for next Sunday
+50	no-unit	.
+-1	par-sep	
+51	assumption	This political move is unsurprising from Le Pen
+52	no-unit	.
+53	assumption	Her political platform is built upon her populist claims of the threats stemming from Islam and more generally, from immigrants
+54	no-unit	.
+55	assumption	She built her political success on the rise of communitarianism and the growing rifts and dissent in French society
+56	no-unit	.
+57	continued	A solidarity march
+58	continued	gathering all religions
+59	continued	and
+60	assumption	all sectors of the population in favour of freedom of the press does not play to her political hand
+61	no-unit	.
+-1	par-sep	
+62	continued	While	Modd-NU
+63	continued	the French Muslim authorities have called on every mosque in the country
+64	assumption	to strongly condemn this act of terrorism and encourage participation in the march
+65	no-unit	,
+66	assumption	Le Pen would rather continue her own crusade alone and capitalise on growing French fears
+67	no-unit	.
+-1	par-sep	
+68	continued	She would rather call for
+69	continued	"open war on Islam"
+70	continued	than demonstrate with the 99.99 percent of French Muslims
+71	assumption	who respect the Republican law
+72	no-unit	.
+-1	par-sep	
+73	testimony	Her traditional supporters, such as skinhead groups "Riposte Laique" and "Bloc identitaire", have called for a "civil war in the country against Islamisation"
+74	no-unit	.
+75	continued	But they have failed
+76	continued	to mention
+77	continued	that Ahmed Merabet, the brave policeman
+78	continued	who tried
+79	continued	to stop the terrorists
+80	continued	and was shot dead in the street
+81	continued	,
+82	anecdote	was himself Muslim and defended French Republican values through a lifetime of service in the police force
+83	no-unit	.
+-1	par-sep	
+84	continued	While	Modd-NU
+85	assumption	traditional parties call for national unity in a peaceful march
+86	no-unit	,
+87	assumption	Le Pen's supporters blow on the ashes of societal discontent
+88	no-unit	,
+89	assumption	encouraging retaliation against this act of terrorism
+90	no-unit	.
+91	anecdote	Mosques were reportedly shot at in Le Mans at midnight
+92	no-unit	,
+93	anecdote	a kebab restaurant was bombed in Villefranche
+94	no-unit	.
+95	assumption	Barbary is answered by stupidity
+96	no-unit	.
+-1	par-sep	
+97	continued	Ironically, Le Pen will likely benefit from the fears and shock after the attacks on Charlie Hebdo, a magazine
+98	assumption	that has been one of her strongest opponents
+99	no-unit	.
+100	continued	Le Pen can hardly call for the protection of freedom of the press
+101	continued	when
+102	continued	her own party has regularly tried
+103	continued	to limit it by
+104	continued	selecting the newspapers and networks
+105	assumption	who could cover her meetings and ask her questions
+106	no-unit	.
+-1	par-sep	
+107	assumption	Two years ago, her own father vehemently criticised Charlie Hebdo	changtype
+108	no-unit	,	Modd-NU	
+109	assumption	calling the publication a rag
+110	continued	after	Modd-NU
+111	assumption	it ridiculed his political party
+112	no-unit	.
+113	continued	Marine Le Pen herself then officially asked for the resignation of any journalist
+114	anecdote	that would show Charlie Hebdo's cover on national TV
+115	no-unit	.
+-1	par-sep	
+116	no-unit	Similarly
+117	no-unit	,
+118	assumption	 Nicolas Sarkozy is an awkward defender of Charlie Hebdo
+119	no-unit	.
+120	no-unit	First	Modd-NU
+121	no-unit	,	Modd-NU
+122	continued	 his strategy
+123	continued	to win back the presidency in 2017
+124	continued	is
+125	continued	to stress on the inability of Francois Hollande
+126	continued	to fill the shoes of president
+127	continued	,
+128	assumption	constantly criticising his lack of authority and charisma
+129	no-unit	.
+-1	par-sep	
+130	assumption	The current terrorist crisis is a defining moment for Hollande
+131	continued	who might now well prove his capacity
+132	assumption	to unite a grieving society
+133	no-unit	.
+134	continued	More importantly, Sarkozy can hardly support Charlie Hebdo and freedom of the press
+135	continued	when he
+136	assumption	himself personally demanded the resignation of one of its cartoonists in 2008
+137	no-unit	.
+-1	par-sep	
+138	continued	At the time Sarkozy was furious
+139	continued	that the magazine had published a cartoon
+140	anecdote	mocking his son Jean Sarkozy
+141	no-unit	,
+142	continued	whose ambition
+143	assumption	dwarves the legendary one of his father
+144	no-unit	.
+145	continued	Charlie Hebdo described Jean Sarkozy's marriage to a very wealthy Jewish heiress as an attempt
+146	continued	to secure his future after
+147	continued	failing
+148	testimony	to finish his university degree
+149	no-unit	.
+150	continued	Nicolas Sarkozy managed
+151	anecdote	to obtain the dismissal of the cartoonist Sine and put him on trial for anti-Semitism
+152	no-unit	.
+-1	par-sep	
+153	continued	Ironically, his colleagues were not so fortunate yesterday
+154	continued	when
+155	continued	faced with fundamentalists claiming Charlie Hebdo
+156	assumption	was an enemy of the Muslim prophet
+157	no-unit	.

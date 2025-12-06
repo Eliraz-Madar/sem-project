@@ -1,0 +1,177 @@
+0	title	The dawn of Kim Jong-un's rule.
+-1	par-sep	
+1	continued	It has been a few years since the sudden death of the Sun of the Nation, Marshal Kim Jong-il
+2	anecdote	which made his third son, Kim Jong-un, then in his late 20s, the supreme leader of North Korea
+3	no-unit	.
+-1	par-sep	
+4	continued	Three years is the length of the traditional mourning period
+5	continued	that Koreans are supposed
+6	common-ground	to observe after the death of their father or sovereign
+7	no-unit	.
+8	no-unit	Thus	Modd-NU
+9	no-unit	,	Modd-NU
+10	continued	 now is the time
+11	assumption	to make some observations about Kim's North Korea
+12	no-unit	.
+13	continued	What
+14	continued	has remained the same, and
+15	continued	what
+16	assumption	has changed since December 2011?	m-question
+-1	par-sep	
+17	assumption	The dawn of Kim's rule was marked by intense purges of his father's top dignitaries
+18	no-unit	.
+19	anecdote	In December 2011, during his father's funeral, Kim walked next to his father's hearse in the company of three top generals and four top civilian officials
+20	no-unit	.
+21	assumption	Three years on, none of these people have their jobs
+22	no-unit	:
+23	anecdote	At least one of them was executed
+24	no-unit	,
+25	continued	while	Modd-NU
+26	anecdote	all but one have disappeared without a trace
+27	no-unit	.
+-1	par-sep	
+28	continued	Kim's decision
+29	continued	to arrest and execute Chang Song-taek, his aunt's husband
+30	continued	,
+31	assumption	long the "grey eminence" of Pyongyang politics, was a dramatic signal to the elite
+32	no-unit	.
+33	continued	The sorry fate of Chang was meant
+34	continued	to show
+35	assumption	that nobody is immune from the wrath of the supreme leader
+36	no-unit	.
+-1	par-sep	
+37	continued	These purges were obviously necessary
+38	continued	to start
+39	assumption	changing the country
+40	no-unit	,
+41	continued	since	Modd-NU
+42	assumption	Kim's policies will be very different from those of his father and grandfather
+43	no-unit	.
+-1	par-sep	
+44	assumption	So far, the most important changes can be seen in the field of economic management
+45	no-unit	.
+46	continued	From late 2012, the North Korean government began
+47	continued	to implement reforms
+48	continued	which are remarkably similar to
+49	continued	what
+50	assumption	China did in the early days of Deng Xiaoping, around 1980
+51	no-unit	.
+52	continued	Farmers
+53	continued	,
+54	continued	who were hitherto government employees with a fixed salary
+55	continued	,
+56	continued	are now given a certain percentage of the harvest, and have predictably started
+57	assumption	to feel motivated
+58	no-unit	.
+59	continued	As a result, the food situation has improved
+60	assumption	markedly
+61	no-unit	.
+-1	par-sep	
+62	assumption	In industry, a slow-motion switch from a Leninist, centrally planned economy to markets has been initiated as well
+63	no-unit	.
+64	assumption	The unofficial private economy, far more advanced in North Korea than most imagine, is now quietly encouraged
+65	no-unit	.
+-1	par-sep	
+66	assumption	There is no sign of relaxation in the political sphere, however
+67	no-unit	.
+68	continued	Kim has launched a massive crackdown on illegal border movements
+69	continued	,
+70	assumption	effectively closing North Korea's border with China 
+71	no-unit	-
+72	assumption	which had remained porous for decades
+73	no-unit	.
+74	continued	He has also done much
+75	continued	to root out the penchant
+76	assumption	that many North Koreans have recently developed for smuggled foreign TV shows, especially South Korean soap operas and films
+77	no-unit	.
+78	continued	Such concerns are not merely motivated by paranoia, regardless of
+79	continued	what
+80	assumption	the international media says
+81	no-unit	.
+82	continued	The supreme leader knows
+83	continued	that his position is precarious
+84	continued	,
+85	continued	and
+86	continued	that tightening the screws of social control and surveillance
+87	continued	may help
+88	assumption	him prolong his rule
+89	no-unit	.
+-1	par-sep	
+90	continued	North Korea under Kim remains as stubborn in its nuclear ambitions
+91	continued	as
+92	assumption	it was under his father
+93	no-unit	.
+94	continued	Having seen the US invasions of Iraq and Afghanistan, as well as the popular rebellion against Libya's Gaddafi
+95	continued	that was indirectly assisted by western might
+96	continued	,
+97	continued	North Korean decision-makers have every reason
+98	continued	to want
+99	continued	to continue
+100	assumption	to advance their nuclear weapons potential
+101	no-unit	.
+-1	par-sep	
+102	no-unit	At the same time
+103	no-unit	,
+104	assumption	 there has also been a truly unprecedented crisis in Sino- North Korean relations
+105	no-unit	.
+106	anecdote	In the last years of Kim Jong-il, China was North Korea's major sponsor and trade partner
+107	no-unit	.
+108	assumption	Now things are different
+109	no-unit	.
+110	assumption	The Chinese and North Korean media (strictly controlled by the government in both countries) have exchanged thinly veiled verbal attacks
+111	no-unit	,
+112	continued	while	Modd-NU
+113	anecdote	the Chinese government has frozen all Beijing-sponsored infrastructure projects in North Korea - including, for example, a new bridge over the Yalu River
+114	no-unit	.
+-1	par-sep	
+115	continued	The North Korean government under Kim has shown hitherto unprecedented interest in foreign investment, as long
+116	continued	as
+117	assumption	this investment comes from sources other than China
+118	no-unit	.
+119	assumption	At present, the young marshal has pinned his hopes on Russia - currently itself on a collision course with the West
+120	no-unit	.
+121	continued	North Korean leaders obviously believe
+122	continued	that Russia under Vladimir Putin will behave
+123	continued	like
+124	continued	the Soviet Union once did
+125	assumption	and shower North Korea with aid grants as a reward for Pyongyang's militant anti-Americanism
+126	no-unit	.
+127	assumption	Such hopes are misplaced
+128	no-unit	,
+129	no-unit	but
+130	continued	it will take some time
+131	continued	before
+132	assumption	Pyongyang's decision-makers realise the sad truth
+133	no-unit	.
+-1	par-sep	
+134	continued	There is little doubt
+135	continued	that Kim wants
+136	continued	to be popular
+137	assumption	and loved by his people, and perhaps sincerely cares about the wellbeing of the North Korean populace
+138	no-unit	,
+139	continued	though	Modd-NU
+140	continued	he might have rather eccentric ideas on
+141	continued	what
+142	assumption	constitutes such wellbeing
+143	no-unit	.
+144	continued	Under his watch, the North Korean government has spent a significant part of its meagre resources on
+145	anecdote	building all kinds of entertainment facilities, including an elite ski resort, a number of water parks and even a dolphinarium
+146	no-unit	.
+-1	par-sep	
+147	assumption	Kim's North Korea is increasingly a place quite different from the North Korea of his father
+148	no-unit	.
+149	assumption	It is moving towards a more efficient economy, but also towards more internal repression
+150	no-unit	.
+151	assumption	It is more prone to erratic changes in domestic policy and more eccentric in many regards
+152	no-unit	.
+153	no-unit	But
+154	no-unit	,
+155	no-unit	 of course
+156	no-unit	,
+157	continued	for the foreseeable future it is going
+158	assumption	to remain a nuclear and authoritarian regime, run by the Kim family and a small hereditary elite
+159	no-unit	:
+160	continued	This is not negotiable, irrespectively
+161	continued	of what
+162	assumption	the outside world thinks and does
+163	no-unit	.

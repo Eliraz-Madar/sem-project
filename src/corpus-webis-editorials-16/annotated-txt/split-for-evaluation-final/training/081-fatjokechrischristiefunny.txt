@@ -1,0 +1,193 @@
+0	title	Do you really think your fat joke about Chris Christie is funny?
+-1	par-sep	
+1	continued	New Jersey governor Chris Christie's weight - and whether
+2	continued	it will impact any run for higher office
+3	assumption	- is once again the subject of discussion
+4	no-unit	.
+5	continued	(It
+6	continued	comes up every year or so	Modd-NU
+7	continued	,	Modd-NU
+8	continued	and	Modd-NU
+9	continued	this year it's bound	Modd-NU
+10	continued	to come up every month or so	modd-ASM
+11	assumption	.)	Modd-NU 
+12	continued	On Sunday, Christie drew some people's ire by
+13	anecdote	sitting with (ok, and hugging) the owner of the Dallas Cowboys
+14	no-unit	,
+15	anecdote	the team of which he is a fan
+16	no-unit	.
+17	continued	It doesn't actually seem
+18	continued	to matter
+19	continued	what
+20	assumption	Christie does, though
+21	no-unit	:
+22	continued	the kneejerk reaction to a hefty politician is always, inevitably
+23	continued	,
+24	assumption	to insult his body
+25	no-unit	,
+26	no-unit	and
+27	assumption	now Christie's brother is even reacting to that reaction on Facebook
+28	no-unit	.
+-1	par-sep	
+29	continued	Fat people are described
+30	continued	as gross and disgusting
+31	continued	often enough
+32	assumption	that some of us loathe our own bodies to the point of self-injury
+33	no-unit	.
+34	continued	People think
+35	continued	we're stupid and weak
+36	continued	(or we'd just lose weight, right?)
+37	assumption	before they even talk to us
+38	no-unit	.
+39	common-ground	Fatness is classified as a disease in the United States
+40	no-unit	.
+41	continued	For his part, Christie, with his long history of
+42	continued	being fat in the public eye
+43	continued	,
+44	continued	turned to a weight-loss surgery called lap band in his efforts
+45	anecdote	to lose weight
+46	no-unit	.
+47	continued	In that last linked article, those close to him claimed
+48	continued	it would humanize him in the eyes of the public - without
+49	continued	recognizing
+50	assumption	that he is, in fact and in fat, already human
+51	no-unit	.
+-1	par-sep	
+52	continued	Our humanity hardly seems
+53	assumption	to matter to people going for the easy fat jokes
+54	no-unit	.
+-1	par-sep	
+55	continued	The truth is
+56	assumption	that fat people often have a more difficult time finding a good job
+57	no-unit	.
+58	continued	(Even
+59	continued	,
+60	assumption	maybe especially, THE job
+61	no-unit	.)
+62	continued	You're less likely
+63	continued	to get a promotion
+64	continued	when
+65	assumption	your body doesn't match the image of a desirable employee
+66	no-unit	.
+67	continued	This bias - this discrimination - on the part of employers
+68	continued	costs them top talent and actually winds up
+69	assumption	adding to stereotypes about us
+70	no-unit	.
+71	continued	It's hard for fat people
+72	continued	to be perceived as hard workers
+73	continued	when
+74	assumption	no one believes in our work ethic in the first place
+75	no-unit	.
+-1	par-sep	
+76	no-unit	But
+77	continued	that's hardly the worst of the stereotypes: a couple of years ago, during a televised "debate" about fatness and fat acceptance with anti-obesity spokesperson MeMe Roth and model Crystal Renn
+78	continued	,
+79	continued	Roth finally gave in and called
+80	anecdote	me stupid
+81	no-unit	-
+82	continued	using a single study
+83	continued	that proclaim
+84	testimony	that fat people just have smaller brains and are therefore less intelligent
+85	no-unit	.
+86	anecdote	I laughed
+87	no-unit	:
+88	continued	it was a desperate attempt at an insult more
+89	continued	than
+90	assumption	it was scientific discussion
+91	no-unit	,
+92	no-unit	but
+93	assumption	it was also honest
+94	no-unit	-
+95	continued	because	Modd-NU 
+96	continued	it's definitely not the first time
+97	anecdote	I've run across that conviction
+98	no-unit	.
+-1	par-sep	
+99	assumption	Chris Christie, for all of his accomplishments, faces the same sort of discrimination as the fat person passed over for a job because of a hiring manager's bias
+100	no-unit	-
+101	assumption	he's just facing it on a very intense and public level
+102	no-unit	.
+103	assumption	People look at him and judge his body
+104	no-unit	.
+105	assumption	They don't evaluate his intelligence based on his decisions
+106	no-unit	;
+107	continued	they just assume
+108	continued	he's stupid
+109	continued	because
+110	assumption	he's fat
+111	no-unit	.
+112	continued	They ignore
+113	continued	that it does actually take quite a lot of work
+114	assumption	to get elected as governor
+115	no-unit	-
+116	continued	politics is many things
+117	continued	,
+118	continued	but
+119	common-ground	it's never a cake walk
+120	no-unit	,
+121	no-unit	and
+122	anecdote	he's been involved since 1977
+123	no-unit	.
+124	anecdote	And America has had fat presidents before - not many of them, but some rather notable ones, including Teddy Roosevelt
+125	no-unit	.
+-1	par-sep	
+126	continued	Chris Christie is
+127	continued	- and
+128	continued	this is another uncomfortable thing for someone with my own fairly radical political views
+129	continued	to say
+130	assumption	- a complicated and intelligent politician
+131	no-unit	.
+132	assumption	His actions are often well-considered
+133	continued	(even when
+134	continued	I screamingly disagree with them
+135	continued	,
+136	continued	which happens a lot)
+137	continued	and even sometimes moderate, at least in the sense
+138	continued	that he occasionally works across party lines ... and certainly across state lines
+139	continued	when
+140	assumption	it comes to the NFL
+141	no-unit	.
+-1	par-sep	
+142	assumption	But the fat jokes keep on coming
+143	no-unit	:.
+-1	par-sep	
+144	continued	How bout
+145	anecdote	hittin the gym??	m-question
+146	no-unit	...
+147	assumption	Christie won't back down
+148	no-unit	,
+149	no-unit	may watch Cowboys in Green Bay via @POLITICO for iOS http://t.co/Vn6SS5J4EB
+150	no-unit	.
+-1	par-sep	
+151	continued	US News & World Report's David Catanese even said
+152	continued	that his brother's defense makes
+153	continued	Christie looks bad because
+154	continued	...
+155	testimony	he countered "'crazy, pathetic posts' with one of his own"
+156	no-unit	.
+157	continued	Apparently it's more presidential
+158	continued	when
+159	assumption	you take the abuse about your body without anyone saying anything
+160	no-unit	.
+-1	par-sep	
+161	continued	And the fat jokes keep
+162	continued	obscuring the actual conversation
+163	continued	that needs
+164	assumption	to happen about Christie's political views
+165	no-unit	,
+166	no-unit	even as
+167	continued	he remains cagey about
+168	assumption	running for the Republican nomination in 2016
+169	no-unit	.
+170	no-unit	And
+171	no-unit	if
+172	assumption	you're one of the people	cond
+173	assumption	who'd rather insult his weight than talk about his politics
+174	no-unit	,
+175	continued	I have
+176	continued	to ask
+177	continued	:
+178	assumption	who is the less intelligent person, really?
+179	continued	I don't think
+180	assumption	it's the fat guy
+181	no-unit	.

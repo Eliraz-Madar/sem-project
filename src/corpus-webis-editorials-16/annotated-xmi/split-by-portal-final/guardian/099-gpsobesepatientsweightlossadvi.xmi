@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4146" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="128" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="130" end="272" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="274" end="453" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="456" end="459" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="460" end="483" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="484" end="533" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="534" end="566" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="567" end="646" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="648" end="651" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="652" end="724" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="726" end="783" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="785" end="965" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="968" end="1081" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1083" end="1140" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1142" end="1241" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1243" end="1246" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1247" end="1292" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1294" end="1320" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1322" end="1325" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1327" end="1485" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1488" end="1513" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1515" end="1580" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1582" end="1661" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1663" end="1785" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1787" end="1935" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1937" end="1956" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1958" end="1961" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1962" end="2003" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2005" end="2072" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2075" end="2149" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2150" end="2157" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2158" end="2205" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2207" end="2257" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2259" end="2293" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2295" end="2298" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2299" end="2336" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2338" end="2349" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2351" end="2488" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2491" end="2541" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2543" end="2577" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2579" end="2582" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2583" end="2618" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2620" end="2730" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="2732" end="2735" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="2736" end="2831" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="2833" end="2960" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="2963" end="3083" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3085" end="3151" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3153" end="3156" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3157" end="3225" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3227" end="3394" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3396" end="3592" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3595" end="3699" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3704" end="3764" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3766" end="3838" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="3840" end="3843" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="3844" end="3925" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="3927" end="3930" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="3931" end="3997" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="3999" end="4075" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4077" end="4105" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4107" end="4145" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="323" sofa="1" begin="0" end="4146" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/099-gpsobesepatientsweightlossadvi.txt" offsetInSource="0" documentSize="4146" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="331" sofa="1" begin="0" end="4146" lastUpdate="2015-01-14T13:13:39Z" url="http://www.theguardian.com/commentisfree/2015/jan/14/gps-obese-patients-weight-loss-advice" portal="guardian" authors="Ann Robinson" articleSum="Ann Robinson: I know from experience that for a doctor to avoid a conversation about obesity is a failure of care" title="It may be awkward, but GPs owe it to obese patients to give weight loss advice."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="According to a study by researchers at King's College London, many doctors are failing to tackle their patients' weight problems. Researchers analysed the records of several thousand obese patients and found that 80% of them had never talked to their GP about their weight. This finding comes in the same week as it was reported that diabetes, an obesity-related disease, is using up a tenth of the NHS budget and causing record numbers of complications.&#10;&#10;But is fat a medical issue? Should nurses and GPs like me broach the subject? And does intervention ever work? Some argue that obesity is a symptom of poverty and should be tackled at source. But while government, schools and other agencies clearly have a role to play, I don't see how GPs can ignore obesity when faced with it. There is no doubt that the 22% of men and 24% of women in the UK who are obese are at increased risk of several cancers, heart, liver and respiratory disease, dementia and diabetes.&#10;&#10;As a busy GP faced with an overflowing waiting room of ill people, it's tempting to avoid bringing up the subject. I have to pick the right moment and phrase it sensitively: &quot;Do you feel your weight is an issue?&quot; and &quot;Is there something we can do to help?&quot; are good openers, but there needs to be time to have the discussion. I admit I often put it off. But,  arguably, one obese person referred for life-changing bariatric surgery is a more useful intervention than seeing a room full of people with coughs and colds.&#10;&#10;Not everyone is receptive. Some say &quot;I'm overweight but I am fitter than most people my age&quot;. Or &quot;I know lots of thin people who have died young and fat people who are fine&quot;. But these comments are the same as anecdotal tales of smokers who live to 100 and young non-smokers who die of lung cancer. We are talking about increased risk, not a guaranteed death sentence if you're obese or smoke and certain immortality if you're thin or a non-smoker. This sounds obvious, but it's funny how irrational many people are, especially if you're telling them something they don't want to hear.&#10;&#10;I think GPs have a responsibility to initiate a conversation about obesity because it is clear that it is an important health risk, overweight people often underestimate their weight, losing weight can reduce that risk, and there are interventions that can help. For example,  bariatric surgery, which is arguably the most effective way of keeping weight off, may cut the risk of developing type 2 diabetes by 80%.&#10;&#10;We also owe it to the next generation to intervene. Most fat children have fat parents, and most will become fat adults in turn. More than half of obese six- year-olds will become obese adults, compared with less than 10% of non-obese kids. And having an obese parent doubles your risk of being an obese adult, even if you're a skinny child. So any intervention that helps a parent to tackle their obesity is likely to have a positive impact on the adults of the future.&#10;&#10;There is no need for doctors to be nihilistic and think it's not worth broaching the subject because nothing can be done. True, we don't know the most effective way of tackling obesity yet, and Europe-wide trials are ongoing to try to find out what that would be. But there are options available: local council-run exercise programmes; referral to an NHS dietician; the prescription drug orlistat; or referral for bariatric surgery. Last month, a new anti-obesity drug, Mysimba, was approved by the European Medicines Agency, and is likely to be available on prescription later this year, despite the reservations of some experts.&#10;&#10;There will be some GP consultations in which discussion about obesity just isn't appropriate or relevant. If a person is devastated by a recent bereavement, for instance, it may be rude, crass, insensitive and offensive to mention their weight. And having discussed the subject, there is no need to bang on about it at every visit. But putting it off forever is an abrogation of a doctor's duty of care. A person may choose not to take up the doctor's offer to explore the problem; that's their right of course. But there's no excuse for not offering."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 331"/>
+</xmi:XMI>

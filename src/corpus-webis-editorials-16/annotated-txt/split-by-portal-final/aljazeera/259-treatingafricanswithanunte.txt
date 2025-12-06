@@ -1,0 +1,191 @@
+0	title	Treating Africans with an untested Ebola drug.
+-1	par-sep	
+1	continued	It was reported in The Guardian last week
+2	testimony	that Emergency, an Italian NGO, administered an untested heart drug known as Amiodarone, to patients at an Ebola treatment centre in Lakka, Sierra Leone
+3	no-unit	.
+4	continued	The British medics sent
+5	continued	to work at the centre raised alarm as early as November about Emergency's approaches
+6	testimony	to palliative care
+7	no-unit	.
+-1	par-sep	
+8	continued	Amiodarone, a drug licenced
+9	continued	to regulate the heartbeat
+10	continued	,
+11	continued	has never been tested outside of a lab setting
+12	anecdote	to treat humans or animals infected with Ebola
+13	no-unit	.
+14	continued	It was neither approved by the Sierra Leonean health ministry nor listed among the 53 drugs
+15	anecdote	that have an antiviral effect on Ebola
+16	no-unit	.
+-1	par-sep	
+17	continued	In a report to UK Med, the British healthcare professionals argued
+18	testimony	that "the toxic side effects of Amiodarone could in fact be contributing to increased morbidity within the ETC [ebola treatment centre]"
+19	no-unit	.
+20	continued	While
+21	anecdote	the mortality rate at Emergency's centre is disputed
+22	no-unit	-
+23	statistics	ranging from 58 and 67 percent
+24	continued	- the death rate at centres run by Medecins sans
+25	statistics	Frontieres (MSF), for instance, ranges from 50 and 60 percent
+26	no-unit	.
+-1	par-sep	
+27	continued	Most alarming is the concern
+28	assumption	that foreign-run Ebola treatment centres could be using unorthodox testing methods with impunity
+29	no-unit	.
+-1	par-sep	
+30	continued	Emergency's use of Amiodarone without a proper clinical trial or patient consent prompted censure from a senior scientist about the recklessness of this approach and a walk-out over safety fears by the UK health workers sent
+31	anecdote	to work at the treatment centre
+32	no-unit	.
+-1	par-sep	
+33	continued	Apparently, the NGO stopped
+34	continued	using the drug after
+35	anecdote	receiving a request from the Department of International Development (DFID)
+36	no-unit	,
+37	anecdote	which had been alerted by the British medics
+38	no-unit	.
+-1	par-sep	
+39	no-unit	When
+40	continued	rumours circulated early-on during the Ebola outbreak
+41	continued	,
+42	assumption	that the virus was a form of bio warfare
+43	no-unit	,
+44	continued	critics were quick
+45	continued	to label
+46	assumption	these ideas "conspiracy theories"
+47	no-unit	.
+-1	par-sep	
+48	no-unit	Yet	Modd-NU
+49	no-unit	,	Modd-NU
+50	continued	 fears about western medicine being used
+51	continued	to harm
+52	assumption	are neither irrational nor far-fetched
+53	no-unit	.
+-1	par-sep	
+54	no-unit	As	Modd-NU
+55	assumption	unconscionable as Emergency's practices appear
+56	no-unit	,
+57	assumption	there is a long history of unethical drug testing on poor and vulnerable communities across the globe
+58	no-unit	.
+-1	par-sep	
+59	assumption	Perhaps one of the most famous cases of unethical experimental treatment was in 1932
+60	no-unit	when
+61	continued	Public Health Service in the United States began the "Tuskegee Study of Untreated Syphilis in the Negro Male" at a time
+62	continued	when
+63	anecdote	there was no known cure for syphilis
+64	no-unit	.
+-1	par-sep	
+65	statistics	The study initially included 600 black men - 399 with and 201 without syphilis 
+66	no-unit	-
+67	continued	most of whom were poor
+68	continued	and
+69	continued	illiterate sharecroppers enticed with incentives such as free medical exams, meals on examination days, and promises
+70	anecdote	that their relatives would receive burial stipends in the event of their deaths
+71	no-unit	.
+-1	par-sep	
+72	continued	The men were deceived into
+73	continued	thinking
+74	anecdote	that they were being treated for "bad blood"
+75	no-unit	.
+76	continued	They neither received proper treatment nor were
+77	anecdote	they informed of the true nature of the study
+78	no-unit	.
+79	continued	Instead of
+80	continued	lasting for six months
+81	continued	,
+82	continued	as
+83	continued	originally projected
+84	continued	,
+85	anecdote	the study went on for 40 years
+86	no-unit	.
+-1	par-sep	
+87	continued	When	Modd-NU
+88	continued	penicillin was developed
+89	anecdote	to treat syphilis in 1947
+90	no-unit	,
+91	anecdote	treatment was withheld from all 600 subjects
+92	no-unit	.
+93	anecdote	In 1973, a class action suit was filed on behalf of the men in the study and settled out of court for $9 million
+94	no-unit	.
+-1	par-sep	
+95	anecdote	Similar experiments were held in Guatemala from 1946 to 1948
+96	no-unit	,
+97	no-unit	when
+98	anecdote	Public Health Service infected 1,610 total soldiers, female commercial sex workers, prisoners and mental health patients with one of three sexually transmitted diseases - syphilis, gonorrhoea, or chancroid
+99	no-unit	.
+-1	par-sep	
+100	anecdote	Like the Tuskegee experiment, none of the human subjects were informed about the nature of the study
+101	no-unit	,
+102	continued	nor
+103	anecdote	did they give consent
+104	no-unit	.
+105	anecdote	Unlike the Tuskegee study, however, patients in Guatemala were eventually inoculated with penicillin
+106	no-unit	though
+107	continued	it is unclear
+108	continued	how many
+109	assumption	were actually cured
+110	no-unit	.
+-1	par-sep	
+111	continued	Although	Modd-NU
+112	assumption	vulnerable adult populations have borne the brunt of unethical medical testing
+113	no-unit	,
+114	assumption	children have not been spared
+115	no-unit	.
+116	anecdote	In the mid-nineties, the world's largest research-based drug company, Pfizer, administered the experimental drug, Trovan, during a meningitis outbreak in Kano in northern Nigeria
+117	no-unit	.
+-1	par-sep	
+118	continued	The parents of eleven children
+119	continued	who died
+120	anecdote	sued Pfizer
+121	no-unit	,
+122	continued	alleging
+123	testimony	that Trovan was used without their informed consent
+124	no-unit	.
+125	continued	Pfizer eventually settled out of court in 2009
+126	continued	,
+127	continued	promising
+128	anecdote	to pay the Kano state government $75 million
+129	no-unit	.
+-1	par-sep	
+130	continued	For too long, the bodies of poor and vulnerable communities have been exploited
+131	assumption	to serve the medical fetishes of big pharmaceutical companies, research institutions and Western governments
+132	no-unit	.
+-1	par-sep	
+133	no-unit	Yet
+134	no-unit	,
+135	assumption	 there is a growing tide against this warped practice
+136	no-unit	.
+137	continued	In his 2014 Reith lecture series entitled 'The Future of Medicine', renowned surgeon, writer and public health researcher Dr Atul Gawande argued convincingly
+138	anecdote	that the well- being of a patient is more important than his/her "health"
+139	no-unit	.
+-1	par-sep	
+140	no-unit	Therefore	Modd-NU
+141	no-unit	,	Modd-NU
+142	continued	 the goal of medical practice should be "caring"
+143	continued	,
+144	continued	and
+145	assumption	not simply "curing"
+146	no-unit	.
+-1	par-sep	
+147	continued	In the age of Ebola, it appears
+148	continued	that the single-minded pursuit
+149	continued	to "cure"
+150	continued	has somehow superseded the Hippocratic Oath
+151	continued	to which doctors must adhere
+152	assumption	to "do no harm"
+153	no-unit	.
+154	continued	The sudden race
+155	continued	to find an antidote for Ebola
+156	continued	- a disease
+157	continued	that has been around since 1976
+158	continued	- must not serve as an excuse to experiment on patients
+159	continued	whose internal organs are at risk of
+160	assumption	shutting down
+161	no-unit	.
+-1	par-sep	
+162	assumption	Unethical drug testing must be matched with harsh punishment, now and after Ebola
+163	no-unit	.
+164	assumption	We must insist on a probe of the dubious treatment regime adopted by the Italian NGO Emergency, followed by criminal prosecution in the event of malpractice
+165	no-unit	.
+-1	par-sep	
+166	assumption	They must answer to patients at the Lakka treatment centre in Sierra Leone
+167	no-unit	.

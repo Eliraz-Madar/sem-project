@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="289" begin="0" end="3456" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="289" begin="0" end="21" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="289" begin="24" end="134" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="289" begin="136" end="223" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="289" begin="225" end="251" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="289" begin="254" end="257" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="289" begin="258" end="296" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="289" begin="298" end="379" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="289" begin="381" end="482" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="289" begin="484" end="589" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="289" begin="592" end="649" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="289" begin="651" end="654" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="289" begin="655" end="660" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="289" begin="661" end="727" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="289" begin="728" end="844" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="289" begin="847" end="856" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="289" begin="858" end="990" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="289" begin="992" end="1103" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="289" begin="1104" end="1107" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="289" begin="1108" end="1354" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="289" begin="1357" end="1369" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="289" begin="1371" end="1426" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="289" begin="1428" end="1455" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="289" begin="1458" end="1463" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="289" begin="1465" end="1541" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="289" begin="1543" end="1549" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="289" begin="1551" end="1742" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="289" begin="1744" end="1907" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="289" begin="1910" end="2046" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="289" begin="2049" end="2157" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="289" begin="2159" end="2173" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="289" begin="2175" end="2296" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="289" begin="2298" end="2354" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="289" begin="2355" end="2358" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="289" begin="2359" end="2391" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="289" begin="2394" end="2520" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="289" begin="2522" end="2588" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="289" begin="2590" end="2593" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="289" begin="2594" end="2649" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="289" begin="2652" end="2667" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="289" begin="2669" end="2740" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="289" begin="2741" end="2744" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="289" begin="2745" end="2775" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="289" begin="2780" end="2792" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="289" begin="2795" end="2847" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="289" begin="2848" end="2851" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="289" begin="2852" end="3046" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="289" begin="3049" end="3064" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="289" begin="3065" end="3068" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="289" begin="3069" end="3091" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="289" begin="3093" end="3214" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="289" begin="3217" end="3330" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="289" begin="3332" end="3440" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="289" begin="3443" end="3455" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="271" sofa="289" begin="0" end="3456" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/137-jebbushin2016goodbadandugly.txt" offsetInSource="0" documentSize="3456" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="296" sofa="289" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/137-jebbushin2016goodbadandugly.xmi" offsetInSource="0" documentSize="3456" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="279" sofa="289" begin="0" end="3456" lastUpdate="2014-12-16T21:14:14Z" url="http://www.foxnews.com/opinion/2014/12/16/jeb-bush-in-2016-good-bad-and-ugly/" portal="foxnews" authors="Douglas Schoen" articleSum="Should Jeb Bush make it to the general election he will be a compelling&amp;#10;candidate against the likely Democratic nominee, Hillary Clinton. The most&amp;#10;recent poll numbers show the race between them tightening, and I suspect the&amp;#10;campaign itself will reflect that reality.&amp;#10;&amp;#10;" title="Jeb Bush in 2016: The good, the bad and the ugly."/>
+    <cas:Sofa xmi:id="289" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="It's finally official.&#10;&#10;Jeb Bush announced Tuesday morning that he has set up an exploratory committee to pursue running for president. Virtually every person who takes this step ultimately throws his or her hat in the ring. It's only a matter of time.&#10;&#10;How should we assess Jeb Bush's candidacy?&#10;&#10;Polls show him at or near the top of the prospective Republican nominees for 2016. The recent McClatchy-Marist poll has Mitt Romney and Bush leading with 19 and 15 percent respectively. And a PPP poll has Bush ahead of Chris Christie, Mike Huckabee, Paul Ryan and both Rand Paul and Ted Cruz.&#10;&#10;Despite this, Bush by no means has an insurmountable lead. And while the Bush name for some is a positive and will help Jeb enormously, for others it is an unalterable negative both because of prior history, ideology and perceived performance in office.&#10;&#10;That said, there is one constituency that I fully expect to support Jeb Bush: the donors, bundlers and those who pursue independent expenditure. There' s every reason to believe that this community - the money community - will rally behind Bush's candidacy and given the importance of independent expenditure political action committees in the last presidential election, it's fair to assume that between his own campaign committee and outsiders, he will be the best funded candidate in the Republican field.&#10;&#10;Nevertheless,  it will be far from a cakewalk for Bush in the primary. His problems are three fold.&#10;&#10;First,  his ardent support for Common Core does not sit well with many in his party. Second,  he has come out in support of comprehensive immigration reform, a hot button issue today with the GOP and its supporters, especially in light of President Obama's executive action last month. And third, he's considered tax increases as part of an overall reform package to help balance the budget in the past - anathema to those that control the GOP today.&#10;&#10;For all these reasons, it may be hard for Tea Party Republicans and the right wing of the party more generally, to support his candidacy.&#10;&#10;This is not to say that Jeb Bush will not be smart enough to try to neutralize these potential disadvantages. He surely will. To this end, Bush's thoughtful and reasonable message at the Wall Street CEOs conference was a positive and uplifting one, exactly what the Republican Party needs to go mainstream and what the Tea Party itself abhors.&#10;&#10;Should Bush make the general election he will be a compelling candidate against the likely Democratic nominee, Hillary Clinton. The most recent poll numbers show the race between them tightening, and I suspect the campaign itself will reflect that reality.&#10;&#10;Put another way, both Jeb Bush and Hillary Clinton represent the center of their parties and both are practical politicians, if nothing else.&#10;&#10;They're both also smart and serious about the issues and we can expect, if they're the nominees, to have a thoughtful debate about America's future with the possibility of candidate agreement on a number of issues, something we haven't seen in decades.&#10;&#10;I know Jeb Bush and I know Hillary Clinton. They are both considerate people, committed to the broader interests of the American people regardless of political party.&#10;&#10;Jeb Bush's entry into the race prospectively gives the Republicans their strongest candidate and possible nominee. It also gives the American people the prospect of the best debate and dialogue we've had in a very long time.&#10;&#10;Welcome, Jeb."/>
+    <cas:View sofa="289" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 296 279"/>
+</xmi:XMI>

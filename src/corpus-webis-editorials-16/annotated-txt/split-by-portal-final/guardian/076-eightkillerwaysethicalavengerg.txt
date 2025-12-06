@@ -1,0 +1,222 @@
+0	title	Eight ways to kill your enemies with kindness.
+-1	par-sep	
+1	continued	They call
+2	testimony	it "the herpes of the craft world"
+3	no-unit	.
+4	continued	"They" being some Machiavellian Australians
+5	continued	who have launched a website
+6	continued	that lets
+7	anecdote	you anonymously ship glitter to your enemies
+8	no-unit	.
+9	continued	For just A$9.99 (?
+10	assumption	5), you can reduce grown men to fairy princesses and provide your frenemies with hours of vacuuming fun
+11	no-unit	.
+12	continued	For years, your victim will find specks of glitter everywhere
+13	assumption	they go
+14	no-unit	.
+15	assumption	They will serve as ineradicable sparkles of your vengeance
+16	no-unit	.
+17	no-unit	Best of all
+18	no-unit	,
+19	continued	you will be able
+20	continued	to exert great power without
+21	assumption	feeling great responsibility
+22	no-unit	.
+23	no-unit	I mean
+24	no-unit	,
+25	assumption	it's glitter, right?	m-question
+26	assumption	Who can stay mad at glitter?
+-1	par-sep	
+27	no-unit	But
+28	assumption	don't get too excited	imp
+29	no-unit	:
+30	assumption	ShipYourEnemiesGlitter.com has become a victim of its own success
+31	no-unit	.
+32	anecdote	The site launched on Monday and then crashed within hours because of the level of demand
+33	no-unit	.
+34	continued	It seems
+35	continued	there are an awful lot of people out there
+36	assumption	who have been waiting all their lives for a site offering glitter-based revenge with international delivery options
+37	no-unit	.
+38	anecdote	At the time of writing, the website was back up
+39	no-unit	,
+40	no-unit	but
+41	continued	all services were temporarily suspended
+42	continued	because
+43	continued	"you guys have a sick fascination with
+44	testimony	shipping people glitter"
+45	no-unit	.
+-1	par-sep	
+46	assumption	So disappointing
+47	no-unit	.
+48	continued	What
+49	continued	is an ethical avenger
+50	assumption	to do now?	m-question
+51	continued	Don't worry
+52	continued	,
+53	continued	while
+54	continued	our Australian friends get their glitter game back on track
+55	continued	,
+56	continued	here are some other ways
+57	continued	you can be kind
+58	other	to be cruel
+59	no-unit	.
+-1	par-sep	
+60	assumption	This is pretty much the glitter trick, just with lifestyle advice
+61	no-unit	.
+62	continued	At first your nemesis will be thrilled
+63	assumption	that you have signed them up to Goop, Gwyneth Paltrow's blog and email newsletter
+64	no-unit	.
+65	continued	They'll discover food allergies
+66	continued	they never knew
+67	assumption	they had!
+68	continued	They'll learn
+69	continued	how
+70	assumption	to crochet quinoa!
+71	assumption	Soon, however, the interminable emails will become a nuisance
+72	no-unit	.
+73	continued	Your nemesis will decide
+74	assumption	they've had enough
+75	no-unit	.
+76	continued	But no matter
+77	continued	how many times
+78	continued	they hit that unsubscribe button
+79	continued	,
+80	continued	they will find
+81	continued	trying
+82	continued	to consciously uncouple from the site
+83	assumption	to be nigh impossible
+84	no-unit	.
+85	continued	Somewhere deep inside their soul
+86	continued	,
+87	assumption	like a speck of glitter on otherwise spotless cashmere carpet, Gwyneth will be present
+88	no-unit	,
+89	no-unit	and
+90	assumption	she will be judging
+91	no-unit	.
+-1	par-sep	
+92	continued	As
+93	continued	Marx would have said
+94	continued	if
+95	continued	he'd ever come across a Starbucks
+96	continued	:
+97	assumption	caffeine is the amphetamine of the people
+98	no-unit	.
+99	assumption	It can traumatise the body and wreak havoc on the soul
+100	no-unit	.
+101	continued	You can read more in-depth reporting about this in this excellent Goop post: "Foods
+102	assumption	that cause pain."
+103	assumption	So save your caffeine-dependent foes from themselves via this simple but powerful caffeine trick
+104	no-unit	.
+105	assumption	Their adrenal glands will thank you for it
+106	no-unit	.
+107	assumption	Their sanity won't
+108	no-unit	.
+-1	par-sep	
+109	continued	Gosh!
+110	anecdote	You tell your selfie-obsessed frenemy
+111	no-unit	.
+112	continued	You have the sort of face
+113	anecdote	that could grace a thousand articles, advertisements, and corporate websites
+114	no-unit	.
+115	anecdote	Have you ever thought of a career as a stock photography model?
+116	continued	Having planted this lucrative seed in your narcissist-nemesis's mind
+117	continued	,
+118	continued	sit back and watch as their mugshots
+119	assumption	take on a life of their own
+120	no-unit	.
+121	continued	Perhaps the Guardian will use their photo
+122	continued	to illustrate an advice column headlined
+123	assumption	"I fantasise about group sex with old, obese men"
+124	no-unit	.
+125	continued	Or maybe they will pop up
+126	continued	,
+127	assumption	nestling a watermelon and a gun, in a Buzzfeed listicle of unexplainable stock photos
+128	no-unit	.
+129	assumption	The possibilities are endless
+130	no-unit	.
+-1	par-sep	
+131	assumption	A supposedly fun thing they will never do again
+132	no-unit	.
+-1	par-sep	
+133	continued	This revenge-hack kills two annoying birds with one stone by
+134	continued	using the power of niche dating websites
+135	continued	to find your nemesis the love
+136	assumption	they so richly deserve
+137	no-unit	.
+138	no-unit	If	cond
+139	assumption	they like bad boys	cond
+140	continued	,
+141	continued	I suggest meet-an-inmate
+142	continued	.
+143	assumption	com
+144	no-unit	.
+145	no-unit	If	cond
+146	continued	they find
+147	assumption	sharing difficult	cond
+148	no-unit	, then	cond
+149	assumption	connect them with an Ayn Rand enthusiast over at The Atlasphere
+150	no-unit	.
+151	continued	Or just find them a Sea Captain Date in the hope
+152	continued	that you'll never have
+153	assumption	to see them again
+154	no-unit	.
+155	continued	There'	Modd-NU
+156	assumption	s something for everyone online!
+-1	par-sep	
+157	continued	This is one of the most egregiously irritating things
+158	assumption	you can do to a person in the 21st century
+159	no-unit	.
+-1	par-sep	
+160	continued	But make sure
+161	assumption	they are also slightly passive-aggressive
+162	no-unit	.
+163	continued	"Silence
+164	continued	does not always mark wisdom,"
+165	testimony	said Samuel Taylor Coleridge
+166	no-unit	.
+167	continued	"Every
+168	continued	artist was first an amateur,"
+169	testimony	said Ralph Waldo Emerson
+170	no-unit	.
+171	assumption	The recipient will feel motivated, but also slightly denigrated
+172	no-unit	.
+-1	par-sep	
+173	continued	This is a long-term play
+174	continued	that requires
+175	continued	you discovering some sort of unpleasant fact
+176	continued	that you can then prove with equations and name after someone
+177	assumption	you dislike
+178	no-unit	.
+179	no-unit	However
+180	no-unit	,
+181	continued	assuming
+182	assumption	you can do all the above
+183	no-unit	,
+184	assumption	you will be rewarded via the Third Law of Spiteful Science
+185	no-unit	:
+186	assumption	a body, once immortalised by science, will feel grateful for this afterlife, yet mortified by their legacy
+187	no-unit	.
+188	continued	Take Murphy, for example
+189	continued	,
+190	continued	forever associated with the idea that anything
+191	continued	that can go wrong
+192	continued	,
+193	anecdote	will go wrong
+194	no-unit	.
+195	continued	Not to mention Pavlov's poor dog
+196	continued	,
+197	anecdote	whose psychic secretions will never be forgotten
+198	no-unit	.
+-1	par-sep	
+199	assumption	The above examples are for illustrative purposes only
+200	no-unit	:
+201	assumption	please do not try any of these at home
+202	no-unit	.
+203	no-unit	Specifically
+204	no-unit	,
+205	no-unit	if	cond
+206	continued	I find
+207	assumption	myself suddenly signed up to any Goop newsletters	cond
+208	assumption	I will respond swiftly and with glitter	cond
+209	no-unit	.

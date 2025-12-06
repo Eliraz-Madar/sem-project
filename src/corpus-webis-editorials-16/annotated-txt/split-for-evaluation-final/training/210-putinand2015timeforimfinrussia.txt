@@ -1,0 +1,138 @@
+0	title	Putin and 2015: Time for the IMF in Russia.
+-1	par-sep	
+1	continued	The last thing
+2	continued	a beleaguered Vladimir Putin will want
+3	continued	to hear
+4	continued	is
+5	continued	that Russia has now reached the stage
+6	continued	where
+7	assumption	it desperately needs an IMF-supported economic adjustment program
+8	no-unit	.
+9	continued	Without such a program, it is difficult
+10	continued	to see
+11	continued	how
+12	assumption	Russia can regain domestic and international confidence in the management of its economy
+13	no-unit	.
+14	continued	Absent the IMF	Modd-NU
+15	continued	,	Modd-NU
+16	continued	it is also difficult
+17	continued	to see
+18	continued	how
+19	continued	Russia will be able
+20	assumption	to avoid the imposition of damaging capital controls on its economy
+21	no-unit	.
+-1	par-sep	
+22	continued	There can be no denying
+23	continued	that Russian policymakers were totally blindsided by the collapse in international oil prices from around $110 a barrel in midsummer
+24	assumption	to $50 a barrel at present
+25	no-unit	.
+26	continued	All too likely this will prove
+27	assumption	to have been a very costly lapse in economic policy judgment, particularly considering that energy accounts for around two-thirds of Russian exports and around half of its tax revenues
+28	no-unit	.
+-1	par-sep	
+29	assumption	A dramatic drop in international oil prices would have been difficult for Russia in normal times
+30	no-unit	,
+31	no-unit	but
+32	assumption	these are hardly normal times for Russia
+33	no-unit	,
+34	no-unit	since
+35	anecdote	effective financial sanctions are being imposed on it in the context of the ongoing Ukrainian crisis
+36	no-unit	.
+37	statistics	Those sanctions have precipitated more than $100 billion in capital flight from Russia since the start of this year
+38	no-unit	.
+39	continued	They are also seriously restricting the ability of Russian corporations
+40	continued	to refinance their large U.S  dollar debts
+41	assumption	coming due
+42	no-unit	.
+-1	par-sep	
+43	continued	In	Modd-NU
+44	continued	responding to a burgeoning balance of payments crisis	Modd-NU
+45	continued	,	Modd-NU
+46	continued	Russian policymakers appear
+47	assumption	to have made every mistake in the book
+48	no-unit	.
+49	continued	The central bank was painfully slow
+50	continued	to use its large international reserves or interest rate policy
+51	assumption	to calm market fears about the currency's stability
+52	no-unit	.
+53	continued	Compounding matters	Modd-NU
+54	continued	,	Modd-NU
+55	continued	the central bank has managed
+56	continued	to convey the impression
+57	assumption	that the Russian government stands fully behind the Russian corporate sector's more than $600 billion in foreign currency debt
+58	no-unit	.
+-1	par-sep	
+59	continued	Worse yet, the central bank's actions have not been backed up by any serious adjustment to the government's spending plans, despite the fact
+60	statistics	that the oil price now is around 50 percent below the level assumed in the government's budget
+61	no-unit	.
+62	no-unit	Similarly	Modd-NU
+63	no-unit	,	Modd-NU
+64	continued	 there have been no proposals
+65	assumption	to reform the insidious interconnection between the government and the corporate sectors
+66	no-unit	,
+67	assumption	which has seriously undermined confidence in the management of the economy
+68	no-unit	.
+-1	par-sep	
+69	continued	With the government	Modd-NU
+70	continued	seemingly at sea, the Russian ruble
+71	continued	,
+72	statistics	has lost almost half of its value since the start of the year
+73	no-unit	.
+74	continued	This is something
+75	assumption	that Russia can ill-afford
+76	no-unit	,
+77	continued	considering	Modd-NU
+78	statistics	that inflation is already over 9 percent
+79	no-unit	and
+80	assumption	that the Russian people are all too familiar with the pain associated with very high inflation rates
+81	no-unit	.
+-1	par-sep	
+82	assumption	The public is already starting to hoard groceries
+83	continued	before	Modd-NU
+84	assumption	they get more expensive
+85	no-unit	,
+86	no-unit	and
+87	assumption	people are rushing to their ATMs
+88	no-unit	while
+89	assumption	the going is still good
+90	no-unit	.
+91	continued	It would seem
+92	continued	to be only a matter of time
+93	continued	before
+94	continued	they start
+95	assumption	running on their banks
+96	no-unit	.
+-1	par-sep	
+97	continued	Experience amply suggests
+98	continued	that it is very hard
+99	continued	to regain economic confidence
+100	continued	once
+101	assumption	it has been lost
+102	no-unit	.
+103	continued	The countries in Russia's dire economic circumstances
+104	continued	that have succeeded
+105	continued	have done so in the context of a carefully coordinated economic adjustment program
+106	assumption	that had the imprimatur of an outside independent agency like the IMF
+107	no-unit	.
+-1	par-sep	
+108	continued	For Vladimir Putin
+109	continued	to successfully approach the IMF	Modd-NU
+110	continued	,	Modd-NU
+111	continued	he would have	Modd-NU
+112	continued	to back down on his Ukrainian adventure
+113	assumption	to win Western support
+114	no-unit	.
+-1	par-sep	
+115	continued	Considering	Modd-NU
+116	continued	that to be highly unlikely	Modd-NU
+117	no-unit	,
+118	assumption	Russians should brace themselves for a rough economic ride next year
+119	no-unit	.
+120	continued	For not only is
+121	continued	it all too likely
+122	continued	that Russia will experience
+123	assumption	a deep economic recession and double-digit inflation
+124	no-unit	.
+125	continued	It will also be subjected to capital controls
+126	assumption	that will further distort Russia's already highly distorted economy
+127	no-unit	.

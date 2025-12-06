@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4217" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="170" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="172" end="207" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="210" end="346" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="349" end="452" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="454" end="532" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="534" end="586" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="588" end="597" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="599" end="626" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="629" end="679" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="682" end="863" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="865" end="879" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="881" end="888" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="890" end="1002" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1004" end="1129" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1131" end="1134" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1135" end="1177" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1180" end="1327" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1329" end="1433" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1435" end="1542" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1544" end="1595" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1597" end="1642" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1645" end="1747" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1749" end="1800" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1803" end="1937" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1939" end="2043" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2045" end="2130" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2133" end="2186" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2194" end="2246" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2248" end="2307" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2310" end="2316" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2317" end="2384" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2389" end="2424" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2430" end="2435" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2436" end="2515" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2520" end="2530" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2533" end="2666" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2668" end="2720" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2723" end="2845" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2848" end="2894" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2896" end="3012" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3014" end="3042" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3044" end="3092" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3095" end="3221" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3224" end="3327" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3328" end="3333" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3334" end="3363" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3365" end="3430" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3434" end="3446" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3448" end="3489" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3492" end="3634" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3637" end="3785" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3787" end="3860" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3863" end="4094" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4095" end="4129" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4131" end="4216" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="288" sofa="1" begin="0" end="4217" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/198-pariswhyobamapresencesundaywou.txt" offsetInSource="0" documentSize="4217" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="296" sofa="1" begin="0" end="4217" lastUpdate="2015-01-15T21:45:40Z" url="http://www.foxnews.com/opinion/2015/01/15/paris-why-obama-presence-sunday-would-have-been-height-hypocrisy/" portal="foxnews" authors="Michael Youssef" articleSum="Commentators from both sides of the political aisle have discussed the&amp;#10;“optics” of President Obama’s absence from the massive, anti-terrorism march&amp;#10;in Paris on January 11. Sadly, they’ve all missed the point.&amp;#10;&amp;#10;" title="Paris: Why Obama's presence Sunday would have been height of hypocrisy."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Commentators from both sides of the political aisle have discussed the &quot;optics&quot; of President Obama's absence from the massive, anti-terrorism march in Paris on January 11. Sadly, they've all missed the point.&#10;&#10;It would have represented a glaring hypocrisy for Mr  Obama, or any highly- ranked official from his administration, to attend the rally.&#10;&#10;A sad fact about our pundit class, conservative or progressive, is that they too often miss the obvious. That condition infects both critics and supporters of the Obama administration. They simply cannot connect the dots with this leader. After all,  he is an unusual president.&#10;&#10;So let me draw a line between the unconnected dots.&#10;&#10;Just two years ago, the administration blamed the killing of the American ambassador to Libya, and three security personnel, on a video that negatively depicted the prophet Muhammad. Remember that?&#10;&#10;You see, it was an unknown, bigoted Christian man from California who single- handedly caused the death of our ambassador. According to the administration, the film by Nakoula Basseley Nakoulahad sparked spontaneous riots to defend Muhammad's honor, and our ambassador got caught up in the mayhem.&#10;&#10;Mr  Obama called the filmmaker a &quot;shadowy character,&quot; and in front of the United Nations and the world, blamed the attack on the &quot;disgusting&quot; movie. At that podium, he declared that &quot;the future must not belong to those who slander the prophet of Islam.&quot;&#10;&#10;Congressional hearings later proved that the violence in Benghazi was due to a coordinated terrorist attack, and had nothing to do with a protest over the movie. But administration officials stuck to the lie.&#10;&#10;Just a few weeks after the attack, the filmmaker was arrested on parole charges by federal authorities, probably taking orders from Attorney General Holder.&#10;&#10;Now fast-forward to the rally in Paris -- the one that Holder would not deem worthy to attend, even though he was in Paris at the time. The one that President Obama, nor Vice President Biden, nor Secretary of State Kerry would attend either, even though other major world leaders rushed to Paris to demonstrate their solidarity.&#10;&#10;Let me draw the line between the dots a little darker :.&#10;&#10;Q: Who did the terrorists attack in Paris on January 7?&#10;&#10;A: A satirist magazine that had mocked Christians for years.&#10;&#10;Q: Why did the terrorists kill those specific journalists and cartoonists?&#10;&#10;A: For a mocking portrayal of Muhammad.&#10;&#10;Q: Isn't that the same issue that had enraged the White House after the Benghazi attack?&#10;&#10;A: You betcha.&#10;&#10;The &quot;bad optics&quot; that so many pundits are complaining about actually fit perfectly into the philosophical mindset of this White House. They do not want us to insult their Islamist friends.&#10;&#10;In the eyes of the Obama administration, the jihadists in Libya and France committed the same savagery for the same reason.&#10;&#10;Give the administration credit for consistency. They're not about to appear sympathetic to a French cartoonist when they had condemned the filmmaker from California. Having persecuted the latter, they weren't about to march to defend the former.&#10;&#10;What represents bad optics to most civilized people's worldview represents good optics to the Obama administration's worldview.&#10;&#10;It's all too clear that America and the world have no hope of stopping these never-ending barbaric acts until a Reagan-like figure steps up. A leader who will honestly and courageously define such terrorism as it really is: An Islamist's interpretation of the Koran.&#10;&#10;That's the definition recently used by President el-Sisi of Egypt, a man of far greater honesty and courage than America's current counterpart.&#10;&#10;Only with an American leader of Reagan-like strength will we be able to develop a plan and the determination to defeat the dark ideology of Islamism, just like Reagan managed to defeat the Soviet Union and its evil ideology.&#10;&#10;Dr  Michael Youssef is the founding pastor of the Church of the Apostles in Atlanta, Georgia and the author of over 30 books, including his most recent, &quot;Jesus, Jihad &amp; Peace: What Does Bible Prophecy Say About World Events Today?&quot; (Feb  17, 2015, Worthy Publishers). Find him online at www.michaelyoussef.com and follow him on Twitter: @MichaelAYoussef."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 296"/>
+</xmi:XMI>

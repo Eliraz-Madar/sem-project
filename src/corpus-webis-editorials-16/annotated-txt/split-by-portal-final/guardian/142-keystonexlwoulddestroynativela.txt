@@ -1,0 +1,105 @@
+0	title	Keystone XL would destroy our native lands. This is why we fight.
+-1	par-sep	
+1	continued	The Oceti Sakowin, the traditional name for my Dakota, Lakota, and Nakota peoples, are rising up
+2	assumption	to protect Mother Earth
+3	no-unit	.
+4	continued	We are mobilizing a resistance
+5	continued	that could prove
+6	continued	to be the game changer in the fight
+7	assumption	to stop the proposed Keystone XL pipeline and help shut down the tar sand projects in northern Alberta
+8	no-unit	.
+-1	par-sep	
+9	assumption	Our resistance to the Keystone XL pipeline and other tar sand infrastructure is grounded in our inherent right to self-determination as indigenous peoples
+10	no-unit	.
+11	continued	As the original caretakers, we know
+12	continued	what
+13	continued	it will take
+14	continued	to ensure
+15	continued	these lands are available for generations
+16	assumption	to come
+17	no-unit	.
+18	assumption	This pipeline will leak
+19	no-unit	,
+20	assumption	it will contaminate the water
+21	no-unit	.
+22	assumption	It will encourage greater tar sands development
+23	no-unit	,
+24	assumption	which, in turn, will increase carbon emissions
+25	no-unit	.
+-1	par-sep	
+26	continued	As Oceti Sakowin people, we cannot stand silent in the face of the potential ecological disaster
+27	continued	that the pipeline promises our homelands, along with our brothers and sisters of the Cree and Dene First Nations in Alberta
+28	continued	,
+29	continued	where	Modd-NU
+30	assumption	this carbon-intensive dirty oil comes from	Modd-NU
+31	no-unit	.
+32	continued	Our acts of resistance to the Keystone XL pipeline are a perfect example of
+33	assumption	us wising up to the ongoing modern colonialist game
+34	no-unit	,
+35	continued	and a proactive step toward
+36	assumption	protecting future generations from the worst impacts of climate change
+37	no-unit	.
+-1	par-sep	
+38	continued	As indigenous peoples, as Oceti Sakowin, we were handed down the original teachings on
+39	continued	how
+40	assumption	to live in balance with Mother Earth
+41	no-unit	.
+42	continued	We must see all aspects of life as related
+43	continued	,
+44	assumption	to respect the feminine principle of creation and to maintain a sustainable relationship with the land
+45	no-unit	.
+46	continued	These tenets are antithetical to the extractive economy
+47	assumption	we are faced with today
+48	no-unit	.
+49	assumption	The land, air, and water are commodified
+50	no-unit	.
+51	assumption	Mother Earth is being drilled, fracked, clear-cut, and destroyed with such brutality
+52	no-unit	.
+53	assumption	We are on the brink of climate catastrophe
+54	no-unit	.
+55	continued	In order	Modd-NU
+56	continued	to avoid drastic climate change	Modd-NU
+57	continued	,	Modd-NU
+58	assumption	we need a moratorium on fossil fuel development
+59	no-unit	and
+60	continued	we need
+61	assumption	to invest in a zero carbon economy
+62	no-unit	:
+63	assumption	our original teachings demand no less than this
+64	no-unit	.
+-1	par-sep	
+65	assumption	The lack of proper consultation with tribal nations along the proposed route of the Keystone XL pipeline violates basic tenets of US Federal Indian Law and the principle of free, prior and informed consent recognized in international law
+66	no-unit	.
+67	continued	I applaud President Obama's decision
+68	assumption	to veto any Congressional Keystone XL bill
+69	no-unit	,
+70	no-unit	but
+71	continued	I also encourage
+72	continued	him to respect indigenous people's self- determination and our need
+73	continued	to protect Mother Earth by
+74	assumption	rejecting the presidential permit for the KXL pipeline, too
+75	no-unit	.
+-1	par-sep	
+76	continued	I urge our allies
+77	continued	to stand with Native people, heed our call for systemic change to
+78	continued	how
+79	continued	we create
+80	continued	and utilize energy and the policies
+81	continued	that regulate both
+82	continued	,
+83	continued	support our right to self-determination, and join our movement
+84	assumption	to protect the territorial integrity and sacredness of Mother Earth
+85	no-unit	.
+86	assumption	Reject the Keystone XL pipeline	imp
+87	no-unit	.
+88	assumption	Shut down the tar sands	imp
+89	no-unit	.
+90	continued	Let's put an immense collective effort forward
+91	continued	to ensure
+92	continued	that each of our future generations have a healthier, far more sustainable world than
+93	continued	what
+94	continued	we have
+95	assumption	today	imp
+96	no-unit	.
+97	assumption	For that, my relatives, would be our greatest triumph
+98	no-unit	.

@@ -1,0 +1,189 @@
+0	title	TV debates: why broadcasters should give Cameron the empty chair treatment.
+-1	par-sep	
+1	assumption	In a short time, television debates have become a vital part of our democracy
+2	no-unit	.
+3	statistics	They were watched by tens of millions of people in the 2010 general election campaign
+4	no-unit	,
+5	no-unit	and
+6	continued	the Scottish referendum campaign would have been poorer without the two showdowns between Alex Salmond
+7	continued	and
+8	assumption	Alistair Darling live across all media platforms
+9	no-unit	.
+10	continued	Now is not the time
+11	continued	to retreat from the kind of broadcasting
+12	continued	that engages so many voters and illuminates
+13	continued	the choices
+14	assumption	they face
+15	no-unit	.
+-1	par-sep	
+16	continued	Naturally,
+17	assumption	I hope all the major parties take part in the 2015 election debates
+18	no-unit	.
+19	assumption	That will rightly remain the aim of the broadcasters
+20	no-unit	. But	Modd-NU
+21	continued	I believe
+22	continued	they should be resolute in the face of a refusal by one party
+23	assumption	to take part
+24	no-unit	:
+25	assumption	the empty chair, or the deserted lectern, should be an option
+26	no-unit	.
+-1	par-sep	
+27	anecdote	The BBC guidelines do not specifically cover a national leaders' debate
+28	no-unit	,
+29	no-unit	but
+30	continued	the principles
+31	continued	they set out
+32	continued	argue not just
+33	assumption	that they can wheel out the empty chair	Modd-NU
+34	no-unit	but	Modd-NU
+35	assumption	that they should
+36	no-unit	.
+37	continued	On general output, BBC published
+38	continued	editorial policy is
+39	testimony	that one reluctant participant cannot stop an item
+40	no-unit	:
+41	continued	"The refusal of an individual or an organisation
+42	continued	to make a contribution
+43	continued	should not be allowed
+44	testimony	to act as a veto on the appearance of other contributors."
+-1	par-sep	
+45	assumption	That is confirmed in the various election guidelines
+46	no-unit	,
+47	no-unit	where
+48	continued	over the years the ability of one awkward candidate
+49	continued	to stop a broadcast
+50	assumption	has been removed
+51	no-unit	.
+52	assumption	And the BBC and other broadcasters do use the empty chair, albeit on less high-profile occasions
+53	no-unit	:
+54	no-unit	if	cond
+55	continued	a news maker is unwilling
+56	assumption	to face the cameras	cond
+57	no-unit	,	cond
+58	continued	best practice is
+59	assumption	to say so and to cover the topic anyway
+60	no-unit	.
+61	continued	As far back as 1987
+62	continued	,
+63	continued	when
+64	continued	I was Today's political producer
+65	continued	,
+66	anecdote	we empty-chaired Labour in a campaign debate on defence - to the fury of their leadership
+67	no-unit	.
+68	no-unit	But
+69	continued	they had been given every opportunity
+70	continued	to take part
+71	continued	and had chosen
+72	anecdote	not to
+73	no-unit	,
+74	no-unit	so
+75	continued	we went ahead with the other parties and told our listeners
+76	continued	what
+77	anecdote	had happened
+78	no-unit	.
+-1	par-sep	
+79	continued	There is in this current row a legitimate argument about fairness and about
+80	assumption	who takes part
+81	no-unit	.
+82	continued	The arid bureaucratic view would be
+83	assumption	that this should be based on the results of the 2010 general election and therefore be a three-way debate between David Cameron, Ed Miliband and Nick Clegg
+84	no-unit	.
+85	assumption	The rise of Ukip and the surge in multi-party politics have muddied the waters
+86	no-unit	,
+87	no-unit	and
+88	continued	the broadcasters are having
+89	assumption	to be more flexible
+90	no-unit	,
+91	no-unit	and
+92	continued	I think
+93	assumption	the Greens should be somewhere in the mix
+94	no-unit	.
+-1	par-sep	
+95	no-unit	However	Modd-NU
+96	no-unit	,	Modd-NU
+97	continued	 I believe
+98	continued	we can trust the BBC, ITV and Sky
+99	continued	to come up with the right format and a proposal
+100	assumption	that offers the appropriate levels of exposure to all the parties in the UK across the whole campaign
+101	no-unit	.
+102	continued	It is for them
+103	continued	,
+104	continued	with the appropriate regulators, to make that judgment and not for individual politicians to seek
+105	assumption	to exclude or include their opponents
+106	no-unit	.
+-1	par-sep	
+107	continued	It is, in any case, inevitable
+108	assumption	that some debates of some kind will happen
+109	no-unit	.
+110	continued	The Farage v Clegg encounter just ahead of the European election campaign was an example of the asymmetry
+111	assumption	that may now happen
+112	no-unit	:
+113	assumption	it was not part of a formal coverage plan
+114	no-unit	,
+115	no-unit	but
+116	continued	it was compelling
+117	assumption	viewing for anyone interested in politics and millions of people tuned in
+118	no-unit	.
+119	continued	The digital debate proposed
+120	assumption	by the Guardian, Telegraph and Google is one viable alternative
+121	no-unit	;
+122	no-unit	and
+123	continued	there is nothing
+124	continued	to stop anyone hiring a hall in Manchester and getting Miliband and Clegg
+125	assumption	to debate there
+126	no-unit	.
+127	continued	I guarantee
+128	assumption	the broadcasters would turn up
+129	no-unit	,
+130	no-unit	and
+131	continued	it is significant
+132	continued	that the opposition parties are willing
+133	assumption	to take part in debates even without the prime minister
+134	no-unit	.
+-1	par-sep	
+135	assumption	The broadcasters may, possibly, face a legal challenge about the allocation of national airtime
+136	no-unit	,
+137	no-unit	but
+138	continued	in the court of public opinion it would be a brave act
+139	continued	to try
+140	continued	to close down a debate
+141	continued	in which you have been invited
+142	continued	to take part
+143	continued	but have chosen
+144	assumption	not to
+145	no-unit	.
+-1	par-sep	
+146	continued	I'm pleased
+147	continued	to say
+148	continued	that I don't sense
+149	assumption	the broadcasters are wavering
+150	no-unit	,
+151	no-unit	and
+152	continued	they are prepared
+153	assumption	to be tough
+154	no-unit	.
+155	assumption	They are right
+156	no-unit	-
+157	continued	now is the time
+158	assumption	to hold firm
+159	no-unit	.
+160	continued	At a time of lack of faith in politicians, it would be the worst option
+161	continued	to allow game-playing
+162	continued	to block a format
+163	assumption	that the public find valuable
+164	no-unit	.
+165	continued	Electors have a right
+166	assumption	to see their potential prime ministers live and unfiltered and at length
+167	no-unit	.
+168	continued	Those
+169	continued	who are willing
+170	continued	to put themselves on the line
+171	continued	should be allowed
+172	assumption	to do so
+173	no-unit	.
+174	continued	Those
+175	continued	who don't
+176	continued	can watch at home and see
+177	continued	what
+178	assumption	an empty chair looks like over 90 minutes of primetime television
+179	no-unit	.

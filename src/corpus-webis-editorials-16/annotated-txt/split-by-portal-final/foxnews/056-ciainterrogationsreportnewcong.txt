@@ -1,0 +1,218 @@
+0	title	CIA interrogations report: New Congress must tackle how to get intelligence right.
+-1	par-sep	
+1	continued	As	Modd-NU
+2	continued	I read news reports
+3	anecdote	detailing the Senate Committee Report on the CIA interrogation program after the September 2001 terrorist attacks
+4	no-unit	,
+5	continued	I concluded
+6	continued	there are several recurring problems to this latest effort
+7	anecdote	to govern our national intelligence agencies
+8	no-unit	.
+-1	par-sep	
+9	continued	As an old man, I have had
+10	continued	the opportunity to have first-hand exposure to how complex
+11	continued	it is for Congress
+12	continued	or
+13	continued	even
+14	anecdote	the White House to assert control over these vital intelligence activities
+15	no-unit	.
+-1	par-sep	
+16	continued	After	Modd-NU
+17	continued	there were revelations in the 60's
+18	continued	that the CIA had engaged in a variety of activities
+19	continued	that were highly questionable including efforts
+20	assumption	to kill Fidel Castro and others
+21	no-unit	,
+22	continued	the Carter administration reacted and went through the kind of political process
+23	assumption	that many are urging should be done today
+24	no-unit	.
+-1	par-sep	
+25	continued	In an attempt	Modd-NU
+26	continued	to purge the agency of its tendency	Modd-NU
+27	continued	to use nefarious individuals	Modd-NU
+28	continued	to carry out some of its covert projects	Modd-NU
+29	continued	,	Modd-NU
+30	continued	the CIA was directed
+31	continued	to refuse to associate with any persons
+32	assumption	who could not meet the test of good character
+33	no-unit	.
+-1	par-sep	
+34	continued	One CIA officer told me
+35	continued	how
+36	anecdote	absurd that directive was
+37	no-unit	.
+38	continued	"We are trying
+39	continued	to get
+40	continued	people to betray their governments and to lie and cheat on our behalf
+41	continued	.
+42	continued	You cannot expect
+43	testimony	us to find those people in the front pew at the local churches."
+44	assumption	Perhaps the directive was well-intentioned
+45	no-unit	but
+46	assumption	it made no sense
+47	no-unit	.
+-1	par-sep	
+48	continued	Richard Helms, the CIA head from 1966 to 1973
+49	continued	,
+50	continued	whom I knew well and admired greatly
+51	continued	,
+52	continued	told me of his personal problems
+53	continued	when
+54	anecdote	he was indicted by the Carter Justice Department for perjury
+55	no-unit	.
+56	continued	In testimony he gave to the Congress	Modd-NU
+57	continued	,	Modd-NU
+58	continued	Helms denied
+59	testimony	under oath his agency had been involved in the overthrow of the Allende government in Chile, an action ordered by President Nixon
+60	no-unit	.
+-1	par-sep	
+61	continued	Helms told me
+62	continued	he was following instructions
+63	anecdote	he had been given repeatedly by various Senators including such powerful men as Senators Richard Russell and Walter George to the effect
+64	continued	that if
+65	continued	he were ever asked at an open hearing
+66	continued	a question the answer to which "would put any of our people at risk"
+67	continued	he should feel free
+68	continued	to protect the secrets
+69	continued	in whatever manner
+70	testimony	he wished
+71	no-unit	.
+72	continued	Of course Helms knew of many instances
+73	continued	when
+74	assumption	he and others in the Agency had relied on that authority
+75	no-unit	.
+-1	par-sep	
+76	anecdote	Helms was defended by the powerful Washington lawyer, Edward Bennett Williams
+77	no-unit	and
+78	assumption	the case against Helms was quickly resolved
+79	continued	when	Modd-NU
+80	continued	Williams explained to the Justice Department his plan
+81	continued	to have
+82	continued	Helms take the stand and recite all the covert programs
+83	anecdote	that had been protected by various forms of prevarications by intelligence officials
+84	no-unit	.
+-1	par-sep	
+85	no-unit	Of course
+86	assumption	no such trial in public made any sense
+87	no-unit	and
+88	continued	the danger to ongoing intelligence activities of testimony such as Williams would have had
+89	continued	Helms provide was so great the ill
+90	continued	-
+91	assumption	advised indictment of Helms resulted only in a slap on the wrist
+92	no-unit	.
+93	continued	Williams made a deal
+94	anecdote	in which Helms pled guilty to a misdemeanor with no punishment
+95	no-unit	.
+96	no-unit	Later
+97	no-unit	,
+98	assumption	 President Ronald Reagan gave Helms the National Intelligence Medal as an obvious act of apology
+99	no-unit	.
+-1	par-sep	
+100	continued	Perjury is not
+101	continued	to be condoned and lying
+102	continued	before
+103	assumption	the Congress is criminal conduct
+104	no-unit	.
+105	assumption	But the intelligence world involves subtle issues
+106	no-unit	.
+107	no-unit	If
+108	continued	we want
+109	assumption	to have a major intelligence effort
+110	no-unit	,
+111	continued	there are clear costs
+112	assumption	to be accepted
+113	no-unit	.
+114	continued	One of them is
+115	continued	that much of the necessary supervision by Congress has
+116	assumption	to be done with deft caution
+117	no-unit	.
+118	assumption	It can hardly be conducted in open hearings
+119	no-unit	.
+-1	par-sep	
+120	continued	Alan Dershowitz, the Harvard Law Professor and prominent civil libertarian, contends torture
+121	continued	to save
+122	continued	lives should be permitted as long
+123	continued	as
+124	testimony	there are rigorous procedural safeguards
+125	no-unit	.
+126	continued	He points out
+127	continued	the Israelis have used
+128	testimony	torture for years with apparent success
+129	no-unit	.
+130	continued	Getting information from unwilling prisoners
+131	assumption	cannot be done without some risks to civilized process
+132	no-unit	.
+133	assumption	It can be a dirty game
+134	no-unit	.
+-1	par-sep	
+135	anecdote	I once visited Vice President Walter Mondale at his White House office
+136	continued	where
+137	anecdote	he served under President Carter from 1977 to 1981
+138	no-unit	.
+139	continued	His desk was piled high with documents
+140	continued	he said
+141	anecdote	were mainly reports from the CIA
+142	no-unit	.
+143	anecdote	He volunteered his frustration at the then weaknesses at the CIA
+144	no-unit	.
+-1	par-sep	
+145	continued	He told me
+146	continued	he had come
+147	continued	to regret
+148	continued	he had been such a vigorous supporter of the gutting of that agency
+149	continued	that followed the suggestions of the so-called Church Committee
+150	testimony	on which Mondale had served as a Senator
+151	no-unit	.
+152	continued	His comment was an isolated one and
+153	anecdote	I merely listened
+154	no-unit	.
+155	no-unit	But
+156	assumption	the effects of the Church Committee recommendations were damaging to the CIA
+157	no-unit	and
+158	assumption	the remedial work took years
+159	no-unit	.
+-1	par-sep	
+160	continued	Every forty years
+161	continued	we may have
+162	continued	to endure periodic reports like those
+163	continued	produced under Senators Church and Feinstein
+164	assumption	that represent well intentioned reviews of the intelligence community
+165	no-unit	.
+166	continued	The suggested reforms speak of
+167	assumption	following our sense of justice and fairness and civility
+168	no-unit	.
+169	assumption	The problem is obvious
+170	no-unit	:
+171	assumption	Our enemies do not play fair
+172	no-unit	and
+173	common-ground	war is Hell
+174	no-unit	.
+175	assumption	Any reforms of the intelligence universe cannot easily be effected
+176	no-unit	.
+-1	par-sep	
+177	assumption	The idea of a transparent intelligence agency is an inherent contradiction
+178	no-unit	.
+179	continued	Moreover how
+180	continued	can Congress talk openly of reforms without
+181	assumption	damaging our intelligence efforts?
+182	continued	And politicians are among those least likely
+183	continued	to be willing
+184	continued	to accept the secrecy
+185	continued	that is at the core of any well managed intelligence
+186	assumption	agency
+187	no-unit	.
+188	continued	Can we imagine a Congress
+189	assumption	that can keep the secrets?
+-1	par-sep	
+190	continued	The new flurry of attacks on the intelligence community -- harmful and unnecessary-- will not have any more lasting impact
+191	continued	than
+192	assumption	did the indictment of Helms or the work of the Church Committee
+193	no-unit	.
+194	continued	But there should be some quiet and thoughtful debate within our Congress about
+195	continued	how
+196	assumption	it can supervise these vital intelligence programs
+197	no-unit	.
+198	no-unit	After all
+199	no-unit	,
+200	assumption	 our national intelligence work is existential
+201	no-unit	.

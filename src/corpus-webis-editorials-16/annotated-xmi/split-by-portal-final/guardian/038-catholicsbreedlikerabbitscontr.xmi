@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3544" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="52" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="54" end="191" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="193" end="276" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="279" end="364" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="366" end="485" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="487" end="655" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="658" end="787" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="789" end="792" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="793" end="933" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="935" end="943" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="948" end="1030" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1032" end="1153" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1156" end="1318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1320" end="1323" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1324" end="1455" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1458" end="1711" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1713" end="1737" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1739" end="1815" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1817" end="2087" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="2089" end="2246" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="2249" end="2431" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="2433" end="2437" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="2439" end="2459" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2461" end="2627" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2629" end="2690" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2692" end="2787" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2790" end="2947" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2949" end="2994" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2996" end="2999" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="3000" end="3029" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="3031" end="3093" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="3095" end="3098" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="3099" end="3151" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="3153" end="3194" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="3195" end="3274" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="3276" end="3314" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="3316" end="3319" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3320" end="3347" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3348" end="3355" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3356" end="3414" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3416" end="3428" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3432" end="3468" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3470" end="3508" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3510" end="3513" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3515" end="3543" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="238" sofa="1" begin="0" end="3544" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/038-catholicsbreedlikerabbitscontr.txt" offsetInSource="0" documentSize="3544" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="246" sofa="1" begin="0" end="3544" lastUpdate="2015-01-20T16:57:22Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/catholics-breed-like-rabbits-contraception-con-pope" portal="guardian" authors="Joanna Moorhead" articleSum="Joanna Moorhead: Whatever the pope says, the vast majority of us have already voted with our gonads and ignored the church’s nonsense" title="So Catholics needn't breed like rabbits. Then let's drop the contraception con."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Clarity has never been a strong point at the Vatican. This is, after all, an institution that has chosen for centuries to communicate with its followers via erudite documents written in Latin, which must be first translated and then interpreted for us, the faithful in the pew.&#10;&#10;But even by its own standards, this week's papal pronouncements have been bewildering. We thought that, whatever else wasn't clear, one thing we did know was that the church doesn't approve of contraception. But during his in- flight press conference en route home from his Philippines trip, we hear Pope Francis telling us that we don't after all have to breed &quot;like rabbits&quot;.&#10;&#10;What he is saying, it transpires, is that Catholics should use one of several &quot;natural&quot;, church-approved methods of contraception. But this it seems to me only serves to focus attention on something illogical at the heart of the church's traditional teaching on birth control, which is: if the point is that God should have space to &quot;intervene&quot; and make a pregnancy happen, surely He/She can intervene just as effectively via a torn condom or a missed pill as via a mistaken calendar calculation.&#10;&#10;One of Pope Francis's strongest messages during his Philippines trip seemed to be that today's families are under threat from efforts to redefine what &quot;family&quot; is, but I wonder whether the truth isn't that the Catholic church is under threat from an avalanche of common sense that is now unstoppable.&#10;&#10;The truth is that the pope - a charismatic and decent-seeming guy whose finger is a good deal closer to the people's pulse than his predecessor's was - is tying himself in knots trying to appear &quot;modern&quot; at the same time as adhering to official teaching. And it simply won't wash. The church has been peddling a nonsense on contraception for almost 50 years. The vast majority of us church - going, &quot;faithful&quot; Catholics have voted with our gonads and ignored it, and at some point (soon, please!) Rome is going to have to admit it has been wrong, and that the &quot;contraceptive culture&quot; is not about a lack of respect for human life, it's quite simply about a sensible realisation that most couples can raise two, three or four children better, in every way, than they can raise 10, 11 or 12.&#10;&#10;But aha, the pope would say, here I am being a cultural colonialist, seeking to impose my first-world notions on those of a developing community that has a very different perspective. Well, actually, no I'm not, because Catholic clerics can look anywhere on the planet and what they will see is that with economic improvements and women's rights comes a reduction in family size. When people have choice, this is the choice they tend to make. Those who aren't making it are those who aren't empowered, not those with a different worldview.&#10;&#10;What we are witnessing in this papacy is a church that realises how far out of step it is with modern thinking, and is increasingly keen on getting into line. At the moment it's beginning to talk the talk, but the footwork is still failing, mostly because a bit of honesty and a few U-turns are required, and most cardinals and bishops aren't yet ready for that. The question is, when will they be ready? Because my fear is that if they leave it too long they'll have left it too late. The churches might still be full today, but will they be full tomorrow? Even if I am prepared to hang on in there, albeit by my fingertips, I don't know if the same can be said for my children. Your instincts are right, Pope Francis. Now,  though, we need some action."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 246"/>
+</xmi:XMI>

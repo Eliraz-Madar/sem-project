@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="434" begin="0" end="6052" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="434" begin="0" end="53" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="434" begin="55" end="94" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="434" begin="95" end="126" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="434" begin="128" end="163" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="434" begin="166" end="346" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="434" begin="348" end="377" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="434" begin="380" end="516" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="434" begin="518" end="579" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="434" begin="581" end="626" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="434" begin="628" end="631" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="434" begin="632" end="723" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="434" begin="726" end="745" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="434" begin="746" end="854" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="434" begin="855" end="957" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="434" begin="958" end="994" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="434" begin="997" end="1157" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="434" begin="1161" end="1188" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="434" begin="1190" end="1199" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="434" begin="1202" end="1257" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="434" begin="1258" end="1261" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="434" begin="1262" end="1349" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="434" begin="1352" end="1391" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="434" begin="1393" end="1409" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="434" begin="1411" end="1513" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="434" begin="1516" end="1609" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="434" begin="1612" end="1624" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="434" begin="1626" end="1662" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="434" begin="1665" end="1686" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="434" begin="1688" end="1833" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="434" begin="1836" end="1941" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="434" begin="1943" end="2025" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="434" begin="2027" end="2030" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="434" begin="2035" end="2117" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="434" begin="2119" end="2139" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="434" begin="2141" end="2154" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="434" begin="2157" end="2183" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="434" begin="2185" end="2233" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="434" begin="2235" end="2272" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="434" begin="2274" end="2391" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="434" begin="2393" end="2464" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="434" begin="2467" end="2574" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="434" begin="2576" end="2702" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="434" begin="2705" end="2751" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="434" begin="2753" end="2757" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="434" begin="2758" end="2803" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="434" begin="2804" end="2866" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="434" begin="2868" end="2928" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="434" begin="2931" end="3025" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="434" begin="3027" end="3152" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="434" begin="3153" end="3218" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="434" begin="3221" end="3248" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="434" begin="3249" end="3466" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="434" begin="3469" end="3620" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="434" begin="3623" end="3758" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="434" begin="3760" end="3878" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="434" begin="3881" end="4042" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="434" begin="4045" end="4192" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="434" begin="4194" end="4337" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="434" begin="4340" end="4428" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="434" begin="4430" end="4509" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="434" begin="4511" end="4597" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="434" begin="4600" end="4812" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="434" begin="4814" end="4993" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="434" begin="4996" end="5101" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="434" begin="5103" end="5139" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="434" begin="5141" end="5193" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="336" sofa="434" begin="5195" end="5241" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="341" sofa="434" begin="5243" end="5268" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="346" sofa="434" begin="5270" end="5288" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="351" sofa="434" begin="5290" end="5313" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="356" sofa="434" begin="5314" end="5317" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="361" sofa="434" begin="5318" end="5344" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="366" sofa="434" begin="5346" end="5361" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="371" sofa="434" begin="5362" end="5365" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="376" sofa="434" begin="5366" end="5383" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="381" sofa="434" begin="5386" end="5470" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="386" sofa="434" begin="5474" end="5538" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="391" sofa="434" begin="5540" end="5568" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="396" sofa="434" begin="5570" end="5606" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="401" sofa="434" begin="5607" end="5777" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="406" sofa="434" begin="5780" end="5935" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="411" sofa="434" begin="5938" end="6051" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="416" sofa="434" begin="0" end="6052" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/047-childreneducationpeshawarma.txt" offsetInSource="0" documentSize="6052" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="441" sofa="434" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/aljazeera/047-childreneducationpeshawarma.xmi" offsetInSource="0" documentSize="6052" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="424" sofa="434" begin="0" end="6052" lastUpdate="2015-01-16T06:20:37Z" url="http://www.aljazeera.com/indepth/opinion/2015/01/children-education-peshawar-ma-2015115112412340802.html" portal="aljazeera" authors="Gordon Brown" articleSum="The endless violation of children's rights is eclipsed by the growing use of&amp;#10;schools as theatres of war.&amp;#10;&amp;#10;" title="We are breaking promises to our children."/>
+    <cas:Sofa xmi:id="434" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="The unity of millions that can stem from one evil act. The strength, courage and determination that often comes from adversity. The daylight following the darkness.&#10;&#10;After the bloodshed and incessant school attacks of 2014, let 2015 be a year of hope, of action and the fulfilment of a promise made 15 years ago to boys and girls across the world. They are waiting and watching.&#10;&#10;The famous novelist JK Rowling, leader of a charity helping 25 million orphans, recently asked; &quot;Who is easier to silence than a child?&quot;&#10;&#10;Because children have no votes and traditionally little voice, the expectation is that they will not protest. But be certain about this - young people whose rights have been violated will be silent no more.&#10;&#10;I know this is true because in the space of a few hours last month I watched in awe as tens, then hundreds, then thousands, then hundreds of thousands showed their outrage and their unity following an attack on a school in Pakistan in which 132 children were massacred.&#10;&#10;A petition launched in the aftermath of the attack, to honour those killed and demanding education for all, is now 1.5 million names strong and is still growing as each precious minute passes. One voice.&#10;&#10;In the future, people will look back on this generation and they will say an historic civil rights struggle for the rights of young people was born.&#10;&#10;This, I believe, must be a time of hope. People need hope. Hope is that small voice that says we will not be silenced if we have strong beliefs we want to follow.&#10;&#10;We must never stop believing that the cause we are talking about can be won in our generation.&#10;&#10;And remember, we do not break promises to children.&#10;&#10;We crossed our hearts. The United Nations told the world that every boy and every girl, everywhere, would have access to a school and to an education and to opportunity.&#10;&#10;Its official name is Millennium Development Goal 2 and the official target is universal primary education. Unofficially, it's the only chance of a life for millions and millions of children. Now, as the clock ticks down towards zero hour we are trying but toiling to make it happen. But we can change it. There is time.&#10;&#10;There are seven other MDGs, all vital but none as critical to our children's. With just 11 months and 20 days to go, there are still 58 million boys and girls who will be failed by a broken promise and never even have a day's learning. There are hundreds of millions more who will not finish their education.&#10;&#10;Less than a month ago two champions of global education and girls' rights shared a platform in Oslo, Norway. Malala Yousafzai and Kailash Satyarthi stood in front of the world, proud and deserving joint winners of the Nobel Peace Prize.&#10;&#10;Their brave words and actions rightly rewarded, then so many of their hopes for the future crushed when six days later came the worst school atrocity of all time. 132 boys and girls slaughtered by Taliban gunmen in Peshawar.&#10;&#10;On the same day 15 children were bombed to death by terrorists attacking a school bus in Yemen. The next day dozens of school pupils were killed and 100 abducted in a repeat of the Boko Haram attack almost nine months ago when 200 schoolgirls in Nigeria were abducted, yet to return home.&#10;&#10;Last year was like no other in which vulnerable youngsters  - whose right to be shielded from war is supposedly guaranteed in successive United Nations charters and resolutions - were systematically violated, exploited, injured, raped and killed.&#10;&#10;The bombing of schools in Syria was followed by the militarisation of schools in Gaza and then by verified reports of child atrocities and rape in Iraq.&#10;&#10;According to The Yazidi Fraternal Organization (YFO), thousands of young Yazidi women and children are being used by ISIL as sex slaves. And there are now an estimated 250,000 child soldiers conscripted into militias round the world; 100,000 of them girls.&#10;&#10;From Syria and Iraq to South Sudan and the Central African Republic we have seen more children uprooted and displaced than at any time since the Second World War.&#10;&#10;The number of child refugees has risen by nearly two million in just one year to a staggering 25 million - the population of a medium-sized country. And now the seemingly endless violation of children's rights is being eclipsed again and again by the growing use of schools as theatres of war.&#10;&#10;Twenty five years ago, the world signed up to the Convention for the Rights of the Child. 2014 will be remembered as the year of the violation of the rights of the child. We have 11 months left to ensure 2015 is about the delivery of the rights of the child.&#10;&#10;Youth organisations such as Global March Against Child Labour, Girls Not Brides and A World at School, which now sponsors nearly 1,000 youth ambassadors, are becoming global leaders of a youth liberation struggle. They are fighting child marriage, child labour, child trafficking and discrimination against girlsand the principal way to end exploitation is to deliver free compulsory education.&#10;&#10;One of the #UpForSchool petition signatories was Malala Yousafzai, herself the victim of a Taliban gunman. She will tell us there is still hope. People are angry about what is happening to children. Even angrier still are young people themselves. Do not underestimate them. They are connected, they talk to each other and they understand each other. They are as one and they are seething.&#10;&#10;Recently, in Kinshasa, Democratic Republic of Congo, I stood with 1,000 young people as they bowed their heads for victims of the Pakistan school attack. They all signed the petition. The same happened a few days earlier when thousands of young people demonstrated in Kenya and at the Nobel ceremony in Oslo more than 6,000 children gathered to show unity for girls' rights and for education.&#10;&#10;For too long young people have relied on adults who have done too little to stop the violation of the rights of the children for whom they were responsible.&#10;&#10;In 2015 it will be a civil rights struggle of young people LED by young people that will be the world's best hope."/>
+    <cas:View sofa="434" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 341 346 351 356 361 366 371 376 381 386 391 396 401 406 411 416 441 424"/>
+</xmi:XMI>

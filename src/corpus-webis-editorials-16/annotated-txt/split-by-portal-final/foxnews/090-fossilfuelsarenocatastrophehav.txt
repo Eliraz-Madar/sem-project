@@ -1,0 +1,221 @@
+0	title	Fossil fuels are no catastrophe. They have made our lives better.
+-1	par-sep	
+1	continued	People argue about
+2	continued	whether
+3	continued	the "consensus" of scientists is
+4	assumption	that we face disaster because of global warming
+5	no-unit	.
+6	continued	Instead of
+7	continued	debating
+8	continued	whether
+9	continued	man's greenhouse gasses will raise temperatures
+10	continued	,
+11	continued	we should argue about
+12	continued	how
+13	assumption	we gauge disasters
+14	no-unit	.
+-1	par-sep	
+15	no-unit	If	cond
+16	assumption	you take most environmentalists and climate scientists at their word	cond
+17	no-unit	,	cond
+18	continued	the Earth heated up about 1.4 degrees Fahrenheit over the past century, not much more
+19	continued	than
+20	testimony	it heated up the century before that
+21	no-unit	.
+22	assumption	Warming may increase
+23	no-unit	,
+24	no-unit	but
+25	assumption	no one can be certain of that
+26	no-unit	.
+-1	par-sep	
+27	continued	Let's agree for the sake of argument
+28	assumption	that this recent warming was partly caused by humanity	modd-NU
+29	no-unit	.
+30	continued	Let's also agree
+31	assumption	that there are some negative effects, including more frequent coastal flooding or longer droughts	imp
+32	no-unit	.
+-1	par-sep	
+33	no-unit	If	cond
+34	continued	we agree
+35	assumption	that those are costs	cond
+36	no-unit	,	cond
+37	assumption	shouldn't we also look at the benefits?
+38	continued	Much of modern civilization owes its existence to our use of the fossil fuels
+39	assumption	that produce the greenhouse gasses
+40	no-unit	.
+-1	par-sep	
+41	assumption	I don't see that civilization as misfortune
+42	no-unit	.
+43	continued	I wish
+44	assumption	climate alarmists would weigh its accomplishments against the relatively small downsides of climate change
+45	no-unit	.
+46	continued	One of industry's biggest accomplishments is creating a world
+47	continued	where far
+48	continued	fewer of us are likely
+49	assumption	to die because of weather
+50	no-unit	.
+-1	par-sep	
+51	continued	Alex Epstein's book
+52	continued	"The Moral Case for Fossil Fuels" documents the rapidly shrinking number of human beings
+53	testimony	killed by storms, floods and other climate events thanks largely to ever-growing industry, fueled mainly by oil, natural gas and coal
+54	no-unit	.
+-1	par-sep	
+55	continued	On "Stossel"
+56	continued	my Fox Business Network TV show this week
+57	continued	,
+58	continued	he argues
+59	continued	that if	cond
+60	assumption	we compare conditions a century ago to conditions last year	cond
+61	no-unit	,	cond
+62	continued	we shouldn't obsess about
+63	continued	how much
+64	continued	carbon dioxide is in the air
+65	continued	-- or
+66	continued	whether
+67	testimony	Earth is warming
+68	no-unit	--
+69	continued	we should look at
+70	continued	how much
+71	testimony	safer life became
+72	no-unit	.
+-1	par-sep	
+73	continued	In 2013, "Climate-related deaths were at a record low 
+74	continued	--
+75	continued	in supposedly the worst climate in history
+76	continued	-- under 30,000,"
+77	testimony	says Epstein
+78	no-unit	.
+79	statistics	In 1931, bad weather killed 3 million people
+80	no-unit	.
+-1	par-sep	
+81	continued	You can argue
+82	continued	that we get
+83	common-ground	some things wrong as a civilization
+84	no-unit	,
+85	no-unit	but
+86	assumption	thanks to our use of fossil fuels, we get something very right
+87	no-unit	.
+-1	par-sep	
+88	continued	Epstein points out
+89	continued	that humanity owes its current ability
+90	continued	to survive harsh winters, arid deserts and other naturally -dangerous environments to the same fuels
+91	testimony	that activists now condemn
+92	no-unit	:
+93	continued	"We have the luxury of
+94	continued	being able
+95	continued	to absorb a certain amount of climate-related damage
+96	continued	so
+97	testimony	we can live in all of these cool places."
+-1	par-sep	
+98	assumption	His argument is unusual
+99	continued	because	Modd-NU
+100	continued	environmentalists spread the idea
+101	assumption	that, without human interference, the planet is perfect
+102	no-unit	.
+-1	par-sep	
+103	no-unit	But	modd-NU
+104	continued	by	modd-NU
+105	assumption	what standard?	m-question
+-1	par-sep	
+106	no-unit	"If	cond
+107	continued	you went to someone 300 years ago and asked them
+108	continued	,
+109	continued	do
+110	assumption	you have a perfect climate?"	cond
+111	continued	they would think
+112	continued	you were crazy
+113	continued	,
+114	testimony	says Epstein
+115	no-unit	.
+116	continued	"They were terrified of climate
+117	continued	,
+118	continued	because
+119	continued	climate doesn't give you the resources
+120	continued	that you need
+121	continued	.
+122	continued	It doesn't give you water
+123	continued	when
+124	continued	you need it
+125	continued	.
+126	continued	It doesn't give you the temperature
+127	continued	when
+128	testimony	you need it."
+-1	par-sep	
+129	continued	It was once common
+130	continued	to say
+131	assumption	that humans change their environment
+132	no-unit	.
+133	continued	That shouldn't offend people today
+134	continued	,
+135	testimony	says Epstein
+136	no-unit	.
+137	continued	We should be thrilled
+138	continued	that humans "create technology to master climate
+139	continued	.
+140	continued	...
+141	continued	That's
+142	continued	why
+143	testimony	so few people today die from climate."
+-1	par-sep	
+144	continued	Epstein correctly says
+145	continued	that instead of
+146	continued	talking about "climate change" 
+147	continued	--
+148	continued	of which there will always be some, with or without human influence
+149	continued	--
+150	continued	we should focus on "climate catastrophe," weather
+151	assumption	that actually kills people
+152	no-unit	.
+153	assumption	Those catastrophes, measured in lost lives, are getting rarer
+154	no-unit	.
+-1	par-sep	
+155	continued	Most of the changes
+156	continued	humans make to our environment
+157	continued	are desirable changes
+158	continued	that help
+159	assumption	us live longer and more comfortably
+160	no-unit	.
+161	continued	"The dogma
+162	continued	that man is ruining the planet rather than
+163	continued	improving it
+164	testimony	is a religion, a source of prestige and a career for too many people."
+-1	par-sep	
+165	no-unit	If	cond
+166	continued	we regard
+167	continued	nature as pristine
+168	continued	and think
+169	assumption	it must never be altered	cond
+170	no-unit	,	cond
+171	assumption	we will have big problems
+172	no-unit	.
+173	assumption	We will die young and lead miserable, difficult lives
+174	no-unit	.
+-1	par-sep	
+175	continued	I think of industry as something
+176	continued	that is mostly very good for us, with a few minor side effects
+177	assumption	that aren't
+178	no-unit	.
+179	continued	Fossil fuels are a little like antibiotics
+180	continued	,
+181	testimony	says Epstein
+182	no-unit	.
+183	continued	It's good
+184	assumption	to draw attention to minor side effects
+185	no-unit	,
+186	no-unit	but
+187	continued	it would be crazy
+188	testimony	to abandon all treatment because of them
+189	no-unit	.
+-1	par-sep	
+190	assumption	Fossil fuels are no catastrophe
+191	no-unit	.
+192	assumption	They contribute to health and a better life
+193	no-unit	.
+-1	par-sep	
+194	other	John Stossel is the host of "Stossel" (Thursdays at 9 PM/ET), a weekly program highlighting current consumer issues with a libertarian viewpoint
+195	no-unit	.
+196	continued	Stossel also appears regularly on
+197	other	Fox News Channel (FNC) providing signature analysis
+198	no-unit	.
+199	no-unit	Click here for more information on John Stossel
+200	no-unit	.

@@ -1,0 +1,190 @@
+0	title	Can you stop using these three labels in 2015: 'Poor people,' 'date rape' and 'victim'.
+-1	par-sep	
+1	continued	Can you banish
+2	continued	the labels "date rape," "victims" and "poor people"
+3	assumption	from your vocabulary in 2015?	m-question
+4	assumption	Labels can diminish and demean or to uplift and affirm people
+5	no-unit	.
+6	continued	2015 will be a year of hope and dignity by
+7	assumption	redefining or banishing these toxic and harmful labels
+8	no-unit	.
+9	assumption	In their place a more generous, positive and compassionate country will emerge
+10	no-unit	.
+-1	par-sep	
+11	no-unit	Here's
+12	no-unit	why
+13	no-unit	a deeper look at these three labels
+14	no-unit	:.
+-1	par-sep	
+15	no-unit	Date Rape
+16	no-unit	.
+17	assumption	This is the most commonly talked about fear on college campuses across the country
+18	no-unit	.
+19	anecdote	2014 was filled with stories of sexual abuse from the ranks of the NFL and their spouses to the iconic Bill Cosby
+20	no-unit	.
+-1	par-sep	
+21	continued	On college campuses date rape involves issues of consent and sobriety; of women
+22	continued	who feel
+23	continued	that they don't have the ability to consent
+24	continued	or not
+25	continued	;
+26	assumption	of alcohol and drugs like "roofies" used as excuses and no specific profile of the typical rapist
+27	no-unit	.
+-1	par-sep	
+28	assumption	The words date and rape should never be accepted as co-joined words
+29	no-unit	.
+-1	par-sep	
+30	continued	My friend Tony Porter of A Call to Men says
+31	continued	that gender based violence will only end
+32	continued	when
+33	continued	men address it and reassess
+34	continued	what
+35	continued	it means
+36	assumption	to be a man
+37	no-unit	.
+-1	par-sep	
+38	assumption	He is correct
+39	no-unit	.
+40	continued	To be on a date
+41	continued	is
+42	assumption	to enter into an exploration of romance, companionship and possibly love
+43	no-unit	.
+44	continued	It is about
+45	assumption	exploring the possibilities of human togetherness and relationship
+46	no-unit	.
+47	assumption	Rape is a criminal and violent exercise of abuse and power
+48	no-unit	.
+-1	par-sep	
+49	continued	To disassociate these two words - rape and date 
+50	continued	-
+51	continued	is
+52	assumption	to redefine the expectation of healthy and also criminal behavior
+53	no-unit	.
+54	continued	You can redefine the term date rape by
+55	assumption	celebrating the possibilities of healthy dating and mincing no words about the criminality of rape
+56	no-unit	.
+57	continued	Engaging young men in the cause of
+58	continued	stopping gender based violence
+59	continued	will bring with
+60	assumption	it lasting impact on healthy relationships
+61	no-unit	.
+-1	par-sep	
+62	no-unit	Victims
+63	no-unit	.
+64	common-ground	The accusers of sexual violence are commonly called victims
+65	no-unit	.
+66	common-ground	They are typically the victims of aggressive non-consensual sex
+67	no-unit	.
+68	no-unit	But
+69	continued	to call them victims
+70	continued	is
+71	assumption	to deny their courage and strength
+72	no-unit	.
+73	continued	The supermodel Janice Dickinson recently said
+74	testimony	that she is not an accuser
+75	no-unit	.
+76	continued	She explained this by
+77	continued	saying
+78	continued	that she is speaking her truth about
+79	continued	what
+80	testimony	Bill Cosby did to her decades ago
+81	no-unit	.
+-1	par-sep	
+82	continued	How strong
+83	continued	do you have
+84	continued	to be
+85	continued	to speak out against those
+86	continued	who are iconic figures or heroes
+87	assumption	- whether clergy, Cosby or NFL players?
+-1	par-sep	
+88	continued	To speak your truth against power
+89	continued	typically results from years if not decades of inner work along with courage
+90	continued	that reveals
+91	continued	you have come
+92	continued	to love
+93	continued	yourself enough
+94	continued	to not be intimidated by the powerful iconic figures
+95	assumption	who have committed sexual abuse
+96	no-unit	.
+-1	par-sep	
+97	assumption	People like Dickinson are empowered, courageous victims
+98	no-unit	.
+99	continued	They give hope to others including the many men
+100	continued	who feel
+101	continued	that their manhood will be compromised
+102	continued	if
+103	assumption	they speak out against their male sexual abusers
+104	no-unit	.
+-1	par-sep	
+105	continued	Empowered victims like Dickinson move us quickly from
+106	continued	just feeling sorry to
+107	assumption	feeling admiration for their courageous empowerment
+108	no-unit	.
+109	continued	What
+110	continued	happened to them
+111	continued	is criminal and
+112	continued	to label them
+113	continued	as
+114	assumption	just victims demeans their courage
+115	no-unit	.
+116	assumption	Empowered victims elevate their status and shine a bright spotlight on their heinous sexual aggressor
+117	no-unit	.
+-1	par-sep	
+118	no-unit	Poor People
+119	no-unit	.
+120	testimony	A pervasive new classism in the United States has emerged according to columnist David Brooks of the New York Times
+121	no-unit	.
+122	continued	He posits
+123	continued	that the meritocratic class view themselves as the respectable ones
+124	continued	who have the ability
+125	testimony	to choose their own destiny
+126	no-unit	.
+127	testimony	They view the poor as lazy, disorganized, violent and scary
+128	no-unit	.
+-1	par-sep	
+129	assumption	In this view the poor are not proper human beings
+130	no-unit	.
+131	continued	It's a dangerous construct
+132	assumption	that dehumanizes vast segments of our community
+133	no-unit	.
+-1	par-sep	
+134	continued	I've spent a lifetime
+135	continued	working with and knowing people
+136	anecdote	who are poor
+137	no-unit	.
+138	assumption	Most work hard and often at several jobs
+139	no-unit	;
+140	continued	like other human beings they yearn for the best for their children and families and have aspirations
+141	assumption	to live beyond poverty
+142	no-unit	.
+-1	par-sep	
+143	no-unit	If	cond
+144	continued	the organization of the lives of those
+145	continued	who are poor
+146	assumption	is different from that of the meritocratic class	cond
+147	continued	it is because of genetic roulette and the systems
+148	assumption	that often work to trap people in the mire of less opportunity
+149	no-unit	.
+-1	par-sep	
+150	continued	Brooks suggests
+151	continued	that those
+152	continued	who label the poor in this way
+153	continued	live in a world
+154	continued	that keeps them from
+155	testimony	knowing poor people
+156	no-unit	.
+157	continued	The label begins
+158	continued	to be redefined
+159	continued	when
+160	continued	you take time
+161	continued	to know those
+162	assumption	who are different from you
+163	no-unit	.
+-1	par-sep	
+164	continued	It is up to you
+165	continued	to make change in the New Year by
+166	assumption	not accepting these labels and then redefining them
+167	no-unit	.
+168	continued	You will be part of
+169	assumption	creating a more compassionate, generous and positive landscape
+170	no-unit	.

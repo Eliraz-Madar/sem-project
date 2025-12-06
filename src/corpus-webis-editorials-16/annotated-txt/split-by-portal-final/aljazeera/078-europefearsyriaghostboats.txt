@@ -1,0 +1,148 @@
+0	title	Europe's fear of Syria's ghost boats.
+-1	par-sep	
+1	continued	The story of the Ezadeen, the ship set on autopilot and set towards Europe with 450
+2	continued	fleeing Syrian refugees on board
+3	continued	,
+4	assumption	could be a turning point in the European response to the crisis in Syria
+5	no-unit	.
+6	continued	With a conflict
+7	continued	that has killed some 200,000 people burning brightly on its doorstep
+8	continued	Europe's prime focus to date has been on
+9	continued	ensuring
+10	assumption	that it stays away from the flames
+11	no-unit	.
+12	continued	The emergence of "ghost ships", the latest gruesome tactic
+13	continued	to come out of a conflict
+14	continued	that has also put the "barrel bomb" into the popular lexicon
+15	continued	,
+16	assumption	may force a much needed revaluation on the strategy of Europe's response
+17	no-unit	.
+-1	par-sep	
+18	assumption	The discovery of the Ezadeen is simply the latest in an increasing number of horror stories emerging from the Mediterranean Sea
+19	no-unit	.
+20	continued	The boat, aptly a former livestock carrier, was found in rough seas some 40 nautical miles off the Italian coast - the second vessel in four days
+21	anecdote	to be found sailing abandoned by its crew
+22	no-unit	.
+-1	par-sep	
+23	continued	The ghost ships represent both a new tactic - using large cargo ships
+24	continued	to move people in winter across longer crossing
+25	assumption	- and a new trend - that of the refugees coming from Syria
+26	no-unit	.
+27	continued	Last year some 230,000 people arrived illegally across the Mediterranean into the EU with Italy receiving the lion's share of 160,000 whilst 3,500 people died
+28	continued	trying
+29	statistics	to make the crossing
+30	no-unit	.
+31	continued	The UNHCR explained
+32	testimony	that in 2014 for the first time, people mainly from Syria "have become a major component in this tragic flow, accounting for almost 50 per cent of the total"
+33	no-unit	.
+-1	par-sep	
+34	assumption	The policy of the EU has largely been one of "Fortress Europe" characterised by the reduction of humanitarian support to sea born refugees and tighter border fences to the east
+35	no-unit	.
+36	continued	Whilst Syria's neighbours have accepted the lion's share of the over 3 million Syrian refugees
+37	anecdote	Europe's record remains dismal with a recent summit agreeing on only 33,000 more asylum cases
+38	no-unit	.
+-1	par-sep	
+39	continued	EU policy is as adrift as many of the refugees
+40	assumption	who struggle to survive in the Med
+41	no-unit	.
+42	continued	The sudden up tick in refugees attempting
+43	continued	to travel from Syria and the high risk ghost ships
+44	continued	that are used
+45	assumption	should prompt a review of both the national polices of EU member states and the supra-national EU policy at large
+46	no-unit	.
+47	continued	The conflict in Syria is getting worse with 5,000 Syrians
+48	statistics	fleeing every day (over three a minute)
+49	no-unit	and
+50	continued	2015 could see
+51	assumption	the number of refugees top 4 million
+52	no-unit	.
+-1	par-sep	
+53	continued	Europe needs
+54	continued	to adopt a more strategic and moral policy towards the Syrian refugee crisis rather than the current position
+55	continued	whose failure
+56	assumption	is measured in the increasing numbers of lives lost to the Mediterranean
+57	no-unit	.
+-1	par-sep	
+58	continued	It is far easier
+59	assumption	to attract the attention of policy makers with a counter- terrorism argument than a humanitarian one
+60	no-unit	.
+61	continued	The fact is
+62	continued	that the smugglers
+63	continued	who are purchasing ships for between $100,000 - $150,000 and then filling them up with hundreds of desperate refugees
+64	continued	paying $6,000 per person for passage
+65	assumption	are making serious illicit money
+66	no-unit	.
+-1	par-sep	
+67	continued	Criminal gangs in North Africa and the Middle East
+68	continued	that experts warn
+69	continued	are "making millions"
+70	assumption	should be a red flag considering the current conflict with trans-national criminals such as ISIL
+71	no-unit	.
+72	continued	Resources should be put into
+73	continued	a joined up policing effort
+74	continued	that addresses the space
+75	continued	that these increasingly wealthy smugglers are able
+76	assumption	to operate in
+77	no-unit	.
+-1	par-sep	
+78	continued	The Syrians taking this journey are risking it
+79	continued	all on what
+80	testimony	the UNHCR are calling the "most lethal route in the world"
+81	no-unit	.
+82	continued	One refugee on board the Ezadeen put
+83	continued	it succinctly
+84	continued	when
+85	continued	he told Italian Coast Guards
+86	continued	that "we are alone
+87	continued	and
+88	continued	we have no one
+89	testimony	to help us"
+90	no-unit	.
+91	continued	We must better understand
+92	continued	that a conflict
+93	continued	that has seen over 12,000 children killed 
+94	continued	-
+95	continued	3,500 last year alone
+96	continued	-
+97	continued	is going
+98	continued	to force people to desperate ends
+99	assumption	to find hope of a better tomorrow
+100	no-unit	.
+-1	par-sep	
+101	continued	Europe must look seriously into
+102	continued	accepting larger asylum quotas
+103	continued	and focus on
+104	continued	giving the most vulnerable a legitimate means of
+105	assumption	getting to their shores
+106	no-unit	.
+107	continued	Meanwhile if
+108	continued	the conditions for the vast majority of those refugees in the neighbouring countries deteriorate then again
+109	continued	it shouldn't be a surprise
+110	continued	to see
+111	continued	refugees risk their lives
+112	assumption	to travel elsewhere
+113	no-unit	.
+114	continued	The fact
+115	continued	that the World Food Programme had
+116	continued	to briefly cut food rations to Syrian refugees due to lack of
+117	continued	funding in December
+118	continued	is a scandal
+119	continued	that shouldn't be allowed
+120	assumption	to happen again
+121	no-unit	.
+-1	par-sep	
+122	assumption	Finally of course we should never lose sight of the bigger picture
+123	no-unit	.
+124	continued	The refugees
+125	continued	,
+126	continued	whether
+127	continued	sheltering from winter in the Bekaa Valley in Lebanon or enduring the waves of the Mediterranean
+128	continued	,
+129	continued	are all symptoms of a conflict
+130	assumption	whose end appears nowhere in sight
+131	no-unit	.
+132	continued	A new year gives Europe a chance
+133	continued	to involve
+134	continued	itself a new on
+135	assumption	addressing that most difficult of challenges
+136	no-unit	.

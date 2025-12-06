@@ -1,0 +1,226 @@
+0	title	The Paris attacks and the failure of the republic.
+-1	par-sep	
+1	continued	Following the Paris attacks, there appears
+2	continued	to be a consensus
+3	assumption	that France has experienced a turning point in its modern history
+4	no-unit	.
+5	continued	Most commentators place an emphasis on the possible role
+6	assumption	external factors have played in this act of terrorism
+7	no-unit	.
+-1	par-sep	
+8	assumption	Various external factors are cited
+9	no-unit	,
+10	no-unit	but
+11	continued	they mostly focus on the conflicts in the Middle East and international tensions in general, in a bid
+12	continued	to link the Paris attacks to extremist ideologies	Modd-NU 
+13	assumption	that promote such murderous acts	modd-ASM
+14	no-unit	.
+-1	par-sep	
+15	continued	A week after the attack, the French political class and key media outlets remain focused on the security aspect and barely attempt
+16	assumption	to address the issue from a different angle
+17	no-unit	.
+18	continued	They do not question the responsibility held by French society and state - as well as the role of the socioeconomic policies practised by successive French governments - in
+19	continued	addressing the woes of the socially marginalised and disenfranchised zones from
+20	assumption	which the Kouachi brothers sprang
+21	no-unit	.
+-1	par-sep	
+22	continued	How
+23	continued	can this act be attributed only to dogmatic ideological motivations and grievances over international conflicts, given
+24	continued	that the religious and ideological indoctrination process is too complicated
+25	assumption	to be attributed solely to external factors?
+-1	par-sep	
+26	continued	As	Modd-NU 
+27	assumption	both French officials and analysts respond with emotion
+28	no-unit	,
+29	continued	they ignore a series of socioeconomic factors
+30	assumption	that have fuelled the motivations of the actors
+31	no-unit	.
+-1	par-sep	
+32	continued	It is important
+33	continued	to remember
+34	assumption	that the perpetrators of the attack were born and raised in France in a poor, disadvantaged area
+35	continued	where	Modd-NU 
+36	continued	unemployment rates among the youth aged 18 to 24 years reaches 45 percent (compared to the national rate
+37	statistics	which is nearly 10 percent)
+38	no-unit	.
+-1	par-sep	
+39	continued	In these areas, called
+40	continued	"banlieues"
+41	continued	,
+42	continued	state infrastructure is almost non
+43	continued	-
+44	assumption	existent and the population is subject to segregation and racial discrimination in terms of access to employment opportunities and housing
+45	no-unit	,
+46	assumption	which in most cases leads to exclusion from the civic sphere
+47	no-unit	.
+-1	par-sep	
+48	continued	In 2006, an official case study focusing on access to employment conditions showed
+49	statistics	that 51 percent of young French candidates are subject to discrimination based on ethnic origin and/or skin colour
+50	no-unit	.
+-1	par-sep	
+51	assumption	These conditions result in social marginalisation and promote delinquency
+52	assumption	which in turn raises the chances of incarceration
+53	no-unit	;
+54	no-unit	a place
+55	no-unit	where
+56	no-unit	religious indoctrination and ideological radicalisation mostly occur
+57	no-unit	.
+-1	par-sep	
+58	continued	Sociologist Robert Castel describes the situation of young people in these deprived areas
+59	continued	as
+60	continued	follows
+61	continued	:
+62	continued	"These young people are not completely [living] outside of society
+63	continued	,
+64	continued	however
+65	continued	,
+66	continued	 they are not inside it either
+67	continued	,
+68	continued	for
+69	continued	they do not enjoy any recognised space/role 
+70	continued	[...]
+71	continued	Their situation is pretty paradoxical
+72	continued	:
+73	continued	they are citizens
+74	continued	,
+75	continued	who live on French territory
+76	continued	,
+77	continued	and
+78	continued	yet they undergo differential and discriminatory treatment
+79	continued	that disqualifies them
+80	continued	.
+81	continued	The republic, in contradiction with its own principles, seems incapable of
+82	continued	integrating these young French people
+83	testimony	who live like the indigenous minority of the nation."
+-1	par-sep	
+84	continued	This, combined with a conflicting social context
+85	continued	that is constantly fuelled by debates over identity
+86	continued	,
+87	assumption	religion and behavioural issues (such as the debate on national identity, the veil, halal food in schools, Islam and French secularism) further stigmatise this community and place it in a permanent state of confrontation with the rest of society
+88	no-unit	.
+-1	par-sep	
+89	continued	This vicious cycle prevents any change in the dynamics of this relationship into a cooperative one
+90	continued	that could help find solutions
+91	continued	in order
+92	assumption	to improve their socioeconomical status
+93	no-unit	.
+-1	par-sep	
+94	no-unit	Not to mention the mainstream media discourse permanently framing those zones and communities as an ailment to the society
+95	no-unit	.
+96	continued	Young people are depicted in a caricaturist form, making
+97	continued	it all the more difficult
+98	continued	for
+99	assumption	them to socially and professionally integrate
+100	no-unit	,
+101	assumption	which deepens their sense of marginalisation
+102	no-unit	.
+-1	par-sep	
+103	assumption	Such dynamics only complicate the relationship with the government, often seen as an opponent and sometimes as an enemy
+104	no-unit	.
+105	continued	This is the gap
+106	continued	where
+107	continued	religious indoctrination factors sneaks in - often
+108	assumption	occurring in prison environments
+109	continued	where	Modd-NU 
+110	anecdote	ethnic groups are predominantly from these areas
+111	no-unit	and
+112	continued	where	Modd-NU 
+113	statistics	18- to 30 -year-olds represent 35 percent of the incarcerated population
+114	no-unit	.
+-1	par-sep	
+115	continued	Are these good enough reasons
+116	continued	to explain the motives behind
+117	assumption	committing such a terrorist act?
+118	assumption	Of course not	modd-ASM
+119	no-unit	.
+120	continued	But the conditions described above constitute the factors
+121	assumption	that facilitate and accelerate the ideological and religious indoctrination process
+122	no-unit	.
+-1	par-sep	
+123	continued	Especially when	Modd-NU
+124	continued	protagonists have the financial resources
+125	continued	(this is often the case)
+126	continued	to attract the most fragile, the most helpless and the most excluded in order
+127	assumption	to step forward and enrol in extremist activities
+128	no-unit	,
+129	assumption	the international context helps
+130	no-unit	.
+-1	par-sep	
+131	continued	With such a grim reality, the question going forward would be
+132	continued	if
+133	continued	purely security measures are sufficient
+134	continued	to challenge the terrorism
+135	assumption	that threatens France
+136	no-unit	.
+137	continued	We expected
+138	continued	to find an answer to this question in Prime Minister Manuel Valls's speech at the National Assembly
+139	continued	in which he outlined "exceptional" measures
+140	anecdote	to be taken
+141	no-unit	.
+-1	par-sep	
+142	continued	"France
+143	continued	is at war against terrorism and against radical Islam,"
+144	testimony	he said
+145	no-unit	.
+146	continued	"Exceptional measures will be taken
+147	testimony	to challenge terrorism."
+-1	par-sep	
+148	continued	Valls mentioned exclusively security measures, such as
+149	continued	reinforcing supervision within the prisons
+150	continued	where
+151	continued	Islamist prisoners are concentrated
+152	continued	;
+153	continued	establishing inter-European border controls
+154	continued	;
+155	anecdote	strengthening international intelligence cooperation
+156	no-unit	...
+157	no-unit	however	Modd-NU
+158	no-unit	,	Modd-NU
+159	continued	 there was no mention of a possible revision of the government's social policies
+160	continued	to address the problems in the marginalised zones; no announcement of a reflection on a possible serious debate
+161	continued	to propose a new approach
+162	continued	to address all the socioeconomic ills
+163	anecdote	affecting them
+164	no-unit	.
+-1	par-sep	
+165	continued	The security measures announced by the prime minister are necessary, but not sufficient
+166	assumption	to contain terrorism
+167	no-unit	;
+168	continued	the roots of extremism
+169	continued	,
+170	continued	where
+171	continued	the first frustrations are formed
+172	continued	,
+173	assumption	remain untouched
+174	no-unit	.
+-1	par-sep	
+175	continued	That is not
+176	continued	to say
+177	continued	that the French government should be solely held
+178	continued	responsible
+179	continued	for the situation
+180	assumption	which France is facing today
+181	no-unit	.
+182	no-unit	Nevertheless	Modd-NU
+183	no-unit	,	Modd-NU
+184	continued	 failing
+185	continued	to take into
+186	continued	account
+187	continued	the catastrophic socioeconomic factor would be tantamount to
+188	continued	promoting the very context
+189	assumption	that contributes to the development of fundamentalist ideologies
+190	no-unit	.
+-1	par-sep	
+191	continued	The government urgently needs
+192	assumption	to review its social and economic policies towards these disadvantaged areas
+193	no-unit	,
+194	continued	developing real socioeconomic infrastructure, strengthening solidarity, emphasising the fight against discrimination in employment and housing, strengthening anti-racist laws and promoting a fairer media discourse towards these populations
+195	continued	in order
+196	assumption	to improve their lot in life
+197	no-unit	.
+-1	par-sep	
+198	continued	This will undoubtedly contribute towards
+199	continued	sterilising any niches
+200	continued	where
+201	assumption	extremist ideology can take root
+202	no-unit	.

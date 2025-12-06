@@ -1,0 +1,166 @@
+0	title	The general election: let's see the party leaders go beyond their scripts.
+-1	par-sep	
+1	continued	Nobody can be sure
+2	common-ground	who will govern us after May
+3	no-unit	.
+4	assumption	That uncertainty is the great gift of a democracy
+5	no-unit	.
+6	no-unit	But
+7	continued	what
+8	continued	a gap between the ideal of citizens interrogating leaders
+9	continued	,
+10	continued	to decide
+11	continued	whether
+12	continued	power should change hands
+13	continued	,
+14	continued	and the arid long campaign this looks
+15	continued	set
+16	assumption	to become
+17	no-unit	.
+-1	par-sep	
+18	continued	In response to their difficulty in
+19	continued	capturing anybody's attention
+20	continued	,
+21	continued	the party strategists have decided
+22	continued	that the leaders should mostly try
+23	assumption	to say much the same thing every day for the next four months
+24	no-unit	.
+-1	par-sep	
+25	continued	British Future's state of the nation poll illuminates
+26	continued	why
+27	continued	that approach might seem
+28	continued	to make sense
+29	no-unit	-
+30	continued	but also
+31	continued	why
+32	assumption	it won't be enough
+33	no-unit	.
+34	continued	Half the electorate knows
+35	continued	who they are voting for
+36	continued	and
+37	continued	what
+38	continued	they think
+39	continued	the "big issue" is for the election - with the committed voters of each party differing on
+40	continued	whether
+41	continued	it is the NHS, the economy or immigration
+42	assumption	that matters most
+43	no-unit	.
+-1	par-sep	
+44	assumption	The contrast between the certainties of these partisan tribes and the uncertainties of the broader electorate will set the tone of the election year
+45	no-unit	.
+46	continued	It's not just Conservative and Labour voters
+47	continued	,
+48	continued	but
+49	continued	Ukippers too
+50	continued	who think their party
+51	continued	will be in government - or
+52	assumption	that Nigel Farage might be prime minister in May
+53	no-unit	.
+-1	par-sep	
+54	continued	Across the spectrum, those with the strongest views overestimate
+55	continued	how many people
+56	assumption	share them
+57	no-unit	.
+58	no-unit	Overall	Modd-NU
+59	no-unit	,	Modd-NU
+60	continued	 the public gives a thumbs-down verdict to every party
+61	continued	when
+62	continued	asked
+63	continued	if
+64	assumption	they would like them in power
+65	no-unit	.
+-1	par-sep	
+66	continued	More worryingly, only a quarter of people are confident
+67	continued	that Britain will come through the election without
+68	assumption	the tone of the debate damaging relations between different groups in Britain today
+69	no-unit	.
+70	assumption	Uncertainty about the democratic outcome is a good thing
+71	no-unit	;
+72	continued	uncertainty about
+73	continued	whether
+74	continued	Britain can handle the election-year debates
+75	assumption	is not
+76	no-unit	.
+77	continued	Both the Conservatives, in
+78	continued	omitting immigration from their six priority themes
+79	continued	,
+80	continued	and Labour in
+81	continued	advising canvassers
+82	continued	to move the conversation on
+83	continued	,
+84	continued	have ironically shown
+85	continued	that it is possible
+86	continued	to get headlines by
+87	assumption	not talking about immigration
+88	no-unit	.
+-1	par-sep	
+89	continued	Running scared from the issue simply
+90	assumption	misunderstands public opinion
+91	no-unit	.
+92	continued	Most people want a politics
+93	continued	that engages with the pressures brought by immigration
+94	assumption	and yet secures the benefits too
+95	no-unit	.
+96	assumption	So our appeal for an open and responsible debate can be made not just to the social conscience of politicians but to their enlightened self-interest too
+97	no-unit	.
+-1	par-sep	
+98	continued	The new state of the nation findings offer an important reason
+99	continued	why
+100	continued	we might find more confidence in Britain's ability
+101	assumption	to handle the immigration and identity debates
+102	no-unit	.
+103	continued	In a polarised "culture war" - between those
+104	continued	who don't understand
+105	continued	why
+106	continued	everywhere is not like London
+107	continued	and those
+108	continued	who dislike everything
+109	continued	that has changed since the 1950s
+110	continued	- there will be no winners, only losers
+111	continued	,
+112	continued	whether
+113	assumption	the argument is about immigration, identity or Islam or, indeed, gender and gay rights
+114	no-unit	.
+-1	par-sep	
+115	no-unit	Of course
+116	no-unit	,
+117	assumption	 there will be some votes in appeals to either pole of the political spectrum
+118	no-unit	-
+119	continued	but no majority victory nor stable governing coalition could be won on the basis of a political offer
+120	continued	that fails
+121	assumption	to appeal beyond a party's core support
+122	no-unit	.
+-1	par-sep	
+123	continued	Voters expect our politicians
+124	assumption	to articulate our disagreements
+125	no-unit	.
+126	continued	We know
+127	continued	they need
+128	continued	to make sure
+129	common-ground	their own supporters do go out and vote
+130	no-unit	.
+131	continued	But leadership is also about
+132	continued	helping
+133	assumption	us to find the common ground
+134	no-unit	.
+135	continued	Which of them
+136	continued	could yet find the voice
+137	continued	to engage beyond their own political tribe
+138	continued	,
+139	continued	to come off the "grid" and do more than put out the line
+140	assumption	that the script demands?	m-question
+-1	par-sep	
+141	continued	In an uncertain and fractious society, there is a greater appetite for politicians with the confidence
+142	assumption	to speak to people of different generations, to engage in both the cities and out on the coast, and to reach across class, geography and ethnicity
+143	no-unit	.
+144	continued	Will anyone step up	modd-NU
+145	assumption	to meet that challenge in the next three months?	m-question
+146	continued	If not
+147	continued	,
+148	continued	that could still be the voice
+149	continued	that much of Britain is waiting
+150	assumption	to hear
+151	no-unit	.
+-1	par-sep	
+152	other	Sunder Katwala is the director of British Future
+153	no-unit	.

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4397" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="281" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="284" end="313" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="315" end="337" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="339" end="368" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="371" end="415" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="417" end="510" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="512" end="559" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="561" end="564" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="565" end="626" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="628" end="692" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="694" end="849" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="855" end="952" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="954" end="1008" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1010" end="1013" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1014" end="1111" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1113" end="1141" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1143" end="1179" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1184" end="1265" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1267" end="1349" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1351" end="1463" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1465" end="1468" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1469" end="1581" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1584" end="1632" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1634" end="1637" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1638" end="1723" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1724" end="1821" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1822" end="1948" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1950" end="1953" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1954" end="2016" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2017" end="2072" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2074" end="2083" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2085" end="2121" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2123" end="2230" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2232" end="2300" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2302" end="2354" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2359" end="2404" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2407" end="2546" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2551" end="2656" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2659" end="2793" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2796" end="2899" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2901" end="2904" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2905" end="2997" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2999" end="3002" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3003" end="3043" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3048" end="3119" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3121" end="3192" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3194" end="3197" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3198" end="3249" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3251" end="3401" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3403" end="3504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3507" end="3591" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3593" end="3625" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3630" end="3665" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3667" end="3751" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3753" end="3822" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="3824" end="3987" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="3988" end="4045" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4047" end="4161" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4163" end="4226" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4228" end="4293" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4295" end="4396" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="318" sofa="1" begin="0" end="4397" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/221-rejectedparentsbeliefsidentity.txt" offsetInSource="0" documentSize="4397" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="326" sofa="1" begin="0" end="4397" lastUpdate="2015-01-06T12:01:01Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/rejected-parents-beliefs-identity-sexuality" portal="guardian" authors="Philippa Perry" articleSum="Philippa Perry: My advice to any teenager tormented for their beliefs, identity or sexuality is, find a sympathetic witness to your ordeal" title="Rejected by your parents? Remember: you are not alone."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In the light of the sad case of Leelah Alcorn, the Ohio transgender teenager who killed herself after being forced to undergo conversion therapy, I have been asked how teenagers can deal with parents who are completely unsupportive or hostile to their emerging independent identity.&#10;&#10;You don't choose your parents. You are at their mercy. They control your environment - to a great extent, they are your environment. You don't have the power to control your own resources: your own money, or even your own food. When you were a baby you had even less autonomy, and for you to develop you had to do so in relationship with them. How you think, feel, move and speak is created with your parents. Even more importantly, how you learn to soothe yourself in the face of pain or upset is in large part down to how they soothed you when you were growing up.&#10;&#10;As you develop, more influences affect who and what you are and allow different parts of you to grow. You go to school, meet more people and hear more ideas, and you begin to experience urges and feelings in yourself that may not be recognised by your parents, or even anyone else you know. But these days, we have the internet, so there is usually someone out there who can understand to some extent how you feel. All of us have a need to have our internal selves mirrored by the people around us. It's unlikely that anyone finds themselves always completely understood by relying on how others respond to them, but we all have a need to seek this type of connection - especially if we don't find anything approaching it at home.&#10;&#10;Not being understood by our parents is one thing, but what if a teenager feels persecuted for not being exactly like their family or peers? What if he or she is persecuted, abused, put through exorcisms or so-called conversion therapies? Some people who survived time in concentration camps told of the importance of holding on to their imagination and their minds. But when you are being abused by your parents that is harder to do because we have a need to believe that our parents good. Otherwise,  we rationalise, how can we be safe?&#10;&#10;So the unconscious process that tends to happen is that we start to blame ourselves for how we feel instead. Often young people don't think of waiting it out until they can flee, because time seems to pass more slowly as a teenager, so there can be a real danger of teenage suicide.&#10;&#10;Despite the terrible feelings of rejection a teenager might experience, one day they may be able to understand their parents' point of view. If they are strict and inflexible - unable to move with the times or accept anything other than their values - this is probably the result of trauma: either their own trauma or transgenerational trauma - trauma passed on to them by their parents.&#10;&#10;When we are not traumatised, we can live fluidly in the present, responding to situations as they arise. But when traumatised, people stick to strict rules and codes, as though living in emergency mode, and they are fearful of deviating from these. So when they see their children being very different from them, they panic. In their belief system, to deviate from the rule book is to be cast out. And to be cast out is to be unsafe, and possibly to die. They are worried because they cannot imagine accepting you as you want to be, cannot imagine that it would be possible for you to be accepted anywhere. They may even fear that because you are different, they will no longer be accepted by their community.&#10;&#10;The main emotion holding this system together is shame and the fear of feeling shame. Shame feels like an annihilation. If the teenager can sense some of this, it may help them to take the persecution they get from their parents less personally. Because it is unhelpful to see one party as good and the other as bad. Everyone needs to be listened to.&#10;&#10;What advice would I give to the teenager who is rejected or tormented by their parents for their beliefs, identity or sexuality? Find a sympathetic witness for what you are going through: a friend, a teacher, a school counsellor - someone whose idea of you actually reflects who you feel you really are. You can then hold on to their image of you when times are tough. And most importantly, although it feels like a lifetime, it isn't. You will be able to walk away one day and build a new network consisting of mutual support around you."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 326"/>
+</xmi:XMI>

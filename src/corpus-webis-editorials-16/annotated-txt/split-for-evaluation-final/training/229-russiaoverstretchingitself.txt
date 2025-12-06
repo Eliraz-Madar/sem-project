@@ -1,0 +1,182 @@
+0	title	Is Russia overstretching itself?
+-1	par-sep	
+1	continued	In 1783, Russia and the Kingdom of Kartli-Kakheti
+2	continued	,
+3	continued	which would later become part of modern day Republic of Georgia
+4	continued	,
+5	anecdote	signed the Treaty of Georgievsk
+6	no-unit	.
+7	anecdote	Among other things this treaty gave Kartli-Kakheti a status of a Russian protectorate
+8	no-unit	.
+9	continued	Squished between the Russian, Persian, and Ottoman Empires	Modd-NU
+10	continued	,	Modd-NU
+11	continued	this was	Modd-NU
+12	continued	exactly what
+13	assumption	the tiny kingdom needed
+14	no-unit	...
+15	no-unit	or
+16	continued	so
+17	assumption	they thought
+18	no-unit	.
+19	assumption	The deal with Russia soon turned deadly
+20	no-unit	.
+21	anecdote	Russia reneged on the treaty, and by 1795 Russian troops had left the region
+22	no-unit	and
+23	anecdote	a Persian army had invaded and leveled the capital city of Tbilisi
+24	no-unit	.
+-1	par-sep	
+25	assumption	Georgians have never forgotten this betrayal
+26	no-unit	.
+27	no-unit	When
+28	anecdote	Soviet Russia marked the bicentenary of the Treaty of Georgievsk in 1983
+29	anecdote	it was met with mass protests from anti-Soviet Georgians
+30	no-unit	.
+-1	par-sep	
+31	continued	The Treaty of Georgievsk might have been the first dodgy treaty
+32	assumption	Russia signed in the region
+33	no-unit	but
+34	assumption	it certainly has not been the last
+35	no-unit	.
+-1	par-sep	
+36	continued	Soon Russia is expected
+37	assumption	to sign a treaty with Georgia's breakaway province South Ossetia
+38	no-unit	.
+39	anecdote	Last November, Russia and Abkhazia - another breakaway province in Georgia - signed a treaty on "alliance and strategic partnership"
+40	no-unit	.
+41	continued	This treaty established a coordinated foreign policy, the creation of a "common security and defense space" between Russia and Abkhazia, and the implementation of a streamlined process for Abkhazians
+42	anecdote	to receive Russian citizenship
+43	no-unit	.
+-1	par-sep	
+44	continued	The pending treaty with South Ossetia is expected
+45	assumption	to bring the relationship between South Ossetia and Russia even closer
+46	no-unit	.
+47	no-unit	While
+48	continued	Abkhaz officials have shown little interest in
+49	assumption	getting annexed by Russia
+50	no-unit	,
+51	assumption	many in South Ossetia would be happy with this outcome
+52	no-unit	.
+53	continued	The defacto leader of South Ossetia Leonid Tibilov said
+54	continued	the treaty could see the tiny breakaway province
+55	testimony	"becoming a subject of the Russian Federation"
+56	no-unit	.
+-1	par-sep	
+57	assumption	The Ossetian people are representative of the typical geographical, religious, and ethnic complexities found in the Caucasus
+58	no-unit	.
+59	anecdote	Ethically and linguistically they are descended from Iranians
+60	no-unit	.
+61	anecdote	Religiously they are Orthodox Christian
+62	no-unit	.
+63	assumption	The Ossetian people are unique in the Caucasus
+64	no-unit	as
+65	continued	they are the only ethnic group found
+66	anecdote	living in large numbers on both sides of the mountains
+67	no-unit	.
+-1	par-sep	
+68	no-unit	Even so
+69	no-unit	,
+70	assumption	 South Ossetia does not have close links to Russia's North Ossetia
+71	continued	as
+72	assumption	one might expect
+73	no-unit	.
+74	anecdote	The only road linking the two Ossetias runs through the Roki tunnel
+75	anecdote	which was only completed in 1984
+76	no-unit	.
+77	no-unit	In fact	Modd-NU
+78	no-unit	,	Modd-NU
+79	continued	 Tskhinvali, the administrative capital of South Ossetia, is closer to Tbilisi
+80	continued	than
+81	assumption	it is to North Ossetia's capital city Vladikavkaz
+82	no-unit	.
+-1	par-sep	
+83	anecdote	Since the 2008 Russian invasion of Georgia, Russia has occupied South Ossetia with thousands of troops
+84	no-unit	.
+85	assumption	Almost seven years on, Russia is still in direct violation of the Six Point Ceasefire Agreement brokered by then-French President Nicolas Sarkozy
+86	no-unit	.
+87	anecdote	Russia has spent millions of dollars building a fence around the administrative boundary between South Ossetia and Georgia
+88	no-unit	.
+89	anecdote	In some cases, the fence cuts homes, families, and properties into half
+90	no-unit	.
+-1	par-sep	
+91	continued	Russia is one of only four countries
+92	continued	that recognise South Ossetia's independence (the others
+93	anecdote	being Venezuela, Nicaragua, and Nauru)
+94	no-unit	.
+95	anecdote	By contrast, many European countries and the United States recognise the Russian presence in South Ossetia as an illegal occupation
+96	no-unit	.
+-1	par-sep	
+97	continued	Russia needs
+98	continued	to think carefully before
+99	assumption	annexing South Ossetia
+100	no-unit	.
+101	no-unit	As
+102	assumption	Moscow has experienced with Crimea	cond
+103	no-unit	,
+104	assumption	annexation comes at a cost, both economically and geo-politically
+105	no-unit	.
+106	continued	Economic sanctions are starting
+107	assumption	to bite
+108	no-unit	,
+109	assumption	the ruble is down
+110	no-unit	,
+111	no-unit	and
+112	assumption	the low price of oil is severely impacting the Russian economy
+113	no-unit	.
+114	continued	Then there are all the other costs associated with annexation
+115	continued	:
+116	anecdote	paying for pensions, local services, healthcare, education, and infrastructure
+117	no-unit	-
+118	assumption	this is a heavy burden for the stagnate Russian economy
+119	no-unit	.
+-1	par-sep	
+120	testimony	The Georgian Foreign Ministry criticised Russia's move as a step toward "annexation of Georgia's occupied territories"
+121	no-unit	.
+122	continued	In reality
+123	continued	,
+124	continued	 there is little
+125	assumption	Georgia can do about it
+126	no-unit	.
+127	continued	Raising international awareness and encouraging
+128	continued	the US and Europe to link economic sanctions connected to Russia's annexation of Crimea to any possible annexation of South Ossetia
+129	continued	is the first thing
+130	assumption	the Georgian government should do
+131	no-unit	.
+-1	par-sep	
+132	continued	The history of the Caucasus has shown
+133	continued	that allegiances have, and can
+134	continued	,
+135	assumption	change over time
+136	no-unit	.
+137	continued	Through a long term process of confidence building measures, the Georgian government needs
+138	continued	to show those in South Ossetia
+139	continued	that their future is brighter with Tbilisi and in the transatlantic community
+140	continued	than
+141	assumption	it is with Russia
+142	no-unit	.
+143	no-unit	Finally
+144	no-unit	,
+145	assumption	 Georgia must stick with its "non-use of force" pledge regarding the occupied territories
+146	no-unit	.
+147	assumption	There is no military solution to either South Ossetia or Abkhazia
+148	no-unit	,
+149	no-unit	and
+150	assumption	the region can hardly afford another war
+151	no-unit	.
+-1	par-sep	
+152	continued	It is ironic
+153	continued	that since
+154	continued	the early 1990s thousands of South Ossetians have died
+155	assumption	fighting for their independence from Georgia
+156	no-unit	when
+157	continued	they are likely
+158	assumption	to hand over their sovereignty to Russia
+159	no-unit	.
+160	continued	Russia's treaties with Abkhazia and South Ossetia should be seen for
+161	continued	what
+162	assumption	they really are: the first step in a process of Russian annexation of both breakaway regions 
+163	no-unit	-
+164	continued	both of which are still internationally recognised
+165	assumption	to be part of Georgia
+166	no-unit	.
+167	assumption	Considering Russia's illegal annexation of Crimea, Georgians have cause for concern
+168	no-unit	.

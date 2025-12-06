@@ -1,0 +1,170 @@
+0	title	Please Australia, don't let abusive boxer Floyd Mayweather in.
+-1	par-sep	
+1	no-unit	While
+2	continued	the boxing world's attention is focused on
+3	continued	whether
+4	assumption	a fight between Floyd Mayweather and Manny Pacquiao might finally happen
+5	no-unit	,
+6	continued	Mayweather has announced
+7	testimony	that he will visit Australia at the end of the month
+8	no-unit	.
+9	continued	The world's best boxer and highest paid
+10	anecdote	athlete won't be fighting of course, merely making promotional appearances in Sydney, Melbourne and Brisbane
+11	no-unit	.
+-1	par-sep	
+12	continued	Even
+13	continued	leaving aside the disturbing idea
+14	continued	that real, living people might pay
+15	continued	to see the petulant man known as "Money"
+16	continued	do anything other than box
+17	continued	,
+18	continued	there'	Modd-NU
+19	assumption	s an issue: his extensive history of domestic violence
+20	no-unit	.
+21	no-unit	As
+22	assumption	Phil Lutton points out	cond
+23	no-unit	,	cond
+24	testimony	Mayweather has been arrested or cited by police in seven assaults against five different women
+25	no-unit	.
+-1	par-sep	
+26	continued	Mayweather's history of domestic violence began in 2001, just a month after
+27	anecdote	dedicating his fight against Diego "Chico" Corrales to "all the battered women in the world."
+28	continued	He allegedly closed a car door on his then-partner Melissa Brim before
+29	continued	repeatedly punching her
+30	continued	while
+31	anecdote	she lay on the back seat
+32	no-unit	.
+33	anecdote	Not six months later he punched Brim in the neck at a Las Vegas shopping centre
+34	no-unit	.
+35	continued	He pleaded
+36	continued	guilty
+37	anecdote	and received a suspended sentence
+38	no-unit	.
+-1	par-sep	
+39	continued	In 2003 Mayweather allegedly punched
+40	continued	two friends of his then-partner (and the mother of several of his children) Josie Harris in a nightclub
+41	anecdote	and shook a female security guard
+42	no-unit	.
+43	continued	He was issued a citation and found
+44	continued	guilty
+45	anecdote	of two counts of battery
+46	no-unit	,
+47	continued	though	Modd-NU
+48	anecdote	the verdict was vacated
+49	no-unit	and
+50	anecdote	the charges were "dismissed per negotiations."
+-1	par-sep	
+51	anecdote	The same year he allegedly pummelled Harris and dragged her from a car by her hair
+52	no-unit	,
+53	continued	though	Modd-NU
+54	continued	she later dropped the charges and testified
+55	anecdote	that she had lied to police
+56	no-unit	.
+57	anecdote	Mayweather bought Harries a $500,000, 25-carat diamond ring shortly afterwards
+58	no-unit	.
+-1	par-sep	
+59	continued	In 2011 he finally did jail time (90 days) for
+60	anecdote	savagely beating Harris in front of their children
+61	no-unit	.
+62	continued	He might have done
+63	continued	many more
+64	continued	if
+65	assumption	he wasn't a multi- millionaire and a linchpin of the economy in his home state of Nevada
+66	no-unit	.
+-1	par-sep	
+67	continued	Even boxing fans
+68	continued	,
+69	continued	who are usually loathe
+70	continued	to judge fighters for their conduct outside the ring
+71	continued	(few boxers are angels, after all)
+72	continued	,
+73	assumption	are unimpressed with Mayweather
+74	no-unit	.
+75	no-unit	And
+76	continued	though	Modd-NU
+77	continued	boxing is a bit of a cultural afterthought
+78	continued	these days, comments Mayweather made in support of abuser Ray Rice
+79	continued	before
+80	assumption	his most recent fight focused the attention of the mainstream media on his unsavoury past
+81	no-unit	.
+82	no-unit	Nevertheless
+83	no-unit	,
+84	assumption	 he was unrepentant
+85	no-unit	.
+-1	par-sep	
+86	continued	Though	Modd-NU
+87	continued	Mayweather's criminal past might not automatically disqualify him from
+88	assumption	receiving an Australian visa
+89	no-unit	,
+90	continued	he would have
+91	assumption	to sit a "character test" on arrival
+92	no-unit	.
+93	no-unit	If	cond
+94	assumption	you watch the video above	cond
+95	no-unit	,	cond
+96	continued	I'm sure
+97	continued	you'll agree
+98	assumption	that such a test could be a major stumbling block
+99	no-unit	.
+100	continued	In a similar case, Australia granted Mike Tyson
+101	continued	,
+102	continued	who was jailed for rape
+103	anecdote	in 1992, a visa in 2012
+104	no-unit	,
+105	continued	though	Modd-NU
+106	anecdote	New Zealand did not
+107	no-unit	.
+-1	par-sep	
+108	no-unit	So
+109	assumption	should Australia bar Mayweather?	m-question
+110	continued	What's
+111	continued	to gain from
+112	assumption	him visiting?
+113	assumption	He's a disgusting, unrepentant assaulter of women
+114	no-unit	and
+115	continued	his
+116	continued	"I do
+117	continued	what
+118	continued	I want-ism"
+119	assumption	is totally undesirable
+120	no-unit	.
+121	assumption	America might be stuck with him
+122	no-unit	,
+123	no-unit	but
+124	continued	I don't see
+125	continued	why
+126	continued	we should welcome him and allow
+127	assumption	him to make money in our country
+128	no-unit	.
+-1	par-sep	
+129	continued	Last year Australia cancelled the visa of pick up artist Julien Blanc
+130	continued	,
+131	continued	whose techniques
+132	anecdote	included simulated choking of women in bars, after a social media campaign and protests at venues
+133	no-unit	.
+134	assumption	There has been nothing simulated about Mayweather's repeated punching of the women in his life
+135	no-unit	,
+136	no-unit	so
+137	continued	I'd imagine he (and the venues
+138	continued	that welcome him)
+139	assumption	can expect the same treatment
+140	no-unit	.
+-1	par-sep	
+141	assumption	On a more selfish note, I simply can't face the prospect of sections of the Australian media writing seriously about Anthony Mundine fighting Mayweather
+142	no-unit	.
+143	continued	Mundine has begun
+144	continued	to retweet fans
+145	continued	(they are out there)
+146	continued	who want
+147	assumption	him to call Mayweather out
+148	no-unit	.
+149	assumption	The flow of indistinguishable-from-parody articles has already begun
+150	no-unit	.
+-1	par-sep	
+151	continued	Please Floyd, concentrate on
+152	other	fighting Manny
+153	no-unit	.
+154	assumption	We'll be fine without you
+155	no-unit	.
+156	no-unit	No, really
+157	no-unit	.

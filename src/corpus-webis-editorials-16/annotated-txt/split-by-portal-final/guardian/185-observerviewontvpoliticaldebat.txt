@@ -1,0 +1,164 @@
+0	title	The Observer view on the TV election debate.
+-1	par-sep	
+1	assumption	Has there ever been so much debate about a debate?
+2	continued	The negotiations about this year's TV leader's debates sank to a new low last week, with David Cameron appearing
+3	continued	to use the fact
+4	continued	that the Greens now look likely
+5	continued	to be excluded as an opportunity
+6	assumption	to bow out
+7	no-unit	.
+-1	par-sep	
+8	continued	Far from a principled stance, this came across as a self-serving attempt
+9	continued	to get out of jail free
+10	continued	,
+11	continued	following
+12	continued	as
+13	continued	it did in the wake of his equivocation about
+14	continued	whether
+15	continued	he would participate in the debates
+16	continued	he once so enthusiastically embraced as challenger
+17	assumption	rather than incumbent
+18	no-unit	.
+19	continued	Cameron's decision
+20	continued	to pull out of an online video debate for first-time voters
+21	assumption	also reflects poorly on his motives
+22	no-unit	.
+23	no-unit	Surely if	cond
+24	continued	he really wanted
+25	assumption	the Greens involved	cond
+26	continued	he would have co
+27	continued	-
+28	continued	ordinated a call from all three party leaders to the broadcasters
+29	assumption	to include them in the debates?
+30	continued	In the face of such cross-party consensus it would have been unthinkable
+31	continued	for
+32	assumption	them to refuse
+33	no-unit	.
+-1	par-sep	
+34	continued	It is a damning indictment
+35	assumption	that the political parties cannot even agree on a format for a series of election debates
+36	no-unit	.
+37	continued	One has
+38	continued	to question
+39	continued	where
+40	continued	that leaves
+41	continued	the real challenges facing the country
+42	continued	that will require a degree of cross
+43	continued	-
+44	assumption	party consensus to tackle over the next decade
+45	no-unit	,
+46	continued	in a time
+47	continued	when	Modd-NU
+48	continued	increasing political instability looks set
+49	assumption	to be the norm
+50	no-unit	.
+51	continued	Long-term reform of the NHS and care systems
+52	continued	to cope with an ageing population or restructuring the banks
+53	continued	to insulate us against another financial crisis
+54	assumption	are issues far more complex and thorny than a debate format
+55	no-unit	.
+-1	par-sep	
+56	assumption	This episode reveals two further truths
+57	no-unit	.
+58	no-unit	First	Modd-NU
+59	no-unit	,	Modd-NU
+60	continued	 all our leaders have claimed
+61	continued	to want
+62	assumption	to change the nature of the conversation between politicians and voters
+63	no-unit	.
+64	assumption	But too often these claims are undermined
+65	no-unit	.
+66	continued	Ed Miliband argued for a new politics in July 2014
+67	continued	,
+68	assumption	shunning the shallowness of husky-themed photo-ops
+69	no-unit	.
+70	continued	He launched his election campaign with a promise
+71	continued	Labour activists will engage in four million conversations
+72	continued	,
+73	continued	talking to people on doorsteps rather than communicating
+74	assumption	using poster campaigns
+75	no-unit	.
+76	continued	But the authenticity of this has been undercut by Labour's continued reliance on negative campaigning, including their election broadcast ridiculing Nick Clegg as the "Un-Credible Shrinking Man"
+77	continued	who has abandoned his principles, and leaked strategy documents
+78	continued	telling candidates
+79	continued	to move on
+80	continued	when
+81	assumption	voters raise immigration as an issue
+82	no-unit	.
+-1	par-sep	
+83	continued	Cameron's attempt
+84	continued	to extract himself from debates
+85	continued	that attracted tens of millions of viewers in the run-up to the last election
+86	assumption	undermines these claims by the political class even further
+87	no-unit	.
+88	continued	It smacks of politicians only interested in
+89	continued	pursuing a new style of politics
+90	continued	when
+91	assumption	it suits their strategy
+92	no-unit	.
+-1	par-sep	
+93	no-unit	Second	Modd-NU
+94	no-unit	,	Modd-NU
+95	continued	 the disagreement around the debates is a symptom of the extent
+96	assumption	to which Britain's two-party majoritarian system is breaking down
+97	no-unit	.
+98	continued	The vote share of the two main parties has steadily declined in recent decades to the extent
+99	continued	that it no longer looks
+100	continued	as if
+101	continued	the two parties will be able
+102	assumption	to sustain a majority under the current electoral system
+103	no-unit	.
+104	continued	We are now in the territory
+105	continued	where
+106	continued	their declining vote share means first past
+107	continued	the post is beginning
+108	continued	to deliver
+109	continued	what
+110	assumption	increasingly looks like arbitrary rather than democratically credible outcomes
+111	no-unit	.
+-1	par-sep	
+112	continued	It is nonsensical for the Greens
+113	continued	to be excluded on the basis of their vote share in an electoral system
+114	continued	that provides
+115	assumption	strong disincentives to vote for them in the first place
+116	no-unit	.
+117	continued	Hundreds of thousands of people have signed a petition for them
+118	anecdote	to be included
+119	no-unit	and
+120	continued	eight in 10 voters think
+121	statistics	they should take part
+122	no-unit	.
+123	continued	Ofcom's decision
+124	continued	that they don't have sufficient support
+125	continued	to accord them "major party status" and the broadcasters' reluctance
+126	continued	to invite
+127	continued	them to participate
+128	continued	have the ring of a political establishment desperately trying
+129	assumption	to cling on to the cartel-like status quo
+130	no-unit	.
+-1	par-sep	
+131	continued	A political rulebook
+132	continued	that better reflects the more pluralistic politics
+133	continued	developing in Britain
+134	continued	would do more than any speech or campaign
+135	assumption	to facilitate a more honest, authentic conversation with the public
+136	no-unit	.
+137	continued	Cameron's attempt
+138	continued	to wriggle out of the debates
+139	assumption	is shameful
+140	no-unit	and
+141	continued	he must accept the invitation issued by the Guardian, Telegraph and YouTube
+142	assumption	to take part in an online debate including the Greens
+143	no-unit	.
+144	assumption	But he should be doing much more
+145	no-unit	:
+146	continued	he should be leading a national conversation involving all the party leaders about
+147	continued	how
+148	assumption	the pluralism of the electorate can be represented in a more democratic system of politics
+149	no-unit	.
+150	continued	The longer
+151	continued	the main parties try
+152	continued	to resist
+153	continued	,
+154	assumption	the more disillusioned and disenfranchised the public will become
+155	no-unit	.

@@ -1,0 +1,269 @@
+0	title	Defusing Taliban publicity.
+-1	par-sep	
+1	continued	Journalists in Afghanistan have decided for the second time this year
+2	continued	to curtail their reporting on Taliban attacks as a means of
+3	assumption	reducing the impact of their message
+4	no-unit	.
+5	assumption	The first such collective action was taken during the presidential elections
+6	continued	when	Modd-NU
+7	assumption	the Taliban were completely boycotted
+8	no-unit	.
+9	testimony	This is a strategic decision according to Fahim Dashty, the chief executive of Afghanistan's National Journalists Union (ANJU)
+10	no-unit	.
+11	assumption	The decision follows the recent heavy escalation of attacks in Kabul
+12	no-unit	.
+-1	par-sep	
+13	continued	"Our
+14	continued	media is saturated with images of Taliban attacks,"
+15	testimony	says a joint press statement by ANJU, and the media watchdog, Nai
+16	no-unit	.
+17	continued	"Taliban
+18	continued	spokesman Zabihula Mujahid is active on TV
+19	continued	and
+20	continued	social media round the clock
+21	continued	,
+22	continued	he is in every home 24 hours a day
+23	continued	,
+24	continued	we need
+25	continued	to confront his messages,"
+26	testimony	says Nai's director, Sediqulah Tauhidi
+27	no-unit	.
+-1	par-sep	
+28	continued	Afghan journalists feel
+29	assumption	they need support from policy makers and the international community alike
+30	no-unit	.
+-1	par-sep	
+31	continued	"We
+32	continued	will be calling on the new president, Ashraf Ghani
+33	continued	,
+34	continued	to consider
+35	continued	blocking the sites
+36	continued	that Taliban use for their publicity,"
+37	testimony	says Dashty
+38	no-unit	.
+-1	par-sep	
+39	no-unit	Confronting publicity
+40	no-unit	.
+-1	par-sep	
+41	continued	The call by journalists in Afghanistan echoes
+42	continued	international concerns about the need
+43	continued	to confront publicity by armed groups such as ISIL, and the attempts in several countries including Britain
+44	continued	to block these groups' use of the internet and social media
+45	assumption	to advertise, publicise and recruit
+46	no-unit	.
+-1	par-sep	
+47	continued	British Home Secretary Theresa May acknowledged the extent of the problem in her latest policy speech
+48	continued	:
+49	continued	"We need a counter terrorism strategy
+50	testimony	that is comprehensive and coherent."
+-1	par-sep	
+51	continued	Among the measures
+52	continued	to curb the activities of the Islamist terror groups
+53	anecdote	she introduced restrictions on the use of the internet
+54	no-unit	.
+-1	par-sep	
+55	continued	"We
+56	continued	are engaged in a struggle
+57	continued	that is fought on many fronts,"
+58	continued	she said
+59	continued	,
+60	testimony	naming terrorist groups in several parts of the world including Afghanistan
+61	no-unit	.
+62	continued	Police and intelligence agencies will be given new powers
+63	continued	to track down those
+64	assumption	who plot terrorist attacks over the internet
+65	no-unit	.
+-1	par-sep	
+66	continued	"They
+67	continued	enable
+68	continued	the authorities to limit a subject's access to telephones and the internet,"
+69	testimony	she said
+70	no-unit	.
+-1	par-sep	
+71	assumption	Terrorist attacks have been complex
+72	no-unit	but
+73	continued	many are used for
+74	assumption	sending a specific message either to the local population or to the international community
+75	no-unit	.
+76	continued	Once	Modd-NU
+77	continued	these messages are turned into images on TV and internet across the world
+78	assumption	their impact is amplified
+79	no-unit	.
+-1	par-sep	
+80	no-unit	Broader audience
+81	no-unit	.
+-1	par-sep	
+82	continued	According to UN counterterrorism research, terrorist-related propaganda hosted on popular websites
+83	continued	containing
+84	continued	user-generated content has the potential
+85	assumption	to reach a significantly broader audience than content on traditional specialised websites, bulletin boards and web forums
+86	no-unit	,
+87	assumption	which generally appeal to a self- selected group of individuals
+88	no-unit	.
+-1	par-sep	
+89	continued	"Their
+90	continued	sophisticated use of the internet and social media means
+91	continued	they have a significant propaganda reach across the world,"
+92	testimony	said the British home secretary
+93	no-unit	.
+-1	par-sep	
+94	continued	"The
+95	continued	scourge of ISIL should not mean
+96	continued	that the Taliban are forgotten or seen as the milder terror group,"
+97	testimony	stresses Dashty
+98	no-unit	.
+99	assumption	There are serious reservations
+100	no-unit	when
+101	continued	British Foreign Secretary Philip Hammond states at the opening of the London Conference on Afghanistan
+102	testimony	that "The terrorist threat from the region has been substantially reduced,"
+103	continued	when	Modd-NU
+104	anecdote	there are almost daily attacks in Kabul
+105	no-unit	.
+-1	par-sep	
+106	continued	"Taliban
+107	continued	are blocking the fledgling democracy
+108	continued	that has been built over the last decade,"
+109	testimony	says Nai director
+110	no-unit	.
+111	continued	"They
+112	continued	are attacking our liberty
+113	continued	,
+114	continued	they are targeting freedom of speech
+115	continued	,
+116	continued	they are targeting press freedom
+117	continued	and
+118	testimony	we must have a counter offensive."
+-1	par-sep	
+119	continued	Dashty says as journalists
+120	continued	we must ask ourselves
+121	continued	whether
+122	continued	in our endeavour
+123	continued	to provide information
+124	testimony	we are turning into communication channels at the service of the Taliban
+125	no-unit	.
+-1	par-sep	
+126	assumption	The arguments are not straightforward
+127	no-unit	.
+128	no-unit	On the one hand
+129	no-unit	,
+130	continued	the media needs
+131	continued	to report
+132	assumption	to inform the population
+133	no-unit	and
+134	no-unit	on the other hand
+135	no-unit	,
+136	continued	reporting terrorist attacks
+137	assumption	has increasingly become publicity for armed extremist groups
+138	no-unit	.
+139	assumption	On the one hand freedom of speech and civil liberties should be preserved at all cost
+140	no-unit	,
+141	no-unit	and
+142	no-unit	on the other hand
+143	no-unit	,
+144	assumption	 terrorist messages have traumatised societies and increased militant recruitment around the world
+145	no-unit	.
+-1	par-sep	
+146	no-unit	Credible counter-narrative
+147	no-unit	.
+-1	par-sep	
+148	assumption	These issues must be discussed in depth and collectively around the world
+149	no-unit	.
+150	continued	There is a need for
+151	continued	coordinating a credible counter narrative both at the local and the global level
+152	assumption	to confront the banality and cruelty of terrorist messages
+153	no-unit	.
+-1	par-sep	
+154	continued	Take for example their claim, believed even by some analysts
+155	continued	,
+156	continued	that they are fighting
+157	other	to save Muslims
+158	no-unit	while
+159	continued	facts tell us
+160	assumption	that they have killed tens of thousands over the years
+161	no-unit	.
+162	continued	Since 2009	Modd-NU
+163	continued	,	Modd-NU
+164	continued	there have been over 17,000 civilian deaths in Afghanistan
+165	statistics	alone as documented by the UN - 75 percent as a result of Taliban attacks
+166	no-unit	.
+167	continued	Or the contradictions in the Taliban claim	Modd-NU
+168	continued	that they want foreign forces out
+169	continued	while
+170	continued	targeting British interests one month
+171	continued	after
+172	continued	British forces left Afghanistan
+173	continued	,
+174	continued	or inviting foreign Islamist fighters
+175	continued	and
+176	continued	al-Qaeda
+177	assumption	to set up camp in Afghanistan during their rule
+178	no-unit	.
+-1	par-sep	
+179	testimony	"Confusion and contradictions among the various terrorist voices" are common according to the latest State Department report on terrorism
+180	no-unit	.
+-1	par-sep	
+181	continued	Journalists, media analysts, communication experts and policy makers need
+182	continued	to come together
+183	continued	to discuss
+184	continued	how
+185	continued	best to build a framework for a new counterterrorism narrative
+186	assumption	that at the same time reveals the falsities of terrorist assertions
+187	no-unit	.
+188	continued	Once	Modd-NU
+189	continued	formulated	Modd-NU
+190	continued	,	Modd-NU
+191	assumption	it could then be used as any public service broadcast messages woven into drama serials, discussions, debates and news coverage alike
+192	no-unit	.
+-1	par-sep	
+193	continued	The UN Office on Drugs and Crime
+194	continued	,
+195	continued	which created a counterterrorism task force
+196	continued	,
+197	continued	says
+198	continued	that despite
+199	continued	increasing international recognition of the threat posed by terrorists' use of the internet
+200	continued	,
+201	continued	"there is currently no universal instrument
+202	testimony	specifically addressing this pervasive facet of terrorist activity"
+203	no-unit	.
+-1	par-sep	
+204	no-unit	'Psychological security'
+205	no-unit	.
+-1	par-sep	
+206	continued	The joint statement by ANJU and Nai calls on the media and the reporters in Afghanistan
+207	continued	to refrain from competition over
+208	anecdote	who shows more pictures of the gruesome Taliban attacks
+209	no-unit	.
+210	continued	It says
+211	testimony	that the "unprecedented" frequency of the footage shown on TV and social media have undermined the "psychological security" of the nation
+212	no-unit	.
+-1	par-sep	
+213	continued	"Our
+214	continued	first boycott of the Taliban was successful,"
+215	testimony	says Dashty
+216	no-unit	.
+217	continued	"Attacks
+218	continued	were reduced
+219	continued	and
+220	testimony	over 60 percent of the population took part in the elections."
+-1	par-sep	
+221	continued	He says
+222	continued	they would really benefit
+223	continued	if
+224	continued	journalists in the West supported their campaigns, especially those
+225	testimony	who frequently report from Afghanistan
+226	no-unit	.
+-1	par-sep	
+227	continued	"We
+228	continued	would also welcome an international framework
+229	continued	that sets an example for us,"
+230	testimony	says Dashty
+231	no-unit	.
+-1	par-sep	
+232	continued	A coordinated global plan
+233	continued	to counter terrorist media propaganda
+234	assumption	would be a useful tool for journalists in areas adversely affected by terrorist attacks
+235	no-unit	.
+236	continued	Attacks plotted on the World Wide Web
+237	assumption	need an appropriate worldwide media response
+238	no-unit	.

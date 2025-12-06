@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3122" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="104" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="106" end="169" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="171" end="216" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="219" end="388" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="390" end="564" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="567" end="701" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="703" end="812" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="814" end="817" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="818" end="914" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="917" end="1007" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="1010" end="1102" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1103" end="1108" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1109" end="1185" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1187" end="1263" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1265" end="1268" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1269" end="1305" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1308" end="1416" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1418" end="1465" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1467" end="1470" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1471" end="1533" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1535" end="1622" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1627" end="1713" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1718" end="1788" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1793" end="1873" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1875" end="2074" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2076" end="2160" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2162" end="2296" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2298" end="2385" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2388" end="2391" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2392" end="2477" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2480" end="2673" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2674" end="2679" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2680" end="2779" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2782" end="2884" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2886" end="2982" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2984" end="3035" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="3037" end="3040" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3041" end="3074" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3075" end="3078" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3079" end="3121" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="213" sofa="1" begin="0" end="3122" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/232-saudiarabiaanxiousideologicall.txt" offsetInSource="0" documentSize="3122" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="221" sofa="1" begin="0" end="3122" lastUpdate="2015-01-06T13:29:40Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/saudi-arabia-anxious-ideological-links-isis" portal="guardian" authors="Brian Whitaker" articleSum="Brian Whitaker: The Saudi authorities have condemned Islamic State, but they fear the destabilising effects of any detailed examination of their shared principles" title="Saudi Arabia is right to be anxious over its ideological links with Isis."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In a pre-dawn raid on Monday, militants attacked a Saudi border post from the Iraqi side of the frontier. The resulting clash left three soldiers and four militants dead, according to the Saudi government news agency.&#10;&#10;It later emerged that one of the dead soldiers was no ordinary border guard but the commander of Saudi Arabia's northern border forces, Brigadier General Awdah al-Balawi. This suggests that the attack, far from being random or opportunistic, had been carefully targeted and perhaps based on inside information regarding the general's whereabouts.&#10;&#10;The attack has been widely attributed to Islamic State, with some reports saying the rebel group has now claimed responsibility for it. This might be viewed simply as a reprisal for Saudi participation in the US-led bombing campaign against Isis, but Isis has also been seeking to extend the current conflict in Syria and Iraq into Saudi territory.&#10;&#10;There is no doubt that Isis has both sympathisers and active supporters inside the kingdom - it claimed responsibility for shooting a Danish citizen in Riyadh last November, for example - but whether it will be able to establish a military foothold is another question. Isis tends to flourish militarily in places where central government is weak, but that is not the case in Saudi Arabia.&#10;&#10;In military terms, the Saudi security apparatus is probably capable of suppressing Isis on its own territory, just as it did with al-Qaeda a decade or so ago, but it is in no position to confront Isis at the ideological level. The problem here is that Isis and the Saudis' Islamic kingdom are ideologically similar, so attempts to challenge Isis on ideological grounds risk undermining the Saudi state too. As Heba Saleh and Simeon Kerr noted in the Financial Times last September :.&#10;&#10;The underlying issue, therefore, is the rival claims of king and would-be caliph. In the words of two Saudi government supporters: &quot;To restore the 'caliphate', [Isis] would ultimately need to implant itself at the epicentre of Islamic life, the two holy mosques in Mecca and Medina. Therefore, [Isis's] road to the caliphate runs through the kingdom of Saudi Arabia.&quot;&#10;&#10;Inconveniently for the Saudi monarchy, this challenge from the upstart caliph comes at a time of uncertainty over the royal succession. King Abdullah, now in his 90s, is in hospital - reportedly being treated for pneumonia  - and his likely successor, Crown Prince Salman, is thought to be 77 and not in good health.&#10;&#10;So far, Saudi efforts to confront Isis ideologically have mainly taken the form of denunciations from tame clerics - figures who have no prospect of influencing Isis supporters and sympathisers - but it is difficult to see what else they might do without calling their own state system into question.&#10;&#10;The king and his princes have dug a hole for themselves by harnessing religion in the pursuit of power. Religious credentials bolstered their claim to legitimacy and helped them assert their authority. For a long time, those credentials served them well, but now they are becoming a liability and it may be too late to unfasten the harness."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 221"/>
+</xmi:XMI>

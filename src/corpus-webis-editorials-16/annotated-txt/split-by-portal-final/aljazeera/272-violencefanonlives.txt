@@ -1,0 +1,209 @@
+0	title	'Concerning Violence': Fanon lives on.
+-1	par-sep	
+1	anecdote	In one of the more haunting scenes from Swedish documentary director Goran Hugo Olsson's Concerning Violence: Nine Scenes From the Anti-Imperialistic Self-Defense, a young Mozambican woman with a stump of a right arm breastfeeds a baby with a stump of a right leg
+2	no-unit	.
+-1	par-sep	
+3	anecdote	Like the rest of the footage in the film, the scene was unearthed from Swedish television archives dating from the era of African anti-colonial struggles
+4	no-unit	.
+5	anecdote	The woman and child were recorded in the immediate aftermath of an aerial bombing raid in 1972, one of Portugal's many responses to the Mozambican desire for liberation
+6	no-unit	.
+-1	par-sep	
+7	assumption	In typical fashion, the Portuguese and their imperial colleagues instead portrayed the Mozambique Liberation Front (FRELIMO) as violent terrorists, despite the merely reactive nature of anti-colonial violence to centuries of oppression
+8	no-unit	.
+-1	par-sep	
+9	no-unit	After all
+10	no-unit	,
+11	assumption	 violence is the prerogative of empire
+12	no-unit	.
+-1	par-sep	
+13	continued	Among Fanon's sober assessments is
+14	continued	that colonialism "is violence in its natural state
+15	continued	,
+16	continued	and
+17	continued	it will only yield
+18	continued	when
+19	testimony	confronted with greater violence"
+20	no-unit	.
+21	continued	Decolonisation
+22	continued	,
+23	continued	he writes
+24	continued	,
+25	testimony	"is always a violent phenomenon"
+26	no-unit	.
+27	continued	"Decolonisation
+28	continued	,
+29	continued	which sets out
+30	continued	to change the order of the world
+31	continued	,
+32	testimony	is, obviously, a programme of complete disorder"
+33	no-unit	.
+-1	par-sep	
+34	assumption	The film corroborates these assertions with footage from former European colonial possessions in Africa
+35	no-unit	.
+36	continued	Scenes variously depict the subjugation and impoverishment of native populations, juxtaposed with Europeans sun-tanning and playing golf in picturesque African settings in between
+37	anecdote	wantonly extracting resources and imprisoning and torturing people
+38	no-unit	.
+-1	par-sep	
+39	assumption	This, in turn, provides the proper context for scenes of militant African resistance
+40	no-unit	.
+-1	par-sep	
+41	continued	Particularly illustrative of the prevailing
+42	assumption	"order of the world" is an interview with a white settler in then-Rhodesia
+43	anecdote	who addresses his black servant boy as "you stupid thing, you" and laments the impending African reclamation of the territory
+44	no-unit	:
+45	testimony	"The gooks have got it."
+-1	par-sep	
+46	continued	When
+47	continued	asked by the interviewer
+48	continued	to clarify his derogatory slang
+49	continued	,
+50	continued	he elaborates with more slang: "The terrs
+51	continued	...
+52	testimony	The whole world is supporting the terrorists."
+-1	par-sep	
+53	no-unit	To be sure
+54	no-unit	,
+55	continued	we've superficially done away with the whole colonialism business, it being generally understood
+56	assumption	that colonies are bad and archaic things
+57	no-unit	.
+58	assumption	There are, however, notable exceptions to the rule, as in the case of state of Israel
+59	no-unit	,
+60	continued	which is granted a de facto exemption from
+61	assumption	ceasing colonial operations
+62	assumption	and is furthermore regularly lauded as a beacon of democracy
+63	no-unit	.
+-1	par-sep	
+64	continued	But the same oppressive structures
+65	continued	that underpinned colonialism continue
+66	assumption	to flourish in the age of neoliberal globalisation
+67	no-unit	,
+68	continued	which functions according to the idea
+69	continued	that there is a class of human beings
+70	continued	- often
+71	continued	but not always determined by skin colour - entitled to a level of wealth and comfort that is only attainable by
+72	assumption	depriving the global masses of a dignified existence
+73	no-unit	.
+-1	par-sep	
+74	continued	And as always, a violent apparatus is required
+75	assumption	to secure the arrangement
+76	no-unit	.
+-1	par-sep	
+77	assumption	In recent years, the African continent has witnessed an ever-amplified US military presence
+78	no-unit	.
+79	continued	Writing in Jacobin magazine
+80	continued	,
+81	continued	David Mizner describes the scenario as a "soft occupation correspond[ing] with a battle between China and the [US] over the spoils of Africa
+82	continued	,
+83	testimony	which has massive natural resources and six of the world's fastest growing economies"
+84	no-unit	.
+-1	par-sep	
+85	continued	Poor Africans might be forgiven for
+86	continued	failing
+87	assumption	to detect enormous differences between this and previous intrusions from abroad
+88	no-unit	.
+-1	par-sep	
+89	continued	In other parts of the world
+90	continued	that the US prefers
+91	continued	to think of as its own personal military base
+92	continued	- such as Central America - the imperial power has backed the security forces of various repressive and illegitimate leaders committed
+93	assumption	to violently squelching popular protest
+94	no-unit	.
+-1	par-sep	
+95	continued	Reasons for protest have included government insistence on
+96	continued	catering to foreign corporations
+97	assumption	rather than to indigenous and peasant communities opposed to the usurpation and contamination of their lands by mining operations and the like
+98	no-unit	.
+-1	par-sep	
+99	continued	But the victims are largely invisible, the dehumanised refuse of empire and the price
+100	continued	to be paid for
+101	assumption	securing corporate profit
+102	no-unit	.
+-1	par-sep	
+103	continued	In her spoken preface to Concerning Violence, renowned Columbia University professor Gayatri Chakravorty Spivak explains
+104	continued	that in "reading between the lines" of The Wretched of the Earth, one sees
+105	continued	that Fanon does not in fact endorse violence
+106	continued	but rather "insists
+107	continued	that the tragedy is
+108	continued	that the very poor is reduced to violence
+109	continued	,
+110	continued	because
+111	testimony	there is no other response possible to an absolute absence of response and an absolute exercise of legitimised violence from the colonisers"
+112	no-unit	.
+-1	par-sep	
+113	continued	Spivak goes on
+114	continued	to make a telling comparison regarding the earth's "wretched"
+115	continued	:
+116	testimony	"Their lives count as nothing against the death of the colonisers: unacknowledged Hiroshimas against sentimentalised 9/11s."
+-1	par-sep	
+117	continued	For another modern-day example of legitimised violence and self-victimisation by the very purveyors of said violence, it seems appropriate
+118	assumption	to once again bring up the state of Israel
+119	no-unit	,
+120	continued	which shares the ex-Rhodesian resident's knack for
+121	assumption	hallucinating himself into a position of unparalleled suffering at the hands of "terrorists"
+122	no-unit	.
+-1	par-sep	
+123	continued	Following last month's Jerusalem synagogue attack
+124	continued	in which two Palestinians murdered five Israelis
+125	continued	,
+126	assumption	there was a typical upsurge in terror-hysteria from the Israeli establishment and sympathetic governments and media
+127	no-unit	.
+128	continued	Studiously ignored
+129	continued	were the various Israeli crimes
+130	continued	that directly preceded the event
+131	continued	,
+132	assumption	not to mention this summer's slaughter of more than 2,100 Palestinians in the Gaza Strip
+133	no-unit	.
+-1	par-sep	
+134	continued	Meanwhile	Modd-NU
+135	continued	,	Modd-NU
+136	continued	Israel's primary benefactor - the nation described by Fanon as the "former European colony
+137	continued	[that] decided
+138	continued	to catch up with Europe"
+139	continued	- should find much
+140	assumption	to reflect on in Concerning Violence
+141	no-unit	,
+142	continued	particularly given Fanon's conclusion regarding the European experiment
+143	continued	:
+144	continued	"It succeeded so well
+145	continued	that the United States of America became a monster
+146	continued	,
+147	testimony	in which the taints, the sickness, and the inhumanity of Europe have grown to appalling dimensions."
+-1	par-sep	
+148	continued	Contemporary manifestations of the American sickness include the recent decision by a Missouri grand jury
+149	continued	not to indict a police officer for
+150	assumption	killing an unarmed black teenager in the city of Ferguson - far from an isolated instance of fatal bigotry
+151	no-unit	.
+-1	par-sep	
+152	continued	Drawing on several of Fanon's texts
+153	continued	,
+154	anecdote	journalist Roqayah Chamseddine penned an essay on the aftermath of the Ferguson decision for Al-Akhbar English
+155	no-unit	,
+156	continued	in which she condemned the liberal American tradition of
+157	continued	placing the onus of non- violence on those oppressed by the state rather than the state itself - an entity
+158	testimony	that engages in "unfettered police brutality and judicial discrimination" against black communities
+159	no-unit	.
+-1	par-sep	
+160	continued	This tradition entails an obsession with
+161	assumption	containing potentially "violent" black reactions to state violence (eg vandalism and looting)
+162	no-unit	,
+163	assumption	and ultimately prescribes a superior concern for private property and material goods than for black life
+164	no-unit	.
+165	continued	Chamseddine writes
+166	continued	:
+167	continued	"Today in the United States
+168	continued	many
+169	continued	will be grieving for buildings burned
+170	continued	and windows broken
+171	continued	,
+172	continued	while
+173	continued	the bourgeoisie will cry out
+174	continued	'calm!'
+175	continued	and hurriedly search for Martin Luther King Jr quotes
+176	continued	to guilt black protesters into
+177	testimony	supporting their deadly liberal pacifism."
+-1	par-sep	
+178	no-unit	Suffice
+179	no-unit	it to say
+180	continued	Concerning Violence should concern
+181	assumption	us all
+182	no-unit	.

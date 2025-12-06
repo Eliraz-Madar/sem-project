@@ -1,0 +1,128 @@
+0	title	If California truly leads the nation, we can elect a black woman to the US Senate.
+-1	par-sep	
+1	continued	Here in California	modd-NU	
+2	continued	,	modd-NU
+3	assumption	it's been a blockbuster week in politics
+4	no-unit	:
+5	anecdote	Barbara Boxer is finally stepping down as perma-Senator after over 20 years
+6	no-unit	;
+7	anecdote	former San Francisco mayor and current lieutenant governor Gavin Newsom is running for governor
+8	no-unit	;
+9	no-unit	and
+10	anecdote	attorney general Kamala Harris gunning for Boxer's soon-to-be- vacated seat
+11	no-unit	.
+12	continued	Why	modd-NU
+13	assumption	does it matter?	m-question
+-1	par-sep	
+14	continued	There'	modd-NU
+15	assumption	s certainly something compelling about Harris' daring bid for US Senate
+16	no-unit	:
+17	anecdote	there are only one in five senators are female in this Congress
+18	no-unit	;
+19	no-unit	and
+20	anecdote	there are only two black Senators currently (Cory Booker of New Jersey and Tim Scott from South Carolina)
+21	no-unit	.
+22	no-unit	If
+23	assumption	Harris won
+24	no-unit	,
+25	continued	she not only would contribute to the growing number of women in power
+26	continued	,
+27	continued	but
+28	continued	having three actual black senators at one time
+29	assumption	would make history
+30	continued	because	modd-NU
+31	continued	,	modd-NU
+32	continued	to date, two is the best
+33	continued	we've been able
+34	assumption	to achieve as a nation
+35	no-unit	.
+36	continued	In America's entire history	modd-NU
+37	continued	,	modd-NU
+38	anecdote	only eight black people have ever been senators
+39	no-unit	and
+40	statistics	of those, only half were actually elected, rather than appointed
+41	no-unit	.
+42	statistics	Yet African-Americans make up about 13% of the population, according to the 2013 census
+43	no-unit	.
+44	assumption	True proportional representation would see black senators in the double digits in Congress
+45	no-unit	.
+-1	par-sep	
+46	assumption	California has outsized importance in the US economy
+47	no-unit	:
+48	statistics	on its own, it is the world's eighth-largest economy, just behind booming Brazil but ahead of Russia and Italy
+49	no-unit	.
+50	continued	California's contributions are one of the chief reasons
+51	assumption	the US remains the world's biggest economy
+52	no-unit	... and
+53	continued	a black woman is poised
+54	assumption	to be one of the most nationally influential politicians in the state
+55	no-unit	.
+-1	par-sep	
+56	continued	California's internal public policy tussles - and its standard more-liberal- than-the-nation solutions - often help lead the rest of the nation and the world forward, be it on pollution standards, minimum wage increases, medical marijuana legalization, organic produce certification, healthcare access for the uninsured, public-private technology innovation such as iHubs and tax breaks
+57	continued	that encourage local production of zero-emission Teslas
+58	continued	,
+59	assumption	same sex marriage and wetlands protections such as the CA Coastal Act of 1976
+60	no-unit	.
+61	continued	California's politicians can bring to Washington the ability
+62	continued	to combine strong, safe regulatory experience with a booming economy and environmental protections
+63	continued	,
+64	continued	offering a compelling counter-point to Republicans
+65	assumption	who argue otherwise
+66	no-unit	.
+-1	par-sep	
+67	no-unit	And	Modd-NU
+68	no-unit	,	Modd-NU
+69	continued	 with the exception of Jerry Brown's first stint as governor from 1975-1983, California internal top politics has been tended
+70	assumption	to be dominated by southern California figures like Ronald Reagan and Arnold Schwarzenegger
+71	no-unit	- but
+72	assumption	Harris (and Newsom) are both northern California people through and through
+73	no-unit	.
+74	continued	Instead of Hollywood values and priorities holding sway in the state, northern California's tech-powered financial and cultural strength may finally have a chance
+75	assumption	to drive the state's politics
+76	no-unit	.
+77	no-unit	And
+78	continued	while	Modd-NU
+79	continued	Boxer, her fellow senator Dianne Feinstein and House minority leader Nancy Pelosi all hail from northern California
+80	continued	,
+81	assumption	they spend much of their time in Washington DC 
+82	no-unit	-
+83	no-unit	so
+84	assumption	Harris's move to DC will provide us with a new generation of representatives steeped in the area's emerging tech-focused culture
+85	no-unit	.
+-1	par-sep	
+86	continued	While	Modd-NU
+87	continued	I believe
+88	continued	California has much
+89	assumption	to gain from politicians like Newsom and Harris
+90	continued	who see their work as largely cooperative and people-focused
+91	continued	- as opposed to the ideological culture warriors
+92	assumption	who normally represent us in national policy debates
+93	assumption	- there's a long road ahead for each
+94	no-unit	.
+95	continued	Harris, for instance, may have
+96	continued	to contend with billionaire Tom Steyer and former Los Angeles mayor Antonio Villaraigosa in a Democratic primary (and
+97	assumption	Villaraigosa would make history of his own)
+98	no-unit	.
+99	continued	But Harris is likely
+100	continued	to have a lot of support
+101	assumption	behind her and 
+102	no-unit	-
+103	continued	being young	Modd-NU
+104	continued	,	Modd-NU
+105	continued	at 50 	Modd-NU
+106	continued	-	Modd-NU
+107	continued	a run now for	Modd-NU
+108	continued	Senate still leaves
+109	continued	the door open
+110	assumption	to run for governor 10 or 20 years down the road
+111	no-unit	.
+112	no-unit	After all
+113	no-unit	,
+114	assumption	 stranger things have happened in CA politics
+115	no-unit	:
+116	continued	who would have thought
+117	continued	that B-list actor Ronald Reagan would rise from California
+118	anecdote	to become the GOP's iconic president
+119	no-unit	,
+120	no-unit	or
+121	anecdote	that Jerry Brown, now 76-years-old, would become governor again after over 30 years?

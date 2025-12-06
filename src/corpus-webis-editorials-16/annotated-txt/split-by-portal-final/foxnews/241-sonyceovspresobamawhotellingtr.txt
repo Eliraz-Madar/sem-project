@@ -1,0 +1,76 @@
+0	title	Sony CEO vs  Pres  Obama: Who's telling the truth?
+-1	par-sep	
+1	assumption	Time for my take now
+2	no-unit	.
+3	assumption	Whose telling the truth?
+4	continued	It's not like Hollywood types
+5	continued	like
+6	assumption	Sony are adversaries of President Obama
+7	no-unit	but
+8	assumption	they're telling two different stories right now
+9	no-unit	.
+-1	par-sep	
+10	continued	On Friday during this show, the president said
+11	continued	he wished
+12	continued	Sony execs had reached out to him
+13	continued	to discuss the cyber-attack or vandalism
+14	continued	,
+15	continued	as
+16	continued	he calls it
+17	continued	,
+18	continued	before
+19	continued	they decided
+20	continued	to pull the movie
+21	testimony	the interview from theaters
+22	no-unit	.
+23	continued	But just a few hours later 
+24	continued	...
+25	continued	the Sony CEO said
+26	continued	in fact he had contacted Senior White House officials
+27	continued	to discuss what the government
+28	continued	though
+29	testimony	they should do
+30	no-unit	.
+-1	par-sep	
+31	no-unit	So, I ask you today
+32	no-unit	,
+33	assumption	which one is it?	m-question
+34	continued	Could it be
+35	continued	that any senior white house advisor would not have relayed the message to the president
+36	assumption	that they'd heard from Sony?
+-1	par-sep	
+37	continued	We were reporting all last week
+38	anecdote	that the president was receiving daily updates and holding daily meetings about the North Korea cyber crisis
+39	no-unit	.
+40	continued	Seems implausible
+41	assumption	that could have slipped through the cracks
+42	no-unit	.
+-1	par-sep	
+43	continued	So now the president says
+44	continued	he'll weigh the options presented to him about
+45	continued	what
+46	testimony	to do about North Korea
+47	no-unit	.
+48	continued	If
+49	continued	trying
+50	continued	to bring down an entire Hollywood company like Sony
+51	assumption	is only vandalism	cond
+52	no-unit	--	cond
+53	continued	what
+54	assumption	would actually constitute an attack?
+55	continued	Because	Modd-NU
+56	continued	rest assured	Modd-NU
+57	continued	-- unfortunately	Modd-NU
+58	continued	-	Modd-NU
+59	continued	I don't think
+60	continued	this attack won'
+61	assumption	t be the last
+62	no-unit	.
+-1	par-sep	
+63	continued	Gretchen Carlson currently serves
+64	anecdote	as anchor of FOX News Channel's (FNC) The Real Story with Gretchen Carlson (weekdays 2-3PM/ET)
+65	no-unit	.
+66	anecdote	She joined the network in June of 2005
+67	no-unit	.
+68	other	Click here for more information on Gretchen Carlson
+69	no-unit	.

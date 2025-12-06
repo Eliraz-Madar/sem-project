@@ -1,0 +1,191 @@
+0	title	North Korea: An 'act of war' over a movie?
+-1	par-sep	
+1	continued	At his press conference on Friday, President Barack Obama said
+2	continued	that Sony "made a mistake" by
+3	continued	not releasing
+4	continued	its film "The Interview"
+5	testimony	on schedule
+6	no-unit	.
+7	continued	He said
+8	continued	:
+9	continued	"We cannot have a society
+10	continued	in which some dictator some place can start
+11	testimony	imposing censorship here in the United States."
+-1	par-sep	
+12	assumption	The dictator in question is North Korea's Kim Jung-un
+13	no-unit	.
+14	continued	Sony acted
+15	continued	following both a major hack of its computer files and, more ominously, a threat
+16	continued	that any US showing of the comedy film
+17	continued	that culminates in the assassination of Kim
+18	continued	,
+19	anecdote	could produce another 9/11 type attack
+20	no-unit	.
+-1	par-sep	
+21	anecdote	The threat was issued on December 16 by an outfit calling itself, the "Guardians of Peace"
+22	no-unit	,
+23	continued	which also claims
+24	anecdote	to have been behind the hack attack on Sony
+25	no-unit	.
+26	anecdote	It promised a "Christmas gift" for the American people
+27	no-unit	.
+-1	par-sep	
+28	continued	Within	Modd-NU
+29	continued	48 hours of the threat, and following pleas by companies owning most of the cinemas in the US, as well as by the shopping centres
+30	continued	in which the cinemas are situated	Modd-NU
+31	continued	,	Modd-NU
+32	anecdote	Sony pulled the film
+33	no-unit	,
+34	continued	which is quite a coup for
+35	continued	whoever
+36	assumption	orchestrated the assault on the company
+37	no-unit	.
+-1	par-sep	
+38	statistics	The original hack cost Sony an estimated $170m
+39	no-unit	while
+40	continued	withdrawing the film
+41	assumption	will cost the company another $45m	cond
+42	continued	it cost
+43	continued	to make plus
+44	continued	whatever
+45	continued	the film would have taken in at theatres
+46	assumption	and from home release
+47	no-unit	.
+48	assumption	This is a big deal
+49	no-unit	.
+-1	par-sep	
+50	continued	It is worth
+51	continued	noting
+52	continued	that it is not 100 percent positive
+53	assumption	that Pyongyang is behind the Sony hack or the 9/11 warning
+54	no-unit	.
+55	continued	Yes, the FBI asserts (with its customary assurance)
+56	anecdote	that North Korea is guilty on both counts
+57	no-unit	but
+58	continued	leading cyber security experts say (with equal certitude)
+59	testimony	that the evidence of North Korean responsibility is sketchy at best
+60	no-unit	.
+-1	par-sep	
+61	continued	As for the North Korean regime itself, it flatly denies any involvement while at the same time issuing threats against the US
+62	assumption	that are even more blood curdling than the one issued by the "Guardians of Peace"
+63	assumption	(who may or may not be the North Koreans themselves)
+64	no-unit	.
+-1	par-sep	
+65	continued	Whoever	Modd-NU
+66	continued	the culprits are	Modd-NU
+67	continued	,	Modd-NU
+68	assumption	they did not inflict major damage on the US
+69	no-unit	.
+70	continued	Contrary to those	Modd-NU
+71	continued	who are screaming	Modd-NU
+72	continued	that by	Modd-NU
+73	continued	pulling the film	Modd-NU
+74	continued	,	Modd-NU
+75	assumption	the US surrendered the concept of freedom of speech
+76	no-unit	,
+77	continued	it is not the US government
+78	assumption	that pulled the film
+79	no-unit	.
+80	no-unit	In fact	Modd-NU
+81	no-unit	,	Modd-NU
+82	continued	 Obama said
+83	continued	that if
+84	continued	Sony had talked to him first
+85	continued	,
+86	continued	he would have told the company
+87	testimony	to show the film as planned
+88	no-unit	.
+-1	par-sep	
+89	anecdote	But Sony did not talk to Obama
+90	continued	because	Modd-NU
+91	continued	its decision
+92	continued	to withdraw the film
+93	continued	had nothing
+94	assumption	to do with the US or its national interests but with the financial interests of the multinational corporation itself
+95	no-unit	.
+96	continued	Multinationals do not
+97	continued	,
+98	continued	for
+99	continued	reasons implied in the very term multinational
+100	continued	,
+101	assumption	act with an eye on any flag
+102	no-unit	.
+-1	par-sep	
+103	assumption	These are businesses
+104	no-unit	and
+105	assumption	profit, not patriotism, is their guide
+106	no-unit	.
+-1	par-sep	
+107	continued	It is, therefore, ridiculous
+108	continued	to accuse the US of
+109	assumption	yielding to the threat of a foreign dictator
+110	no-unit	.
+111	assumption	It didn't
+112	no-unit	.
+113	assumption	Sony did
+114	no-unit	and
+115	no-unit	,
+116	assumption	from the point of view of its shareholders, it probably did the right thing
+117	no-unit	.
+118	continued	Losing $45m in production costs for "The Interview"
+119	assumption	is nothing compared to Sony's potential liability
+120	no-unit	if
+121	assumption	some catastrophe occurred at a showing of the film in Los Angeles or Washington, DC
+122	no-unit	.
+-1	par-sep	
+123	continued	This is not
+124	continued	to say
+125	assumption	that there are no foreign policy implications of this debacle
+126	no-unit	.
+127	continued	Sony's decision
+128	continued	to make a comedy about the assassination of the North Korean head of state
+129	continued	was a terrible idea
+130	assumption	that has only worsened the US' already terrible relations with this very unstable nuclear-armed nation
+131	no-unit	.
+-1	par-sep	
+132	no-unit	If
+133	continued	reports
+134	continued	that a State Department official read the script and approved of the assassination scenario
+135	assumption	are true
+136	no-unit	,
+137	assumption	that is troubling
+138	no-unit	.
+139	continued	Driving an already unbalanced head of state off the deep end
+140	continued	is clearly
+141	continued	not
+142	assumption	something diplomats should sign off on
+143	no-unit	.
+-1	par-sep	
+144	no-unit	Of course	Modd-NU
+145	no-unit	,	Modd-NU
+146	continued	 certain elements in the US government want
+147	assumption	to see an increase in tensions with North Korea, and maybe even an attempt at "regime change"
+148	no-unit	.
+-1	par-sep	
+149	continued	Although	Modd-NU
+150	continued	Obama was careful
+151	continued	to say
+152	testimony	that North Korea's purported actions constituted "cyber vandalism" but "not an act of war"
+153	no-unit	,
+154	continued	Senator John McCain
+155	continued	,
+156	continued	who becomes chairman of the Senate Armed Services Committee next month
+157	continued	,
+158	continued	said on Friday
+159	continued	that it is indeed an act of war
+160	testimony	to which the US must respond
+161	no-unit	.
+-1	par-sep	
+162	anecdote	Former speaker of the House Newt Gingrich agrees
+163	no-unit	,
+164	continued	as	Modd-NU
+165	continued	do eager warriors in both political parties, those
+166	assumption	who promoted war with Iraq and now oppose a nuclear deal with Iran	Modd-NU
+167	no-unit	.
+168	continued	Those two countries are, of course, charter members of former President George W Bush's original "Axis of Evil"
+169	continued	regimes
+170	assumption	that he and his allies wanted eliminated
+171	no-unit	.
+-1	par-sep	
+172	assumption	The third member was North Korea
+173	no-unit	.

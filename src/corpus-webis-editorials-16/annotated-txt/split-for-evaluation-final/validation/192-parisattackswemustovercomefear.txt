@@ -1,0 +1,276 @@
+0	title	Paris attacks: unless we overcome fear, self-censorship will spread.
+-1	par-sep	
+1	assumption	We have a blasphemy law
+2	no-unit	.
+3	assumption	No electorate has approved it
+4	no-unit	.
+5	assumption	No parliament has passed it
+6	no-unit	.
+7	assumption	No judge supervises its application
+8	no-unit	and
+9	assumption	no jury determines guilt beyond reasonable doubt
+10	no-unit	.
+11	continued	There'	Modd-NU
+12	assumption	s no right of appeal
+13	no-unit	.
+14	assumption	And the penalty is death
+15	no-unit	.
+16	continued	It is enforced not by a police bound by codes of conduct, but by a fear
+17	assumption	that dare not speak its name
+18	no-unit	;
+19	continued	a cowardice so total
+20	continued	it lacks the courage
+21	continued	to admit
+22	assumption	it is afraid
+23	no-unit	.
+-1	par-sep	
+24	assumption	The British are the world's worst cowards
+25	no-unit	.
+26	continued	It is one thing
+27	continued	to say
+28	assumption	you don't approve of Charlie Hebdo's cartoons
+29	no-unit	.
+30	assumption	But the BBC, Channel 4 and many newspapers won't run any images of Mohammad whatsoever
+31	no-unit	.
+32	assumption	They would at least have acknowledged censorship	cond
+33	no-unit	if	cond
+34	continued	they had announced
+35	assumption	that they were frightened of attacks on their staff
+36	no-unit	.
+37	continued	They would have
+38	continued	clung to a remnant of their honour
+39	continued	if
+40	continued	they had said
+41	continued	:
+42	continued	"We are not censoring out of respect
+43	continued	.
+44	continued	We loathe the murderers
+45	continued	who enforce their taboos with Kalashnikovs
+46	continued	.
+47	continued	But we do not want
+48	continued	to spend years living in hiding
+49	continued	,
+50	continued	as
+51	continued	Salman Rushdie did
+52	continued	.
+53	continued	Or be stabbed in the street
+54	continued	,
+55	continued	as
+56	continued	Theo van Gogh was
+57	continued	.
+58	continued	Or
+59	continued	hear an Islamist smash at our door with an axe and cry
+60	continued	:
+61	continued	"We will get our revenge," 
+62	continued	-
+63	continued	as
+64	continued	Kurt Westergaard did
+65	continued	.
+66	assumption	So we are backing away."
+-1	par-sep	
+67	continued	Admittedly, an honest admission
+68	continued	that terror works
+69	continued	would shred the pretence
+70	assumption	that journalists are fearless speakers of truth to power
+71	no-unit	.
+72	assumption	But it would be a small gesture of solidarity
+73	no-unit	.
+74	continued	It would say to everyone, from Pakistani secularists murdered for
+75	continued	opposing theocratic savagery
+76	continued	,
+77	continued	to British parents worried sick
+78	continued	that their boys will join Islamic State
+79	continued	,
+80	assumption	that radical Islam is a real fascistic force
+81	no-unit	.
+-1	par-sep	
+82	no-unit	Instead	Modd-NU
+83	no-unit	,	Modd-NU
+84	continued	 most journalists have lived a lie for years
+85	continued	,
+86	continued	as
+87	assumption	have many in the arts, academia and comedy
+88	no-unit	.
+89	continued	We take on the powerful - and ask
+90	continued	you to admire our bravery
+91	continued	-
+92	continued	if
+93	continued	,
+94	continued	and only if, the powerful are not a paramilitary force
+95	assumption	that may kill us
+96	no-unit	.
+-1	par-sep	
+97	continued	The mass murder of cartoonists and police officers at Charlie Hebdo, and the attacks on Jews
+98	continued	,
+99	continued	which revive so many foul memories of European fascism
+100	continued	,
+101	assumption	will change our world - almost certainly for the worst
+102	no-unit	.
+103	no-unit	Unless	cond
+104	continued	we find
+105	assumption	the courage to overcome fear	cond
+106	no-unit	,	cond
+107	assumption	the self-censorship will spread, and not only in the media
+108	no-unit	.
+-1	par-sep	
+109	continued	Colleagues
+110	continued	who wanted historians at a London museum
+111	continued	to talk about the long history of depictions of Muhammad in Islamic art last week
+112	continued	were met with
+113	continued	panicking press officers trying
+114	anecdote	to shut them up
+115	no-unit	.
+116	continued	Historian Tom Holland
+117	continued	,
+118	continued	who received death threats
+119	continued	after
+120	continued	he challenged the creation myths of Islam
+121	continued	,
+122	continued	said
+123	continued	:
+124	continued	"I cannot think of any other area of history
+125	continued	where
+126	testimony	debate is so nervous."
+127	continued	He hopes
+128	continued	that historians will continue
+129	continued	to say
+130	continued	that the Koran was a manmade creation
+131	continued	,
+132	continued	but doubts
+133	continued	that journalists will be keen
+134	testimony	to take their work to the public
+135	no-unit	.
+-1	par-sep	
+136	assumption	This is not a small capitulation
+137	no-unit	.
+138	continued	In the 19th century, the textual criticism of German scholars revealed
+139	anecdote	that the supposed word of God in the Bible was a mess of competing stories
+140	no-unit	.
+141	assumption	It did as much damage to Christianity and Judaism as Darwinism
+142	no-unit	.
+143	continued	Anyone hoping
+144	continued	to repeat the exercise by
+145	continued	taking apart the Koran and the hadiths today
+146	continued	will be restrained by the fear
+147	continued	that they will end up
+148	continued	as dead as satirists
+149	continued	who try
+150	assumption	to do the same with anti-clerical humour
+151	no-unit	.
+-1	par-sep	
+152	anecdote	My friend and comrade Maajid Nawaz was a jihadi
+153	continued	before	Modd-NU
+154	anecdote	he converted to liberalism and understands the totalitarian mind
+155	no-unit	.
+156	continued	He says
+157	continued	that people still do not realise
+158	continued	that radical Islamists do not just want
+159	testimony	to impose their taboos at gunpoint
+160	no-unit	.
+161	continued	They want
+162	continued	to "create a civil war"
+163	continued	so that European Muslims accept
+164	assumption	that they can only live in the caliphate
+165	no-unit	;
+166	continued	to encourage the rise of the white far-right
+167	testimony	so that ordinary coexistence becomes impossible
+168	no-unit	.	
+169	no-unit	If	cond
+170	assumption	they win one demand	cond
+171	no-unit	,	cond
+172	continued	as
+173	continued	they are winning in Britain
+174	continued	,
+175	assumption	then they will up the tension and move to another
+176	no-unit	.
+-1	par-sep	
+177	continued	As soon as
+178	continued	you look at demands rather than labels
+179	continued	,
+180	continued	the wall dividing extremists from the rest begins
+181	assumption	to crumble
+182	no-unit	.
+183	assumption	Saudi Arabia is Britain's trusted partner and ally
+184	no-unit	.
+185	assumption	It receives vast quantities of armaments and in turn pumps propaganda into British mosques and universities
+186	no-unit	.
+187	continued	As
+188	continued	Paris looked like a war zone
+189	continued	,
+190	anecdote	it flogged the Saudi liberal Raif Badawi for insulting Islam
+191	no-unit	.
+192	continued	At least they did not kill him
+193	continued	,
+194	assumption	you might say
+195	no-unit	.
+196	no-unit	But
+197	no-unit	if	cond
+198	continued	the religious courts had found
+199	assumption	him guilty of apostasy	cond
+200	continued	- that is, of
+201	continued	taking the adult decision
+202	continued	to abandon the religion of his childhood
+203	assumption	- the sentence would have been death
+204	no-unit	.
+-1	par-sep	
+205	continued	European liberals ought
+206	continued	to have stopped
+207	continued	,
+208	continued	as
+209	continued	the lash fell on Badawi's shoulders, and wondered about their queasiness at
+210	assumption	criticising the religions of the "powerless"and "marginalised"
+211	no-unit	.
+212	assumption	The Saudi Arabian monarchy is all too powerful
+213	no-unit	,
+214	no-unit	as
+215	assumption	are the other dictatorships of the Middle East
+216	no-unit	.
+217	continued	Power depends on
+218	continued	where
+219	continued	you stand
+220	continued	and
+221	assumption	who stands below you
+222	no-unit	.
+223	assumption	The unemployed man with the gun is more powerful than the Parisian journalist
+224	no-unit	.
+225	assumption	The marginal cleric may have a hard life
+226	no-unit	,
+227	no-unit	but
+228	no-unit	if	cond
+229	assumption	he sits in a sharia court imposing misogynist rules on British Muslim women	cond
+230	continued	he is
+231	assumption	to be feared
+232	no-unit	.
+-1	par-sep	
+233	continued	European liberals might try
+234	assumption	to be true to their principles and ally with dissidents, liberals, leftists and free thinkers within Muslim communities
+235	no-unit	.
+236	continued	They might help ex-Muslims
+237	continued	who fear
+238	assumption	that one day they will be murdered for apostasy
+239	no-unit	.
+240	continued	They might reflect
+241	assumption	that a Muslim man will encounter xenophobia from the right
+242	no-unit	,
+243	no-unit	but
+244	assumption	they will hear no rigorous criticism at university or other leftist institutions of the sexism, anti-semitism, homophobia and bloodlust of militant religion
+245	no-unit	.
+-1	par-sep	
+246	continued	Self-interest ought
+247	assumption	to be a motivator
+248	no-unit	.
+249	continued	Fear of radical Islam is not only driving support for the National Front in France and Ukip here
+250	continued	,
+251	continued	but
+252	assumption	providing an excuse for more attacks on civil liberties, including, despite David Cameron's pious words after Charlie Hebdo, attacks on freedom of speech
+253	no-unit	.
+-1	par-sep	
+254	continued	I hope
+255	assumption	I am wrong
+256	no-unit	,
+257	no-unit	but
+258	assumption	I cannot see a culture shift on this necessary scale happening
+259	no-unit	.
+260	continued	I fear
+261	assumption	we must look forward to a lying and frightened future
+262	no-unit	.

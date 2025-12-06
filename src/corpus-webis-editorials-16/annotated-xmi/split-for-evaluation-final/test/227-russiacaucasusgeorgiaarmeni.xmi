@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="359" begin="0" end="5147" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="359" begin="0" end="96" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="359" begin="98" end="328" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="359" begin="331" end="343" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="359" begin="345" end="535" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="359" begin="538" end="614" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="359" begin="617" end="622" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="359" begin="624" end="688" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="359" begin="690" end="779" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="359" begin="781" end="850" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="359" begin="852" end="955" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="359" begin="958" end="1052" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="359" begin="1054" end="1057" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="359" begin="1058" end="1150" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="359" begin="1153" end="1330" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="359" begin="1332" end="1349" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="359" begin="1350" end="1414" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="359" begin="1416" end="1573" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="359" begin="1576" end="1645" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="359" begin="1647" end="1704" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="359" begin="1706" end="1738" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="359" begin="1740" end="1790" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="359" begin="1793" end="1890" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="359" begin="1893" end="2067" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="359" begin="2073" end="2163" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="359" begin="2165" end="2250" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="359" begin="2253" end="2264" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="359" begin="2266" end="2369" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="359" begin="2371" end="2498" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="359" begin="2501" end="2547" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="359" begin="2548" end="2551" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="359" begin="2555" end="2615" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="359" begin="2616" end="2659" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="359" begin="2662" end="2733" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="359" begin="2735" end="2837" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="359" begin="2839" end="2945" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="359" begin="2948" end="2973" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="359" begin="2975" end="3155" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="359" begin="3158" end="3196" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="359" begin="3198" end="3317" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="359" begin="3320" end="3407" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="359" begin="3409" end="3502" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="359" begin="3505" end="3618" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="359" begin="3619" end="3701" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="359" begin="3704" end="3746" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="359" begin="3747" end="3750" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="359" begin="3751" end="3801" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="359" begin="3803" end="3864" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="359" begin="3867" end="3883" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="359" begin="3886" end="3988" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="359" begin="3991" end="4022" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="359" begin="4024" end="4113" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="359" begin="4116" end="4170" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="359" begin="4172" end="4229" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="359" begin="4231" end="4238" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="359" begin="4240" end="4269" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="359" begin="4270" end="4340" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="359" begin="4343" end="4455" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="359" begin="4456" end="4466" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="359" begin="4467" end="4529" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="359" begin="4532" end="4559" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="359" begin="4561" end="4665" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="359" begin="4667" end="4707" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="359" begin="4710" end="4806" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="359" begin="4809" end="4840" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="359" begin="4842" end="4949" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="359" begin="4951" end="5074" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="336" sofa="359" begin="5077" end="5146" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="341" sofa="359" begin="0" end="5147" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/227-russiacaucasusgeorgiaarmeni.txt" offsetInSource="0" documentSize="5147" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="366" sofa="359" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/aljazeera/227-russiacaucasusgeorgiaarmeni.xmi" offsetInSource="0" documentSize="5147" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="349" sofa="359" begin="0" end="5147" lastUpdate="2015-01-17T07:15:03Z" url="http://www.aljazeera.com/indepth/opinion/2015/01/russia-caucasus-georgia-armeni-2015114111654383153.html" portal="aljazeera" authors="Luke Coffey" articleSum="If Russia wanted to exploit the situation in Georgia's Samtskhe-Javakheti&amp;#10;province, there's no better time than now.&amp;#10;&amp;#10;" title="Russia's next acquisition."/>
+    <cas:Sofa xmi:id="359" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="It is no secret that Russia views the South Caucasus as being in its natural sphere of influence. In light of Russia's annexation of Crimea, and on the back of Moscow's recent treaties with Abkhazia and South Ossetia, Georgians have legitimate reasons to believe that Russian activity in their country will only increase in 2015.&#10;&#10;Consequently,  many are keeping a close eye on the Georgian province of Samtskhe-Javakheti - a majority ethnically Armenian region located just three hours' drive from the nation's capital city of Tbilisi.&#10;&#10;Causing instability in Samtskhe-Javakheti would achieve two goals for Moscow.&#10;&#10;First,  it would further dismember the territorial integrity of Georgia. The Georgian provinces of South Ossetia and Abkhazia are already under Russian occupation. By some accounts they are closer than ever to being annexed by Moscow. An independent Samtskhe-Javakheti, or one under Russian influence, would divide Georgia down the middle.&#10;&#10;Armenian separatism in Samtskhe-Javakheti might not be as vocal as it was only a few years ago; but there is still a fear that Moscow could easily reenergise separatist movements in the region.&#10;&#10;Secondly, and more importantly for Russia, bringing the region under Moscow's influence would make a land corridor between Russia and Armenia, via South Ossetia, one step closer. This is important because Russia maintains a sizeable military presence in Armenia. The bulk of the Russian force is based in the city of Gyumri and consists of approximately 5,000 soldiers and dozens of fighter planes and attack helicopters.&#10;&#10;Russia has long had the difficult challenge of supplying these forces, especially since Georgia and Turkey refuse transit rights. This has left a reliance on Iran, which for obvious reasons, is not ideal for Russia.&#10;&#10;It is not only for Russia that Samtskhe-Javakheti is strategically important, but also for Europe.&#10;&#10;The Baku-Tbilisi-Ceyhan pipeline and the South Caucasus Pipeline, carrying oil and gas respectively from the Caspian Sea to the Mediterranean Sea, passes through the province.&#10;&#10;As the possibility of more Central Asian oil and gas finding its way to Europe becomes likely, these pipelines bypassing Russia will become a vital part of Europe's energy security.&#10;&#10;In addition,  the Kars-Tbilisi-Baku railway, which is due to open later this year, passes through Samtskhe-Javakheti. It is expected that this rail line will eventually transport 3 million passengers and over 15 million tons of freight each year.&#10;&#10;There is a perfect storm brewing in the region and if Russia wanted to exploit the situation in Samtskhe-Javakheti it could not ask for better timing than now.&#10;&#10;First is the fact that many Javakheti Armenians have Russian sympathies. Until its closure in 2007, the Russian military base there was the single biggest source of employment. It has also been reportedthat Moscow is issuing Russian passports to ethnic Armenians living in the region.&#10;&#10;This in itself is telling; Russia issued passports to Abkhazians and South Ossetians just before its 2008 invasion of Georgia and also issued passports to Crimeans ahead of the annexation of Crimea last year.&#10;&#10;But Russia is only part of the problem. Many of the grievances Javakheti Armenians have are a result of poor policy making by the central government in Tbilisi.&#10;&#10;Many Javakheti Armenians feel that their culture and language are discriminated against. There has been a decrease in the quality of education among the Javakheti Armenian population.&#10;&#10;The bilingual education program of teaching in both Georgian and Armenian has been described as a &quot;total failure&quot; because there are not enough qualified teachers with proficiency in both languages.&#10;&#10;Unemployment is high in Samtskhe-Javakheti and future economic prospects in the region look bleak. Many Javakheti Armenians travel to Russia or Armenia for work.&#10;&#10;Economy strained.&#10;&#10;Thanks to the drop in the value of the Russian ruble - almost one-third of its value in the past year  - remittances have also decreased. The unusually harsh winter in the region is placing a further strain on economic activity.&#10;&#10;Then there is the issue of citizenship and immigration. Many Javakheti Armenians do not have Georgian citizenship. Instead,  many hold Armenian passports because finding seasonal work in Armenia and Russia is easier this way.&#10;&#10;Until recently, Armenian citizens were allowed to live and work inside Georgia without any special authorisation as long as they crossed the border back into Armenia at least once a year.&#10;&#10;Last September this changed. Now Javakheti Armenians without Georgian citizenship can only stay in Georgia for three months at a time. Longer term residency permits are costly.&#10;&#10;These policies breed animosity and form a perfect storm that could easily be exploited by Russia.&#10;&#10;It does not have to be this way. Sensible policies can be pursued by Tbilisi to address the legitimate grievances of the Javakheti Armenians. The West can make it clear to Russia that further meddling in Georgia's domestic affairs could lead to additional sanctions.&#10;&#10;The last thing the South Caucasus needs is another sectarian conflict."/>
+    <cas:View sofa="359" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 341 366 349"/>
+</xmi:XMI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4172" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="4" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="5" end="82" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="84" end="155" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="156" end="179" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="181" end="356" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="359" end="453" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="455" end="631" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="633" end="796" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="799" end="895" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="897" end="904" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="906" end="1107" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1110" end="1230" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1233" end="1236" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1237" end="1334" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1336" end="1339" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1340" end="1392" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1394" end="1397" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1398" end="1478" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1481" end="1512" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1514" end="1586" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1588" end="1655" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1657" end="1675" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1677" end="1680" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1681" end="1699" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1701" end="1791" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1793" end="1928" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1930" end="2044" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2046" end="2137" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2139" end="2142" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2143" end="2193" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2196" end="2250" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2252" end="2381" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2383" end="2535" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2537" end="2578" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2580" end="2803" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2806" end="2920" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2922" end="2969" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2970" end="2997" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2999" end="3141" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3146" end="3181" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3183" end="3364" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3367" end="3488" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3490" end="3643" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3644" end="3712" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3713" end="3802" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3805" end="3907" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3909" end="4035" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="4037" end="4077" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="4078" end="4083" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="4084" end="4098" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="4100" end="4103" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4104" end="4171" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="273" sofa="1" begin="0" end="4172" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/088-foiegrasdeliciouscaliforniaban.txt" offsetInSource="0" documentSize="4172" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="281" sofa="1" begin="0" end="4172" lastUpdate="2015-01-09T15:23:12Z" url="http://www.theguardian.com/commentisfree/2015/jan/09/foie-gras-delicious-california-ban-lifted" portal="guardian" authors="Samantha Gillison" articleSum="Samantha Gillison: California was right to ban one of the most amazing things I’ve ever tasted. The cruelty inflicted to obtain it was never worth it" title="Foie gras is exactly as delicious as you've heard. It should nonetheless be banned."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="When a US judge struck down California's 2 1/2 year old foie gras ban on Wednesday, a Napa Valley chef said he'd been &quot;jumping up and down for 90 minutes.&quot; I'll bet you were, dude. Foie gras hits you in your animal pleasure center with the force of a bullet train and gives you, experientially, a high closer to that of a narcotic than sexual gratification.&#10;&#10;I was 19 and at le Grand Vefour, the legendary Parisian restaurant, when I first ate foie gras. An unassuming ceramic tub of what looked and smelled a bit like cat food arrived at the table with a glass of Sauternes the color of a hepatitis patient's urine to wash it down. My first, tentative, nibble of foie gras resists any food critic hyperbole for which I could reach to describe how wonderful it was - and has been every time since.&#10;&#10;You can't argue convincingly with the extraordinarily pleasurable experience of eating foie gras. However,  you also can't argue convincingly  - although many foodies try - that gavage, the force-feeding process which produces the stuff, isn't torture or, at at minimum, animal cruelty of a most hideous type.&#10;&#10;I am an unapologetic omnivore who worships at the altar of good (and &quot;bad&quot;) food  - so, hardly an animal rights advocate - and I believe that, for the most part, people have the right to to put what they want in their mouths. But the State of California was correct to ban foie gras, and I sincerely hope Attorney General Kamala Harris fights to get the ban reinstated.&#10;&#10;Contemplate gavage for a moment: for two or three weeks, migratory birds (ducks, geese) are kept in cages. Three times a day they have steel funnels shoved down their throats; an auger is turned; and they are force fed. The birds' livers grow enormous  - eventually taking up half the space of their lower body. Aquatic birds, like ducks and geese, evolved as creatures who spend most of their time on the water, only occasionally foraging on land. They are social animals who like to hang out in groups, preen and communicate with each other via display and call. Sitting in a cage for a few weeks being force-fed is a horrible fate for any sentient being, but it is particularly nasty for these migratory birds.&#10;&#10;Some foie gras lovers argue that gavage can be ethical: there are &quot;good&quot; poultry farmers who use flexible plastic tubes instead of steel to force feed birds who get to roam around barns. Anthony Bourdain famously commented that &quot;you see worse [than gavage] in the pay-per-view film on the hotel channel - and that's people, for God's sake&quot;. (Presumably he was referring to fellatio). Then there's the &quot;civilized&quot; cultures argument: the ancient Egyptians, the Greeks, the Romans used gavage to produce foie gras, therefore as a similarly &quot;civilized&quot; culture we should be similarly allowed to force feed birds.&#10;&#10;Possibly the most specious argument against the California ban came from the plaintiffs' lawyer, Michael Tenenbaum, who called the ruling &quot; a victory for freedom.&quot; Tenenbaum wasn't ad-libbing: many chefs and foodies have held that banning foie gras is the equivalent to &quot;cultural imperialism&quot; and is an abridgment of their basic rights. If Tenenbaum, too, truly believes that, he should be litigating for chefs' rights to make shark fin soup, fry up songbirds, pour boiling oil into live monkeys' brains, and in general cook up anything they damn well please.&#10;&#10;I get nervous when people - even really smart, talented people - use the word &quot;freedom&quot; to mean &quot;I get to do what I want&quot;. In the case of foie gras bans, the argument is that, because this food is so delicious, you get to eat it, cook with it, produce it and make money off it - no matter that it's produced as the result of an inhumane practice which has been documented by scientists as causing severe, prolonged suffering to animals.&#10;&#10;The discontent of civilization, as Freud once pointed out, is that we don't all get to do what we want. The price of getting to live among our fellow humans in a truly civilized society is that we have to repress some of our urges. I love everything about eating foie gras - but I do it rarely, and I look forward to the day when I won't be able to find it on a menu."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 281"/>
+</xmi:XMI>

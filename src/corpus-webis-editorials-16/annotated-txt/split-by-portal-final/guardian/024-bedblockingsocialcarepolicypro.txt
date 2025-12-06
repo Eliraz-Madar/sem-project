@@ -1,0 +1,269 @@
+0	title	'Bedblocking' - the result of social care policy that puts profits ahead of people.
+-1	par-sep	
+1	no-unit	Bedblocking
+2	no-unit	.
+3	no-unit	What a phrase
+4	no-unit	.
+5	continued	People having	Modd-NU
+6	continued	to stay in hospital, even	Modd-NU
+7	continued	though	Modd-NU
+8	continued	they are well enough	Modd-NU
+9	continued	to be discharged	Modd-NU
+10	continued	,	Modd-NU
+11	continued	because	Modd-NU
+12	continued	there'	Modd-NU
+13	assumption	s no social care in place for them
+14	no-unit	.
+15	continued	David Cameron says
+16	testimony	it's "a demand problem"
+17	no-unit	.
+18	assumption	But it's not, of course
+19	no-unit	.
+20	assumption	It's a supply problem
+21	no-unit	.
+22	continued	It's hard
+23	assumption	to make money from social care
+24	no-unit	.
+25	continued	So it's not massively amenable
+26	assumption	to privatisation
+27	no-unit	.
+-1	par-sep	
+28	continued	I suppose
+29	continued	this was one of the areas
+30	continued	where
+31	continued	,
+32	continued	Cameron fondly imagined
+33	continued	,
+34	assumption	the Big Society would step in
+35	no-unit	.
+36	continued	As ever, instead, starving one part of the public sector of cash simply left another part struggling
+37	assumption	to cope with the consequences
+38	no-unit	.
+-1	par-sep	
+39	continued	Back in 2010	Modd-NU
+40	continued	,	Modd-NU
+41	continued	when	Modd-NU
+42	continued	Gordon Brown suggested	Modd-NU
+43	continued	implementing
+44	anecdote	a 10% levy on inherited wealth to fund social care for older people	changtype
+45	no-unit	,
+46	continued	the Conservatives had
+47	continued	this to say
+48	continued	:
+49	continued	"RIP off
+50	continued	.
+51	continued	Now Gordon wants ?
+52	continued	20,000
+53	continued	when
+54	continued	you die
+55	continued	.
+56	anecdote	Don't vote for Labour's new death tax."
+-1	par-sep	
+57	no-unit	Instead
+58	no-unit	,
+59	anecdote	social care for older people has had its funding cut
+60	no-unit	,
+61	no-unit	so
+62	continued	there'
+63	continued	s simply not enough money
+64	assumption	to go round
+65	no-unit	.
+66	continued	The demand problem
+67	continued	that Cameron now speaks of
+68	continued	is one
+69	assumption	that was entirely predictable and, indeed, entirely predicted
+70	no-unit	.
+71	assumption	Policymakers have been fretting over the future challenges posed by our ageing population for decades
+72	no-unit	.
+73	assumption	Now this time has arrived
+74	no-unit	,
+75	no-unit	and
+76	continued	there'	Modd-NU
+77	assumption	s nothing there in the way of provision for it
+78	no-unit	.
+-1	par-sep	
+79	continued	Care for elderly people is one of those things
+80	continued	that's not hard
+81	continued	to sort out, given money
+82	continued	,
+83	continued	and almost impossible
+84	assumption	to sort out without it
+85	no-unit	.
+86	continued	It's one of those things	Modd-NU
+87	continued	that, in theory, offers choice	Modd-NU
+88	continued	-	Modd-NU
+89	assumption	staying at home with support, moving into sheltered accommodation, going into residential care
+90	no-unit	.
+91	continued	In reality
+92	continued	,
+93	continued	 however, people are so terrified of the prospect of
+94	continued	being in a position
+95	continued	where
+96	continued	they have
+97	continued	to make such choices
+98	assumption	that they'd rather not think about it at all
+99	no-unit	.
+100	continued	One knows vaguely
+101	assumption	that there aren't many decent alternatives
+102	no-unit	,
+103	no-unit	so
+104	continued	staying at home
+105	continued	becomes the one thing
+106	assumption	that is comforting
+107	no-unit	.
+108	continued	Being close to the past
+109	continued	matters
+110	continued	when
+111	assumption	the present and the future feel like a horrible staging-post before death
+112	no-unit	.
+-1	par-sep	
+113	continued	It doesn't help
+114	assumption	that there's so much sentimentality around the issue
+115	no-unit	.
+116	continued	Myleene Klass appeared
+117	continued	to believe
+118	continued	she was being socially aware by
+119	continued	banging on about
+120	continued	how
+121	anecdote	awful the idea of a mansion tax is
+122	no-unit	,
+123	no-unit	because
+124	continued	it would hurt little old ladies living in big houses
+125	assumption	that had been their homes for decades
+126	no-unit	.
+-1	par-sep	
+127	no-unit	But	Modd-NU
+128	no-unit	,	Modd-NU
+129	continued	 actually, Klass was describing something
+130	continued	that isn't necessarily
+131	continued	that desirable: an elderly person living in a home
+132	continued	she can no longer heat
+133	continued	,
+134	continued	clean or look after, the neighbours
+135	continued	she once knew long gone
+136	continued	,
+137	assumption	clinging to the past instead of living in and enjoying the present
+138	no-unit	.
+-1	par-sep	
+139	continued	One of the great paradoxes of old age is
+140	continued	that, at a time in life
+141	continued	when
+142	continued	change is very dynamic and has
+143	continued	to be managed a lot
+144	continued	,
+145	continued	people are persuaded
+146	continued	that trying
+147	continued	to stop time
+148	continued	,
+149	continued	instead of moving forward and adapting to circumstances
+150	continued	,
+151	continued	is the right thing
+152	assumption	to do
+153	no-unit	.
+154	continued	Care at home is pushed as the thing
+155	continued	to aspire to, in part
+156	continued	because 
+157	continued	-
+158	continued	even though
+159	assumption	it's expensive, difficult to organise and not very satisfactory in outcome
+160	no-unit	-
+161	continued	it has the attractive advantage of
+162	assumption	needing no capital investment
+163	no-unit	.
+-1	par-sep	
+164	anecdote	Over Christmas, I watched the film Quartet
+165	no-unit	,
+166	anecdote	which is set in a retirement home for musicians
+167	no-unit	.
+168	continued	One was supposed
+169	assumption	to feel a bit sorry for its inhabitants
+170	no-unit	,
+171	continued	who had known success and adulation
+172	continued	when
+173	continued	they were young
+174	continued	,
+175	continued	and
+176	anecdote	who missed those days
+177	no-unit	.
+178	continued	All
+179	continued	they had
+180	continued	to do
+181	continued	to raise
+182	continued	the funds to keep the home going
+183	continued	was put on a concert featuring the legends
+184	anecdote	that were themselves
+185	no-unit	.
+-1	par-sep	
+186	no-unit	Having looked at a couple of local care homes
+187	no-unit	when
+188	anecdote	my mother was ill a couple of years back
+189	no-unit	,
+190	continued	I can only say
+191	anecdote	that the twilight years of those characters were indeed a fiction
+192	no-unit	.
+193	assumption	Sure, nice retirement homes exist	cond
+194	continued	-
+195	no-unit	if	cond
+196	assumption	you can afford them
+197	no-unit	.
+198	continued	But the limitations of so many of them mean
+199	assumption	that the whole concept is sullied
+200	no-unit	.
+201	continued	Rather than	Modd-NU
+202	continued	being places	Modd-NU
+203	continued	where	Modd-NU
+204	continued	new phases of life are undertaken	Modd-NU
+205	continued	,
+206	continued	they have become places
+207	continued	you end up in
+208	continued	when
+209	continued	all hope of
+210	continued	enjoying life
+211	assumption	is gone
+212	no-unit	.
+-1	par-sep	
+213	continued	It's interesting
+214	assumption	that inheritance has become so much an aspect of debate around care for elderly people
+215	no-unit	.
+216	continued	This, too, is a tacit signal
+217	continued	that you are too old
+218	assumption	to spend your own money on yourself
+219	no-unit	.
+220	continued	At some point, the duty is
+221	continued	to hang on to your assets
+222	continued	,
+223	assumption	so that they can be passed on to your family - and without nasty government death taxes
+224	no-unit	.
+225	assumption	It would be nice	cond
+226	continued	if	cond
+227	no-unit	people weren't encouraged
+228	continued	to believe
+229	continued	that it was selfish
+230	continued	to invest in their own lives
+231	continued	just because
+232	assumption	they are no longer young
+233	no-unit	.
+-1	par-sep	
+234	continued	Elderly people are blocking beds
+235	continued	not
+236	continued	just because
+237	continued	they can no longer look after themselves at home
+238	continued	,
+239	continued	but
+240	continued	also because
+241	continued	our society is not encouraged
+242	assumption	to think of elderly lives as valuable and deserving of joy and fun, vitality and change
+243	no-unit	.
+244	continued	Lack of pay is one reason
+245	continued	why
+246	continued	people aren't queing up
+247	assumption	to work with older people
+248	no-unit	.
+249	continued	But another is
+250	continued	that it's not seen
+251	assumption	as enjoyable
+252	no-unit	,
+253	continued	because	Modd-NU
+254	continued	older people are viewed as a bundle of sad, expensive, social-policy problems, rather than people with lives worth
+255	assumption	living to the full
+256	no-unit	.

@@ -1,0 +1,232 @@
+0	title	What I wish Obama had said in his State of the Union address.
+-1	par-sep	
+1	assumption	President Obama sure is consistent
+2	no-unit	.
+3	assumption	His State of the Union address sounded like his other speeches
+4	no-unit	:
+5	continued	What
+6	continued	I've done
+7	assumption	is great!
+8	assumption	America is in a much better position
+9	no-unit	.
+10	continued	We've created a manufacturing sector
+11	anecdote	that's adding jobs
+12	no-unit	.
+13	anecdote	More oil is produced at home
+14	no-unit	.
+15	assumption	I cut deficits in half!
+-1	par-sep	
+16	assumption	Give me a break
+17	no-unit	.
+18	continued	The deficit is lower now not because of any prudence on Obama's part but
+19	continued	merely because
+20	assumption	the $800 billion stimulus spending blowout didn't continue
+21	no-unit	.
+22	continued	All the president does
+23	assumption	is increase spending
+24	no-unit	:
+25	continued	free
+26	assumption	community college, free Obamaphones, free birth control, etc
+27	no-unit	.
+28	statistics	Yes, our annual deficit is lower
+29	no-unit	,
+30	no-unit	but
+31	statistics	it's still $488 billion!
+32	statistics	Our $18 trillion national debt increases by $3 million every minute!
+-1	par-sep	
+33	statistics	Yes, more oil is produced at home
+34	no-unit	,
+35	no-unit	but
+36	assumption	that's in spite of the administration
+37	no-unit	.
+38	statistics	Oil production is down on public land
+39	no-unit	.
+-1	par-sep	
+40	statistics	Yes, the manufacturing sector added jobs
+41	no-unit	,
+42	no-unit	but
+43	assumption	that's mostly because of cheaper natural gas created by fracking
+44	no-unit	,
+45	assumption	which Obama's cronies opposed
+46	no-unit	.
+47	no-unit	Also
+48	no-unit	,
+49	assumption	 America is finally recovering from recession
+50	no-unit	.
+51	assumption	Obama's policies probably slowed that recovery
+52	no-unit	.
+-1	par-sep	
+53	continued	Does the President delude himself
+54	continued	when
+55	assumption	he takes credit for oil production, lower deficits, etc.?	m-question
+56	assumption	Or does he mislead on purpose?
+57	other	I don't know
+58	no-unit	.
+-1	par-sep	
+59	continued	More recently
+60	continued	he bragged
+61	continued	,
+62	testimony	"I created the lowest unemployment rate in years."
+63	assumption	He created it?	m-question
+64	continued	He must know
+65	assumption	it's "low" only compared to the 10 percent reached during the recession 
+66	no-unit	--
+67	no-unit	and
+68	continued	because	Modd-NU
+69	continued	millions have simply given up
+70	assumption	looking for work
+71	no-unit	.
+72	assumption	This recovery is the slowest in 70 years
+73	no-unit	.
+-1	par-sep	
+74	no-unit	If	cond
+75	continued	Obama gave the State of the Union address
+76	continued	I'd like
+77	assumption	to hear	cond
+78	no-unit	,	cond
+79	assumption	he'd say this
+80	no-unit	:.
+-1	par-sep	
+81	continued	I heard you, voters, in November
+82	continued	when
+83	assumption	you took control of the Senate away from my party
+84	no-unit	.
+85	assumption	I get it
+86	no-unit	.
+87	assumption	I overreached
+88	no-unit	.
+89	assumption	I was arrogant
+90	no-unit	.
+91	continued	I imposed Obamacare on a nation
+92	assumption	that was deeply divided about it
+93	no-unit	.
+94	assumption	I ruled through executive orders instead of legislation
+95	no-unit	.
+96	assumption	I threw money at "green" nonsense
+97	no-unit	.
+98	continued	I'll give up the payments to the "green energy" industry
+99	continued	if
+100	assumption	the Republicans stop coddling defense contractors
+101	no-unit	.
+-1	par-sep	
+102	anecdote	I've been in government for years now
+103	no-unit	.
+104	continued	I know
+105	continued	how badly
+106	assumption	it works
+107	no-unit	.
+108	continued	The last thing
+109	continued	I should try
+110	continued	to do
+111	continued	is make
+112	assumption	it bigger
+113	no-unit	.
+114	no-unit	In fact	Modd-NU
+115	no-unit	,	Modd-NU
+116	continued	 with Republicans now in control of Congress, it's time
+117	continued	I worked with them
+118	assumption	to shrink government
+119	no-unit	.
+120	no-unit	If	cond
+121	continued	we shrink it	cond
+122	no-unit	,	cond
+123	continued	we might even dig our way out of the debt hole
+124	assumption	we're in
+125	no-unit	.
+126	no-unit	Heck
+127	no-unit	,
+128	no-unit	if	cond
+129	assumption	we just slow the growth of government to 2 percent a year	cond
+130	no-unit	,	cond
+131	assumption	we'd be in better shape
+132	no-unit	.
+-1	par-sep	
+133	continued	But I didn't even try
+134	assumption	to accomplish that
+135	no-unit	.
+136	continued	I pretended
+137	continued	taxing the rich
+138	assumption	would solve our financial problems
+139	no-unit	.
+140	assumption	But there aren't enough rich people to tax
+141	no-unit	.
+142	assumption	I got drunk on the idea of promising voters "free" stuff such as low down- payment mortgages and guaranteed paid family leave
+143	no-unit	.
+144	continued	I told them
+145	assumption	that all good things come from government
+146	no-unit	.
+147	assumption	That's nonsense
+148	no-unit	.
+-1	par-sep	
+149	assumption	We should put an end to all bailouts
+150	no-unit	.
+151	continued	Businesses that screw up should accept the consequences, just like ordinary people
+152	assumption	who spend recklessly
+153	no-unit	.
+154	continued	Main Street should never again be forced
+155	assumption	to rescue Wall Street
+156	no-unit	.
+-1	par-sep	
+157	continued	Instead of
+158	continued	expanding government control of health care
+159	continued	,
+160	assumption	we should phase it out
+161	no-unit	.
+162	assumption	That includes Medicare
+163	no-unit	.
+164	continued	I know
+165	assumption	Medicare is popular
+166	no-unit	,
+167	no-unit	but
+168	assumption	it is unsustainable
+169	no-unit	.
+170	continued	Let
+171	continued	current retirees receive their benefits as
+172	assumption	promised
+173	no-unit	,
+174	no-unit	but
+175	assumption	younger people should pay for their own health care
+176	no-unit	.
+-1	par-sep	
+177	assumption	People criticize the economic distortion created by welfare
+178	no-unit	,
+179	no-unit	but
+180	assumption	Medicare and Social Security are almost as bad
+181	no-unit	.
+182	continued	Both redistribute money away from the young and struggling toward those of us
+183	continued	who have had decades
+184	continued	to invest
+185	assumption	and save up
+186	no-unit	.
+-1	par-sep	
+187	continued	To make
+188	continued	these challenges a little easier
+189	continued	to deal with
+190	continued	,
+191	continued	let's make
+192	continued	America richer by
+193	assumption	abolishing most regulations
+194	no-unit	.
+195	assumption	They strangle opportunity
+196	no-unit	.
+-1	par-sep	
+197	continued	The more
+198	continued	I think about it
+199	continued	,
+200	continued	the more Congress and I could transform America for the better just by
+201	assumption	getting out of America's way
+202	no-unit	.
+203	continued	The state of our union will be truly strong
+204	continued	if
+205	continued	the state -- by
+206	continued	which I mean government
+207	assumption	-- is strictly limited
+208	no-unit	.
+-1	par-sep	
+209	anecdote	John Stossel is the host of "Stossel" (Thursdays at 9 PM/ET), a weekly program highlighting current consumer issues with a libertarian viewpoint
+210	no-unit	.
+211	continued	Stossel also appears regularly on
+212	anecdote	Fox News Channel (FNC) providing signature analysis
+213	no-unit	.
+214	other	Click here for more information on John Stossel
+215	no-unit	.

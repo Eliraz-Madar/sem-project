@@ -1,0 +1,188 @@
+0	title	Now that white people have declared 'bae' over, black people can use it in peace.
+-1	par-sep	
+1	no-unit	While
+2	assumption	"bae" only made its way to mainstream parlance in the last few years
+3	no-unit	,
+4	continued	it is a word
+5	assumption	that most black folk have been intimately familiar with for decades
+6	no-unit	.
+7	assumption	Its etymology was unclear
+8	no-unit	,
+9	no-unit	but
+10	assumption	its meanings and nuances are deeply understood in context
+11	no-unit	.
+12	continued	"What's
+13	continued	up
+14	continued	,
+15	continued	 bae?"
+16	continued	"That's
+17	continued	my bae,"
+18	continued	etc 
+19	continued	,
+20	continued	have been ways of
+21	continued	staking claim and announcing intimacy between oneself
+22	anecdote	and one's (sometimes prospective) lover
+23	no-unit	.
+24	continued	Bae is also used as a term of endearment and affection for someone with
+25	continued	whom there is no romantic involvement or interest (not unlike "honey" or "sweetheart"
+26	continued	is used in Southern dialogue)
+27	continued	,
+28	continued	as in "Hey bae, can
+29	continued	you pass
+30	anecdote	me that plate?"
+-1	par-sep	
+31	continued	And then Pharrell put it in a song
+32	continued	,
+33	continued	Miley Cyrus did a cameo
+34	continued	,
+35	continued	and
+36	anecdote	it gained the attention of mainstream media
+37	no-unit	.
+38	continued	Suddenly there were articles attempting
+39	continued	to define
+40	anecdote	the word "bae"
+41	no-unit	,
+42	continued	otherwise reputable businesses began
+43	anecdote	implementing "bae" in their social media ad campaigns
+44	no-unit	,
+45	no-unit	and
+46	continued	everybody and they mama started
+47	assumption	using it
+48	no-unit	.
+49	assumption	At which point it was declared overused by organs of upper-class white folk media like Time magazine
+50	no-unit	.
+-1	par-sep	
+51	assumption	Fair enough: white people's adoption of the term distorted it to the point of misuse and meaninglessness
+52	no-unit	.
+53	continued	What
+54	continued	was once a word born of the beautifully eclectic black Southern laziness of the tongue and a shortened version of baby
+55	continued	,
+56	assumption	became a catchall term for anything from inanimate objects to food
+57	no-unit	.
+58	assumption	The reference to affection was consistent
+59	no-unit	but
+60	continued	bae was used
+61	assumption	to describe everything from one's (desired or actual) significant other to pancakes
+62	no-unit	.
+63	continued	"That's bae"
+64	continued	,
+65	continued	a student swooned
+66	continued	,
+67	anecdote	glancing at a picture of J Cole during a discussion of black masculinity last summer in class
+68	no-unit	.
+69	continued	"These cupcakes are bae"
+70	continued	,
+71	anecdote	I read in a Facebook post attached to a picture of a delicious-looking dessert not many months later
+72	no-unit	.
+73	continued	And just like that	Modd-NU
+74	continued	,	Modd-NU
+75	assumption	the shelf life of bae in the public imagination expired
+76	no-unit	and
+77	continued	the gatekeepers of mainstream language decided
+78	assumption	that it must be banned
+79	no-unit	.
+-1	par-sep	
+80	assumption	Cultural appropriation at its best, steals, reduces, overuses and then disposes of words like so much bathwater
+81	no-unit	.
+82	continued	The linguist Jane H Hill defines language appropriation as "a type of complex cultural borrowing
+83	testimony	that involves a dominant group's 'theft' of aspects of a target group's language."
+84	continued	Hill claims
+85	continued	that the 'theft' adds value to white identity
+86	continued	while
+87	testimony	further marginalizing nondominant groups
+88	no-unit	.
+89	continued	This cultural "borrowing" of black language and phraseology happens regularly
+90	continued	,
+91	continued	allowing non-black folk
+92	continued	to "try on" black culture through the use of African American English vernacular and slang without
+93	continued	having
+94	continued	to "put on" the cultural consequences of
+95	continued	actually being black in a culture conditioned
+96	assumption	to devalue and dismiss it
+97	no-unit	.
+-1	par-sep	
+98	continued	As Hill claims, language appropriation is further problematic
+99	continued	because
+100	testimony	it gives dominant groups control over the language
+101	no-unit	.
+102	continued	Dominant groups get
+103	continued	to decide, for example
+104	continued	,
+105	continued	when and if
+106	assumption	certain words are worth appropriation
+107	no-unit	,
+108	continued	when and how
+109	assumption	the words should be used
+110	no-unit	,
+111	continued	and then
+112	continued	when
+113	assumption	the word becomes cliche, overused and therefore passe
+114	no-unit	.
+115	continued	And often in the process
+116	continued	,
+117	continued	as
+118	continued	happened with "bae"
+119	continued	,
+120	continued	the dominant group ends up
+121	assumption	changing the meaning or pronunciation of words entirely
+122	no-unit	.
+-1	par-sep	
+123	continued	The good news is
+124	assumption	that black language is resilient
+125	no-unit	and
+126	assumption	black folk are creative
+127	no-unit	.
+128	no-unit	So
+129	continued	even when
+130	continued	the dominant culture tries
+131	continued	to dispose of the terms
+132	continued	it wears out
+133	continued	,
+134	assumption	other words and phrases will emerge
+135	no-unit	.
+136	assumption	We already know some of them
+137	no-unit	.
+138	continued	Already you can see terms grounded in communities ("bye Felicia"), disguised in pronunciation ("ratchet"), or invented from imagination ("on fleek")
+139	anecdote	slipping into mainstream and popular culture lexicons (again)
+140	no-unit	.
+141	continued	There
+142	continued	,
+143	continued	 they will be mass
+144	continued	produced for financial gain (again)
+145	continued	,
+146	continued	and
+147	assumption	eventually disposed of (again)
+148	no-unit	.
+-1	par-sep	
+149	continued	So, what
+150	continued	happens
+151	continued	when
+152	continued	mainstream culture decides
+153	assumption	to dispose of a word stolen from black language and then used to the point of saturation in popular culture?
+154	no-unit	Nothing
+155	no-unit	.
+156	continued	The word may lose its novelty
+157	continued	so that those
+158	continued	who appropriated it
+159	continued	stop
+160	assumption	saying or using it
+161	no-unit	,
+162	no-unit	but
+163	assumption	the word won't disappear or lose its utility in the black community
+164	no-unit	.
+165	continued	We will go on
+166	assumption	saying bae
+167	no-unit	.
+168	continued	We will say it to our lovers in casual moments at home, and to our children
+169	assumption	to be endearing
+170	no-unit	.
+171	assumption	We will say it in the grocery store, at the movie theatre and across church pews on Sunday mornings as a substitute for names
+172	no-unit	.
+173	continued	We will say it to each other 
+174	continued	-
+175	continued	as
+176	continued	we have always done
+177	assumption	- lovingly, reverently and mindfully
+178	no-unit	.
+179	assumption	And with any luck, the word will settle back into its original meaning, sans the unsolicited remix of dominant white culture
+180	no-unit	.

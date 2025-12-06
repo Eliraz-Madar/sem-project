@@ -1,0 +1,165 @@
+0	title	Five reasons why European Central Bank's QE won't save continent's dying economies.
+-1	par-sep	
+1	anecdote	The European Central Bank has just announced a EUR60 billion ($69 billion) monthly government bond buying program--Quantitative Easing
+2	no-unit	--
+3	no-unit	but
+4	assumption	that won't do much for the moribund continental economy
+5	no-unit	.
+-1	par-sep	
+6	continued	Central banks can print money
+7	continued	to purchase government bonds
+8	assumption	to push up prices and lower interest rates on those assets and competing debt, such as corporate bonds and bank loans
+9	no-unit	.
+10	anecdote	In the United States, the Federal Reserve also bought billions in federally-sponsored mortgage-backed securities, such as those issued by Fannie Mae
+11	no-unit	.
+-1	par-sep	
+12	continued	The aim is
+13	continued	to encourage more borrowing by businesses and homebuyers
+14	continued	--
+15	continued	stimulus spending financed by
+16	assumption	running the printing press
+17	no-unit	.
+-1	par-sep	
+18	continued	The Fed enjoyed some success
+19	assumption	boosting U.S  growth
+20	no-unit	,
+21	no-unit	but
+22	continued	here are five reasons
+23	continued	why
+24	assumption	QE won't work for the ECB
+25	no-unit	.
+-1	par-sep	
+26	no-unit	1
+27	no-unit	\.
+28	common-ground	Eurozone Is Not a Country
+29	no-unit	.
+30	continued	The European Union does not have a large budget and issues few euro-denominated bonds
+31	assumption	the ECB could purchase
+32	no-unit	.
+33	continued	Instead
+34	continued	,
+35	continued	 the ECB will have
+36	assumption	to purchase individual country debt
+37	no-unit	--
+38	continued	it is
+39	continued	as if
+40	continued	the Fed had
+41	assumption	to purchase a basket of bonds issued by California, Iowa and other states
+42	no-unit	.
+-1	par-sep	
+43	assumption	Markets for European bonds--both sovereign and corporate--and bank lending are highly fragmented along country lines
+44	no-unit	.
+45	no-unit	Consequently	Modd-NU
+46	no-unit	,	Modd-NU
+47	continued	 it is unlikely
+48	continued	that QE will have much effect on banks' willingness
+49	assumption	to make new business loans in places buffeted by the financial crisis, like Spain and Greece
+50	no-unit	.
+-1	par-sep	
+51	no-unit	2
+52	no-unit	\.
+53	common-ground	EU Has No Fannie Mae
+54	no-unit	.
+55	continued	QE seems
+56	continued	to work best
+57	continued	when
+58	assumption	central banks inject capital directly into specific markets
+59	no-unit	.
+60	continued	The Fed purchased mortgage-backed securities
+61	anecdote	that significantly lowered interest rates on mortgages across America
+62	no-unit	.
+63	assumption	Housing prices recovered much of the value lost during the financial crisis
+64	no-unit	,
+65	no-unit	and
+66	anecdote	new home construction rebounded
+67	no-unit	.
+-1	par-sep	
+68	common-ground	The EU has no analog to Fannie Mae and Freddie Mac
+69	no-unit	,
+70	no-unit	and
+71	continued	the ECB cannot readily purchase mortgage-backed securities
+72	assumption	to boost the European housing sector
+73	no-unit	.
+-1	par-sep	
+74	no-unit	3
+75	no-unit	\.
+76	assumption	Fiscal Policy Is Pulling in the Opposite Direction
+77	no-unit	.
+78	anecdote	Europe's largest economy, Germany, recently accomplished a balanced budget for the first time since 1969
+79	no-unit	,
+80	no-unit	and
+81	continued	austerity programs intended
+82	continued	to restore solvency
+83	assumption	have forced massive government spending cuts and tax increases in Spain, Greece and other Mediterranean states
+84	no-unit	.
+-1	par-sep	
+85	continued	Those spending cuts
+86	continued	--
+87	continued	though
+88	continued	essential to sorely needed structural reforms
+89	continued	--
+90	continued	will undercut the effects of any increased bank lending
+91	assumption	ECB bond purchase may induce
+92	no-unit	.
+93	continued	With unemployment hovering at about 25 percent in Spain and Greece, and 13 percent in Italy, banks will remain skeptical
+94	continued	that lending
+95	continued	to expand businesses
+96	continued	will do much
+97	continued	to create bigger markets for
+98	continued	what
+99	assumption	they sell
+100	no-unit	.
+-1	par-sep	
+101	no-unit	4
+102	no-unit	\.
+103	continued	QE Does
+104	assumption	Little to Fix Euro-Imposed Dysfunctions
+105	no-unit	.
+106	continued	Although
+107	continued	structural reforms could make Greece
+108	continued	,
+109	continued	Italy and other high unemployment economies more attractive places
+110	continued	to build factories and establish businesses in the long run, governments in Athens, Rome and other capitals face voters
+111	assumption	who need jobs now
+112	no-unit	.
+113	continued	And the cost of labor--though perhaps gradually falling--in these countries will remain too high
+114	assumption	to attract investment for many years
+115	no-unit	.
+-1	par-sep	
+116	no-unit	If	cond
+117	assumption	Mediterranean countries still had their own currencies	cond
+118	continued	,
+119	common-ground	those could let their currencies fall in value relative to those of northern European states
+120	no-unit	.
+121	continued	That would re-price labor
+122	assumption	to attract investment and jobs
+123	no-unit	.
+124	assumption	But the single currency, the euro, deprives them of that lever
+125	no-unit	.
+-1	par-sep	
+126	no-unit	5
+127	no-unit	\.
+128	no-unit	Absence of Pan European Institutions
+129	no-unit	.
+130	continued	Though
+131	continued	the Europeans have a single currency
+132	continued	,
+133	continued	they lack common education standards and language
+134	assumption	that gives the United States a more or less single labor market
+135	no-unit	.
+-1	par-sep	
+136	continued	In the absence of currency devaluation to re-price Mediterranean labor, Greeks, Italians and Spaniards cannot migrate to Germany
+137	continued	where
+138	continued	unemployment is only 5 percent, with the same ease
+139	continued	that Americans have migrated to South Dakota and Texas
+140	assumption	to participate in the oil boom
+141	no-unit	.
+142	continued	In the end, the EU and ECB lacks
+143	continued	what
+144	continued	the Fed enjoys--the punch of a national government
+145	continued	that ran large deficits
+146	continued	to augment its efforts
+147	continued	to pull the U.S  economy out
+148	continued	of recession and national credit, housing and labor markets
+149	assumption	that made monetary policies--like QE--reasonably effective
+150	no-unit	.

@@ -1,0 +1,296 @@
+0	title	#YouTubeAsksObama: GOP desperately needs a 'Glozell' moment.
+-1	par-sep	
+1	continued	Republicans
+2	continued	who mock President Obama's interviews with the three popular YouTube Internet stars
+3	assumption	make a serious mistake
+4	no-unit	.
+5	no-unit	While
+6	assumption	the Obama White House is completely incompetent and weak
+7	no-unit	,
+8	continued	they know
+9	continued	how
+10	assumption	to spin everyday Americans
+11	no-unit	.
+12	assumption	The Washington media crowd, including conservative media, preaches to the choir of news junkies
+13	no-unit	.
+14	continued	The idea
+15	continued	that you can win a modern presidential election without
+16	continued	being modern
+17	continued	is
+18	continued	what
+19	assumption	should be mocked
+20	no-unit	.
+-1	par-sep	
+21	continued	How
+22	continued	can it be
+23	continued	that some Republicans still don't understand
+24	continued	that young people aren't watching
+25	assumption	"Meet the Press" or "Fox News Sunday"?
+26	no-unit	In fact	Modd-NU
+27	no-unit	,	Modd-NU
+28	continued	 news junkies are watching less
+29	assumption	"Meet the Press."
+30	assumption	Young people are getting their news from YouTube, Facebook and Ellen
+31	no-unit	.
+32	continued	And Team Obama has largely monopolized the playgrounds
+33	continued	where
+34	assumption	Millennials are hanging out
+35	no-unit	.
+-1	par-sep	
+36	assumption	The YouTube interviews inside the White House were an easy home run for the president's communications team
+37	no-unit	.
+38	continued	The White House must love the ridiculing
+39	assumption	they are getting from conservatives, too
+40	no-unit	.
+41	continued	The more out of touch Republicans seem
+42	continued	,
+43	continued	the easier
+44	continued	their job
+45	continued	to spin young people
+46	assumption	becomes
+47	no-unit	.
+-1	par-sep	
+48	continued	The Internet stars
+49	continued	who interviewed
+50	statistics	Obama have a combined reach of thirteen million people
+51	no-unit	- and
+52	assumption	most of them aren't following politics
+53	no-unit	.
+54	assumption	They are 'gettable'
+55	no-unit	and
+56	assumption	Democrats are reaching them
+57	no-unit	.
+58	continued	Republicans need
+59	assumption	to change their elitist attitudes -- and fast
+60	no-unit	.
+61	continued	Voters aren't as informed
+62	continued	as
+63	continued	we want
+64	assumption	them to be
+65	no-unit	and
+66	continued	the Democrats have figured out
+67	continued	how
+68	assumption	to reach them with simple messages
+69	no-unit	.
+-1	par-sep	
+70	continued	I am not sure
+71	continued	how
+72	continued	anyone could criticize the president's outreach
+73	assumption	to thirteen million people
+74	no-unit	.
+75	no-unit	After all	Modd-NU
+76	no-unit	,	Modd-NU
+77	continued	 one YouTube host informed the president
+78	continued	that during the State of the Union address, the most Googled question in America was
+79	continued	"How old
+80	anecdote	is Obama?"
+-1	par-sep	
+81	continued	Hank Green, a wildly successful vlogger with his brother
+82	continued	,
+83	continued	who regularly reaches 2.4 million people through their YouTube videos
+84	continued	,
+85	continued	started off the round-robin interviews by
+86	continued	thanking the president for
+87	anecdote	welcoming him to his house
+88	no-unit	.
+89	continued	Obama
+90	continued	,
+91	continued	showing incredible connectivity with his audience
+92	continued	responded with an analogy
+93	assumption	that every young person understands
+94	no-unit	.
+95	continued	"I'm
+96	continued	actually leasing (this house)
+97	continued	,
+98	continued	and
+99	continued	my lease runs out in two years
+100	continued	.
+101	continued	I hope
+102	continued	to get my security deposit back,"
+103	testimony	said Obama
+104	no-unit	.
+-1	par-sep	
+105	continued	Green
+106	continued	,
+107	continued	who was born in 1980
+108	continued	,
+109	continued	focused his questions on
+110	continued	what
+111	assumption	young, non-news junkies are thinking about their government
+112	no-unit	.
+113	continued	Green asked
+114	continued	whether
+115	continued	something can "really get
+116	continued	done in Washington,"
+117	continued	how
+118	continued	drone strikes make sense and
+119	continued	whether or not
+120	anecdote	more sanctions can work on a country like North Korea
+121	no-unit	.
+-1	par-sep	
+122	assumption	His questioning was serious
+123	no-unit	.
+124	continued	Green also asked one of the smartest questions
+125	assumption	Obama has had over the last six years
+126	no-unit	.
+127	continued	Green told the president
+128	continued	,
+129	continued	"I don't smoke pot
+130	continued	...
+131	continued	I think
+132	continued	it's bad for my brain
+133	continued	...
+134	continued	but I'm for legalization
+135	continued	....
+136	continued	how
+137	testimony	do we move forward out of this legal gray-ness?"
+138	continued	It was a way of
+139	continued	forming a question
+140	continued	many in the White House press corps
+141	assumption	have never thought about
+142	no-unit	.
+-1	par-sep	
+143	continued	Green finished the interview by
+144	continued	sharing with Obama a receipt for a prescription drug medication
+145	continued	that he said cost $1,100
+146	continued	but
+147	continued	because
+148	continued	he enrolled
+149	continued	in
+150	anecdote	ObamaCare now costs $5
+151	no-unit	.
+-1	par-sep	
+152	assumption	The moment was a strong message for the millions watching
+153	no-unit	.
+154	continued	The president didn't miss the moment either and said of ObamaCare
+155	continued	,
+156	continued	"We had some bad hiccups initially
+157	continued	...
+158	continued	but
+159	testimony	the website works really well now."
+-1	par-sep	
+160	continued	Glozell Simon, a 52-year-old comedian
+161	continued	who goes by the name Glozell Green and reaches 3 million people
+162	continued	,
+163	anecdote	was up next
+164	no-unit	.
+165	continued	Glozell surprised the Washington crowd by
+166	continued	first asking
+167	continued	,
+168	continued	"Why
+169	continued	didn't the government help
+170	continued	Sony feel protected and safe enough
+171	testimony	to release the film on time?"
+-1	par-sep	
+172	continued	She went on
+173	continued	to tell the president
+174	anecdote	she cut off the hoodies from her husband's sweatshirts because of her concern for his safety
+175	no-unit	,
+176	no-unit	and
+177	continued	then asked a question about Cuba
+178	continued	because
+179	anecdote	many of her Cuban friends have concerns over Obama's new friendship with Castro
+180	no-unit	.
+-1	par-sep	
+181	continued	Glozell
+182	continued	,
+183	continued	who although is wildly creative and funny
+184	continued	,
+185	assumption	was completely respectful of the situation
+186	no-unit	.
+187	continued	She asked about same sex marriage and Obama's legacy and gave her followers a peek at the president
+188	anecdote	answering easy, soft questions
+189	no-unit	.
+190	assumption	The president looked and sounded relatable
+191	no-unit	.
+-1	par-sep	
+192	continued	Bethany Mota, a 19-year-old YouTube star
+193	continued	who regularly reaches eight million people
+194	anecdote	was the last interviewer
+195	no-unit	.
+196	anecdote	Mota also asked informal but serious questions on education, cyber-bullying, Boko Haram and China
+197	no-unit	.
+-1	par-sep	
+198	continued	Obama told her
+199	continued	,
+200	testimony	"your voice is more powerful than the president of the United States."
+201	continued	And I am sure
+202	assumption	her young female followers agreed
+203	no-unit	.
+-1	par-sep	
+204	continued	Mota, too, asked the president
+205	continued	a question in a way traditional reporters have failed
+206	assumption	to ask
+207	no-unit	.
+208	continued	"I
+209	continued	was just in China and couldn't access the apps and websites
+210	continued	I could back home,"
+211	testimony	Mota said
+212	no-unit	.
+213	continued	Obama gave her a non-answer
+214	continued	that made
+215	assumption	him look knowledgeable but likeable
+216	no-unit	.
+-1	par-sep	
+217	continued	She also said
+218	continued	,
+219	continued	"I never really followed politics that much
+220	continued	...
+221	continued	why
+222	continued	should the younger generation be interested
+223	testimony	in politics?"
+224	continued	The president again spun a good tale about the need for young people
+225	continued	to get involved
+226	continued	so
+227	assumption	they can go to college
+228	no-unit	.
+229	continued	Eight million young women now think
+230	continued	Obama wants
+231	assumption	them to go to college
+232	no-unit	.
+233	assumption	It was a brilliant move by the president
+234	no-unit	.
+-1	par-sep	
+235	continued	Obama finished the round of interviews by
+236	continued	taking a selfie with the three and adding this eye-opening insight into his reason for
+237	anecdote	going around the White House press corps and sitting down with YouTube stars
+238	no-unit	.
+239	continued	Obama told them
+240	continued	:
+241	continued	"This is the power of
+242	continued	what
+243	continued	the Internet is all about
+244	continued	...
+245	continued	you can create content
+246	continued	and
+247	continued	there'
+248	continued	s not all these barriers to entry
+249	continued	...
+250	continued	suddenly you get millions of people
+251	testimony	who are listening to you."
+-1	par-sep	
+252	continued	Republicans are bound
+253	continued	to lose the next presidential election again
+254	continued	if
+255	assumption	they can't communicate with new voters
+256	no-unit	.
+-1	par-sep	
+257	continued	Millions of people walk into the voting booth and vote for someone
+258	assumption	they like
+259	no-unit	.
+260	continued	News junkies and Washington types casually refer to this as
+261	continued	"Who would you want
+262	anecdote	to have a beer with?"
+263	assumption	The sentiment is accurate
+264	no-unit	but
+265	continued	the analogy should be updated to
+266	continued	"Who do you want
+267	assumption	to make a YouTube video with?"
+-1	par-sep	
+268	continued	I think
+269	assumption	President Obama is weak, bored with the office, and an incompetent leader
+270	no-unit	.
+271	continued	But he sure knows
+272	continued	how
+273	assumption	to go around the White House press corps
+274	no-unit	.

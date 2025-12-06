@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3671" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="70" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="71" end="76" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="77" end="189" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="192" end="290" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="292" end="346" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="348" end="456" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="459" end="522" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="524" end="527" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="528" end="589" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="591" end="644" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="645" end="648" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="649" end="706" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="709" end="806" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="808" end="986" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="989" end="1099" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1105" end="1141" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1143" end="1248" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1251" end="1342" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1344" end="1408" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1410" end="1473" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1476" end="1605" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1607" end="1752" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1755" end="1859" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1861" end="1920" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1922" end="1925" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1926" end="2042" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2044" end="2047" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2048" end="2108" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2114" end="2168" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2170" end="2332" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2335" end="2346" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2348" end="2453" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2455" end="2534" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2536" end="2561" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2563" end="2566" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2567" end="2612" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2615" end="2647" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2649" end="2747" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2750" end="2797" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2799" end="2870" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2873" end="2915" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2917" end="2998" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3001" end="3135" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3137" end="3220" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3222" end="3263" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3269" end="3318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3320" end="3422" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3424" end="3598" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3600" end="3670" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="258" sofa="1" begin="0" end="3671" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/014-areelectedlnpwithoutcampbellne.txt" offsetInSource="0" documentSize="3671" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="266" sofa="1" begin="0" end="3671" lastUpdate="2015-01-06T05:45:34Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/a-re-elected-lnp-without-campbell-newman-could-this-be-the-election-that-returns-queensland-to-normality" portal="guardian" authors="Ben Raue" articleSum="As Campbell Newman announces an early summer election, polls suggest Labor is in with a chance to win. The LNP will have to make sacrifices to retain government" title="A re-elected LNP without Campbell Newman: could this be the election that returns Queensland to normality?"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Campbell Newman's LNP government won power in 2012 in a huge landslide - and polls suggest that most of those gains are expected to be swept away as Queensland politics returns to normality.&#10;&#10;In 2012, the sitting Labor government's seats in the parliament were cut savagely from 51 to seven. The LNP opposition increased their seats from 34 to 78. In the new parliament, there were seven government members for every member of the opposition and crossbench.&#10;&#10;Since 2012, the LNP has lost two seats to Labor at by-elections, and three other MPs elected for the LNP now sit on the crossbench. Despite these changes, the LNP has a massive majority and a large swing will be required for a change in government.&#10;&#10;Because of the huge swing in 2012, it's hard to predict which seats will be the key battlegrounds. In a normal election campaign, you would look first at the seats held by the government by the smallest margins (those seats they came closest to losing at the previous election).&#10;&#10;Yet in Queensland, most LNP seats on slim margins are seats traditionally considered to be &quot;safe&quot; Labor seats  - if Labor has any chance of taking power, you would expect those seats to fall easily and the election to focus on seats further along the pendulum.&#10;&#10;At the last election, it was estimated that the LNP won 62.8% of the vote after preferences. Recent polls indicate there has been a large swing back to Labor. The most recent Newspoll had Labor and the LNP tied on 50% each.&#10;&#10;These polls suggest that Labor is in with a chance of winning the election, despite the massive number of seats they need to gain. In order to ward off this threat, the LNP will likely need to sacrifice many of its seats in order to focus energy on those seats they can retain.&#10;&#10;Labor needs a uniform swing of approximately 12.5% to win the 36 extra seats they need to win a majority. Current polling suggests that Labor is close to that number, and this suggests that most of the seats that will be key battlegrounds are seats the LNP now holds by margins of 10-15%, but there will be seats that swing more or less than the average.&#10;&#10;If you focus on those with margins of between 10% and 15%, there are a smattering of seats in Brisbane, as well as four seats on the Gold Coast, one on the Sunshine Coast, one in Townsville and two rural seats near Mackay.&#10;&#10;In addition,  the LNP will be fighting on another front against populist and right-wing independents and minor parties. The Palmer United Party and Katter's Australian Party will both be running hard. KAP now holds three seats, and there are four independents in the Parliament.&#10;&#10;While many seats will be in play, Ashgrove in northern Brisbane - Campbell Newman's seat - is likely to be the focus of the campaign.&#10;&#10;The premier won the seat off Kate Jones in 2012. Newman had never held a seat in parliament before winning power in 2012 - he made his name as lord mayor of Brisbane. Jones had been a minister in the Bligh government, and was a high- profile target.&#10;&#10;In 2012, Newman won Ashgrove with a 12.8% swing, but holds the seat by a margin of only 5.7% - half as big as the expected Labor swing. Local polling suggests that Newman is trailing in local Ashgrove polls behind Jones, who is aiming to win back her former seat.&#10;&#10;If Newman is seen to be in danger of losing his seat, his party's campaign may struggle to answer questions about who would lead a re-elected LNP government. With Labor needing 5.7 % to win Ashgrove, and 12.5 % to win the overall election, it's entirely conceivable that the government could be re-elected without Newman in the lead. That scenario may help Labor reach the vote it needs to win back power."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 266"/>
+</xmi:XMI>

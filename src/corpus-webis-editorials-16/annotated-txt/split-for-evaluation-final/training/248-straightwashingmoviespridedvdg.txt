@@ -1,0 +1,134 @@
+0	title	Straightwashing at the movies: the Pride DVD shows gay people still make the film industry nervous.
+-1	par-sep	
+1	anecdote	We've had Brokeback Mountain, Milk, A Single Man
+2	no-unit	.
+3	assumption	Gay actors have been coming out left, right and centre
+4	no-unit	.
+5	assumption	Hollywood's no longer hung up on homosexuality, right?
+-1	par-sep	
+6	continued	Well, despite all	Modd-NU
+7	continued	that's been achieved	Modd-NU
+8	continued	,	Modd-NU
+9	continued	it's seems
+10	continued	it's still possible for gay themes
+11	continued	to make
+12	assumption	the men in suits nervous
+13	no-unit	.
+14	continued	Reports suggest
+15	continued	that the covers of US DVDs of the movie Pride - yes
+16	continued	,
+17	continued	that's Pride, a story about
+18	continued	fighting for respect, without compromise or shame
+19	anecdote	- have been straightwashed
+20	no-unit	.
+21	continued	A banner proclaiming
+22	continued	"lesbians and gays support the miners"
+23	anecdote	has been airbrushed out of the picture on the back cover
+24	no-unit	,
+25	no-unit	and
+26	anecdote	the queer agitators are now simply "a group of London-based activists" in the blurb
+27	no-unit	.
+28	continued	Director Matthew Warchus says
+29	testimony	he "understands" the decision
+30	no-unit	.
+-1	par-sep	
+31	continued	These changes
+32	continued	,
+33	continued	albeit
+34	continued	a marketing, not a film-making decision, nevertheless stand in a time-honoured industry tradition of
+35	assumption	downplaying homosexuality
+36	no-unit	.
+37	assumption	For years, film-makers in America were trapped by the motion picture production code
+38	no-unit	,
+39	anecdote	which banned "any inference of sex perversion"
+40	no-unit	.
+41	continued	As the brilliant 1995 documentary
+42	continued	The Celluloid Closet sets out
+43	continued	,
+44	continued	screenwriters and directors snuck in gay themes
+45	continued	where
+46	continued	they could
+47	continued	,
+48	continued	with
+49	continued	Gore Vidal memorably writing Ben Hur and Messala
+50	continued	as though
+51	testimony	they were lovers turned rivals
+52	anecdote	(Charlton Heston had no idea)
+53	no-unit	.
+54	assumption	But in general, gay storylines were box office poison
+55	no-unit	.
+-1	par-sep	
+56	continued	Even after
+57	continued	the code ceased
+58	continued	to be enforced
+59	continued	,
+60	assumption	film-makers were very tentative
+61	no-unit	- and
+62	assumption	open homosexuality could never be anything other than arthouse niche
+63	no-unit	(though
+64	anecdote	that in itself encompassed some brilliant movies, like Bill Sherwood's Parting Glances)
+65	no-unit	.
+66	assumption	This pink-tinted glass ceiling was arguably broken by Philadelphia, a belated nod to the Aids crisis
+67	no-unit	.
+68	continued	But then that wasn't a rounded story of gay life, but a reason
+69	assumption	to feel sorry for a benighted minority
+70	no-unit	.
+71	anecdote	And there was grief, but no sex
+72	no-unit	.
+-1	par-sep	
+73	continued	You would hope
+74	assumption	we had moved on
+75	no-unit	.
+76	continued	But the Pride story brings into sharp relief the sense
+77	continued	that, as with society at large, though
+78	continued	audiences may be broadly OK with
+79	continued	being gay
+80	continued	,
+81	continued	it's as well
+82	assumption	not to shove it in people's faces
+83	no-unit	.
+84	continued	To take some fairly recent examples	Modd-NU
+85	continued	:	Modd-NU
+86	anecdote	the 2001 John Nash biopic, A Beautiful Mind, ignores the mathematician's gay affairs
+87	no-unit	.
+88	continued	In 2004, the makers of Troy chose
+89	anecdote	not to explore the homoerotic possibilities of the relationship between Achilles and Patroculus, one subject to much speculation through the ages
+90	no-unit	,
+91	continued	making
+92	continued	them cousins
+93	anecdote	instead
+94	no-unit	.
+95	continued	More recently, The Imitation Game has been accused of
+96	anecdote	playing down Alan Turing's sexuality
+97	no-unit	.
+98	continued	And in many parts of the world
+99	continued	,
+100	assumption	straight-washing is practically mandated
+101	anecdote	- as the Russian makers of a film about Tschaikovsky have found
+102	no-unit	.
+-1	par-sep	
+103	continued	Having said all that, there's also an age-old political conundrum
+104	continued	that I think
+105	assumption	Warchus's quotes capture well
+106	no-unit	.
+107	continued	He wants
+108	continued	his work "to find
+109	testimony	a mainstream audience [and] broaden people's minds"
+110	no-unit	.
+111	no-unit	If	cond
+112	continued	Pride reaches deep into the square states - subtly influencing parents, siblings, friends
+113	continued	to be more accepting
+114	assumption	- isn't that a good thing?
+115	continued	It reminds me of the difference in tactics between Outrage - fans of direct action against, for example, bishops - and Stonewall, keener
+116	assumption	to make quiet political alliances in the service of long-term change
+117	no-unit	.
+-1	par-sep	
+118	continued	I find
+119	continued	it utterly bizarre
+120	continued	that a movie called
+121	assumption	"Pride" is being pushed back into the closet in 2015
+122	no-unit	.
+123	continued	But at the same time, it would be wrong
+124	continued	to pretend
+125	assumption	that there's an easy answer to Warchus's dilemma
+126	no-unit	.

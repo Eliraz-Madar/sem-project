@@ -1,0 +1,147 @@
+0	title	Free community college isn't a joke for families who spend half their income to send a child.
+-1	par-sep	
+1	continued	In the United States today, the odds of
+2	continued	getting a degree
+3	assumption	are more tightly linked to family income than ever before, thanks to skyrocketing college costs and insufficient and misallocated federal and state financial aid funds
+4	no-unit	.
+5	continued	Although	Modd-NU
+6	statistics	the federal government distributes about $170bn a year in financial aid to many types of students attending many types of schools
+7	no-unit	,
+8	continued	many low-income families still have
+9	assumption	to pay too much
+10	no-unit	.
+11	continued	Low-income families often end up
+12	continued	paying about 40% of their family income for a member
+13	statistics	to attend community college
+14	no-unit	- and
+15	no-unit	,
+16	statistics	for four-year colleges, the bill can add up to a whopping 59% of a family's earnings
+17	no-unit	.
+18	continued	Even middle-class families may be asked
+19	continued	to spend or borrow a quarter of their annual income
+20	statistics	to finance one child's attendance at a public university
+21	no-unit	,
+22	continued	while
+23	assumption	the costs of a private one are yet higher	Modd-NU
+24	no-unit	.
+-1	par-sep	
+25	continued	As a result, many families of modest means are unable
+26	assumption	to afford college
+27	no-unit	.
+28	continued	Students from middle- and low-income families have also become
+29	continued	more likely
+30	continued	to drop out from public colleges and universities
+31	continued	,
+32	continued	leaving with debts
+33	continued	they can't afford
+34	continued	to pay back
+35	assumption	rather than degrees
+36	no-unit	.
+37	assumption	But these are more than just personal tragedies
+38	no-unit	:
+39	continued	they represent a significant loss to America's economy and competitiveness for decades
+40	assumption	to come
+41	no-unit	.
+-1	par-sep	
+42	continued	On Friday, President Obama offered a simple, universal solution: free tuition for two years at community colleges for students
+43	continued	who maintain a 2.5 grade point average, attend at least half-time and make steady progress towards
+44	anecdote	completing their program
+45	no-unit	.
+46	anecdote	The federal government would cover three-quarters of the average cost of community college
+47	no-unit	,
+48	no-unit	and
+49	continued	participating states would be expected
+50	anecdote	to pick up the rest
+51	no-unit	.
+-1	par-sep	
+52	continued	The last time
+53	continued	a president did something this bold on higher education
+54	assumption	was the original Higher Education Act of 1965
+55	no-unit	.
+56	continued	Then
+57	continued	,
+58	continued	 President Lyndon Johnson had a huge Democratic majority in Congress
+59	anecdote	to support his proposal
+60	no-unit	.
+61	assumption	President Obama, on the other hand, faces a tougher road in a government run by Republicans
+62	continued	who are reluctant
+63	continued	to support
+64	continued	spending more money
+65	assumption	to help poor and middle class people
+66	no-unit	-
+67	assumption	yet they should forego partisanship and take this legislation seriously
+68	no-unit	.
+-1	par-sep	
+69	continued	Instead of
+70	continued	being available only to the poorest students
+71	assumption	(like Pell grants) free community college tuition would be available for all
+72	no-unit	.
+73	continued	The most powerful and enduring American social policies 
+74	continued	-
+75	continued	Social Security, infrastructure investments like the highway system and indeed public education itself
+76	assumption	- have always benefitted everyone
+77	no-unit	.
+78	no-unit	As
+79	no-unit	it stands now
+80	no-unit	,
+81	continued	America's outdated student aid policies simply aren't fulfilling their mission and are instead actively failing
+82	assumption	to make college affordable for all students
+83	no-unit	.
+-1	par-sep	
+84	continued	And
+85	continued	,
+86	continued	 unlike many other proposals
+87	continued	to fix the twin problems of college affordability and student debt focused on four-year programs
+88	continued	,
+89	continued	free community college has the potential
+90	assumption	to meet the immediate needs of employers
+91	no-unit	,
+92	continued	who often say
+93	assumption	that they cannot find potential candidates with needed skills
+94	no-unit	.
+95	continued	Community college programs in fields like nursing, technology and even management are designed
+96	continued	to give students the skills
+97	assumption	that employers need more quickly than the average bachelor's degree program
+98	no-unit	.
+-1	par-sep	
+99	assumption	Obama's plan is far from perfect
+100	no-unit	.
+101	assumption	It is not a catch-all solution
+102	no-unit	,
+103	no-unit	and
+104	continued	other major problems in American higher education still need
+105	continued	to be addressed
+106	continued	- including for-profit colleges
+107	assumption	that consume vast amounts of federal aid dollars but often leave students with little more than terrible debt burdens
+108	no-unit	.
+109	assumption	The costs of private and public four-year institutions should not be ignored
+110	no-unit	,
+111	assumption	so that the number of bachelor degree graduates will again rise
+112	no-unit	.
+113	assumption	And the President's proposal only gives students a discount on tuition
+114	no-unit	,
+115	continued	which is just one part (albeit a major one) of the cost of
+116	common-ground	going to school
+117	no-unit	.
+-1	par-sep	
+118	continued	Yet there is no question
+119	continued	that Congress should
+120	continued	,
+121	continued	if
+122	continued	anything
+123	continued	,
+124	continued	seek to outdo Obama with an even more ambitious proposal, rather than negotiate
+125	assumption	to reduce his package
+126	no-unit	.
+127	continued	They should not let
+128	assumption	this proposal die upon arrival
+129	no-unit	.
+130	continued	Families can't afford
+131	assumption	to wait through more years of inaction
+132	no-unit	.
+-1	par-sep	
+133	continued	[Editor's
+134	continued	note
+135	continued	:
+136	other	The author advised the White House on this effort, but was not compensated for her work
+137	no-unit	.]

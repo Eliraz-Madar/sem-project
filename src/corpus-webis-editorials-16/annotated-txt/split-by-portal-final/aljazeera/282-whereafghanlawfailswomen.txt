@@ -1,0 +1,270 @@
+0	title	Where Afghan law fails women.
+-1	par-sep	
+1	assumption	Afghan women have come a long way since the dark days of the Taliban regime
+2	no-unit	.
+3	continued	Yet a key obstacle to this progress continues
+4	assumption	to be high levels of violence against women
+5	no-unit	.
+-1	par-sep	
+6	continued	The legal system has failed
+7	continued	to protect women adequately
+8	continued	when
+9	assumption	it comes to some of the most common crimes against them; rape, domestic violence, underage and forced marriages
+10	no-unit	.
+-1	par-sep	
+11	continued	That is
+12	continued	why	Modd-NU
+13	continued	,	Modd-NU
+14	continued	in 2009, a number of prominent Afghan women's rights activists, members of civil society groups
+15	continued	,
+16	continued	and
+17	continued	some lawmakers came together
+18	continued	to draft a bill
+19	anecdote	to better protect women through legal channels and to define crimes of violence against women
+20	no-unit	.
+21	continued	The bill, known as The Elimination of Violence Against Women (EVAW) Law, was decreed into law through an Executive Order by the former Afghan President Hamid Karzaion, on July 20, 2009
+22	continued	,
+23	continued	while
+24	anecdote	parliament was in recess
+25	no-unit	.
+-1	par-sep	
+26	continued	During such periods, the Afghan Constitution allows the president
+27	common-ground	to issue decrees for emergency purposes
+28	no-unit	,
+29	no-unit	but
+30	continued	the Constitution also requires
+31	common-ground	such decrees to be forwarded to parliament for approval
+32	no-unit	.
+33	continued	Some women activists nonetheless suggested
+34	continued	that it was not necessary
+35	assumption	to send the EVAW law to parliament
+36	no-unit	.
+-1	par-sep	
+37	no-unit	Political climate
+38	no-unit	.
+-1	par-sep	
+39	continued	Others, including myself, argued
+40	continued	that although
+41	continued	the Executive Order on EVAW was a significant step in the battle for the elimination of violence against women
+42	continued	,
+43	continued	the law remained vulnerable to
+44	anecdote	being reversed by a new president
+45	no-unit	.
+46	no-unit	Indeed
+47	no-unit	,
+48	anecdote	 presidential elections were just around the corner
+49	no-unit	.
+-1	par-sep	
+50	continued	As
+51	continued	the drawdown of the international troops drew nearer
+52	continued	,
+53	continued	we feared
+54	continued	that the political climate would make
+55	continued	it increasingly difficult
+56	anecdote	to get the law anchored in parliament
+57	no-unit	.
+58	no-unit	In addition	Modd-NU
+59	no-unit	,	Modd-NU
+60	continued	 we feared
+61	continued	that any peace talks with the Taliban could end up
+62	continued	sacrificing EVAW in a bid
+63	anecdote	to appease the militants
+64	no-unit	.
+65	continued	Securing parliamentary approval for the law would give us much stronger ammunition in
+66	assumption	protecting it against extremist attacks
+67	no-unit	.
+-1	par-sep	
+68	continued	In order
+69	continued	to get an agreement on the EVAW law in parliament
+70	continued	,
+71	continued	we worked tirelessly for months
+72	continued	,
+73	anecdote	using three main strategies
+74	no-unit	.
+75	continued	Firstly, we started a lobbying campaign with those
+76	anecdote	who opposed the law, mainly conservatives
+77	no-unit	.
+-1	par-sep	
+78	continued	Secondly, we went
+79	continued	to visit them in their houses
+80	continued	,
+81	continued	explaining the law to them article by article
+82	anecdote	to obtain their signature in support of the law
+83	no-unit	.
+84	continued	We also organised exchange visits for conservative MPs to other Muslim countries
+85	continued	so
+86	continued	they could explore
+87	continued	how
+88	anecdote	these countries had been enforcing similar legislation for decades
+89	no-unit	.
+-1	par-sep	
+90	continued	Finally we worked through the joint committee in parliament for more than two years
+91	anecdote	to develop a consensus on the law and defuse the opposition of conservatives
+92	no-unit	.
+93	continued	In late 2009, there were only two issues left
+94	continued	where
+95	anecdote	conservative MPs did not agree
+96	no-unit	.
+-1	par-sep	
+97	continued	These were the law's punishment of relatives for underage marriage and for polygamy under certain conditions as well as the fact
+98	continued	that women's rights advocates wanted
+99	anecdote	to include "honour killings" as a specific crime in the law
+100	no-unit	.
+-1	par-sep	
+101	continued	At this point
+102	continued	,	Modd-NU
+103	continued	however	Modd-NU
+104	continued	,
+105	anecdote	 MPs became increasingly preoccupied with the then- upcoming parliamentary elections scheduled for Spring 2010
+106	no-unit	,
+107	no-unit	thus
+108	anecdote	the process lost momentum
+109	no-unit	.
+-1	par-sep	
+110	anecdote	Unfortunately, after the 2010 parliamentary elections, we ended up with a more conservative parliament
+111	no-unit	.
+112	anecdote	Contested election results left the new parliament paralysed for almost a year
+113	no-unit	.
+114	anecdote	As a consequence, discussions about the EVAW law only resumed in mid-2011
+115	no-unit	.
+-1	par-sep	
+116	anecdote	At this time the draft was re-sent to the 18 parliamentary commissions
+117	no-unit	.
+118	anecdote	All but one of the commissions agreed with the text of the law or presented constructive suggestions
+119	no-unit	.
+120	anecdote	The final commission, the legislative (Taqnin) committee, headed by the foremost opponent of the EVAW law, submitted 34 pages of suggested amendments
+121	no-unit	.
+-1	par-sep	
+122	continued	Some of these suggestions were helpful and were duly included, such as a proposal
+123	assumption	to have specialised prosecution units in all of Afghanistan
+124	no-unit	.
+125	continued	As before, we rejected the proposals
+126	anecdote	to leave underage marriage and the contraction of invalid polygamous marriages as non-punishable acts
+127	no-unit	.
+128	anecdote	We similarly rejected a new suggestion
+129	continued	which was
+130	continued	to close all women's shelters and arrange for the victims of violence
+131	anecdote	to stay with relatives instead
+132	no-unit	.
+-1	par-sep	
+133	continued	Although	Modd-NU
+134	anecdote	the opponents were vocal
+135	no-unit	,
+136	anecdote	they did not outnumber the rest
+137	no-unit	.
+138	continued	What
+139	continued	was damaging
+140	continued	,
+141	continued	however
+142	continued	,
+143	continued	 was an unhealthy political rivalry
+144	assumption	that ensued among mostly female parliamentarians and supporters of EVAW
+145	no-unit	.
+146	continued	Some progressive women's rights activists, including some from international organisations, argued
+147	continued	that the time was not right
+148	continued	to pass the EVAW
+149	continued	and
+150	anecdote	that it should be left as a presidential decree
+151	no-unit	.
+-1	par-sep	
+152	continued	There were good reasons for
+153	assumption	seeking parliamentary approval
+154	no-unit	.
+155	continued	Yet some of my colleagues began
+156	continued	accusing me of
+157	continued	using the bill
+158	anecdote	to further my own political career and gain support for my assumed ambitions for the 2014 presidential elections
+159	no-unit	.
+-1	par-sep	
+160	continued	Instead of
+161	continued	supporting EVAW
+162	continued	,
+163	anecdote	many female MPs stood silent during the parliamentary debates on the bill
+164	no-unit	and
+165	continued	some even went as far as
+166	anecdote	to lobby against it
+167	no-unit	.
+168	continued	As a result
+169	continued	,
+170	continued	when
+171	continued	the law was presented to the plenary in May 2013
+172	continued	,
+173	continued	conservative MPs
+174	continued	who were opposed
+175	continued	to EVAW
+176	assumption	were further emboldened
+177	no-unit	.
+-1	par-sep	
+178	assumption	The new Speaker of the House did not hold a lot a lot of influence
+179	no-unit	and
+180	assumption	probably, for that reason, did not back the bill either
+181	no-unit	.
+-1	par-sep	
+182	continued	With the conservative MPs entrenched in their opposition to EVAW, a weak speaker and a lack of support from my fellow female MPs, the EVAW bill failed
+183	anecdote	to pass
+184	no-unit	.
+185	continued	Those of us
+186	continued	who saw the passing of EVAW
+187	continued	to be beyond politics
+188	continued	,
+189	continued	and understood its importance for
+190	continued	tackling violence against women
+191	continued	,
+192	anecdote	were left heartbroken
+193	no-unit	.
+-1	par-sep	
+194	assumption	With the international community now gradually disengaging from Afghanistan, time is running out for Afghan women
+195	no-unit	.
+196	assumption	We have made important gains since 2001
+197	no-unit	,
+198	no-unit	but
+199	continued	we need
+200	assumption	the force of the law behind us to sustain our achievements
+201	no-unit	.
+-1	par-sep	
+202	continued	We need
+203	continued	to arm ourselves with solid laws like the EVAW law
+204	assumption	to fight the violence and other ills of our society
+205	assumption	which are destroying the souls of our sisters across the country
+206	no-unit	.
+207	continued	The fact
+208	continued	that the EVAW law has not been approved by the parliament
+209	assumption	is the reason for its weak implementation rates
+210	no-unit	;
+211	assumption	many justice officials are questioning the law's status and therefore do not apply it
+212	no-unit	.
+-1	par-sep	
+213	continued	One promising thing on the horizon is
+214	continued	that we now have a president and chief executive
+215	assumption	who both understand the multitude of challenges facing women
+216	no-unit	.
+217	continued	I would like
+218	continued	to take this opportunity and call on President Ashraf Ghani and our Chief Executive Dr Abdullah Abdullah
+219	assumption	to declare their support for the passage of the EVAW bill
+220	no-unit	.
+-1	par-sep	
+221	continued	I also call on my female colleagues in parliament and all Afghan women rights activists and our international partners
+222	assumption	to set aside their differences and join us in support of the ratification of the bill
+223	no-unit	.
+224	continued	As the recent parliamentary approval of the BSA shows
+225	continued	,
+226	continued	when
+227	continued	the government and others make
+228	continued	something a priority
+229	continued	,
+230	assumption	the conservative MPs can be isolated
+231	no-unit	.
+-1	par-sep	
+232	assumption	Times may be difficult now for Afghanistan
+233	no-unit	,
+234	assumption	differences may be wide
+235	no-unit	and
+236	assumption	security challenges are growing
+237	no-unit	,
+238	no-unit	but
+239	continued	failure
+240	continued	to back the EVAW
+241	continued	and allowing
+242	continued	it to die
+243	assumption	will deal a severe blow to Afghan women's rights
+244	no-unit	.

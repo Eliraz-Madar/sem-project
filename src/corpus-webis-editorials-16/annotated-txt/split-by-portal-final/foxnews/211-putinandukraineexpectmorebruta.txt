@@ -1,0 +1,169 @@
+0	title	Putin and Ukraine: Expect more brutal aggression from Russia's desperate leader.
+-1	par-sep	
+1	continued	The renewal of
+2	continued	fighting this week over the Donetsk airport in Eastern Ukraine- an important symbolic target for Russian proxy fighters
+3	continued	--
+4	assumption	should come as no surprise
+5	no-unit	.
+6	assumption	The U.S  and Western Europe should expect even more extensive Russia-directed attacks
+7	no-unit	.
+-1	par-sep	
+8	continued	Why?	Modd-NU
+9	continued	Because of the choice Vladimir Putin made five years ago, confirmed on his reelection in 2012 - and is continuing	Modd-NU
+10	assumption	to make	modd-ASM
+11	no-unit	.
+12	continued	After
+13	statistics	Russia's GDP plunged by almost 8 percent during the 2008-9 world financial crisis
+14	no-unit	,
+15	continued	there was a virtual consensus among Russian economists
+16	continued	that Putin's economic model
+17	continued	,
+18	continued	which depended on the redistribution of revenues from ever-increasing oil prices, along with growing state control over the economy and rampant corruption
+19	continued	,
+20	assumption	was nearly exhausted
+21	no-unit	.
+-1	par-sep	
+22	continued	Russia needed
+23	assumption	to "modernize and diversify,"
+24	no-unit	as the catch words among such thinkers went
+25	no-unit	.
+26	no-unit	But
+27	continued	to do so	Modd-NU
+28	continued	,	Modd-NU
+29	continued	the country first and foremost had
+30	assumption	to "improve the investment climate."
+-1	par-sep	
+31	continued	That was a euphemism
+32	continued	for
+33	continued	tapering off the state's grip on the economy
+34	continued	;
+35	continued	getting rid of bureaucratic shakedowns of private businesses
+36	continued	;
+37	continued	ensuring
+38	continued	that courts were no longer for sale or open to "instructions" from authorities
+39	continued	;
+40	continued	strengthening private property rights
+41	continued	;
+42	continued	and
+43	assumption	eventually decentralizing and liberalizing the political system
+44	no-unit	.
+-1	par-sep	
+45	no-unit	In short
+46	no-unit	,
+47	assumption	 deep institutional reforms	modd-ASM
+48	no-unit	.
+49	anecdote	These were advocated by, among others, Alexei Kudrin, Putin's personal friend and confidant, former finance minister and former first deputy prime minister
+50	no-unit	.
+-1	par-sep	
+51	continued	Kudrin was
+52	assumption	to be a disappointed man
+53	no-unit	.
+54	no-unit	While
+55	assumption	paying lip service to "modernization,"	cond
+56	continued	the Kremlin did nothing
+57	assumption	to advance that agenda
+58	no-unit	.
+-1	par-sep	
+59	assumption	Two years later, Russia was shaken by pro-democracy, anti-Putin demonstrations in all of Russia's largest cities
+60	no-unit	.
+-1	par-sep	
+61	continued	Putin got the same message
+62	assumption	that almost every authoritarian leader gets sooner or later
+63	no-unit	:
+64	continued	reform and democratize
+65	continued	to improve the economy
+66	continued	or tighten the screws of repression
+67	assumption	to deal with discontent	modd-ASM
+68	no-unit	.
+-1	par-sep	
+69	continued	We all know
+70	continued	what
+71	assumption	Putin did
+72	no-unit	.
+73	anecdote	Upon his presidential reelection in 2012, he issued a slew of laws constraining already limited freedoms of public protest and speech
+74	no-unit	.
+-1	par-sep	
+75	continued	The consequences came quickly: even with oil prices over $100 per bbl
+76	assumption	, growth dwindled to a crawl and capital flight reached record levels
+77	no-unit	.
+-1	par-sep	
+78	anecdote	By the end of 2013, Putin's popularity was at lowest point in 13 years
+79	no-unit	.
+80	continued	Around half of Russians did not want
+81	statistics	to see him as president again in 2018
+82	no-unit	.
+-1	par-sep	
+83	continued	Yet Putin doubled down once more
+84	continued	,
+85	continued	using another tried-and-true authoritarian tool: manufactured nationalist patriotic frenzy mixed with paranoia
+86	assumption	and served up by deafening propaganda
+87	no-unit	.
+-1	par-sep	
+88	assumption	The anti-corruption, pro-European revolution in Ukraine was presented as an American plot against Russia
+89	no-unit	.
+90	continued	Following the annexation of Crimea in March 2014, those
+91	continued	who opposed the regime
+92	anecdote	were labelled the "fifth column" and "national traitors."
+-1	par-sep	
+93	assumption	Then came war in Ukraine -- aggression by proxy or, last fall, by uniformed Russian troops
+94	no-unit	.
+-1	par-sep	
+95	continued	The daily poisoning of Russian hearts and minds on state-controlled national television is now beginning
+96	assumption	to surpass even Soviet totalitarianism
+97	no-unit	.
+98	assumption	Western democracies are portrayed as Russia's mortal enemies
+99	no-unit	,
+100	continued	who seek
+101	assumption	to undermine Moscow's sovereignty and enslave its people
+102	no-unit	.
+-1	par-sep	
+103	continued	This Stalinist-style propaganda is designed
+104	continued	to justify the Kremlin's aggression against Ukraine, excuse increasing domestic repression, explain away mounting economic hardships and
+105	continued	--
+106	continued	most troubling
+107	continued	--
+108	assumption	perhaps prepare the country for possible aggression against other neighbors
+109	no-unit	.
+-1	par-sep	
+110	assumption	Both in his end-of-year press-conference and in his New Year's message to the nation, Putin fixed the propaganda pitch to the highest point
+111	no-unit	:.
+-1	par-sep	
+112	continued	"We
+113	continued	are defending our independence, our sovereignty and our right
+114	continued	to exist,"
+115	testimony	he declared
+116	no-unit	.
+117	continued	"We need
+118	continued	to accomplish
+119	continued	,
+120	continued	to realize all
+121	continued	that we planned
+122	testimony	- for ourselves, for the sake of our children, and for the sake of Russia."
+-1	par-sep	
+123	continued	After this, can anyone expect the Russian commander-in-chief
+124	assumption	to go wobbly on foreign enemies or to abandon ethnic "brethren" fighting against an allegedly genocidal "Nazi junta"-- known to the rest of the world as the elected government in Kiev?
+-1	par-sep	
+125	continued	U.S  and European diplomats keep
+126	continued	talking about
+127	assumption	providing Russia with an "off ramp."
+128	continued	Judging by Putin's rhetoric	Modd-NU
+129	continued	,	Modd-NU
+130	assumption	there is no ramp high enough for the task
+131	no-unit	.
+-1	par-sep	
+132	no-unit	So long
+133	no-unit	as
+134	assumption	Putin sticks with the anti-reform choice
+135	no-unit	,
+136	continued	escalation appears
+137	continued	to be his only tactic for
+138	assumption	staying in and consolidating power
+139	no-unit	.
+-1	par-sep	
+140	assumption	This choice preceded the drop in oil prices and Western sanctions
+141	no-unit	- and
+142	assumption	it will outlive them as well
+143	no-unit	.
+144	continued	The West should expect no magic turn-around and prepare
+145	assumption	to confront but also engage with this Russia over the long haul
+146	no-unit	.

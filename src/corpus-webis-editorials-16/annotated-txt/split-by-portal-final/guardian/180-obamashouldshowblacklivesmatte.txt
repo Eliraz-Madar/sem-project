@@ -1,0 +1,177 @@
+0	title	Obama should show black lives matter by hosting relatives of those killed by cops at his State of the Union.
+-1	par-sep	
+1	no-unit	Tuesday at President Obama's penultimate State of the Union address
+2	no-unit	,
+3	no-unit	when
+4	anecdote	Obama points for effect at someone sitting with the First Lady as her guest	cond
+5	continued	,
+6	assumption	every single guest around her should be a family member of someone killed by a police officer
+7	no-unit	.
+-1	par-sep	
+8	continued	I want
+9	continued	to see Michelle Obama sandwiched between Erica Garner 
+10	continued	-
+11	continued	whose father, Eric Garner, was killed by an NYPD officer using an illegal chokehold
+12	assumption	- and Tamir Rice's 14-year-old sister
+13	no-unit	,
+14	continued	who was tackled and shackled by police
+15	continued	when
+16	continued	trying
+17	anecdote	to help her dying 12-year-old brother
+18	no-unit	.
+19	continued	I want
+20	assumption	to see Leslie McSpadden, Michael Brown's mother there tonight, and a relative of Tasha Thomas, John Crawford's now-deceased girlfriend
+21	no-unit	,
+22	continued	who was interrogated by the same police department
+23	anecdote	who'd just killed the father of her children for shopping at Wal Mart
+24	no-unit	.
+25	assumption	Let America look upon the elder Michael Brown, Kadiatou Diallo (Amadou Diallo's mother), Constance Malcolm (Ramarley Graham's mother), Sylvia Palmer (Akai Gurley's mother) or any of the thousands of relatives of the 1,100 or so Americans killed by police in 2014
+26	no-unit	.
+-1	par-sep	
+27	assumption	This of course will never happen
+28	no-unit	,
+29	no-unit	but
+30	continued	it's
+31	continued	what
+32	assumption	I want
+33	no-unit	.
+-1	par-sep	
+34	continued	President Obama should use the political theatre of his "Skutniks"
+35	continued	-
+36	continued	the humans used
+37	continued	to give a face to presidential pet problems
+38	continued	since
+39	continued	Ronald Reagan invited Lenny Skutnik to the State of the Union in 1982 
+40	continued	-
+41	assumption	to focus American's attention squarely on the loss of human life
+42	no-unit	when
+43	assumption	cops kill black civilians
+44	no-unit	.
+45	no-unit	If
+46	continued	President Obama wants
+47	continued	us to believe
+48	assumption	that he thinks black life matters
+49	no-unit	,
+50	continued	it's not enough
+51	continued	for
+52	assumption	him to form a task force on 21 century policing
+53	no-unit	:
+54	continued	task forces and commissions are
+55	continued	where
+56	continued	serious reforms go
+57	assumption	to be forgotten
+58	no-unit	.
+-1	par-sep	
+59	continued	One police shooting victim's family member up in his box with a nice cop like Richmond, California Police Chief Chris Magnus
+60	continued	(who famously held up a #BlackLivesMatters sign)
+61	assumption	is not enough
+62	no-unit	.
+63	assumption	We don't need a black kid-white cop hug moment
+64	no-unit	.
+65	no-unit	When
+66	continued	the President paired up a black victim of racism with
+67	anecdote	kindly white folks at his "beer summit" in 2009	cond
+68	continued	it was a disaster - at best a distraction, and at worst a prevarication
+69	assumption	that racism is anecdotal and not systematic
+70	no-unit	.
+-1	par-sep	
+71	no-unit	If
+72	continued	President Obama is serious about
+73	assumption	showing black and brown life matters in this country
+74	no-unit	-
+75	continued	he's made some progress showing this overseas by
+76	continued	winding down the wars in Iraq and Afghanistan
+77	continued	,
+78	continued	though not so much by
+79	anecdote	employing drone warfare in Pakistan
+80	continued	- he needs
+81	assumption	to go big at the State of the Union
+82	no-unit	.
+83	continued	He's taken on black lives
+84	continued	falling victim to gun violence at his annual address before by
+85	continued	inviting the parents of Hidaya Pendleton, a black Chicago teenager
+86	continued	who was killed in 2013 shortly after
+87	anecdote	performing at Obama's second inaugural
+88	no-unit	.
+89	assumption	But as Commander in Chief, with all those black folks at his side, Obama could challenge the mortal violence the state itself wages against its citizens through the local police and say to them: Enough
+90	no-unit	.
+-1	par-sep	
+91	continued	Ronald Reagan
+92	continued	,
+93	continued	whom Barack Obama uses as an example for
+94	continued	how
+95	continued	to sell himself as president
+96	continued	,
+97	continued	used Lenny Skutnik as an example of
+98	continued	how
+99	anecdote	"we saw again the spirit of American heroism at its finest,"
+100	continued	after	Modd-NU
+101	continued	Skutnik jumped into icy water of the Potomac River
+102	anecdote	to help the drowning after a plane crash
+103	no-unit	.
+104	no-unit	But
+105	continued	are not the kin of those killed by
+106	continued	police violence also displaying "American heroism at its finest" in
+107	continued	helping those
+108	assumption	who can't breathe?
+-1	par-sep	
+109	continued	It is women like Tawanda Jones
+110	assumption	who are creating a more perfect union
+111	no-unit	when
+112	assumption	she boldly speaks out about her brother being killed by police
+113	no-unit	-
+114	continued	even when	Modd-NU
+115	continued	dissent is under attack and Fox News broadcasts
+116	assumption	lies about her
+117	no-unit	.
+118	no-unit	When
+119	continued	Erica Garner visits the site
+120	continued	where
+121	continued	two NYPD cops were killed
+122	continued	to offer her condolences
+123	continued	,
+124	assumption	she is saving the union
+125	no-unit	.
+126	continued	Every time a woman like Michael Brown's mother calls for non-violence 
+127	continued	-
+128	continued	when
+129	continued	she could instead, understandably, lash out with a fraction of the hatred
+130	continued	which killed her son
+131	continued	-
+132	continued	she is keeping the nation from
+133	continued	ripping itself apart and acting with the kind of American heroism
+134	assumption	that presidents should applaud loudly and publicly
+135	no-unit	.
+-1	par-sep	
+136	anecdote	Skutnik helped save one woman
+137	no-unit	.
+138	continued	The black women
+139	continued	who bury their sons and husbands and seek
+140	continued	to change the systems
+141	continued	that caused their deaths
+142	continued	may save countless of lives 
+143	continued	-
+144	continued	and maybe even the soul
+145	assumption	of the nation
+146	no-unit	.
+-1	par-sep	
+147	continued	The Black Lives Matters movement is a testament
+148	continued	that, once again, black Americans are being called upon
+149	continued	to force
+150	continued	all Americans to examine our addiction to the violence and militarism
+151	assumption	that oppresses everyone in different ways
+152	no-unit	.
+153	continued	Our first black president, riding
+154	continued	an 18 month approval rating high
+155	continued	,
+156	continued	could choose
+157	continued	to do some of that himself
+158	continued	tonight, by
+159	continued	acknowledging those left behind
+160	continued	when
+161	assumption	black lives are ended by the state
+162	no-unit	and
+163	continued	who still choose
+164	continued	to use their grief to effect
+165	assumption	positive change
+166	no-unit	.

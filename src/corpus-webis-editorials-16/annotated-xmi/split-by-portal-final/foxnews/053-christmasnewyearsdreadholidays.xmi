@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3576" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="49" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="53" end="117" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="119" end="203" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="206" end="307" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="309" end="322" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="323" end="415" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="418" end="538" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="540" end="716" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="719" end="844" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="852" end="868" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="870" end="1046" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1048" end="1093" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1095" end="1137" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1138" end="1141" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1142" end="1162" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1165" end="1193" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1195" end="1291" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1293" end="1403" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1405" end="1500" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1503" end="1520" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1522" end="1607" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1615" end="1638" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1640" end="1723" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1725" end="1810" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1812" end="1860" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1862" end="1937" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1940" end="2030" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2032" end="2216" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2218" end="2299" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2301" end="2355" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2363" end="2382" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2384" end="2488" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2490" end="2560" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2564" end="2619" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2622" end="2769" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2771" end="2827" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2830" end="2944" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2949" end="2980" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2981" end="3046" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3052" end="3075" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3076" end="3133" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3135" end="3227" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3230" end="3384" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3386" end="3450" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3452" end="3531" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3534" end="3576" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="243" sofa="1" begin="0" end="3576" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/053-christmasnewyearsdreadholidays.txt" offsetInSource="0" documentSize="3576" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="251" sofa="1" begin="0" end="3576" lastUpdate="2014-12-23T21:01:00Z" url="http://www.foxnews.com/opinion/2014/12/23/christmas-new-years-dread-holidays-or-shape-them-to-be-life-giving/" portal="foxnews" authors="Robert V. Taylor" articleSum="You can dread the holidays as a passive bystander or you can actively shape&amp;#10;your experience of them to be life-giving. Your choice will reaffirm whether&amp;#10;you choose to be fully alive in the present or not.&amp;#10;&amp;#10;" title="Christmas, New Year's: Dread the holidays or shape them to be life-giving."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="You can dread the holidays as a passive bystander or you can actively shape your experience of them to be life-giving. Your choice will reaffirm whether you choose to be fully alive in the present or not.&#10;&#10;All too often I hear people express angst about holiday gatherings that they feel obligated to attend. To be certain there are gatherings such as work related events where your absence would not serve you well.&#10;&#10;Those who anticipate the holidays share a sense of gladness and expectation about being with at least some of the guests. Their anticipation is usually grounded in a well-developed self-awareness which accepts others as they are and an ability to not get caught up in the drama or baggage of others.&#10;&#10;These three tools to create a life-giving experience of the holiday season can also be applied to other work or family events.&#10;&#10;1 \. Detach to Engage. You are not obligated to engage in or endure lengthy and painful conversations with those whose energy, attitude or chip on their shoulder sucks the spirit out of you or others. Those are their issues and choices, not yours. You are not responsible for their behavior and you cannot change it.&#10;&#10;You can be polite and detach. Detachment is the practice that reflects your grounding as a compassionate and courageous person. With loving intention you entrust the well-being of the person you detach from to the goodness of the Universe. This is not an expression of anger or righteousness but an act of hoping for their highest good.&#10;&#10;It frees you both. Your detachment allows you to be fully present to the positive energy of other guests.&#10;&#10;2 \. Frame New Conversations. One woman found herself filled with anxiety at the thought of family holiday events. She dreaded the sexist, racist and homophobic jokes or comments that would be offered. She thought about abandoning her family's events. Instead she decided that she did not want to walk away as a helpless victim.&#10;&#10;She prepared herself with stories to tell in response to the inevitable offensive comments. When she told those stories - attending the wedding of two women at her church, getting to know Latino immigrants through her volunteer work - she discovered that the landscape changed. Her stories invited connection to real human beings beyond labels and crude jokes. Her experience of the family gatherings began to shift.&#10;&#10;3 \. Name Your Gratitude. Your gratitude is a reflection of the rich variety of relationships and experiences that shape your life. It can only be compromised by the negative or toxic behavior of others if you allow them to elbow your gratitude to the sidelines.&#10;&#10;In preparation for the center of the holiday season take a few minutes each day to name or write down one person or experience you are grateful for. This practice creates a heartfelt mosaic of gratefulness.&#10;&#10;Express your thankfulness to each of the people you have named and the particular experiences they may have shaped. If you will not see them in person express your gratitude via a note, email or social media tool imp.&#10;&#10;If you are with the person be prepared for how you will convey your heartfelt thanks. Naming your gratitude creates a mindful way of appreciating your interconnection with others.&#10;&#10;When you detach in order to engage, frame new conversations and name your gratitude you choose to be present to yourself and others in life-affirming ways. These choices unclutter the angst or apprehension you might feel. They allow you to experience holiday gatherings in unexpected and positive ways.&#10;&#10;How will you be proactive in your choices?"/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 251"/>
+</xmi:XMI>

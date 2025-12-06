@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="349" begin="0" end="4876" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="349" begin="0" end="123" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="349" begin="126" end="158" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="349" begin="160" end="204" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="349" begin="206" end="352" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="349" begin="355" end="417" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="349" begin="419" end="582" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="349" begin="586" end="632" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="349" begin="635" end="665" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="349" begin="669" end="750" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="349" begin="752" end="787" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="349" begin="790" end="948" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="349" begin="950" end="976" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="349" begin="979" end="1109" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="349" begin="1111" end="1244" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="349" begin="1246" end="1293" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="349" begin="1297" end="1318" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="349" begin="1321" end="1353" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="349" begin="1356" end="1434" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="349" begin="1436" end="1455" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="349" begin="1457" end="1592" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="349" begin="1595" end="1720" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="349" begin="1722" end="1725" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="349" begin="1727" end="1884" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="349" begin="1887" end="1918" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="349" begin="1920" end="1955" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="349" begin="1957" end="2011" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="349" begin="2013" end="2020" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="349" begin="2022" end="2097" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="349" begin="2099" end="2282" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="349" begin="2285" end="2335" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="349" begin="2337" end="2379" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="349" begin="2381" end="2457" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="349" begin="2459" end="2462" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="349" begin="2464" end="2573" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="349" begin="2575" end="2666" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="349" begin="2668" end="2701" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="349" begin="2704" end="2713" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="349" begin="2714" end="2853" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="349" begin="2855" end="2862" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="349" begin="2864" end="3200" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="349" begin="3203" end="3344" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="349" begin="3346" end="3349" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="349" begin="3350" end="3406" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="349" begin="3408" end="3464" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="349" begin="3466" end="3497" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="349" begin="3499" end="3502" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="349" begin="3503" end="3507" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="349" begin="3508" end="3546" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="349" begin="3548" end="3626" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="349" begin="3628" end="3632" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="349" begin="3633" end="3693" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="349" begin="3695" end="3698" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="349" begin="3699" end="3745" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="349" begin="3748" end="3995" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="349" begin="3998" end="4105" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="349" begin="4107" end="4265" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="349" begin="4268" end="4381" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="349" begin="4383" end="4454" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="349" begin="4456" end="4459" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="349" begin="4460" end="4504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="349" begin="4506" end="4664" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="349" begin="4667" end="4711" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="349" begin="4712" end="4774" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="349" begin="4775" end="4815" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="349" begin="4817" end="4875" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="331" sofa="349" begin="0" end="4876" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/195-parislessonsusmustrevokecitize.txt" offsetInSource="0" documentSize="4876" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="356" sofa="349" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/195-parislessonsusmustrevokecitize.xmi" offsetInSource="0" documentSize="4876" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="339" sofa="349" begin="0" end="4876" lastUpdate="2015-01-14T11:00:11Z" url="http://www.foxnews.com/opinion/2015/01/14/paris-lessons-us-must-revoke-citizenship-americans-who-join-isis-al-qaeda/" portal="foxnews" authors="Jay Sekulow" articleSum="That’s why any American strategy to defeat jihad has to include measures to&amp;#10;not just deny passports to American terrorists, but also strip them of&amp;#10;citizenship.&amp;#10;&amp;#10;" title="Paris lessons: US must revoke citizenship of Americans who join ISIS, Al Qaeda."/>
+    <cas:Sofa xmi:id="349" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Last week, France faced the threat that is arguably the toughest to defeat -- a threat from within, from its own terrorists.&#10;&#10;By now, the stories are familiar. France has a problem with homegrown radicals. At least 900 French citizens are among the 2,000 to 3,000 westerners who've left home for jihadist training or to fight for ISIS in Syria and Iraq.&#10;&#10;In many ways, the western jihadist represents the worst threat. Able to speak the language fluently, completely familiar with their home countries, and possessing a key weapon -- an American, British, French, or German passport -- they can easily cross international boundaries.&#10;&#10;The training makes them deadly -- the Paris attacks were notable for their deadly precision and meticulous planning. Their citizenship makes them mobile.&#10;&#10;That's why any American strategy to defeat jihad has to include measures to not just deny passports to American terrorists, but also strip them of citizenship. This is basic common sense.&#10;&#10;Most Americans would be surprised to know that joining Al Qaeda or ISIS - the Islamic State - isn't grounds for losing citizenship. The law currently provides that Americans can lose citizenship when they enter or serve in the armed forces of an enemy foreign state. But ISIS and Al Qaeda are not &quot;foreign states,&quot; so the law doesn't apply.&#10;&#10;It's time to close this loophole.&#10;&#10;In Congress, legislation was introduced last session to address those concerns. It was not approved. Now,  in the new Congress - with Republicans in control of both the House and Senate - there's a renewed push to safeguard the homeland.&#10;&#10;Last week, Representative Ted Poe introduced a measure that revokes passports from Americans who join terrorist organizations. And,  in the days ahead, Senator Ted Cruz and Representative Steve King are expected to introduce legislation that would strip citizenship from terrorist traitors.&#10;&#10;This is not an imaginary threat. Not only have Americans joined ISIS, some have even lost their lives fighting for jihadists. In fact,  as many as 40 men from Minneapolis alone have joined Islamic groups abroad. And just last week in Chicago, A U.S  citizen was indicted by a federal grand jury - charged with attempting to travel overseas to fight alongside the ISIS operating in Iraq and Syria.&#10;&#10;These men aren't just threats to the United States; they're also threats to our closest allies. For our allies, the American passport is a ticket of entry, no visa required. And,  similarly, for British, French, and other allies, their passport is a ticket of entry into the United States. The door is wide open for terrorists to take advantage of centuries of friendship and trust. It is time we slam that door shut.&#10;&#10;Of course stripping citizenship and revoking passports represent just two small steps - but critical ones - towards a sane national security strategy. However,  it's difficult to take even these small steps with the Obama administration steadfastly refuses to name our enemies (Mr  President, our enemies are Islamic radicals, not generic &quot;extremists&quot;), accurately describe their ideology (no, they are not &quot;nihilists&quot;), or even to acknowledge their obvious, widespread appeal in the Muslim world.&#10;&#10;It was sad and embarrassing for Americans to watch as even the leader of the Palestinian Authority marched in Paris against Islamic extremism, yet our president or vice president were nowhere to be found. Even liberal journalists called this absence &quot;pathetic.&quot;&#10;&#10;Marches don't defeat terrorists, but when dozens of world leaders stand together, it makes a statement of determination that is critical for our citizens to see. When our President makes a stand, it signals our nation's resolve, and his absence signaled our government's weakness.&#10;&#10;In the days and weeks ahead, Congress can send a very different message by passing much needed legislation, putting it on the President's desk, and daring him to veto legislation that would prevent exactly the kind of attack France faced last week.&#10;&#10;After almost six full years in office, we fully understand the President's approach to combatting terrorism. A recipe that mixes drone strikes with appeasement -- that pulls troops from combat and sends captive terrorists back to the Middle -- is now a proven failure.&#10;&#10;In my bestselling book, &quot;Rise of ISIS: A Threat We Can't Ignore,&quot; I demonstrated the consequences of that failure. Jihad rages across the Middle East, Boko Harem rampages through Nigeria, and Afghanistan teeters on the brink of disaster. In the west, recent terror attacks in Canada, Australia, and Paris show jihadists ability to inspire even western Muslims with a message of pure hate and evil.&#10;&#10;Will the Obama administration change course? Will it finally acknowledge the true dimensions of the threat? It can start with a dose of common sense. It can start by protecting America from terrorist traitors."/>
+    <cas:View sofa="349" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 356 339"/>
+</xmi:XMI>

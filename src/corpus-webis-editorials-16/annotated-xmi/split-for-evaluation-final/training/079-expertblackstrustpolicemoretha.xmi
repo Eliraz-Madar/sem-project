@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="354" begin="0" end="4870" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="354" begin="0" end="43" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="354" begin="44" end="133" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="354" begin="135" end="148" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="354" begin="150" end="259" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="354" begin="262" end="300" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="354" begin="302" end="399" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="354" begin="401" end="642" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="354" begin="645" end="766" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="354" begin="769" end="778" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="354" begin="780" end="897" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="354" begin="899" end="944" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="354" begin="947" end="950" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="354" begin="951" end="1003" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="354" begin="1005" end="1066" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="354" begin="1069" end="1146" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="354" begin="1148" end="1351" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="354" begin="1354" end="1406" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="354" begin="1408" end="1531" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="354" begin="1533" end="1589" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="354" begin="1591" end="1602" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="354" begin="1604" end="1652" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="354" begin="1654" end="1734" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="354" begin="1736" end="1896" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="354" begin="1902" end="1948" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="354" begin="1950" end="1996" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="354" begin="1997" end="2070" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="354" begin="2072" end="2137" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="354" begin="2140" end="2242" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="354" begin="2244" end="2337" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="354" begin="2341" end="2408" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="354" begin="2410" end="2469" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="354" begin="2472" end="2475" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="354" begin="2477" end="2535" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="354" begin="2537" end="2771" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="354" begin="2774" end="2847" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="354" begin="2849" end="2940" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="354" begin="2943" end="3080" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="354" begin="3083" end="3248" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="354" begin="3250" end="3253" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="354" begin="3254" end="3303" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="354" begin="3305" end="3396" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="354" begin="3398" end="3401" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="354" begin="3402" end="3449" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="354" begin="3452" end="3532" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="354" begin="3534" end="3537" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="354" begin="3538" end="3581" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="354" begin="3583" end="3710" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="354" begin="3712" end="3715" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="354" begin="3720" end="3738" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="354" begin="3740" end="3758" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="354" begin="3760" end="3812" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="354" begin="3814" end="3900" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="354" begin="3902" end="3943" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="354" begin="3946" end="4052" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="354" begin="4054" end="4122" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="354" begin="4124" end="4184" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="354" begin="4186" end="4189" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="354" begin="4190" end="4257" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="354" begin="4259" end="4340" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="354" begin="4343" end="4391" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="354" begin="4393" end="4487" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="354" begin="4489" end="4617" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="354" begin="4619" end="4685" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="354" begin="4686" end="4784" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="354" begin="4785" end="4834" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="354" begin="4836" end="4869" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="336" sofa="354" begin="0" end="4870" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/079-expertblackstrustpolicemoretha.txt" offsetInSource="0" documentSize="4870" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="361" sofa="354" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/079-expertblackstrustpolicemoretha.xmi" offsetInSource="0" documentSize="4870" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="344" sofa="354" begin="0" end="4870" lastUpdate="2014-12-19T19:08:47Z" url="http://www.foxnews.com/opinion/2014/12/19/expert-blacks-trust-police-more-than-whites-do/" portal="foxnews" authors="John Lott" articleSum="When it comes to crime, the demonstrations and pundits don’t reflect how most&amp;#10;blacks feel most of the time. There appears to be a silent majority of blacks&amp;#10;who trust the police&amp;#10;&amp;#10;" title="Expert: Blacks trust police more than whites do."/>
+    <cas:Sofa xmi:id="354" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Do blacks trust police more than whites do? Given the anger over events in Ferguson and New York City, the very question seems absurd. But it is not. Behind the polls and demonstrations, there is evidence that blacks trust police at least as much as whites do.&#10;&#10;The poll results are hardly surprising. A new Gallup poll confirms blacks place less confidence in police and the criminal justice system. Using survey data from 2006 through 2014, Gallup found :.&#10;&#10;* 31 percentage points more blacks than whites believe black males are more likely to go to prison than white males primarily because of discrimination (50 percent versus 19 percent).&#10;&#10;*7 percentage points more blacks believe the honesty and ethics of police are low/very low (17 percent versus 10 percent).&#10;&#10;Similarly,  a 2013 Pew Research Centersurvey reveals that 70 percent of blacks believed police treated whites better than blacks. By contrast, only 37 percent of whites agreed.&#10;&#10;But what people say and what they do are often different. And there are both victims and criminals in black communities.&#10;&#10;Victims may trust the police for the same reasons that criminals dislike them. Blacks are not a monolithic group: blacks who who have been through the criminal justice system as criminals could answer these questions quite differently than those who have relied on police as victims.&#10;&#10;The polls don't distinguish between these two groups. As Charles Barkley recently said: &quot;[Police] are the only thing in the ghetto between this place being the wild, wild west.&quot;&#10;&#10;Most violent crime victims don't report crimes to police. For example,  only about half of rapes are reported to police. That has a lot to do with how victims believe they will be treated by the police. In the case of rape, victims who think that the police are unsympathetic to rape victims or are unlikely to solve the cases are even less likely to report rapes.&#10;&#10;If black victims really believe police are racist, why would they report the crime to the police? Blacks victims don't want other blacks locked up simply due to their race; they want the criminals who actually committed the crime punished.&#10;&#10;Of course people are more likely to report crimes to police if they believe the police will solve them. Why waste time filling out forms and being interviewed if the crime isn't going to be solved? If blacks think police are incompetent or dishonest or just don't care, again there is little reason to turn to the police for help.&#10;&#10;Yet,  blacks don't shy away from reporting crimes to the police. Data compiled by the Bureau of Justice Statisticsfrom 2008 to 2012 shows that blacks are actually more likely than whites to report violent crimes to the police -- 9 percentage points more likely than whites (54 percent to 45 percent).&#10;&#10;Blacks consistently report violent crimes at a higher rate than whites do. That applies to all income groups as well as for victims living in urban and suburban areas.&#10;&#10;This higher rate of reporting is true in areas where blacks face higher violent crime rates than whites and also when the reverse is true.&#10;&#10;The Bureau of Justice Statistics reports that whites who are below 200 percent of the poverty level face a higher violent crime rate than blacks with the same income, yet blacks still report those crimes at a higher rate. For incomes above 200 percent of poverty, blacks are more frequent victims of violent crime, but again they are still more likely to report them.&#10;&#10;On average, blacks are victims of violent crime at much higher rates than whites, but the gap isn't as large as many people think. Typically, crime rate comparisons are in terms of the FBI crime data -- data relying on the number of crimes reported to police. But, as we have just noted, that is misleading, because blacks report violent crimes at higher rates. While the FBI crime numbers show blacks to have a 40 percent higher violent crime rate, the actual difference is about 30 percent.&#10;&#10;When it comes to crime, the demonstrations and pundits don't reflect how most blacks feel most of the time. There appears to be a silent majority of blacks who trust the police. Many blacks may get angry about particular cases in the news, but when they have to turn to someone for help, they turn to the police. Blacks apparently trust the police to do their job more frequently than whites do.&#10;&#10;John R  Lott, Jr  is a columnist for FoxNews.com. He is an economist and was formerly chief economist at the United States Sentencing Commission. Lott is also a leading expert on guns and op-eds on that issue are done in conjunction with the Crime Prevention Research Center. He is the author of eight books including &quot;More Guns, Less Crime.&quot; His latest book is &quot;Dumbing Down the Courts: How Politics Keeps the Smartest Judges Off the Bench&quot; Bascom Hill Publishing Group (September 17, 2013). Follow him on Twitter@johnrlottjr."/>
+    <cas:View sofa="354" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 361 344"/>
+</xmi:XMI>

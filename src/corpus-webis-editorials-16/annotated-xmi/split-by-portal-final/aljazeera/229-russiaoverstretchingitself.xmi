@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="5125" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="147" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="149" end="234" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="236" end="341" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="342" end="345" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="352" end="364" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="366" end="405" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="407" end="483" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="484" end="487" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="488" end="554" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="557" end="601" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="603" end="607" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="608" end="680" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="681" end="737" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="740" end="831" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="832" end="835" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="836" end="870" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="873" end="961" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="963" end="1095" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1097" end="1327" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1330" end="1450" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1452" end="1457" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1458" end="1530" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1532" end="1586" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1588" end="1739" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1742" end="1866" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1868" end="1929" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1931" end="1970" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1972" end="2018" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2022" end="2113" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2116" end="2123" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2125" end="2191" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2195" end="2211" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2213" end="2280" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2281" end="2313" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2315" end="2322" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2324" end="2457" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2460" end="2562" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2564" end="2709" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2711" end="2833" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2835" end="2906" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2909" end="3040" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3042" end="3173" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3176" end="3237" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3242" end="3276" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3278" end="3343" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3345" end="3384" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3386" end="3403" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3405" end="3408" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3409" end="3471" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3473" end="3614" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3617" end="3672" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3675" end="3793" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3795" end="3847" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3849" end="4081" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4084" end="4170" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4172" end="4394" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4396" end="4403" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4405" end="4494" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4496" end="4561" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4563" end="4566" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4567" end="4607" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4610" end="4733" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4734" end="4738" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4739" end="4795" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4797" end="4964" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="4967" end="5039" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="343" sofa="1" begin="5041" end="5124" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="348" sofa="1" begin="0" end="5125" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/229-russiaoverstretchingitself.txt" offsetInSource="0" documentSize="5125" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="356" sofa="1" begin="0" end="5125" lastUpdate="2015-01-02T08:46:34Z" url="http://www.aljazeera.com/indepth/opinion/2015/01/russia-overstretching-itself-20151111531816963.html" portal="aljazeera" authors="Luke Coffey" articleSum="After Russia's illegal annexation of Crimea, Georgians have cause for concern.&amp;#10;&amp;#10;" title="Is Russia overstretching itself?"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In 1783, Russia and the Kingdom of Kartli-Kakheti, which would later become part of modern day Republic of Georgia, signed the Treaty of Georgievsk. Among other things this treaty gave Kartli-Kakheti a status of a Russian protectorate. Squished between the Russian, Persian, and Ottoman Empires, this was exactly what the tiny kingdom needed ... or so they thought. The deal with Russia soon turned deadly. Russia reneged on the treaty, and by 1795 Russian troops had left the region and a Persian army had invaded and leveled the capital city of Tbilisi.&#10;&#10;Georgians have never forgotten this betrayal. When Soviet Russia marked the bicentenary of the Treaty of Georgievsk in 1983 it was met with mass protests from anti-Soviet Georgians.&#10;&#10;The Treaty of Georgievsk might have been the first dodgy treaty Russia signed in the region but it certainly has not been the last.&#10;&#10;Soon Russia is expected to sign a treaty with Georgia's breakaway province South Ossetia. Last November, Russia and Abkhazia - another breakaway province in Georgia - signed a treaty on &quot;alliance and strategic partnership&quot;. This treaty established a coordinated foreign policy, the creation of a &quot;common security and defense space&quot; between Russia and Abkhazia, and the implementation of a streamlined process for Abkhazians to receive Russian citizenship.&#10;&#10;The pending treaty with South Ossetia is expected to bring the relationship between South Ossetia and Russia even closer. While Abkhaz officials have shown little interest in getting annexed by Russia, many in South Ossetia would be happy with this outcome. The defacto leader of South Ossetia Leonid Tibilov said the treaty could see the tiny breakaway province &quot;becoming a subject of the Russian Federation&quot;.&#10;&#10;The Ossetian people are representative of the typical geographical, religious, and ethnic complexities found in the Caucasus. Ethically and linguistically they are descended from Iranians. Religiously they are Orthodox Christian. The Ossetian people are unique in the Caucasus as they are the only ethnic group found living in large numbers on both sides of the mountains.&#10;&#10;Even so,  South Ossetia does not have close links to Russia's North Ossetia as one might expect. The only road linking the two Ossetias runs through the Roki tunnel which was only completed in 1984. In fact,  Tskhinvali, the administrative capital of South Ossetia, is closer to Tbilisi than it is to North Ossetia's capital city Vladikavkaz.&#10;&#10;Since the 2008 Russian invasion of Georgia, Russia has occupied South Ossetia with thousands of troops. Almost seven years on, Russia is still in direct violation of the Six Point Ceasefire Agreement brokered by then-French President Nicolas Sarkozy. Russia has spent millions of dollars building a fence around the administrative boundary between South Ossetia and Georgia. In some cases, the fence cuts homes, families, and properties into half.&#10;&#10;Russia is one of only four countries that recognise South Ossetia's independence (the others being Venezuela, Nicaragua, and Nauru). By contrast, many European countries and the United States recognise the Russian presence in South Ossetia as an illegal occupation.&#10;&#10;Russia needs to think carefully before annexing South Ossetia. As Moscow has experienced with Crimea, annexation comes at a cost, both economically and geo-politically. Economic sanctions are starting to bite, the ruble is down, and the low price of oil is severely impacting the Russian economy. Then there are all the other costs associated with annexation: paying for pensions, local services, healthcare, education, and infrastructure - this is a heavy burden for the stagnate Russian economy.&#10;&#10;The Georgian Foreign Ministry criticised Russia's move as a step toward &quot;annexation of Georgia's occupied territories&quot;. In reality,  there is little Georgia can do about it. Raising international awareness and encouraging the US and Europe to link economic sanctions connected to Russia's annexation of Crimea to any possible annexation of South Ossetia is the first thing the Georgian government should do.&#10;&#10;The history of the Caucasus has shown that allegiances have, and can, change over time. Through a long term process of confidence building measures, the Georgian government needs to show those in South Ossetia that their future is brighter with Tbilisi and in the transatlantic community than it is with Russia. Finally,  Georgia must stick with its &quot;non-use of force&quot; pledge regarding the occupied territories. There is no military solution to either South Ossetia or Abkhazia, and the region can hardly afford another war.&#10;&#10;It is ironic that since the early 1990s thousands of South Ossetians have died fighting for their independence from Georgia when they are likely to hand over their sovereignty to Russia. Russia's treaties with Abkhazia and South Ossetia should be seen for what they really are: the first step in a process of Russian annexation of both breakaway regions  - both of which are still internationally recognised to be part of Georgia. Considering Russia's illegal annexation of Crimea, Georgians have cause for concern."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 348 356"/>
+</xmi:XMI>

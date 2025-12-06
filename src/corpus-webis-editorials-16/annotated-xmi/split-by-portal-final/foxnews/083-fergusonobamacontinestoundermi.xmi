@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4821" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="129" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="131" end="278" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="281" end="361" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="363" end="366" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="367" end="413" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="415" end="536" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="538" end="651" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="653" end="660" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="661" end="811" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="813" end="825" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="827" end="927" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="928" end="931" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="932" end="971" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="973" end="1182" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1185" end="1360" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1362" end="1571" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1572" end="1691" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1694" end="1751" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1753" end="1818" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1820" end="1884" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1886" end="1923" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1925" end="2007" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="2010" end="2087" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2088" end="2091" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2092" end="2145" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2148" end="2244" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2246" end="2249" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2250" end="2346" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2348" end="2499" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2502" end="2555" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2556" end="2565" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2567" end="2650" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2652" end="2725" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2728" end="2831" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2833" end="2836" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2837" end="2910" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2912" end="2979" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2982" end="3076" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3078" end="3177" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3179" end="3188" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3189" end="3252" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3258" end="3335" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3337" end="3415" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3417" end="3492" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3494" end="3539" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3541" end="3544" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3545" end="3576" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3578" end="3600" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3601" end="3648" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3650" end="3719" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3722" end="3897" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3900" end="3993" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3996" end="4021" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4023" end="4071" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4073" end="4092" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4094" end="4135" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4137" end="4140" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4141" end="4187" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4191" end="4291" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4294" end="4342" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4344" end="4438" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4440" end="4568" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4570" end="4636" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4637" end="4735" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4736" end="4785" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="4787" end="4820" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="343" sofa="1" begin="0" end="4821" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/083-fergusonobamacontinestoundermi.txt" offsetInSource="0" documentSize="4821" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="351" sofa="1" begin="0" end="4821" lastUpdate="2014-12-03T21:30:22Z" url="http://www.foxnews.com/opinion/2014/12/03/ferguson-obama-contines-to-underminepolice-departments-around-country/" portal="foxnews" authors="John Lott" articleSum="As a response to the police shooting of Michael Brown, President Obama&amp;#10;proposes $263 million for police training and body cameras. But more police&amp;#10;training wouldn’t have prevented the Brown shooting and the president’s&amp;#10;proposal plays into the hands of those who blame the police.&amp;#10;&amp;#10;" title="Ferguson: Obama contines to undermine police departments around the country."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="As a response to the police shooting of Michael Brown, President Obama proposes $263 million for police training and body cameras. But more police training wouldn't have prevented the Brown shooting and the president's proposal plays into the hands of those who blame the police.&#10;&#10;President Obama has continually undermined police departments around the country, and his demand for more training fits that pattern. In 2009, he jumped to the conclusion that Cambridge, Massachusetts police &quot;acted stupidly&quot; when they arrested Henry Gates. He personalized the Trayvon Martin investigation in a way that to many implied the murder was radically motivated. And yet again last week, he emphasized that the anger to the verdict was &quot;an understandable reaction&quot; and blacks' distrust of police is &quot;rooted in realities.&quot;&#10;&#10;Nevertheless, whatever Obama implies, there was absolutely no evidence Officer Darren Wilson was motivated by race and he did exactly what he should have done. Brown's robbery of the convenience store, his decision to reach into the police car and punch Wilson while trying to take his gun, and finally Brown's decision to charge Wilson was what caused the teen's death.&#10;&#10;Under Missouri law, people can defend themselves with deadly force if they have a &quot;reasonable belief&quot; they need to use it to protect themselves against serious injury or death. Wilson claimed: &quot;I felt that another of those punches in my face could knock me out or worse ... I've already taken two to the face and I didn't think I would, the third one could be fatal if he hit me right.&quot; When Brown later charged Wilson, despite repeated warnings to stop, Wilson worried that he no choice but to shoot Brown.&#10;&#10;But we don't have to take Wilson's word for what happened. The forensic evidence is overwhelmingly consistent with his story. There is no doubt that Brown reached in Wilson's car and hit him. Brown's DNA was found on Wilson's gun. Despite strong social pressure, three black witnesses confirmed Wilson's testimony.&#10;&#10;Police officers in America have a more dangerous job than many people realize and they behave remarkably well under these circumstances.&#10;&#10;In 2013, the assault rate for the general public in the United States was 229 per 100,000 people. But the rate police were assaulted that year was 9,300 per 100,000 officers - a rate 41 times higher. The only reason that police don't die at as high of a rate as people in other professions is because of their training and the fact that they are armed.&#10;&#10;Would you consider it &quot;dangerous&quot; to live in Detroit? After all,  it has by far the highest assault rate in the country, at 1,257 per 100,000 people. But police are still 7.4 times more likely to be assaulted (=9,300/1,257).&#10;&#10;Aggravated assaults don't necessarily involve injuries, just the attempt to cause serious bodily injury, but police are injured at a very high rate - 2,700 per 100,000 police officer. That is still much higher than the total assault data for civilians.&#10;&#10;This data also suggests that police are not actively looking for excuses to fire their weapons. The number of justifiable killings by police equals less than one percent of the assaults on police. Thus even when assaulted, police rarely resort to killing their attackers.&#10;&#10;As Ferguson is showing us, physical risks aren't the only risks that police face. On Saturday Officer Darren Wilson resigned from the Ferguson police department, fearing that protestors would use his continued presence to justify rioting. He is going to have a hard time getting a job, and he didn't get any severance pay. Who will hire him now? Surely no other police department will hire him. And,  any company that would hire Wilson would fear the same protests.&#10;&#10;With Wilson facing civil suits and Attorney General Eric Holder's federal investigation still ongoing, the pressures on Officer Wilson are not likely to fade away anytime soon.&#10;&#10;It's safe to say that other police officers will be carefully watching what happens to Wilson.&#10;&#10;Yes, racism is despicable. And there have been abuses by police in the past. But 2014 isn't 1960. Police have a difficult and dangerous job, and President Obama could help to calm things down if he and his administration weren't so quick to assume that police officers are the only ones at fault.&#10;&#10;John R  Lott, Jr  is a columnist for FoxNews.com. He is an economist and was formerly chief economist at the United States Sentencing Commission. Lott is also a leading expert on guns and op-eds on that issue are done in conjunction with the Crime Prevention Research Center. He is the author of eight books including &quot;More Guns, Less Crime.&quot; His latest book is &quot;Dumbing Down the Courts: How Politics Keeps the Smartest Judges Off the Bench&quot; Bascom Hill Publishing Group (September 17, 2013). Follow him on Twitter@johnrlottjr."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 351"/>
+</xmi:XMI>

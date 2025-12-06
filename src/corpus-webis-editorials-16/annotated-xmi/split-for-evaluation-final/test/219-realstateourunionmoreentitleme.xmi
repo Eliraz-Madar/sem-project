@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="324" begin="0" end="3875" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="324" begin="0" end="127" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="324" begin="129" end="132" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="324" begin="133" end="217" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="324" begin="220" end="474" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="324" begin="477" end="560" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="324" begin="562" end="567" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="324" begin="568" end="585" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="324" begin="589" end="592" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="324" begin="593" end="614" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="324" begin="617" end="711" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="324" begin="712" end="748" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="324" begin="752" end="755" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="324" begin="756" end="768" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="324" begin="771" end="846" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="324" begin="850" end="947" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="324" begin="950" end="988" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="324" begin="990" end="1067" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="324" begin="1069" end="1072" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="324" begin="1073" end="1103" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="324" begin="1106" end="1208" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="324" begin="1210" end="1245" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="324" begin="1247" end="1271" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="324" begin="1272" end="1275" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="324" begin="1276" end="1337" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="324" begin="1341" end="1400" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="324" begin="1403" end="1487" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="324" begin="1489" end="1655" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="324" begin="1658" end="1718" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="324" begin="1720" end="1727" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="324" begin="1728" end="1767" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="324" begin="1769" end="1781" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="324" begin="1783" end="1855" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="324" begin="1857" end="1860" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="324" begin="1861" end="1911" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="324" begin="1914" end="1999" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="324" begin="2001" end="2004" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="324" begin="2005" end="2111" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="324" begin="2114" end="2253" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="324" begin="2256" end="2272" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="324" begin="2274" end="2302" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="324" begin="2305" end="2408" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="324" begin="2412" end="2415" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="324" begin="2416" end="2475" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="324" begin="2478" end="2558" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="324" begin="2561" end="2608" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="324" begin="2610" end="2704" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="324" begin="2706" end="2713" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="324" begin="2714" end="2802" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="324" begin="2805" end="2915" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="324" begin="2917" end="2967" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="324" begin="2970" end="3048" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="324" begin="3050" end="3161" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="324" begin="3164" end="3201" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="324" begin="3203" end="3264" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="324" begin="3266" end="3331" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="324" begin="3333" end="3360" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="324" begin="3363" end="3390" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="324" begin="3391" end="3547" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="324" begin="3550" end="3707" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="324" begin="3710" end="3874" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="306" sofa="324" begin="0" end="3875" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/219-realstateourunionmoreentitleme.txt" offsetInSource="0" documentSize="3875" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="331" sofa="324" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/219-realstateourunionmoreentitleme.xmi" offsetInSource="0" documentSize="3875" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="314" sofa="324" begin="0" end="3875" lastUpdate="2015-01-19T20:44:52Z" url="http://www.foxnews.com/opinion/2015/01/19/real-state-our-union-more-entitlements-taxes-and-unemployment/" portal="foxnews" authors="Peter Morici" articleSum="Once again, President Obama will propose soaking the rich with higher estate,&amp;#10;capital gains and bank taxes, while adding to entitlements for the working&amp;#10;poor and middle class—new tax credits, higher child care allowance and more&amp;#10;college tuition assistance.&amp;#10;&amp;#10;" title="The Real State of Our Union: More entitlements, taxes and unemployment."/>
+    <cas:Sofa xmi:id="324" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In his State of the Union address, President Obama will propose much he knows the Republican-controlled Congress will not enact, but his real agenda is to set the table for Hillary Clinton's 2016 presidential campaign.&#10;&#10;Once again, the president will propose soaking the rich with higher estate, capital gains and bank taxes, while adding to entitlements for the working poor and middle class--new tax credits, higher child care allowance and more college tuition assistance.&#10;&#10;It all sounds appealing in an economy where the top 10 percent have done quite well, while the rest struggle -- but it is not that simple.&#10;&#10;The president will argue the economy--and especially the rich -- can afford the taxes he wants because economic growth is so strong -- but that's a fib.&#10;&#10;Since the recovery began, GDP growth has averaged a mere 2.3 percent a year -- that's about half what Ronald Reagan accomplished climbing out of a recession of comparable depth.&#10;&#10;Now the recovery faces tough headwinds. Falling oil prices are curbing drilling in places like North Dakota and Texas, and big layoffs are not far behind.&#10;&#10;The dollar is quite strong against other currencies, limiting exports and boosting job-killing imports, because China's growth is faltering, Japan remains in neutral and Europe is on the edge of collapse under the weight of statism -- the very kind Obama and Clinton want to impose on Americans.&#10;&#10;The president proposes to legislate the basic contract between employers and workers. On top of higher minimum wages and mandated business financed health benefits, he wants employers to pay for mandatory sick leave and six weeks of paid parental leave.&#10;&#10;After five years, Reagan increased employment by 9.4 percent, whereas Obama has boosted jobs only 4.5 percent. Consequently, nearly one in six prime working age men between 25 and 54 is not working, and 72 percent of those are not even bothering to look.&#10;&#10;Obama has made Medicaid, food stamps and social security disability quite easy to get, and idle men form a new leisure class by combining those benefits with handouts from relatives and girlfriends.&#10;&#10;For employers, a higher minimum wage, compulsory health insurance, and sick and parental leave will make those men even more costly to hire.&#10;&#10;Enter stage left, more worker replacing robots.&#10;&#10;The number of young people--and especially young men--starting small businesses has fallen dramatically -- and that means fewer jobs over the next generation for everyone.&#10;&#10;Young folks start enterprises by raising a lot of capital from older rich people.&#10;&#10;Wealthy folks take the plunge on risky ventures, because the capital gains tax on successful enterprises is currently taxed at about 25 percent, whereas combined federal, state and local tax rates on ordinary income is often above 50 percent.&#10;&#10;Young entrepreneurs, who generally have not amassed much wealth, can't borrow nearly what they need from banks. Higher taxes on banks will make that problem worse.&#10;&#10;Hiking capital gains taxes will directly discourage older successful investors, who also bring a wealth of practical management experience and advice for getting young ventures off the ground.&#10;&#10;Older rich folks also take the plunge, because they can pass along assets at death to their children. But now the president wants to hike the tax rate on their estates, which is already 40 percent.&#10;&#10;The president calls it fair because it only falls on one percent of the population, and will paint Republicans who resist as defending the rich to the detriment of struggling Americans.&#10;&#10;His aim is to give Americans buyer's remorse about electing a Republican Congress and boost a Clinton campaign for the White House emphasizing similar themes.&#10;&#10;It would seem one out of six men unemployed, subsisting on government benefits and burdening relatives is not too high a price to elect another Democratic president."/>
+    <cas:View sofa="324" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 331 314"/>
+</xmi:XMI>

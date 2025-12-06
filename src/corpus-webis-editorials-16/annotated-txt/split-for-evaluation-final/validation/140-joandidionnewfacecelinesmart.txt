@@ -1,0 +1,224 @@
+0	title	Joan Didion as the new face of Celine? That's so smart.
+-1	par-sep	
+1	continued	In dark days	Modd-NU
+2	continued	,	Modd-NU
+3	assumption	the heart cleaves disproportionately to Lilliputian scraps of good news
+4	no-unit	and
+5	no-unit	so
+6	continued	it was
+7	continued	that as
+8	continued	events played out in Paris last week
+9	continued	,
+10	continued	I kept thinking of the writer Joan Didion, the star of Celine's latest ad campaign, tiny in black
+11	continued	,
+12	continued	her porcelain face half obscured by sunglasses as big and as inky
+13	continued	as
+14	anecdote	the dinner plates in the kind of restaurants frequented by Patrick Bateman in American Psycho
+15	no-unit	.
+-1	par-sep	
+16	no-unit	Oh, the brilliance of Didion!
+17	continued	I like
+18	continued	to think of myself
+19	continued	as
+20	anecdote	wholly resistant to the wicked wiles of big fashion
+21	no-unit	,
+22	no-unit	but
+23	continued	this campaign seemed somehow
+24	assumption	to have got through
+25	no-unit	,
+26	no-unit	and
+27	assumption	I was all aflutter
+28	no-unit	.
+29	continued	What
+30	continued	,
+31	continued	I wondered
+32	continued	,
+33	continued	was the provenance of the socking great pendant
+34	anecdote	that hung about her neck in Juergen Teller's photograph?
+35	continued	Was it
+36	continued	by
+37	continued	Celine or
+38	continued	was it
+39	continued	,
+40	continued	as
+41	continued	they say
+42	continued	,
+43	assumption	model's own?
+44	assumption	Could I find something similar on eBay?	m-question
+45	anecdote	All day long, between work and news bulletins, I restlessly Googled various combinations of the words "buy", "vintage", "bronze", "large" and "locket"
+46	no-unit	.
+-1	par-sep	
+47	continued	The coverage of the Paris fashion house's decision
+48	continued	to make the author of Slouching Towards Bethlehem, The White Album and The Year of Magical
+49	continued	Thinking its new face
+50	assumption	has focused mostly on her age
+51	no-unit	.
+52	anecdote	Didion is 80
+53	no-unit	;
+54	continued	when
+55	continued	she began her career as a writer at American Vogue in the late 50s
+56	continued	,
+57	continued	the personnel director of the magazine's owner, Conde Nast, would from time to time stop her in the hall and ask her
+58	continued	when
+59	anecdote	she had last called her mother
+60	no-unit	.
+-1	par-sep	
+61	continued	Apparently, we should celebrate Teller's photograph of her as a particularly exalted example of fashion's increased willingness
+62	continued	to embrace models with wrinkles, liver spots and histories
+63	continued	that trail all the way back to the days
+64	continued	when
+65	continued	women still wore
+66	assumption	white gloves and little hats to work
+67	no-unit	.
+68	continued	At last
+69	continued	,
+70	continued	the thinking goes
+71	continued	,
+72	continued	fashion has realised
+73	assumption	that beauty may also come with silver hair
+74	no-unit	.
+75	no-unit	What?
+76	assumption	You don't buy that?	m-question
+77	no-unit	Well, then
+78	no-unit	.
+79	no-unit	Think of it this way
+80	no-unit	.
+81	continued	At least it seems finally
+82	continued	to have grasped
+83	continued	that women don't simply give up
+84	continued	shopping the moment
+85	assumption	they turn 50
+86	no-unit	.
+-1	par-sep	
+87	continued	But it's not Didion's age
+88	continued	that interests
+89	anecdote	me
+90	no-unit	.
+91	anecdote	It's her status as a writer and thinker
+92	no-unit	.
+93	continued	By
+94	continued	choosing her
+95	continued	-
+96	assumption	acclaimed and bestselling, but also trenchant, highly mannered and somewhat complicated - Celine's creative director, Phoebe Philo, is sending out quite a bracing message
+97	no-unit	,
+98	no-unit	even if
+99	continued	the semaphore
+100	continued	in which it's written
+101	continued	will, alas, be largely illegible to those
+102	assumption	who know nothing of Didion
+103	no-unit	.
+104	continued	There'
+105	continued	s something going on beyond the cunning commercial appeal to the kind of conflicted consumer
+106	assumption	who values the inner life as much as the outer 
+107	no-unit	-
+108	continued	I mean the kind of woman
+109	continued	whose "buttery" leather tote
+110	continued	must be big enough
+111	continued	to contain at least one hardback
+112	continued	if
+113	continued	it is not
+114	continued	to make
+115	assumption	her feel guilty for the rest of her life
+116	no-unit	.
+-1	par-sep	
+117	continued	Isn't this campaign also in the business of
+118	continued	suggesting
+119	continued	that to be clever and a touch difficult
+120	continued	(Didion is nothing if not unpredictable)
+121	continued	is
+122	assumption	to be timelessly beautiful?
+123	continued	That this is, in fact, a state
+124	assumption	to which women might like to aspire?
+125	no-unit	Oh, Phoebe!
+126	no-unit	If only
+127	assumption	I could afford your gorgeous, minimalist gear
+128	no-unit	,
+129	continued	I would dash out and buy something right now just
+130	assumption	to say thank you
+131	no-unit	.
+-1	par-sep	
+132	continued	And yet how often
+133	assumption	have I chickened out?	m-question
+134	continued	How often
+135	continued	do I try, even now
+136	continued	,
+137	continued	to wear
+138	assumption	pretty clothes, fun clothes, to embrace colour and print and embroidery?	m-question
+139	continued	To toddle along in shoes
+140	continued	in which I cannot run
+141	continued	or
+142	continued	even
+143	continued	,
+144	continued	if
+145	continued	I'm honest
+146	continued	,
+147	assumption	walk?	m-question
+148	continued	Like most professional women
+149	continued	who are neither beautiful nor willing	Modd-NU
+150	continued	to play	Modd-NU
+151	continued	dumb all of the time	Modd-NU
+152	continued	,	Modd-NU
+153	continued	I fear
+154	continued	being thought
+155	continued	ugly
+156	continued	or uncompromising or seeming
+157	continued	as if
+158	assumption	I have not made an effort
+159	no-unit	.
+160	continued	I fear
+161	continued	,
+162	continued	if
+163	continued	you will
+164	continued	,
+165	continued	being seen
+166	continued	to be picking a fight
+167	continued	,
+168	continued	whether
+169	continued	by the way
+170	continued	I speak
+171	assumption	or the way I dress
+172	no-unit	.
+173	continued	I guess
+174	continued	you could say
+175	continued	that I wear the swishy frock and high heels the better
+176	continued	that I might be allowed, sometimes
+177	continued	,
+178	assumption	to speak my mind
+179	no-unit	.
+-1	par-sep	
+180	continued	I adore the way
+181	anecdote	that Didion, half child and half sphinx, thinner than a cigarette, looks
+182	no-unit	.
+183	no-unit	But
+184	continued	she is not, and never has been
+185	continued	,
+186	assumption	classically beautiful
+187	no-unit	.
+188	continued	Nor is she willing
+189	assumption	to play the fool
+190	no-unit	.
+191	assumption	She is discreet, but never decorous
+192	no-unit	;
+193	assumption	she is fierce, preternaturally observant and, sometimes, a little self-obsessed
+194	no-unit	.
+195	assumption	And her clothes - unfussy, elegant, practical, a touch forbidding - reflect this
+196	no-unit	.
+197	continued	What
+198	continued	Teller's photograph says to me
+199	continued	is: approach with caution
+200	continued	;
+201	assumption	subject may bite
+202	no-unit	.
+203	continued	I love the continuity in this, the wholeness, the confidence in the way
+204	assumption	that the clothes are an extension of the personality
+205	no-unit	- and
+206	continued	I salute Phoebe Philo for
+207	continued	recognising it
+208	continued	,
+209	continued	for
+210	continued	extolling it to the world as worthy of admiration
+211	continued	,
+212	continued	as a thing
+213	continued	to be replicated by those women
+214	assumption	who have the pluck, if not exactly the hard cash
+215	no-unit	.

@@ -1,0 +1,172 @@
+0	title	Why Washington should fear the silence of the anti-war movement.
+-1	par-sep	
+1	continued	On this 73rd anniversary of the last declaration of war by the United States
+2	continued	,
+3	no-unit	as
+4	assumption	the Pentagon escalates its military actions in Iraq and Syria	cond
+5	no-unit	,	cond
+6	assumption	the silence of the US peace movement carries an ominous warning for Washington, DC
+7	no-unit	.
+8	anecdote	The streets of major US cities are not filled with anti-war demonstrations
+9	no-unit	,
+10	no-unit	yet
+11	assumption	the apparent quiet does not signify consent
+12	no-unit	.
+13	continued	A look at history shows
+14	assumption	why
+15	no-unit	.
+-1	par-sep	
+16	anecdote	The US has been attacked on domestic territory twice in the past century
+17	no-unit	.
+18	anecdote	On December 7, 1941, the Empire of Japan bombed Pearl Harbour
+19	no-unit	,
+20	anecdote	killing 2,403 Americans and wounding 1,178 others
+21	no-unit	.
+22	continued	The next day, US Congress voted
+23	anecdote	to declare war on Japan
+24	no-unit	,
+25	anecdote	thus committing to active hostilities in World War II
+26	no-unit	.
+27	continued	That declaration of war has since proved
+28	common-ground	to be the last in the history of the US
+29	no-unit	.
+-1	par-sep	
+30	anecdote	The next and last mass scale violent attack by an outside aggressor on the domestic territory of the US occurred 13 years ago, on September 11, 2001, with the immediate death toll approaching 3,000
+31	no-unit	.
+32	anecdote	Three days later, Congress adopted an Authorisation for the Use of Military Force (AUMF) against those held responsible for the September 11 attacks
+33	no-unit	.
+34	continued	In
+35	continued	so doing
+36	continued	,
+37	anecdote	Congress delegated war-making powers to President George W Bush under the terms of the War Powers Act of 1973
+38	no-unit	.
+-1	par-sep	
+39	continued	December 7 and September 11 are notable in part
+40	continued	because
+41	continued	in both cases horrendous violence against the people of the US was responded
+42	continued	to
+43	assumption	with an act of Congress
+44	no-unit	.
+45	continued	Oppose or support US entry into either of those wars, question or affirm
+46	continued	that those wars were lawful
+47	continued	,
+48	continued	there was no question in either case
+49	assumption	that Congress had signed off on them
+50	no-unit	.
+-1	par-sep	
+51	no-unit	Congressional approval
+52	no-unit	.
+-1	par-sep	
+53	continued	It mattered
+54	assumption	that Congress approve
+55	no-unit	,
+56	continued	because	Modd-NU
+57	continued	Article I, Section 8 of the US Constitution accords primary war powers, including the power
+58	continued	to commence and end war
+59	continued	,
+60	common-ground	to Congress alone
+61	no-unit	.
+62	continued	For a president of the US
+63	continued	to make war without congressional approval
+64	continued	was an unthinkable act
+65	assumption	that would have threatened the legitimacy of the federal government
+66	no-unit	.
+-1	par-sep	
+67	continued	With his war on the so-called Islamic State
+68	continued	,
+69	assumption	US President Barack Obama has committed that unthinkable act
+70	no-unit	,
+71	no-unit	and
+72	assumption	Congress has let him
+73	no-unit	.
+74	no-unit	And yet
+75	no-unit	,
+76	assumption	 by all appearances, no one outside of a handful of members of Congress, legal scholars, and peace activists has spoken out in protest
+77	no-unit	.
+-1	par-sep	
+78	other	Contrast this moment with that of the weeks and months following September 11
+79	no-unit	.
+80	anecdote	On September 29, 2001, upwards of 25,000 people marched through Washington, DC, against the impending invasion of Afghanistan
+81	no-unit	;
+82	anecdote	tens of thousands demonstrated elsewhere throughout the US
+83	no-unit	.
+84	statistics	By April 20, 2002, the anti-war protest in Washington drew over 150,000
+85	no-unit	.
+86	statistics	By February 15, national protest turnout hit 2 million
+87	no-unit	.
+-1	par-sep	
+88	continued	Given this history, one cannot conclude
+89	assumption	that the size and volume of anti-war protests directly resulted from the relative popularity of a particular war
+90	no-unit	.
+91	no-unit	After all	Modd-NU
+92	no-unit	,	Modd-NU
+93	continued	 the 2001-2003 protests erupted and swelled over a period
+94	continued	in which polls showed continued strong support among the US public
+95	anecdote	for Washington's war operations
+96	no-unit	.
+97	anecdote	And in fact, as in 2003-2008 public opinion turned against the Iraq and Afghanistan wars, the size and volume of anti-war movement went down
+98	no-unit	.
+-1	par-sep	
+99	continued	The simple and correct explanation for this history is
+100	continued	that anti-war organisers made decisions in 2001, 2002, and 2003
+101	continued	,
+102	continued	to focus their energies on
+103	assumption	mobilising street protests
+104	no-unit	,
+105	continued	and
+106	continued	that in the years 2004-2008
+107	continued	,
+108	continued	as
+109	continued	anti-war sentiment was taken up by a majority of the American people
+110	continued	,
+111	continued	many anti-war organisers shifted much of their focus
+112	assumption	to electing anti-war candidates to office
+113	no-unit	.
+-1	par-sep	
+114	continued	What
+115	continued	has changed
+116	continued	since
+117	assumption	Obama assumed the presidency?
+118	assumption	In Washington, in terms of war and security, very little
+119	no-unit	.
+120	anecdote	Guantanamo remains in operation
+121	no-unit	.
+122	assumption	The police state has expanded
+123	no-unit	.
+124	assumption	Assassination and missile strikes have increased
+125	no-unit	.
+126	assumption	Border militarisation and deportations have escalated
+127	no-unit	.
+128	assumption	And US military operations have continued and spread further across the globe
+129	no-unit	.
+-1	par-sep	
+130	continued	Having lived and struggled through this history
+131	continued	,
+132	continued	why
+133	continued	would anti-war
+134	continued	organisers choose
+135	continued	to respond to Washington's undeclared, unauthorised war against the so
+136	continued	-
+137	assumption	called Islamic State by mobilising street protests?
+138	continued	Why
+139	continued	would they mobilise
+140	assumption	to elect anti-war candidates?
+-1	par-sep	
+141	assumption	The core of the peace movement remains active in many parts of the US
+142	no-unit	.
+143	anecdote	Every day I receive notices about civil disobedience at military bases, hunger strikes, local government resolutions calling for a shift in spending priorities away from the military, and much more
+144	no-unit	.
+-1	par-sep	
+145	continued	For this reason
+146	continued	,
+147	continued	 the relative silence of anti-war organisers in the face of the war against the so-called Islamic State stands out as a warning to the Washington establishment; those
+148	continued	who oppose
+149	continued	their policies question
+150	continued	whether
+151	assumption	Congress and the presidency can provide effective redress for the grievances of the American people
+152	no-unit	.
+153	assumption	Washington should fear the silence of the US anti-war movement
+154	no-unit	,
+155	continued	for	Modd-NU
+156	assumption	it is full of sound and fury and signifies everything
+157	no-unit	.

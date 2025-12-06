@@ -1,0 +1,175 @@
+0	title	Russia's Arctic opportunity.
+-1	par-sep	
+1	anecdote	In 1904, Russia and Japan went to war over control of the Liaodong Peninsula in modern day China
+2	no-unit	.
+3	anecdote	Russia needed a year-round ice-free port for its naval fleet
+4	no-unit	and
+5	anecdote	Imperial Japan saw this encroachment as a threat
+6	no-unit	.
+7	continued	After early setbacks in the war, Russia needed
+8	assumption	to quickly reinforce its naval fleet in the Pacific Ocean with its Baltic Fleet
+9	no-unit	.
+-1	par-sep	
+10	assumption	With its Baltic Fleet literally on the other side of the world, Russia's options were limited
+11	no-unit	.
+12	anecdote	Ice blocked the route along Russia's northern coastline
+13	no-unit	-
+14	no-unit	known today as the Northern Sea Route
+15	no-unit	.
+16	anecdote	The British blocked access to the Suez Canal
+17	no-unit	.
+18	continued	It finally took the Baltic Fleet seven months
+19	anecdote	to get to the Sea of Japan via the Cape of Good Hope
+20	no-unit	.
+21	assumption	The fleet arrived knackered and ill-prepared for battle
+22	no-unit	.
+-1	par-sep	
+23	anecdote	On May 28, 1905, nearly the entire Russian fleet was destroyed during the Battle of Tsushima
+24	no-unit	-
+25	continued	Russia had no choice but
+26	assumption	to sue for peace
+27	no-unit	.
+-1	par-sep	
+28	no-unit	If
+29	continued	Arctic ice continues
+30	assumption	to decrease at its current rate
+31	continued	it is possible
+32	assumption	Russia will not have this problem in the future
+33	no-unit	.
+34	assumption	Each year more ships are making the journey through the Northern Sea Route
+35	no-unit	.
+36	statistics	In some cases this reduces the distance between European and north Asian ports by 30 percent
+37	no-unit	.
+-1	par-sep	
+38	no-unit	While
+39	assumption	the economic advantages are obvious
+40	no-unit	,
+41	assumption	the use of the Northern Sea Route offers military advantages as well
+42	no-unit	.
+-1	par-sep	
+43	assumption	Russia's interests in the Arctic go beyond the economic and military advantages offered by the Northern Sea Route
+44	no-unit	.
+45	anecdote	The region is rich in minerals, wildlife, fish, and other natural resources
+46	no-unit	.
+47	continued	Some estimates claim
+48	statistics	that 13 percent of the world's undiscovered oil reserves and almost one-third of the world's undiscovered natural gas reserves are located in the Arctic region
+49	no-unit	.
+-1	par-sep	
+50	continued	The majority of these untapped resources are also in areas
+51	anecdote	to which Russia lays claim
+52	no-unit	.
+-1	par-sep	
+53	no-unit	For now
+54	no-unit	,
+55	assumption	the Arctic region is an area of low conflict
+56	no-unit	,
+57	no-unit	and
+58	continued	it is in everyone's interest
+59	continued	to keep
+60	assumption	it that way
+61	no-unit	.
+62	continued	Although	Modd-NU
+63	assumption	the security challenges currently faced in the Arctic are not military in nature
+64	no-unit	,
+65	continued	there is still a requirement for military capability in the region
+66	assumption	that can support civilian authorities
+67	no-unit	.
+-1	par-sep	
+68	no-unit	For example
+69	no-unit	,
+70	anecdote	 civilian search and rescue and natural disaster response - in such an unforgiving environment as the Arctic - can be augmented by the military
+71	no-unit	.
+-1	par-sep	
+72	continued	So it should be no surprise
+73	assumption	that like Russia, other Arctic countries deploy military assets into the region
+74	no-unit	.
+75	continued	Even so
+76	continued	,
+77	continued	 Russia has taken steps
+78	continued	to increase military capability in the region
+79	continued	that seems
+80	continued	to be beyond the scope of
+81	assumption	supporting civilian operations
+82	no-unit	.
+-1	par-sep	
+83	assumption	One must consider the implications of Russia's increased military presence in the region in light of Moscow's recent aggression against Ukraine
+84	no-unit	.
+-1	par-sep	
+85	continued	This month, Russia activated its new Arctic command
+86	anecdote	to better coordinate all Russian military activities in the Arctic
+87	no-unit	.
+88	continued	The ultimate goal for Russia
+89	continued	to deploy a combined arms force in the Arctic by 2020
+90	continued	,
+91	continued	appears
+92	assumption	to be on track
+93	no-unit	.
+94	assumption	Russia's primary military focus in the Arctic is in the maritime sphere
+95	no-unit	.
+-1	par-sep	
+96	no-unit	A cause for concern
+97	no-unit	.
+-1	par-sep	
+98	continued	New Russian naval doctrine calls for Russia
+99	assumption	to increase its maritime presence in the Arctic
+100	no-unit	.
+101	continued	Already, Russia's Northern Fleet
+102	continued	,
+103	continued	which is based in the Arctic
+104	continued	,
+105	statistics	counts for two-thirds of the Russian navy
+106	no-unit	.
+-1	par-sep	
+107	assumption	There will be a significant increase of Russian ground troops based in the region too
+108	no-unit	.
+109	assumption	Over the next few years two new so-called Arctic brigades will be permanently based above the Arctic Circle
+110	no-unit	,
+111	no-unit	and
+112	assumption	the current regiment of marines assigned to the Northern Fleet will increase by one-third
+113	no-unit	.
+-1	par-sep	
+114	continued	Russia has plans
+115	assumption	to build 13 airfields as well as 10 radar posts along the course of the Northern Sea Route
+116	no-unit	.
+117	assumption	Most of these airfields will be refurbished Soviet era bases
+118	no-unit	,
+119	no-unit	but
+120	assumption	others will be new
+121	no-unit	.
+-1	par-sep	
+122	continued	For Russian President Vladimir Putin, the Arctic is an area
+123	continued	that allows
+124	continued	Russia to flex its muscles without
+125	assumption	incurring any significant geopolitical risk
+126	no-unit	.
+-1	par-sep	
+127	continued	Because	Modd-NU
+128	assumption	nationalism is on the rise in Russia
+129	no-unit	,
+130	assumption	Putin's Arctic strategy is popular among the population
+131	no-unit	.
+-1	par-sep	
+132	continued	Russian activity in the Arctic
+133	continued	,
+134	continued	whether
+135	continued	military, economic or scientific
+136	continued	,
+137	assumption	harks back to images of Peter the Great and the Great Northern Expedition in the 18th century
+138	no-unit	.
+139	continued	This helps Putin with his dream of
+140	assumption	bringing Russia back to its former imperial glory
+141	no-unit	.
+-1	par-sep	
+142	continued	It is Russia's prerogative
+143	continued	to place military assets inside its national territory, however
+144	continued	,
+145	assumption	these actions should be of concern to others in the region
+146	continued	because	Modd-NU
+147	continued	Moscow has shown its willingness
+148	continued	to use military force
+149	assumption	to achieve its national objectives outside its national borders
+150	no-unit	.
+-1	par-sep	
+151	continued	One must assume
+152	assumption	the Arctic region would be no different
+153	no-unit	.

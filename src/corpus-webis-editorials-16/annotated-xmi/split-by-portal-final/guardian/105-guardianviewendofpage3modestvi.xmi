@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3097" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="77" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="79" end="120" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="122" end="324" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="326" end="357" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="359" end="362" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="366" end="392" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="394" end="430" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="433" end="552" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="554" end="619" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="621" end="700" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="705" end="829" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="832" end="967" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="968" end="1029" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1031" end="1141" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1143" end="1163" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1165" end="1271" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1273" end="1330" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1332" end="1401" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1404" end="1485" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1486" end="1490" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1491" end="1564" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1566" end="1569" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1570" end="1623" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1625" end="1628" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1629" end="1683" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1685" end="1695" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1696" end="1786" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1788" end="1798" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1799" end="2093" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2095" end="2105" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2106" end="2342" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2344" end="2354" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2355" end="2547" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2550" end="2615" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2617" end="2788" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2790" end="2973" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2975" end="3030" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3032" end="3074" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3076" end="3096" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="208" sofa="1" begin="0" end="3097" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/105-guardianviewendofpage3modestvi.txt" offsetInSource="0" documentSize="3097" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="216" sofa="1" begin="0" end="3097" lastUpdate="2015-01-20T19:40:19Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/guardian-view-end-of-page-3-modest-victory" portal="guardian" authors="Editorial" articleSum="Editorial: The disappearance of the Sun’s daily topless model feature is but a skirmish won in the battle against gender discrimination, although one that matters" title="The Guardian view on the end of the Page 3 pin-up: a modest victory."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Everyone recognises that the end of the Page 3 pin-up is a significant moment. The question is what that significance is. There are almost as many interpretations of the demise of the daily topless model as there are voices in the debate that has raged since it emerged via the Sun's stablemate, the Times, that she has gone. The future is clothed, slightly, and if Tuesday's Sun is any guide, loping along a beach somewhere sunny.&#10;&#10;It might be taken as just another typically astute commercial judgment by the Sun's ultimate proprietor, Rupert Murdoch, who tweeted last September that he thought Page 3 was out of date. It might be part of the smartening up that's followed the phone-hacking scandal, or it might be more evidence of the newspaper's brilliant ability to reflect its readership's changing perceptions back at them.&#10;&#10;On the nuttier fringes of the conversation are those who claim to believe it will come to be seen as the first move in a new oppression which will end only when wearing the burqa becomes obligatory. A handful of others believe that the last symbol of the objectification of women has finally been extinguished. The truth is simpler. The mighty Sun has, despite all its protestations, been defeated by one small but core concern of feminism. Exploitative images of women have no place in a newspaper. Their disappearance is a recognition that ways of seeing are changing.&#10;&#10;It may seem misjudged to herald the disappearance of the Page 3 girl as a victory when pornography is probably more easily available than at any time in history. Yet this is a fight that will be won skirmish by skirmish, and the fight against Page 3 has been more than a skirmish. It matters because this is not some small elitist publication but Britain's biggest-selling newspaper. It matters because it was made to matter through the efforts of brave and resolute women like Clare Short and Harriet Harman, campaigning unflinchingly through 40 long years of sneering and jeering to make people see why it is an outrage in a society that purports to believe in equality between the sexes. It matters because - even when it is subsitituted, as the Sun intends, with more images of airbrushed beauty - it is a reminder to girls worrying about the gap between their own body and some version of perfection that there is an alternative view. It matters because it means that it is now generally recognised that pictures objectifying women  - even when she is a willing partner in the objectification - are demeaning and damaging to wider society.&#10;&#10;But there are many things that the disappearance of Page 3 is not. It is not the end of the battle to end gender discrimination, a battle with a distance to go on every front, from pay and employment to the portrayal of women in the media. Pragmatists will point out that the Page 3 girl has after all not gone, merely been locked behind a paywall, currency in the Sun's contest with the Daily Mail and its sidebar of shame, where semi-clothed celebrities are held up for ridicule. Getting the bikini top put on is a victory. But only a small one."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 216"/>
+</xmi:XMI>

@@ -1,0 +1,183 @@
+0	title	Philippines-China standoff: David vs Goliath?
+-1	par-sep	
+1	continued	In recent years, the South China Sea
+2	continued	has (once again)
+3	assumption	transformed into a theatre of competition among rival claimant states
+4	no-unit	.
+5	continued	Outmatched and outgunned by China	Modd-NU
+6	continued	,	Modd-NU
+7	continued	the Philippines has sought
+8	continued	to resolve the disputes by
+9	continued	resorting to legal arbitration, hoping
+10	assumption	that international law, particularly the United Nations Convention on the Law of the Sea (UNCLOS), will serve as an amicable basis for settling maritime conflicts
+11	no-unit	.
+-1	par-sep	
+12	assumption	But China has unequivocally rejected the arbitration process as an infringement on its national sovereignty and territorial integrity
+13	no-unit	,
+14	continued	recently releasing a position paper
+15	continued	that details its rationale for
+16	continued	opposing any third
+17	continued	-
+18	anecdote	party intervention in the disputes
+19	no-unit	.
+-1	par-sep	
+20	assumption	The South China Sea represents a potential flashpoint with global ramifications
+21	no-unit	.
+22	continued	Connecting one of the most dynamic economies of the 21st century	Modd-NU
+23	continued	,	Modd-NU
+24	statistics	the waters facilitate more than $5 trillion in annual trade
+25	no-unit	.
+26	anecdote	Crucially, the bulk of the energy imports of industrial powerhouses such as Japan and South Korea pass through the South China Sea
+27	no-unit	.
+28	assumption	The very economic survival and energy security of major Asian economies is anchored by unimpeded access to international waters such as the South China Sea
+29	no-unit	.
+-1	par-sep	
+30	assumption	Almost everyone has an interest in the peaceful settlement of the disputes
+31	no-unit	.
+32	continued	But it is far from certain
+33	continued	whether
+34	assumption	the Philippines' legal manoeuvre will contribute to the de-escalation of maritime tensions
+35	no-unit	.
+36	continued	China has vehemently rejected the entire arbitration process
+37	continued	,
+38	continued	accusing the Philippines of
+39	continued	stirring trouble
+40	anecdote	and jeopardising historically stable bilateral ties
+41	no-unit	.
+-1	par-sep	
+42	anecdote	Technically, the maritime disputes involve six rival claimant states: China, Brunei, Malaysia, the Philippines, Vietnam, and Taiwan
+43	no-unit	.
+44	assumption	The bitterest disputes, however, involve China, on one hand, and the Philippines and Vietnam, on the other
+45	no-unit	.
+46	assumption	Fortunately, the latest wave of maritime spats hasn't yet sparked a full-scale military confrontation
+47	no-unit	.
+48	assumption	The last bloody standoff was in the latter decades of the Cold War
+49	no-unit	,
+50	continued	when	Modd-NU
+51	continued	China tried
+52	continued	to wrest control of the Paracel (1974)
+53	continued	and
+54	anecdote	the Spratly (1988) islands from the South Vietnamese and (united) Vietnam forces, respectively
+55	no-unit	.
+-1	par-sep	
+56	assumption	But amid a flurry of nationalist bombast, backed up by wide-ranging - civilian and military - construction activities as well as paramilitary patrols across disputed areas, there are growing concerns over accidental clashes and unintended escalation in the high seas
+57	no-unit	.
+-1	par-sep	
+58	no-unit	In short
+59	no-unit	,
+60	assumption	 freedom of navigation (FoN) - a pillar of commerce and trade - in the South China Sea could be in peril
+61	no-unit	.
+-1	par-sep	
+62	assumption	Given the significance of the South China Sea to regional trade and security, non-claimant states such as the US, Japan, and Indonesia have also been drawn into the territorial disputes
+63	no-unit	.
+-1	par-sep	
+64	continued	Washington is bound by treaty obligations
+65	continued	to defend Asian allies such as the Philippines
+66	continued	,
+67	assumption	against external aggression
+68	no-unit	.
+69	continued	As	Modd-NU
+70	assumption	some commentators would put it
+71	no-unit	,
+72	assumption	the maritime rivalries resemble a three-dimensional chess game, threatening strategic, economic, and political interests in the region, with ever-growing number of players injecting additional layers of complexity and risk to the problem
+73	no-unit	.
+-1	par-sep	
+74	no-unit	While
+75	assumption	all actors have contributed to the escalation of tensions in the area
+76	no-unit	,
+77	continued	the consensus among independent experts is
+78	continued	that China's sweeping claims, particularly its notorious "nine-dashed line" doctrine, has served as a major stumbling block in
+79	assumption	resolving the territorial disputes
+80	no-unit	.
+-1	par-sep	
+81	assumption	China's claims are simultaneously expansive and ambiguous
+82	no-unit	.
+83	anecdote	The "nine-dashed line" covers almost the entirety of the South China Sea, even overlapping with Indonesia's waters
+84	no-unit	,
+85	no-unit	but
+86	assumption	Beijing has not clarified its precise coordinates
+87	no-unit	.
+88	continued	It isn't clear
+89	continued	whether
+90	assumption	China is claiming the land features and their surrounding territorial waters, or treating the entire area as an internal lake
+91	no-unit	.
+92	continued	China has evoked
+93	continued	"historical rights"
+94	continued	and
+95	assumption	"inherent and indisputable sovereignty" over the South China Sea
+96	no-unit	,
+97	continued	which
+98	continued	,
+99	continued	most experts believe
+100	continued	,
+101	assumption	has little basis in modern international law
+102	no-unit	.
+-1	par-sep	
+103	continued	Despite	Modd-NU
+104	continued	signing the 2002 Declaration on the Conduct of Parties in the South China Sea	Modd-NU
+105	continued	,	Modd-NU
+106	continued	which discourages claimant states from
+107	assumption	unilaterally altering the status quo
+108	no-unit	,
+109	assumption	China has stepped up its construction activities and paramilitary patrols across disputed waters
+110	no-unit	.
+-1	par-sep	
+111	continued	In terms of size and capabilities, China dwarfs
+112	assumption	all its neighbours combined
+113	no-unit	.
+114	assumption	The regional geopolitical landscape is highly lopsided
+115	no-unit	.
+116	continued	Eager	Modd-NU
+117	continued	to maintain stable ties with Beijing	Modd-NU
+118	continued	,	Modd-NU
+119	continued	Washington has consistently refused
+120	assumption	to take sides in the disputes
+121	no-unit	,
+122	assumption	limiting its concern to FoN in the South China Sea
+123	no-unit	.
+-1	par-sep	
+124	no-unit	Against the backdrop of deteriorating regional security, leading to a brief and perilous standoff between Filipino and Chinese forces over the Scarborough Shoal (220 km off the coast of the Philippines, and 900km away from the nearest Chinese coastline)
+125	no-unit	.
+-1	par-sep	
+126	continued	In mid-2012, Manila decided
+127	anecdote	to take China to the special Arbitral Tribunal in The Hague
+128	no-unit	.
+129	continued	As a signatory to the UNCLOS	Modd-NU
+130	continued	,	Modd-NU
+131	continued	China has (under Article 298)
+132	anecdote	rejected compulsory arbitration over maritime disputes
+133	no-unit	,
+134	no-unit	but
+135	continued	the tribunal has the power
+136	continued	to determine
+137	continued	whether
+138	assumption	it can exercise jurisdiction over the case and judge the merits of the Philippines' complaint against China
+139	no-unit	.
+-1	par-sep	
+140	continued	The Philippines aim is
+141	continued	to pressure
+142	assumption	China to clarify its claims as well as determine the nature of contested features in the South China Sea
+143	no-unit	,
+144	continued	specifically whether	Modd-NU
+145	assumption	they can generate their own independent territorial waters
+146	no-unit	.
+147	assumption	In the end, the Philippines might end up with a pyrrhic victory
+148	no-unit	.
+-1	par-sep	
+149	continued	In the absence of any tangible compliance-enforcement mechanism, China can reject any unfavourable judicial outcome
+150	continued	;
+151	continued	launch
+152	continued	a media campaign to delegitimise the arbitration proceedings
+153	continued	;
+154	continued	contemplate sanctions and other forms of diplomatic counter-manoeuvres
+155	continued	to isolate the Philippines; and project toughness (to its domestic hyper-nationalist audience) by
+156	assumption	stepping up its activities in the area
+157	no-unit	.
+-1	par-sep	
+158	continued	Ultimately, the best solution may lie in direct engagement, confidence
+159	continued	-
+160	assumption	building measures, and sustained bilateral negotiations rather than compulsory arbitration
+161	no-unit	.
+162	continued	Both Manila and Beijing will have
+163	assumption	to devise a diplomatic strategy outside the courts of law
+164	no-unit	.

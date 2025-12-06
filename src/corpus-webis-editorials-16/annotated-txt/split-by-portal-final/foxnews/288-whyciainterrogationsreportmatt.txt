@@ -1,0 +1,231 @@
+0	title	Why CIA interrogations report matters: Torture doesn't work and Americans need to know.
+-1	par-sep	
+1	continued	As a former professional interviewer with the FBI, I know
+2	continued	what
+3	assumption	works and doesn't
+4	no-unit	.
+5	continued	Torture is not an effective way
+6	assumption	to get information
+7	no-unit	,
+8	no-unit	and
+9	continued	the American people need
+10	assumption	to know that
+11	no-unit	.
+12	continued	That's
+13	continued	why
+14	assumption	the Senate Intelligence Committee report on CIA interrogation and detention after 9/11 is important
+15	no-unit	.
+-1	par-sep	
+16	continued	The executive summary of the report, written after
+17	continued	reviewing hundreds of thousands of the CIA's internal documents
+18	continued	,
+19	continued	shows
+20	continued	that torture was more brutal and much less fruitful
+21	continued	than
+22	testimony	the CIA claimed
+23	no-unit	.
+24	no-unit	In fact	Modd-NU
+25	no-unit	,	Modd-NU
+26	continued	 the committee concluded
+27	continued	that all the claims about the value of intelligence gained from "enhanced" interrogation--including the claim
+28	continued	that it helped
+29	continued	the U.S  find Usama bin Laden
+30	continued	--
+31	testimony	are overstated or just plain false
+32	no-unit	.
+-1	par-sep	
+33	assumption	Proponents of torture are contesting these well-documented findings
+34	no-unit	.
+-1	par-sep	
+35	continued	So let's
+36	assumption	look at the facts	imp
+37	no-unit	.
+-1	par-sep	
+38	assumption	On 9/11, the CIA had few, if any, experienced counterterrorism interrogators
+39	no-unit	.
+40	assumption	Their traditional purview had been intelligence collection during the Cold War
+41	no-unit	.
+42	continued	Inexperienced in this area and overwhelmed
+43	continued	they resorted to techniques
+44	assumption	that merely sounded good but in fact worked against them
+45	no-unit	.
+-1	par-sep	
+46	continued	When
+47	continued	concocting the legal opinions
+48	continued	to authorize
+49	continued	torture
+50	continued	,
+51	continued	the lawyers inside our government didn't consult trained interviewers or interrogation experts--the people
+52	continued	who actually knew
+53	continued	how
+54	anecdote	to get information
+55	no-unit	.
+56	continued	They consulted psychologists
+57	continued	who helped
+58	continued	train U.S  military pilots
+59	continued	to resist torture methods
+60	continued	should
+61	anecdote	they be captured
+62	continued	(torture methods
+63	continued	,
+64	continued	it should be noted
+65	continued	,
+66	continued	designed
+67	anecdote	to elicit false confessions)
+68	no-unit	.
+-1	par-sep	
+69	no-unit	If	cond
+70	assumption	they had consulted trained interviewers	cond
+71	no-unit	,	cond
+72	continued	they would have found out
+73	continued	what
+74	continued	I and my colleagues had known for decades
+75	continued	:
+76	continued	Torture isn't just unnecessary
+77	continued	;
+78	continued	it's an unreliable way
+79	assumption	to get information
+80	no-unit	.
+-1	par-sep	
+81	no-unit	Instead
+82	no-unit	,
+83	continued	as	Modd-NU
+84	continued	the Senate report shows	Modd-NU
+85	continued	,	Modd-NU
+86	continued	the CIA brought in untrained interrogators and contractors and asked
+87	continued	them to get answers out of
+88	continued	Al Qaeda detainees using methods designed
+89	continued	to inflict pain
+90	continued	,
+91	continued	both physical and mental
+92	continued	,
+93	anecdote	and even simulate death
+94	no-unit	.
+95	continued	The CIA also employed horrific methods, like forced rectal feedings
+96	continued	,
+97	anecdote	that were never approved
+98	no-unit	.
+-1	par-sep	
+99	continued	I recall
+100	continued	when
+101	continued	I learned
+102	anecdote	that cruel techniques were being used
+103	no-unit	.
+104	continued	I spoke with several long-term CIA officers and CIA
+105	continued	polygraph experts with
+106	anecdote	whom I had worked over many years
+107	no-unit	,
+108	no-unit	and
+109	anecdote	we were all appalled
+110	no-unit	,
+111	assumption	not just by its immorality	modd-ASM
+112	no-unit	,
+113	no-unit	but
+114	continued	because	Modd-NU
+115	continued	we knew
+116	anecdote	it would be counterproductive
+117	no-unit	.
+-1	par-sep	
+118	continued	Apologists say
+119	continued	that these methods were used
+120	continued	to put the detainees into a state of "learned helplessness,"
+121	assumption	in which the detainee would depend totally on his captor and give up all information
+122	no-unit	.
+123	continued	Those of us
+124	continued	who have actually conducted interviews
+125	continued	know
+126	assumption	that this isn't the way things work
+127	no-unit	.
+-1	par-sep	
+128	continued	To get good, accurate information
+129	continued	,
+130	continued	you want
+131	assumption	the subject to be as cognizant as possible
+132	no-unit	.
+133	continued	You want
+134	continued	him to be able
+135	continued	to remember all the details and to be able
+136	assumption	to tell you them
+137	no-unit	.
+-1	par-sep	
+138	continued	A person will say anything
+139	continued	to try
+140	assumption	to stop the pain
+141	no-unit	,
+142	no-unit	and
+143	continued	torture impairs the suspect's ability
+144	continued	to remember the details
+145	assumption	that may be essential to your investigation
+146	no-unit	.
+147	continued	Professionals don't need
+148	assumption	to use torture and never have
+149	no-unit	.
+-1	par-sep	
+150	anecdote	On top of that, torture is illegal, both here in the U.S  and internationally
+151	no-unit	.
+152	continued	The United States has even prosecuted people for the methods
+153	anecdote	that the CIA used after 9/11
+154	no-unit	.
+155	assumption	We are a nation of laws
+156	no-unit	,
+157	no-unit	and
+158	assumption	the conduct detailed in the Senate report is against the law
+159	no-unit	.
+-1	par-sep	
+160	continued	For these reasons, in October, I joined 22 other security, interrogation and interviewing experts
+161	continued	to issue a statement of principles in opposition to
+162	anecdote	using torture
+163	no-unit	.
+164	continued	Not only
+165	continued	is torture less reliable, illegal and immoral
+166	continued	,
+167	assumption	we write
+168	no-unit	,
+169	no-unit	but
+170	continued	it also makes
+171	testimony	our nation less safe
+172	no-unit	.
+-1	par-sep	
+173	continued	When
+174	continued	we are not using effective and legal interviewing tactics
+175	continued	,
+176	continued	we miss information
+177	common-ground	that may be vital to our nation's safety
+178	no-unit	.
+179	continued	In
+180	continued	using torture
+181	continued	,
+182	continued	we also encourage other nations and actors (including terrorist groups)
+183	continued	to emulate our illegal actions
+184	continued	,
+185	continued	effectively lowering the bar for the rest of the world
+186	continued	,
+187	continued	and allow
+188	assumption	them to use U.S  torture as a recruiting tool
+189	no-unit	.
+-1	par-sep	
+190	continued	President Obama, on his second day in office, signed an executive order
+191	continued	banning
+192	continued	the CIA torture methods
+193	anecdote	the Senate report describes
+194	no-unit	.
+195	assumption	But this executive order could be overturned by a future president
+196	no-unit	.
+-1	par-sep	
+197	continued	Now that the Senate report's executive summary has been released
+198	no-unit	and
+199	continued	the public knows
+200	continued	the just how ineffective and brutal U.S  torture was
+201	continued	,
+202	continued	we need
+203	continued	to make sure
+204	assumption	that this prohibition is permanent
+205	no-unit	.
+206	continued	Working with Congress
+207	continued	to pass legislation
+208	continued	that makes sure
+209	continued	a ban on torture extends to the CIA
+210	continued	is one way
+211	continued	that President Obama can make sure
+212	assumption	that the United States never again embraces the misguided, ineffective, and dangerous tactics of torture
+213	no-unit	.

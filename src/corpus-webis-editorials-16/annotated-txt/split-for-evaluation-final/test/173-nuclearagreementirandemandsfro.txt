@@ -1,0 +1,128 @@
+0	title	A nuclear agreement with Iran will make us safer. Peremptory demands from Congress won't.
+-1	par-sep	
+1	continued	The new Republican leadership in Congress has indicated
+2	assumption	that new, punitive measures against Iran might be among its first orders of business
+3	no-unit	,
+4	continued	even though	Modd-NU
+5	assumption	diplomatic talks with our international alliance are entering a promising new stage
+6	no-unit	.
+7	no-unit	If
+8	continued	my colleagues are serious about
+9	assumption	restraining Iran's nuclear ambitions
+10	no-unit	,
+11	continued	they will resist the temptation
+12	continued	to intervene and instead let
+13	assumption	our negotiators finish the job
+14	no-unit	.
+-1	par-sep	
+15	continued	Altering the terms or objectives of the talks
+16	continued	would amount to
+17	continued	moving the goalposts
+18	continued	when
+19	continued	the end zone is in sight	Modd-NU
+20	assumption	- with potentially devastating consequences	Modd-NU
+21	no-unit	.
+-1	par-sep	
+22	continued	November's four-month extension of the "P5+1" negotiations (called so because of the participation of the five permanent members of the UN Security Council plus Germany) confirmed both the difficulty of the remaining issues and the importance of
+23	continued	continuing
+24	assumption	to negotiate
+25	no-unit	.
+26	assumption	We are still several steps short of a complete and lasting termination of Iran's nuclear weapons program
+27	no-unit	,
+28	no-unit	but
+29	assumption	the current interim agreement between Iran and the international community - known as the Joint Plan of Action (JPOA) - is a vast improvement over 18 months ago
+30	no-unit	,
+31	no-unit	when
+32	continued	Iran's nuclear program was still expanding
+33	anecdote	and shrouded in secrecy
+34	no-unit	.
+-1	par-sep	
+35	no-unit	While
+36	assumption	the JPOA is only a temporary agreement
+37	no-unit	,
+38	anecdote	Iran has complied with it and verifiably frozen and rolled back its nuclear program
+39	no-unit	,
+40	continued	demonstrating
+41	continued	that it is willing
+42	assumption	to take negotiations seriously
+43	no-unit	.
+-1	par-sep	
+44	assumption	Congress could play an important oversight role
+45	no-unit	while
+46	continued	negotiators work
+47	assumption	to build on this progress and secure a verifiable and lasting nuclear agreement with Iran
+48	no-unit	.
+49	no-unit	But
+50	continued	acting peremptorily
+51	continued	to demand specific concessions from Iran
+52	continued	could destabilize the diplomatic balance needed for negotiations
+53	assumption	to both continue and ultimately succeed
+54	no-unit	.
+55	continued	It would be unwise, for example
+56	continued	,
+57	continued	to lay out unrealistic or overly-specific requirements for a final agreement
+58	assumption	to be acceptable to Congress
+59	no-unit	.
+-1	par-sep	
+60	no-unit	Likewise	Modd-NU
+61	no-unit	,	Modd-NU
+62	continued	 the nuclear negotiating table is not the place
+63	continued	to compel
+64	assumption	Iran to clean up its act on issues unrelated to nonproliferation
+65	no-unit	.
+66	continued	Iran engages in an array of behaviors
+67	continued	that the US and the international community find unacceptable, such as
+68	assumption	persecuting political opponents and religious minorities, and supporting terrorist organizations like Hezbollah
+69	no-unit	.
+70	no-unit	But
+71	continued	we must not insist
+72	continued	that everything be solved
+73	continued	before
+74	assumption	anything is solved
+75	no-unit	;
+76	assumption	a nuclear agreement is and should be our first priority
+77	no-unit	,
+78	no-unit	and
+79	assumption	such an agreement could facilitate progress on other fronts
+80	no-unit	.
+-1	par-sep	
+81	continued	Imposing new or less flexible economic sanctions 
+82	continued	-
+83	continued	which has been proposed by a number of my congressional colleagues, including Senators Kirk and Menendez
+84	assumption	- could do great damage to our prospects for a nuclear agreement with Iran
+85	no-unit	.
+86	assumption	New punitive action could strengthen Iranian hard-liners and make their withdrawal from the negotiations more likely
+87	no-unit	.
+88	assumption	Acting unilaterally could also undermine the stability of our international alliance, and thereby actually weaken the existing international sanctions regime
+89	no-unit	.
+-1	par-sep	
+90	continued	The existing sanctions are, of course, a major reason
+91	assumption	that Iran is at the negotiating table
+92	no-unit	,
+93	no-unit	and
+94	continued	Congress should stand ready
+95	assumption	to reimpose and strengthen them
+96	continued	should	Modd-NU
+97	assumption	Iran violate the terms of the JPOA or any future nuclear agreement
+98	no-unit	.
+99	no-unit	But
+100	continued	taking punitive action now
+101	continued	could send a message
+102	assumption	that Congress does not stand behind the negotiators
+103	no-unit	.
+-1	par-sep	
+104	continued	We cannot lose sight of the fact
+105	continued	that a verifiable nuclear agreement with Iran would make
+106	assumption	our country, Israel, the Middle East and the world much safer
+107	no-unit	.
+108	assumption	The nuclear talks with Iran could still crumble under the pressure of opposition and distrust both inside and outside Iran
+109	no-unit	.
+110	assumption	But the United States and the international community must press ahead 
+111	no-unit	-
+112	continued	because
+113	continued	of the security
+114	continued	that the removal of the nuclear threat would bring
+115	continued	and the dire alternatives we'll face
+116	continued	if
+117	no-unit	negotiations fail	?
+118	no-unit	.

@@ -1,0 +1,174 @@
+0	title	Forget the GST on food. Abbott needs to present a new 'grand bargain' to the nation.
+-1	par-sep	
+1	continued	The problem with
+2	continued	not applying the GST to fresh food
+3	continued	is
+4	assumption	that rich people aren't paying GST on fresh food
+5	no-unit	.
+6	continued	Taxing the purchase of fresh food
+7	continued	is estimated
+8	statistics	to provide an additional $6bn in government revenue each year
+9	no-unit	.
+10	continued	For a federal government with a revenue problem, it must be infuriating to forego billions from people
+11	continued	who can fairly easily afford
+12	assumption	to pay
+13	no-unit	.
+-1	par-sep	
+14	continued	The problem with
+15	continued	applying the GST to fresh food
+16	continued	is
+17	assumption	that poor people would be paying GST on fresh food
+18	no-unit	.
+19	statistics	Households in the lowest 20% of income earners pay almost two and a half times more GST, as a percentage of income, than households in the highest 20%
+20	no-unit	.
+21	continued	For a federal government with a now-cemented reputation for unfairness, it would be foolhardy
+22	continued	to make life even more expensive for those
+23	continued	who can least afford
+24	assumption	to pay
+25	no-unit	.
+-1	par-sep	
+26	assumption	Sure, the government could provide GST relief through compensation payments to low-income people
+27	no-unit	,
+28	no-unit	but
+29	continued	such payments are inefficient at
+30	assumption	meeting the actual cost of the tax
+31	no-unit	.
+32	common-ground	They also create another ongoing obligation on the public purse
+33	no-unit	.
+-1	par-sep	
+34	assumption	Some people might consider this a political conundrum, but not some of the fearless members of the Abbott government
+35	no-unit	.
+36	continued	Senators Ian Macdonald and Dean Smith, MP Dan Tehan, and trade minister Andrew Robb are rushing forth
+37	continued	to call for changes to the rate and base of the GST
+38	continued	,
+39	continued	including
+40	anecdote	applying the tax to fresh food
+41	no-unit	.
+42	continued	The father of Australia's GST, John Howard, has opined in recent years
+43	continued	that it was a "pity"
+44	testimony	Labor did not support the GST on fresh food in 1999
+45	no-unit	.
+-1	par-sep	
+46	assumption	Now others are stepping forward with proposals
+47	no-unit	.
+48	continued	Unsurprisingly, business groups want
+49	assumption	to increase the GST and decrease company tax
+50	no-unit	.
+51	continued	The Australia Institute has argued
+52	continued	the government could lessen the regressive impact of the GST by
+53	continued	expanding the base
+54	continued	to include private education and private healthcare
+55	continued	-
+56	assumption	services largely consumed by those on higher incomes 
+57	no-unit	-
+58	continued	which it estimates
+59	testimony	would raise an additional $2.3bn a year
+60	no-unit	.
+61	assumption	It's an intriguing idea with political appeal
+62	no-unit	,
+63	no-unit	but
+64	continued	there are potential budgetary disincentives
+65	continued	if
+66	assumption	the tax pushes people off private services back on to free government services
+67	no-unit	.
+-1	par-sep	
+68	continued	All this public speculation is leading to the impression
+69	assumption	that the Abbott government does not have control of the GST agenda
+70	no-unit	.
+71	assumption	The implications are dreadful for the Coalition
+72	no-unit	.
+73	continued	Just ask Campbell Newman and Mike Baird
+74	continued	how
+75	continued	delighted
+76	assumption	they are to campaign in a climate of GST hypotheticals
+77	no-unit	.
+-1	par-sep	
+78	continued	Some conservative commentators have claimed
+79	continued	that all the Abbott government needs
+80	continued	to do
+81	continued	to stem
+82	continued	the freefall in the polls is
+83	testimony	to get its messaging right
+84	no-unit	.
+85	continued	Surely in 2015
+86	continued	,
+87	continued	they say
+88	continued	,
+89	testimony	a better sales pitch - and a fresh-faced young assistant treasurer in Josh Frydenberg - will turn around the public's opinion of the government and its budget
+90	no-unit	.
+-1	par-sep	
+91	continued	What
+92	continued	these folks misunderstand
+93	continued	is
+94	continued	that good policy makes
+95	assumption	good politics and no policy makes terrible politics
+96	no-unit	.
+97	assumption	Right now, the Abbott government has no overarching policy agenda, no coherent narrative, no holistic approach to the nation's current budgetary challenges
+98	no-unit	.
+99	no-unit	Rather
+100	no-unit	,
+101	assumption	 it has surprise measures (reintroduction of fuel indexation), broken promises (cuts to the ABC, health, education and the pension), wild new spending commitments (PPL), counter- productive new taxes (GP co-payment), and random thought-bubbles of the kind currently proffered by minister Robb and co
+102	no-unit	.
+-1	par-sep	
+103	continued	Where	modd-NU
+104	continued	to start in	modd-NU
+105	assumption	solving the problem?	m-question
+106	no-unit	First
+107	no-unit	,
+108	continued	 instead of	Modd-NU
+109	continued	pushing a lot of random levers in its budget and hoping some of them work	Modd-NU
+110	continued	,	Modd-NU
+111	continued	the government needs
+112	assumption	to put forward a "grand bargain" to the people of Australia
+113	no-unit	:
+114	continued	fixing our budget
+115	continued	means
+116	continued	we need
+117	assumption	to fix our complicated, inefficient federation
+118	no-unit	.
+119	continued	We need
+120	continued	to work out
+121	continued	who is going
+122	continued	to do what to whom, and
+123	continued	who is going
+124	assumption	to pay for it
+125	no-unit	.
+126	continued	It also means
+127	assumption	fixing our tax system, not just tinkering with high-income levies or raising the GST by a couple of per cent
+128	no-unit	.
+-1	par-sep	
+129	no-unit	In short
+130	no-unit	,
+131	assumption	 the federation and tax reform white papers should come out as soon as possible
+132	no-unit	.
+133	assumption	Frankly, these should have come out much, much earlier
+134	no-unit	.
+135	continued	What
+136	continued	were Coalition members doing
+137	continued	as
+138	continued	they sat on the Opposition benches waiting
+139	assumption	to win the "unloseable election"?
+-1	par-sep	
+140	continued	Secondly, as part of this "grand bargain", the government needs
+141	continued	to get real about
+142	assumption	ending the age of entitlement
+143	no-unit	.
+144	continued	Right now, it is just code for
+145	assumption	punishing the poor and protecting the rich
+146	no-unit	.
+147	continued	The tax system doesn't just have
+148	assumption	to be fair
+149	no-unit	;
+150	continued	it has
+151	continued	to be seen
+152	assumption	to be fair
+153	no-unit	.
+154	continued	Asking the lowest income people
+155	continued	to pay GST on fresh food
+156	continued	while
+157	continued	continuing to give high-income superannuants and investment
+158	continued	-
+159	continued	property owners
+160	continued	massive tax concessions would keep
+161	assumption	the age of entitlement alive - for those at the top of the income scales
+162	no-unit	.

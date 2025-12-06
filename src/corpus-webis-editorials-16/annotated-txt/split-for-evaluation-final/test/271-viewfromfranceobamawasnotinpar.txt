@@ -1,0 +1,120 @@
+0	title	The view from France: Obama was not in Paris, but America was with us.
+-1	par-sep	
+1	no-unit	Paris 
+2	no-unit	-
+3	assumption	There is someone missing in the now-famous picture of 40 heads of state and government leaders walking in the streets of Paris last Sunday, in an unprecedented show of solidarity with the French nation after last week's terrorist attacks
+4	no-unit	.
+5	continued	We all know
+6	assumption	who it is
+7	no-unit	.
+-1	par-sep	
+8	no-unit	And	Modd-NU
+9	no-unit	,	Modd-NU
+10	continued	 frankly, most of us French people would have preferred
+11	continued	to have President Obama or any other senior U.S  government official rather than Ahmed Davutoglu, the Turkish Prime Minister, or Victor Orban, his Hungarian counterpart, or Sergei Lavrov, the Russian Foreign Minister - those hypocrites
+12	continued	whose conception of "freedom of expression"
+13	assumption	is not exactly that of Voltaire
+14	no-unit	.
+-1	par-sep	
+15	continued	There is no good excuse for the U.S  physical absence (apart from the presence of Ambassador Jane Hartley
+16	continued	,
+17	continued	whose face
+18	continued	is unknown to 99.99% of the French population)
+19	assumption	from last Sunday's march
+20	no-unit	.
+-1	par-sep	
+21	continued	Perhaps the White House did not realize
+22	assumption	that it would be a historical event?
+23	continued	But for most world leaders, the decision
+24	continued	to be present in Paris
+25	assumption	was a last minute decision
+26	no-unit	.
+-1	par-sep	
+27	continued	It would not not have been easy for the U.S  Secret Service
+28	assumption	to improvise the appropriate security measures?
+29	no-unit	Well
+30	no-unit	,
+31	no-unit	if	cond
+32	assumption	Israeli Prime Minister Benjamin Netanyahu could do it	cond
+33	no-unit	,	cond
+34	continued	don't tell us
+35	assumption	that Obama could not
+36	no-unit	.
+-1	par-sep	
+37	continued	Perhaps the president did not want
+38	continued	to support the Charlie Hebdo people
+39	continued	because
+40	continued	he believes
+41	continued	that "the future must not belong to those
+42	continued	who slander the prophet of Islam"
+43	assumption	(his words at the U.N  General Assembly in 2012)?
+44	assumption	Not a good excuse 
+45	no-unit	-
+46	continued	this was not about
+47	continued	approving
+48	continued	what
+49	continued	the French cartoonists were doing
+50	continued	,
+51	assumption	but showing solidarity in the face of terrorism
+52	no-unit	.
+-1	par-sep	
+53	continued	Obama missed an opportunity
+54	assumption	to present himself as the leader of the free world in front of the continued menace of jihadi terrorism
+55	no-unit	;
+56	no-unit	but
+57	assumption	that is his loss
+58	no-unit	.
+59	continued	The mere fact
+60	continued	that his presence was apparently not even discussed in the the White House
+61	continued	is a confirmation
+62	continued	that this administration does not feel as close to Europe
+63	continued	as
+64	assumption	others did in the past
+65	no-unit	;
+66	no-unit	but
+67	assumption	we knew that already
+68	no-unit	.
+-1	par-sep	
+69	continued	At the end of the day, I'm not sure
+70	assumption	that it really matters to us French in the current context
+71	no-unit	.
+72	continued	The debate after the march about Obama's absence became a debate in France
+73	continued	only because
+74	assumption	it was one in the United States
+75	no-unit	.
+76	continued	Some in the French government have whispered
+77	assumption	that Obama's presence would have relegated President Hollande to the shadows
+78	no-unit	.
+-1	par-sep	
+79	continued	But most importantly, we received such an outpouring of sympathy from our American friends, Democrats and Republicans alike
+80	continued	,
+81	continued	that we know
+82	assumption	the United States could feel our pain
+83	no-unit	.
+84	continued	Just
+85	continued	as
+86	assumption	we felt America's pain after 9/11
+87	no-unit	.
+-1	par-sep	
+88	no-unit	In addition	Modd-NU
+89	no-unit	,	Modd-NU
+90	continued	 there is
+91	continued	absolutely no doubt that US-French cooperation on counterterrorism
+92	continued	,
+93	continued	which was already excellent
+94	continued	,
+95	continued	will be tightened
+96	assumption	even more
+97	no-unit	.
+98	anecdote	Immediately after the attacks, Washington offered support from its intelligence services
+99	no-unit	.
+100	continued	The White House has announced
+101	anecdote	that it will convene a Summit on Counter-Extremism in February
+102	no-unit	-
+103	continued	that will be an opportunity
+104	assumption	to devise common strategies
+105	no-unit	.
+106	no-unit	And you know what ?
+107	continued	Maybe the U.S  administration's biggest problem is
+108	assumption	that we discovered its embarrassing absence only after the fact
+109	no-unit	.

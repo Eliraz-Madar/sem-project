@@ -1,0 +1,211 @@
+0	title	Turkey's red line.
+-1	par-sep	
+1	continued	I remember the days
+2	continued	when
+3	continued	all Turkish citizens had
+4	anecdote	to love Mustafa Kemal Ataturk
+5	no-unit	.
+6	continued	From kindergarten to high school, all students had
+7	anecdote	to recite an oath of allegiance every morning at school
+8	no-unit	.
+9	continued	I still can't erase the verses from my mind: "Oh Great Ataturk
+10	continued	,
+11	continued	who had created our life of today
+12	continued	;
+13	continued	on the path
+14	continued	that you have paved, in the country
+15	continued	that you established
+16	continued	,
+17	continued	I swear
+18	continued	to walk incessantly with the purposes
+19	anecdote	that you have set."
+-1	par-sep	
+20	continued	Every Turkish citizen had
+21	assumption	to put their hearts and souls into that oath
+22	no-unit	.
+23	continued	The louder
+24	continued	you spoke those words
+25	continued	,
+26	assumption	the better a citizen you were
+27	no-unit	.
+-1	par-sep	
+28	assumption	Those days are not yet ancient history
+29	no-unit	.
+30	anecdote	The ruling Justice and Development Party (AKP) only abolished this fascist practice in 2013
+31	no-unit	.
+32	assumption	It was good news
+33	no-unit	,
+34	no-unit	but
+35	assumption	some weren't so thrilled
+36	no-unit	.
+37	assumption	Pro-Kemalist media attacked the reform package, including many democratic regulations
+38	no-unit	,
+39	no-unit	while
+40	continued	their columnists harshly criticised the move	modd-ASM
+41	continued	because
+42	assumption	Turkey was leaving behind its worship of Ataturk
+43	no-unit	.
+-1	par-sep	
+44	no-unit	Red lines
+45	no-unit	.
+-1	par-sep	
+46	continued	In the days following the global outrage over the attack on the French satirical newspaper, Charlie Hebdo, many in Turkey seem
+47	continued	to have forgotten those days
+48	continued	when
+49	continued	any criticism of Ataturk was a punishable offence - one
+50	continued	that could label
+51	assumption	you a traitor
+52	no-unit	.
+53	assumption	Kemalism is not only an ideology
+54	no-unit	;
+55	assumption	for many Turks, it was akin to religion
+56	no-unit	.
+57	continued	Poems depicting Ataturk as a God are evidence of an attempt
+58	assumption	to impose Kemalism as a religion
+59	no-unit	.
+-1	par-sep	
+60	continued	That's
+61	continued	why
+62	assumption	Islam, the religion of the majority of Turkish society, was seen as a threat for them
+63	no-unit	.
+64	continued	It was not enough
+65	assumption	that Ataturk was beloved by his supporters
+66	no-unit	.
+67	continued	We all had
+68	assumption	to submit to - and idolise - him
+69	no-unit	.
+-1	par-sep	
+70	continued	Roland Barthes' famous words would describe
+71	continued	what
+72	assumption	we lived then
+73	no-unit	:
+74	continued	"Fascism is not the prohibition of
+75	continued	saying things
+76	continued	;
+77	continued	it is the obligation
+78	testimony	to say them."
+-1	par-sep	
+79	assumption	Cumhuriyet, a leading daily newspaper of the old guard founded in 1924, has always been a symbol of Kemalism since the beginning
+80	no-unit	.
+-1	par-sep	
+81	continued	The Turkish public were accustomed to their publications
+82	assumption	attacking Muslims, seeing them as a threat, despising them, or their columnists' pieces insulting Islam
+83	no-unit	.
+84	continued	On the other hand
+85	continued	,
+86	continued	 they have always had clear red lines
+87	continued	when
+88	assumption	it came to Kemalism
+89	no-unit	.
+90	assumption	Cumhuriyet has never given a place to a critique of Ataturk or Kemalism
+91	no-unit	;
+92	no-unit	on the contrary
+93	no-unit	,
+94	assumption	 it has attacked the critics
+95	no-unit	.
+-1	par-sep	
+96	continued	Last week, Cumhuriyet announced
+97	continued	that it would publish the Charlie Hebdo cartoons
+98	continued	in order
+99	anecdote	to defend freedom expression
+100	no-unit	.
+101	continued	In	Modd-NU
+102	continued	so doing	Modd-NU
+103	continued	,	Modd-NU
+104	assumption	they attracted a lot of reaction
+105	no-unit	.
+106	no-unit	Of course
+107	no-unit	,
+108	assumption	 the Turkish community, mostly Muslim, was dissatisfied with the daily's decision
+109	no-unit	as
+110	assumption	they do not consider the insulting of religions as a manifestation of freedom of speech
+111	no-unit	.
+-1	par-sep	
+112	continued	Some say
+113	assumption	the move was a provocation - or reckless at least
+114	no-unit	- but
+115	assumption	the majority have regarded the decision as hypocritical
+116	no-unit	.
+117	assumption	Critics on social media or even conventional media pointed out their intolerance for any criticism of Ataturk
+118	no-unit	.
+119	no-unit	However	Modd-NU
+120	no-unit	,	Modd-NU
+121	continued	 the daily exaggerated the responses, chose
+122	assumption	to sail under false colours
+123	assumption	and pictured the insults and the mockery against the publication as an attack on free speech
+124	no-unit	.
+-1	par-sep	
+125	no-unit	Freedom of speech
+126	no-unit	.
+-1	par-sep	
+127	anecdote	Islamists protested against the paper and its decision
+128	no-unit	,
+129	no-unit	but
+130	anecdote	nothing happened
+131	no-unit	.
+132	anecdote	The police did pay a visit to the printing house
+133	no-unit	but
+134	anecdote	there were no restrictions
+135	no-unit	.
+136	assumption	The government took precautions against any possible attacks on the daily
+137	no-unit	but
+138	continued	they portrayed the situation
+139	continued	as if
+140	assumption	they were under siege
+141	no-unit	.
+-1	par-sep	
+142	common-ground	Charlie Hebdo is known as a satirical newspaper
+143	no-unit	,
+144	continued	which is against any authority, any halidom or any individual or group
+145	assumption	claiming supremacy
+146	no-unit	.
+147	continued	Even if
+148	continued	we accept this
+149	continued	- and
+150	continued	I personally don't agree
+151	continued	as
+152	continued	we are familiar with Charlie Hebdo's double standards insofar as Israel
+153	continued	- Cumhuriyet or other Kemalist publications in Turkey are certainly in no position
+154	assumption	to defend the values of freedom of speech
+155	no-unit	as
+156	assumption	they have zero tolerance for any negative words of their idol, Ataturk
+157	no-unit	.
+-1	par-sep	
+158	anecdote	On the same day, the Islamist newspaper Yeni Akit's Istanbul office was attacked with stones and eggs during a protest against its publication of beaten images of Ataturk
+159	no-unit	.
+160	continued	No so-called "freedom of speech" defenders
+161	continued	who supported the publication of Charlie Hebdo caricatures
+162	continued	,
+163	assumption	condemned the attack
+164	no-unit	.
+-1	par-sep	
+165	continued	The Gulenist media figures
+166	continued	who introduced themselves
+167	continued	as
+168	anecdote	Muslims announced their support for Cumhuriyet for the sake of freedom of speech
+169	no-unit	;
+170	anecdote	however they were silent against the attack against Yeni Akit
+171	no-unit	.
+172	assumption	The Gulenist media was against Charlie Hebdo's publishing of insulting images of Prophet Muhammad until 2013 and have always been against any publication criticising their leader, Fethullah Gulen
+173	no-unit	.
+-1	par-sep	
+174	continued	Their about-face on Charlie Hebdo is linked to their turn on Islam but criticising
+175	assumption	Gulen has always been a red line for them
+176	no-unit	.
+177	testimony	According to Zaman daily columnist Ali Unal, criticising Gulen is tantamount to infidelity and polytheism
+178	no-unit	.
+-1	par-sep	
+179	no-unit	In short
+180	no-unit	,
+181	assumption	 the Kemalists and the Gulenists have their own "gods", or their own "prophets"
+182	no-unit	.
+-1	par-sep	
+183	assumption	Insulting Islam is freedom of speech for them
+184	no-unit	,
+185	no-unit	but
+186	no-unit	if
+187	continued	you dare	cond
+188	assumption	to speak against their idols	cond
+189	no-unit	,	cond
+190	assumption	it is blasphemy
+191	no-unit	.

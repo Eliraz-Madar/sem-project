@@ -1,0 +1,219 @@
+0	title	Peace on Earth?
+-1	par-sep	
+1	continued	There are a whole bunch of people
+2	continued	who simply don't like Christmas and are fighting
+3	continued	to get rid of it any way
+4	assumption	they can
+5	no-unit	.
+6	continued	And
+7	continued	,
+8	continued	 there are a lot of people on the other side
+9	assumption	who are angry at those efforts
+10	no-unit	.
+11	continued	And so, this whole battle over
+12	continued	whether
+13	continued	to say Christmas or Happy Holidays
+14	assumption	misses the point
+15	no-unit	.
+-1	par-sep	
+16	continued	I suppose
+17	continued	it may be hard
+18	assumption	to be a non-believer in the religious themes around Christmas and live in our culture
+19	no-unit	.
+20	continued	You are confronted daily with the religious symbolism of Christmas in the books
+21	continued	you read
+22	continued	,
+23	continued	the friends
+24	continued	you have
+25	continued	and the movies
+26	assumption	you watch
+27	no-unit	;
+28	no-unit	and
+29	no-unit	,
+30	no-unit	above all	Modd-NU
+31	no-unit	,	Modd-NU
+32	continued	 you have
+33	assumption	to stay away from religious stuff...like Christmas celebrations
+34	no-unit	.
+35	continued	I'm a believer, but not without a modicum of compassion for those
+36	assumption	who don't share my religious beliefs
+37	no-unit	.
+38	continued	I can imagine
+39	continued	how
+40	continued	irritating Christmas must be for those
+41	continued	whose whole worldview is built on the belief
+42	continued	that Christmas doesn't matter
+43	continued	because
+44	continued	it points to
+45	continued	what
+46	assumption	is spurious at best and dangerous at worst
+47	no-unit	.
+-1	par-sep	
+48	assumption	I get that, too
+49	no-unit	.
+-1	par-sep	
+50	continued	I must admit, though
+51	continued	,
+52	continued	that I get
+53	continued	irritated sometimes
+54	continued	when
+55	continued	a group of people bring
+56	anecdote	a lawsuit to get rid of the town creche
+57	no-unit	or
+58	continued	when
+59	continued	someone wishes
+60	anecdote	me "Happy Holidays."
+61	continued	It bothers me
+62	continued	when
+63	anecdote	universities remove Christmas trees
+64	no-unit	or
+65	continued	Christmas concerts are canceled
+66	continued	because
+67	continued	it offends those
+68	assumption	who aren't religious or Christian
+69	no-unit	.
+70	anecdote	Frankly, I listen to a lot of stuff from the other side all the time
+71	no-unit	.
+72	continued	Fair play suggests
+73	continued	that it wouldn't hurt for the other side
+74	assumption	to abide some of mine
+75	no-unit	.
+-1	par-sep	
+76	continued	I decided
+77	continued	that I'm just not going
+78	anecdote	to fight the Christmas war
+79	no-unit	.
+80	assumption	I'm an old guy
+81	no-unit	and
+82	continued	old people are already irritated about
+83	assumption	being old
+84	no-unit	.
+85	continued	As	Modd-NU
+86	continued	someone said	Modd-NU
+87	continued	,
+88	continued	it takes very little
+89	assumption	to tick us off
+90	no-unit	.
+91	continued	Instead
+92	continued	,
+93	continued	 I'm just going
+94	continued	to sing as loudly and as publicly
+95	continued	as
+96	continued	I can
+97	anecdote	a Christmas carol---a Christmas carol about love and a God
+98	continued	who went to a lot of trouble
+99	assumption	to express his love for us
+100	no-unit	.
+-1	par-sep	
+101	no-unit	You see
+102	no-unit	,
+103	continued	in my belief system, Christmas doesn't mean
+104	continued	that God came
+105	assumption	to destroy us or to kick posteriors
+106	no-unit	.
+107	continued	I believe
+108	continued	that the reason
+109	continued	he came
+110	continued	was
+111	continued	to tell us
+112	assumption	that he isn't angry
+113	no-unit	.
+114	no-unit	And
+115	continued	when	Modd-NU
+116	continued	we make obscene gestures or get mean with those
+117	continued	who disagree with us
+118	continued	,
+119	assumption	it kind of misses the point
+120	no-unit	.
+121	continued	It becomes a disconnect between
+122	continued	what
+123	continued	I believe
+124	continued	and
+125	continued	what
+126	assumption	I do
+127	no-unit	.
+-1	par-sep	
+128	no-unit	And
+129	no-unit	if
+130	continued	I really believe
+131	continued	(and I do)
+132	assumption	that the King came
+133	no-unit	,
+134	assumption	it kind of changes my perspective
+135	no-unit	.
+-1	par-sep	
+136	continued	I have a friend
+137	continued	whose family
+138	continued	takes
+139	anecdote	playing chess very seriously
+140	no-unit	.
+141	continued	It gets so "hot"
+142	continued	sometimes that they end up
+143	anecdote	throwing chess pieces at one another
+144	no-unit	.
+145	no-unit	As
+146	assumption	you can imagine
+147	no-unit	,
+148	assumption	they lose a lot of pieces
+149	no-unit	.
+150	continued	One Christmas	Modd-NU
+151	continued	when	Modd-NU
+152	continued	they were playing chess
+153	continued	,
+154	continued	my friend took the baby Jesus from the small creche under the Christmas tree
+155	anecdote	to replace one of his lost pieces
+156	no-unit	.
+157	continued	My friend then began
+158	continued	to move all over the board
+159	continued	,
+160	anecdote	going after his brother's pieces
+161	no-unit	.
+-1	par-sep	
+162	continued	"You
+163	continued	can't do that,"
+164	continued	his brother said
+165	continued	,
+166	anecdote	"that's illegal."
+-1	par-sep	
+167	continued	"Oh
+168	continued	,
+169	continued	yes I can,"
+170	continued	my friend said
+171	continued	.
+172	continued	"This
+173	continued	is Jesus
+174	continued	and
+175	continued	he can do
+176	continued	whatever
+177	continued	he wants
+178	anecdote	to do."
+-1	par-sep	
+179	continued	Jesus does
+180	continued	as
+181	assumption	he pleases
+182	no-unit	and
+183	assumption	he does it right well
+184	no-unit	.
+185	continued	At Christmas he decided
+186	assumption	to love and, then, clean up the mess later
+187	no-unit	.
+-1	par-sep	
+188	continued	So I think
+189	assumption	I'll opt out of the war
+190	no-unit	.
+191	continued	The King was doing fine
+192	continued	before
+193	continued	I came along and will do fine
+194	continued	long after
+195	assumption	I'm gone
+196	no-unit	.
+197	assumption	He doesn't need my defense
+198	no-unit	.
+-1	par-sep	
+199	no-unit	So, Merry Christmas or...uh
+200	no-unit	....
+201	other	Happy Holidays
+202	no-unit	.
+-1	par-sep	
+203	no-unit	Whatever
+204	no-unit	.

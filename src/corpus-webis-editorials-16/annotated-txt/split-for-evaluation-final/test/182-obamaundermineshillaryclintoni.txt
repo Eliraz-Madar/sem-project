@@ -1,0 +1,295 @@
+0	title	Obama undermines Hillary Clinton in State of the Union address.
+-1	par-sep	
+1	continued	Is President Obama trying
+2	assumption	to sabotage Hillary Clinton's 2016 presidential run?
+3	assumption	That's one take-away from his feisty State of the Union address
+4	no-unit	,
+5	anecdote	in which Mr  Obama did three things
+6	no-unit	:
+7	no-unit	first
+8	no-unit	,
+9	assumption	 he moved the Democratic agenda far to the left
+10	no-unit	,
+11	continued	where
+12	assumption	Hillary is not entirely comfortable
+13	no-unit	;
+14	no-unit	second	Modd-NU
+15	no-unit	,	Modd-NU
+16	continued	 he rebuffed the clear preference of voters
+17	continued	that he work with Congress, by
+18	continued	making
+19	assumption	the cornerstone of his address proposals unacceptable to the GOP and third
+20	no-unit	,
+21	continued	he assured the country
+22	assumption	that our foreign policy (Hillary's foreign policy) is working
+23	no-unit	.
+-1	par-sep	
+24	continued	Americans are not at all convinced
+25	continued	,
+26	continued	13 days after
+27	continued	the vicious attacks on Charlie Hedbo in Paris
+28	continued	,
+29	continued	that Obama's "broader strategy"
+30	assumption	is leading to "a safer, more prosperous world."
+31	continued	Obama says
+32	testimony	he believes in a "smarter kind of American leadership"
+33	no-unit	;
+34	assumption	for many in the country, the assertion borders on arrogance
+35	no-unit	.
+-1	par-sep	
+36	assumption	None of these messages works for Hillary
+37	no-unit	.
+-1	par-sep	
+38	assumption	Mr  Obama's focus on the middle class is unsurprising
+39	no-unit	.
+40	assumption	Lagging income growth for the average American has emerged as the likely debate in 2016, for good reason
+41	no-unit	.
+42	continued	The numbers show
+43	continued	that during the Obama recovery, the middle class has
+44	continued	,
+45	continued	as
+46	continued	Joe Biden put it
+47	continued	,
+48	assumption	been "left behind."
+-1	par-sep	
+49	assumption	The issue is valid
+50	no-unit	;
+51	continued	Mr  Obama's progressive approach to
+52	continued	helping average Americans
+53	assumption	- relying on more taxation and more government programs -- is not
+54	no-unit	.
+-1	par-sep	
+55	continued	Despite	Modd-NU
+56	anecdote	Americans listing job creation as their number one concern for the past six years
+57	no-unit	,
+58	continued	putting people
+59	continued	to work
+60	assumption	has never been President Obama's priority
+61	no-unit	.
+62	continued	He has not encouraged businesses
+63	assumption	to hire
+64	no-unit	,
+65	continued	either through
+66	continued	reducing tax rates on employers or by
+67	continued	expanding business opportunities
+68	assumption	- through trade, or reduced regulations, for instance
+69	no-unit	.
+-1	par-sep	
+70	no-unit	On the contrary	Modd-NU	
+71	no-unit	,	Modd-NU
+72	continued	 his economic prescriptions have raised costs for employers through the onerous provisions of Obamacare and his efforts
+73	assumption	to raise the minimum wage
+74	no-unit	.
+-1	par-sep	
+75	assumption	As of this SOTU address, he has doubled down
+76	no-unit	,
+77	no-unit	since
+78	continued	many of the suggested tax hikes will land on small companies
+79	assumption	that pay taxes as individuals
+80	no-unit	,
+81	no-unit	and
+82	continued	as	Modd-NU
+83	assumption	his proposed sick pay and maternity leave will raise the costs of hiring
+84	no-unit	.
+85	continued	Such policies have led to labor participation rates
+86	continued	that are still bumping along historical lows
+87	continued	,
+88	assumption	a crisis in our disability program, and stagnant wages
+89	no-unit	.
+90	assumption	A short course in economics might help the White House
+91	no-unit	:
+92	assumption	a tighter jobs market will raise wages
+93	no-unit	.
+94	assumption	The government raising wages will put people out of work
+95	no-unit	.
+96	assumption	It's that simple
+97	no-unit	.
+-1	par-sep	
+98	continued	Obama revisited his familiar theme of
+99	continued	making sure
+100	assumption	all Americans have a "fair shot"
+101	no-unit	;
+102	continued	he wants
+103	continued	to raise
+104	continued	taxes to make sure
+105	assumption	the rich do "their fair share."
+106	continued	He has never laid out
+107	continued	what
+108	assumption	that share should be
+109	no-unit	,
+110	no-unit	but
+111	continued	he has tried hard
+112	continued	to convince Americans
+113	assumption	that the wealthy don't play "by the same set of rules."
+-1	par-sep	
+114	assumption	It's a tired song
+115	no-unit	,
+116	no-unit	and
+117	assumption	Americans have never bought the program
+118	no-unit	.
+-1	par-sep	
+119	continued	A recent Rasmussen poll showed
+120	continued	that 60% of Americans think
+121	statistics	the country is "fair" and "decent."
+122	continued	They don't believe
+123	assumption	that income distribution is the answer
+124	no-unit	.
+125	assumption	They believe in growth, in optimism, in everyone getting ahead
+126	no-unit	.
+-1	par-sep	
+127	continued	The tax proposals outlined by President Obama are old school, and dead on arrival in the Republican Congress	Modd-NU
+128	continued	,	Modd-NU
+129	continued	as	Modd-NU
+130	assumption	he well knows	Modd-NU
+131	no-unit	.
+132	continued	Congress has indicated an eagerness
+133	continued	to work with the president on tax reform
+134	continued	,
+135	continued	but has prioritized
+136	assumption	changing the dysfunctional corporate tax code
+137	no-unit	.
+-1	par-sep	
+138	continued	The president understands
+139	continued	that by
+140	continued	placing individual tax hikes first in the queue
+141	continued	,
+142	assumption	he has just undermined any chance for bipartisan agreement
+143	no-unit	.
+144	continued	And	Modd-NU
+145	continued	,	Modd-NU
+146	continued	 by	Modd-NU
+147	continued	adopting the priorities of the left	Modd-NU
+148	continued	,	Modd-NU
+149	continued	which emphasize wealth redistribution and also embrace further	Modd-NU
+150	continued	exploiting the financial sector
+151	no-unit	,
+152	assumption	he is drafting behind liberal icon Senator Elizabeth Warren
+153	no-unit	.
+-1	par-sep	
+154	assumption	This is a slap at Hillary, for two reasons
+155	no-unit	.
+156	no-unit	First	Modd-NU
+157	no-unit	,	Modd-NU
+158	continued	 Hillary is unquestionably uncomfortable
+159	assumption	putting on a progressive cloak
+160	no-unit	.
+-1	par-sep	
+161	continued	In the fall campaigns she awkwardly mimicked Liz Warren's rhetoric
+162	continued	,
+163	continued	embarrassing herself with the head-scratcher "Don't let
+164	continued	anyone tell you
+165	continued	that it's businesses and corporations
+166	anecdote	that create jobs."
+-1	par-sep	
+167	continued	Hillary is a successful, wealthy woman	modd-ASM 
+168	assumption	who pretends otherwise and stubs her toe on money issues, such as
+169	continued	when
+170	continued	she described herself
+171	continued	and
+172	continued	her husband as "dead broke"
+173	continued	upon
+174	testimony	leaving the White House
+175	no-unit	.
+176	no-unit	Also
+177	no-unit	,
+178	assumption	 Hillary has difficulty distancing herself from Wall Street
+179	no-unit	;
+180	continued	the Wall Street Journal has reported
+181	testimony	that she and her husband have raised nearly $5 million from Goldman Sachs alone
+182	no-unit	.
+-1	par-sep	
+183	continued	It's also awkward for Mrs  Clinton
+184	assumption	that the president has burned relations with Republicans
+185	no-unit	...
+186	assumption	again
+187	no-unit	.
+188	continued	In his speech	Modd-NU
+189	continued	,	Modd-NU
+190	continued	while	Modd-NU
+191	continued	talking about "A better politics"	Modd-NU
+192	continued	in which "we debate without	Modd-NU
+193	continued	demonizing each other,"	Modd-NU
+194	continued	the president also threatened	Modd-NU
+195	anecdote	to veto a number of GOP initiatives
+196	no-unit	.
+-1	par-sep	
+197	continued	Voters have shown
+198	continued	they want the government
+199	continued	to function 
+200	continued	-
+201	continued	to repair our infrastructure, reform our dreadful tax code
+202	continued	,
+203	continued	to compete more effectively with our trading rivals
+204	continued	,
+205	assumption	to streamline our outdated government agencies
+206	no-unit	.
+-1	par-sep	
+207	continued	For six years Mr  Obama has blamed the GOP for
+208	assumption	standing in the way of his programs
+209	no-unit	;
+210	assumption	now he will be the obstructer-in-chief
+211	no-unit	.
+212	continued	From his State of the Union address, it is clear
+213	continued	that he is not interested in
+214	assumption	partnering with Republicans
+215	no-unit	.
+216	continued	His aggressive executive actions over the past several weeks on
+217	continued	preventing deportation of millions of undocumented immigrants and unilaterally overhauling our Cuba policy
+218	assumption	were the tip of the iceberg
+219	no-unit	.
+220	assumption	Mr  Obama is not into compromise
+221	no-unit	.
+-1	par-sep	
+222	continued	Voters do not like the president's
+223	continued	"go
+224	continued	it alone"
+225	assumption	program
+226	no-unit	;
+227	continued	they understand
+228	continued	why
+229	assumption	the nation's founders included those pesky checks and balances
+230	no-unit	.
+231	continued	Obama will make
+232	continued	it more difficult for any Democrat
+233	continued	trying
+234	continued	to succeed
+235	continued	him to convince voters
+236	continued	that he or she will "work across the aisle" - a claim
+237	assumption	that Hillary might actually credibly make
+238	no-unit	.
+-1	par-sep	
+239	no-unit	Finally	Modd-NU
+240	no-unit	,	Modd-NU
+241	continued	 Obama's insufficient resolve against the threat of Islamic terrorism, and conviction
+242	continued	that his efforts overseas are bearing fruit
+243	continued	,
+244	assumption	are alarming
+245	no-unit	.
+246	continued	Like Muggles fearful of	Modd-NU
+247	continued	naming the fearsome Voldemort	Modd-NU
+248	continued	,	Modd-NU
+249	continued	Obama seems
+250	continued	to think
+251	continued	if
+252	continued	he just doesn't say "Islamic terrorism" out loud
+253	continued	,
+254	assumption	the menace will pass him by
+255	no-unit	.
+-1	par-sep	
+256	continued	His embarrassing absence in Paris, his waffle on Syria, his underestimation of ISIS	Modd-NU
+257	continued	-	Modd-NU
+258	continued	it all speaks to his pretense	Modd-NU
+259	assumption	that we have won the War on Terror
+260	no-unit	.
+-1	par-sep	
+261	continued	That our president can be so misled and so misleading on a matter of such grave importance
+262	assumption	is horrifying
+263	no-unit	.
+264	continued	That Hillary Clinton was the enabler of his clueless
+265	assumption	foreign policy is a serious problem for the former first lady
+266	no-unit	.
+267	no-unit	And	Modd-NU
+268	no-unit	,	Modd-NU
+269	continued	 for the country, should she
+270	assumption	be elected
+271	no-unit	.

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3160" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="75" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="76" end="91" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="92" end="98" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="100" end="161" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="163" end="232" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="235" end="337" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="338" end="409" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="411" end="543" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="545" end="673" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="676" end="716" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="718" end="721" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="722" end="734" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="736" end="795" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="797" end="873" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="875" end="955" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="956" end="1043" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1045" end="1154" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1155" end="1171" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1174" end="1202" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1205" end="1349" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1354" end="1473" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1478" end="1595" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1597" end="1649" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1655" end="1756" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1760" end="1801" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1803" end="1839" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1841" end="1943" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1945" end="2043" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2046" end="2159" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2161" end="2242" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2246" end="2294" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2296" end="2337" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2340" end="2420" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2422" end="2425" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2426" end="2474" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2476" end="2504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2507" end="2551" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2554" end="2628" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2630" end="2683" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2685" end="2736" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2740" end="2780" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2786" end="2845" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2848" end="3065" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3068" end="3109" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3111" end="3114" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3115" end="3159" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="243" sofa="1" begin="0" end="3160" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/082-feaststephenmiddleeastpersecut.txt" offsetInSource="0" documentSize="3160" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="251" sofa="1" begin="0" end="3160" lastUpdate="2014-12-26T12:00:47Z" url="http://www.foxnews.com/opinion/2014/12/26/feast-stephen-middle-east-persecuted-christians-need-our-help/" portal="foxnews" authors="Ralph Peters" articleSum="On this Feast of Stephen, spare a thought not only for the leftovers in the&amp;#10;fridge, but for the driven, kidnapped, enslaved, raped, tortured and murdered&amp;#10;Christians our sloth and scorn have left to a hell on earth.&amp;#10;&amp;#10;" title="The feast of Stephen: Middle East's persecuted Christians need our help."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="On the day after Christmas, I wish those I meet a &quot;Good St  Stephen's Day.&quot; Personal quirk? Surely. But it's also been my small homage to my faith's first martyr. And this year his all-but-forgotten feast day has a special relevance.&#10;&#10;To most of us, the &quot;Feast of Stephen&quot; is just an obscure reference in the carol &quot;Good King Wenceslas.&quot; For others, St  Stephen's a cryptic name in an early Grateful Dead song. But Stephen was the first example, after Christ, of a believer so firm in his faith that he preferred death to betraying his beliefs. At a time when the disciples and apostles clung to the shadows, fearing persecution, Stephen went boldly to his death by stoning.&#10;&#10;Now stoning's back, along with martyrdom, but we look away. We refuse to see martyrs among the Middle East's Christians. Politically correct toward Islam, while scoffing at Christianity and Judaism, we've abandoned the concept of martyrdom to our enemies, to devils in human form who, far from being martyrs, are murderers drenched in the blood of countless innocents. Infernal organizations, such as the Islamic State, Al Qaeda, the Taliban and others, don't produce &quot;martyrs.&quot; They create them.&#10;&#10;Herod was mild in comparison.&#10;&#10;We have watched in near-silence as Christians and other minorities have been evicted from ancient homes and exterminated in a Biblical landscape. As churches shot flames heavenward, we explained away our enemies' fanaticism and even blamed ourselves for his atrocities. As two millennia of Christian culture in the Middle East suffered the greatest catastrophe in the faith's entire history, we invented legal rights for blood-soaked barbarians.&#10;&#10;If recent reports from Iraq prove true -- that four Christian boys were beheaded for refusing to convert -- we are again in an age of martyred saints. When &quot;the Sea of Faith was once, too,  at the full,&quot; Christian Churches, east and west, would have sought the canonization of such believers. But today displays of Christian devotion are mocked as blithely as Christ with his crown of thorns.&#10;&#10;Our entertainers laud their own &quot;courage&quot; for mocking Christians and Jews, but dare not make one joke about Islam. Our leaders care not a jot for the fate of the Christian civilization of the east -- which dominated the faith's first thousand years. We refuse even to name the enemy honestly.&#10;&#10;The term &quot;Holocaust&quot; has been abused by those slovenly in language and in spirit, but we are, indeed, witnessing a Christian Holocaust. And it is nearing completion.&#10;&#10;&quot;Never again&quot; is humanity's emptiest promise.&#10;&#10;As a Western Christian, I honor St  Stephen on the day after our Christmas. Eastern-rite churches hold his feast on December 27th. But soon there will be no conflicts on the calendar -- the Middle-Eastern churches will be gone.&#10;&#10;As fearful Peter denied Christ, we have abandoned his churches.&#10;&#10;So, on this Feast of Stephen, spare a thought not only for the leftovers in the fridge, but for the driven, kidnapped, enslaved, raped, tortured and murdered Christians our sloth and scorn have left to a hell on earth.&#10;&#10;We are the greedy innkeepers of Bethlehem, and we are the gawking crowds at the Crucifixion."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 251"/>
+</xmi:XMI>

@@ -1,0 +1,248 @@
+0	title	The hapless, harmless Palestinian leader?
+-1	par-sep	
+1	continued	January 15 marks a decade
+2	continued	since
+3	anecdote	Mahmoud Abbas became the Palestinian president
+4	no-unit	,
+5	continued	during which time
+6	continued	the goals
+7	continued	he claims
+8	continued	to espouse not only remain
+9	assumption	unrealised, but are more remote than ever
+10	no-unit	.
+-1	par-sep	
+11	continued	He is still in office despite his term ending six years ago; the democratic process
+12	anecdote	that brought him to power no longer in existence
+13	no-unit	.
+14	assumption	He speaks of his people's human rights
+15	continued	while	Modd-NU
+16	assumption	his Palestinian Authority actively curtails them
+17	no-unit	.
+18	continued	He claims
+19	continued	to champion their national rights while
+20	continued	collaborating unconditionally with the country
+21	assumption	that denies them
+22	no-unit	.
+-1	par-sep	
+23	continued	Abbas' image as a hapless, harmless figure deflects from the cunning and ruthlessness of someone
+24	continued	whose primary concern, like the Middle East's other autocrats
+25	continued	,
+26	continued	seems
+27	assumption	to be his longevity
+28	no-unit	.
+29	continued	The fact
+30	continued	that he plays ball with the West and Israel
+31	continued	somehow makes
+32	assumption	this okay
+33	no-unit	.
+34	continued	Where	Modd-NU
+35	continued	other Arab strongmen nurture an image of power
+36	assumption	to maintain it
+37	no-unit	,
+38	continued	he relies on
+39	assumption	being seen as an underdog
+40	no-unit	.
+-1	par-sep	
+41	continued	But this illusion
+42	continued	,
+43	continued	which has traditionally served Abbas well
+44	continued	,
+45	assumption	no longer extends to his people
+46	no-unit	.
+47	continued	Many think he
+48	continued	and
+49	assumption	the PA serve their own interests and those of Israel, rather than those of the Palestinians
+50	no-unit	.
+51	continued	According to a poll last month, 55 percent believe
+52	statistics	that the PA has become "a burden on the Palestinian people"
+53	no-unit	.
+-1	par-sep	
+54	statistics	Regarding the presidency, Abbas has consistently lagged in opinion polls behind his Fatah colleague, Marwan Barghouti
+55	no-unit	.
+56	statistics	Since Israel's last Gaza invasion, he also runs behind Hamas leader Ismail Haniyeh
+57	no-unit	.
+58	continued	Is it mere coincidence, then
+59	continued	,
+60	continued	that Abbas has been lacklustre in
+61	continued	campaigning for Barghouti's release from Israeli jail; or in
+62	continued	pursuing and implementing national unity deals with Hamas
+63	assumption	that call for elections?
+-1	par-sep	
+64	continued	Since the signing of the latest reconciliation agreement in April, Abbas has at various times threatened
+65	continued	to end it
+66	continued	,
+67	assumption	and has been openly adversarial towards Hamas
+68	no-unit	.
+69	continued	Elections
+70	continued	that were due within six months
+71	anecdote	never happened
+72	no-unit	,
+73	no-unit	so
+74	assumption	he remains unchallenged
+75	no-unit	-
+76	continued	this has gone
+77	assumption	largely unnoticed
+78	no-unit	.
+-1	par-sep	
+79	continued	The PA 
+80	continued	-
+81	continued	which is meant
+82	continued	to safeguard Palestinian rights
+83	assumption	- serially abuses them
+84	no-unit	.
+85	testimony	Human Rights Watch has documented "police beatings and arbitrary arrests of demonstrators", "excessive force", "repressing critical news reporting and demonstrations", "suppressing dissenting views", and "serious rights abuses, including credible allegations of torture"
+86	no-unit	,
+87	testimony	for which "no security officials were convicted"
+88	no-unit	.
+-1	par-sep	
+89	continued	As such, the PA is not only failing
+90	continued	to curb Israeli abuses
+91	continued	,
+92	continued	but is busy
+93	assumption	perpetrating its own, all under Abbas' watch
+94	no-unit	.
+-1	par-sep	
+95	continued	The PA has garnered a reputation among Palestinians for
+96	continued	managing the occupation rather than striving
+97	assumption	to end it
+98	no-unit	.
+99	continued	One way it does
+100	assumption	this is "security coordination" with Israel
+101	no-unit	,
+102	continued	which Abbas described last year as "sacred" despite the vast majority of Palestinians
+103	anecdote	opposing it
+104	no-unit	.
+-1	par-sep	
+105	continued	Such coordination serves Israel by
+106	continued	enabling
+107	continued	it to subcontract its occupation
+108	continued	,
+109	continued	and serves the PA by
+110	continued	helping
+111	assumption	it suppress internal dissent
+112	no-unit	.
+113	assumption	It certainly does not benefit the Palestinian people
+114	no-unit	.
+-1	par-sep	
+115	continued	Abbas and his foreign minister have made grotesque assurances
+116	continued	that as long as
+117	continued	he is president
+118	continued	,
+119	anecdote	he will not allow an uprising against Israel
+120	no-unit	.
+121	continued	So the PA
+122	continued	,
+123	continued	which is supposed
+124	continued	to be part of a national liberation struggle
+125	continued	,
+126	continued	is willing
+127	assumption	to put down an uprising by its own people against their subjugation
+128	no-unit	.
+129	assumption	This is nothing short of betrayal
+130	no-unit	.
+-1	par-sep	
+131	continued	For more than 20 years, the PA has participated in a "peace process"
+132	assumption	that has greatly entrenched Israeli control
+133	no-unit	.
+134	anecdote	Abbas himself was an architect of the disastrous Oslo Accords
+135	no-unit	.
+136	continued	The occupied territories are now so colonised and fragmented
+137	continued	that a viable Palestinian state is widely considered
+138	assumption	impossible
+139	no-unit	.
+140	no-unit	Yet	Modd-NU
+141	no-unit	,	Modd-NU
+142	continued	 Abbas still wants
+143	continued	to negotiate
+144	continued	,
+145	assumption	despite Israel being clearly opposed to Palestinian self-determination
+146	no-unit	.
+-1	par-sep	
+147	continued	What
+148	continued	,
+149	continued	then
+150	continued	,
+151	continued	 is the point of
+152	assumption	negotiating?
+153	continued	Perhaps
+154	continued	to preserve the privileged elites
+155	assumption	to which the PA and the "peace process" gave birth
+156	no-unit	.
+157	no-unit	After all
+158	no-unit	,
+159	assumption	 allegations of corruption and nepotism, including Abbas and his family, are nothing new
+160	no-unit	.
+161	continued	With the help of international aid, the PA is the largest employer of Palestinians, much like other autocracies
+162	continued	that encourage public dependence on the state
+163	assumption	to avoid mass unrest
+164	no-unit	.
+-1	par-sep	
+165	assumption	A power imbalance alone cannot explain Abbas' policy choices regarding Israel
+166	no-unit	.
+167	continued	He opposes armed resistance, and has gone to great lengths
+168	anecdote	to disarm militants in the West Bank
+169	no-unit	.
+-1	par-sep	
+170	no-unit	However
+171	no-unit	,
+172	anecdote	 he also opposes peaceful forms of resistance, including the increasingly effective Boycott, Divestment and Sanctions movement
+173	no-unit	.
+-1	par-sep	
+174	no-unit	Furthermore	Modd-NU
+175	no-unit	,	Modd-NU
+176	continued	 it took the PA more than two years since Palestine's upgraded UN status
+177	continued	to apply
+178	continued	to join the International Criminal Court
+179	continued	,
+180	continued	despite repeated threats
+181	assumption	to do so amid constant Israeli provocations
+182	no-unit	.
+-1	par-sep	
+183	continued	That Abbas finally relented
+184	continued	may not only, or necessarily, be about
+185	continued	losing patience with Israel
+186	continued	,
+187	continued	but about
+188	continued	assuaging mounting Palestinian anger at his procrastination in
+189	assumption	applying to the ICC
+190	no-unit	.
+-1	par-sep	
+191	continued	Meanwhile
+192	continued	,
+193	continued	 he says
+194	continued	he will keep
+195	continued	pushing for a UN Security Council resolution calling for a deadline
+196	anecdote	to end Israel's occupation
+197	no-unit	,
+198	assumption	despite the certainty of repeated failure by US veto
+199	no-unit	.
+-1	par-sep	
+200	continued	Abbas seems
+201	assumption	to be attempting a balancing act
+202	no-unit	.
+203	continued	He wants
+204	continued	to prove to Israel, and his western and Arab backers
+205	continued	,
+206	continued	that he is their best Palestinian partner
+207	continued	,
+208	continued	safe in the knowledge
+209	continued	that they will not accept Hamas rule
+210	continued	,
+211	continued	but mindful not
+212	continued	to suffer the same fate as Yasser Arafat
+213	continued	once
+214	continued	he was no longer deemed
+215	assumption	useful or reliable
+216	no-unit	.
+-1	par-sep	
+217	no-unit	However	Modd-NU
+218	no-unit	,	Modd-NU
+219	continued	 his recent, uncharacteristic defiance against Israel reflects a need
+220	assumption	to stop his flagging domestic popularity turning into an uprising against him and the PA
+221	no-unit	.
+-1	par-sep	
+222	continued	Abbas has nothing
+223	assumption	to show his people after 10 years as president, and at least another decade as part of the "peace process"
+224	no-unit	.
+225	assumption	He remains in office because of, not despite, Israel's occupation and Palestinian disunity
+226	no-unit	.

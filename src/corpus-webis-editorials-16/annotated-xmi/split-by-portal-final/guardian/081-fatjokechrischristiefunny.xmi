@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4225" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="140" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="142" end="338" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="340" end="369" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="371" end="432" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="434" end="519" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="521" end="524" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="525" end="593" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="596" end="723" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="725" end="822" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="824" end="879" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="881" end="1036" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1038" end="1209" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1212" end="1286" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1289" end="1369" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1371" end="1403" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1407" end="1507" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1509" end="1642" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1644" end="1758" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1761" end="1764" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1765" end="1999" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="2002" end="2112" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="2114" end="2123" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="2125" end="2203" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2205" end="2208" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2209" end="2227" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2230" end="2304" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2307" end="2467" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2470" end="2524" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2526" end="2563" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2565" end="2624" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2626" end="2671" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2673" end="2758" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2761" end="2812" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2814" end="2817" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2818" end="2847" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2849" end="2966" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2969" end="3133" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="3135" end="3172" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="3173" end="3397" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3400" end="3432" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3437" end="3462" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3463" end="3466" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3467" end="3491" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3493" end="3568" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3571" end="3743" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3745" end="3849" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3852" end="3962" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3964" end="3971" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3972" end="4040" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="4042" end="4045" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="4049" end="4073" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4074" end="4133" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4135" end="4193" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4194" end="4224" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="283" sofa="1" begin="0" end="4225" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/081-fatjokechrischristiefunny.txt" offsetInSource="0" documentSize="4225" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="291" sofa="1" begin="0" end="4225" lastUpdate="2015-01-06T12:15:00Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/fat-joke-chris-christie-funny" portal="guardian" authors="Marianne Kirby" articleSum="Marianne Kirby: We get it: you think the New Jersey governor is stupid because he’s overweight like so many of the rest of us" title="Do you really think your fat joke about Chris Christie is funny?"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="New Jersey governor Chris Christie's weight - and whether it will impact any run for higher office - is once again the subject of discussion. (It comes up every year or so, and this year it's bound to come up every month or so .) On Sunday, Christie drew some people's ire by sitting with (ok, and hugging) the owner of the Dallas Cowboys, the team of which he is a fan. It doesn't actually seem to matter what Christie does, though: the kneejerk reaction to a hefty politician is always, inevitably, to insult his body, and now Christie's brother is even reacting to that reaction on Facebook.&#10;&#10;Fat people are described as gross and disgusting often enough that some of us loathe our own bodies to the point of self-injury. People think we're stupid and weak (or we'd just lose weight, right?) before they even talk to us. Fatness is classified as a disease in the United States. For his part, Christie, with his long history of being fat in the public eye, turned to a weight-loss surgery called lap band in his efforts to lose weight. In that last linked article, those close to him claimed it would humanize him in the eyes of the public - without recognizing that he is, in fact and in fat, already human.&#10;&#10;Our humanity hardly seems to matter to people going for the easy fat jokes.&#10;&#10;The truth is that fat people often have a more difficult time finding a good job. (Even, maybe especially, THE job .) You're less likely to get a promotion when your body doesn't match the image of a desirable employee. This bias - this discrimination - on the part of employers costs them top talent and actually winds up adding to stereotypes about us. It's hard for fat people to be perceived as hard workers when no one believes in our work ethic in the first place.&#10;&#10;But that's hardly the worst of the stereotypes: a couple of years ago, during a televised &quot;debate&quot; about fatness and fat acceptance with anti-obesity spokesperson MeMe Roth and model Crystal Renn, Roth finally gave in and called me stupid - using a single study that proclaim that fat people just have smaller brains and are therefore less intelligent. I laughed: it was a desperate attempt at an insult more than it was scientific discussion, but it was also honest - because it's definitely not the first time I've run across that conviction.&#10;&#10;Chris Christie, for all of his accomplishments, faces the same sort of discrimination as the fat person passed over for a job because of a hiring manager's bias - he's just facing it on a very intense and public level. People look at him and judge his body. They don't evaluate his intelligence based on his decisions; they just assume he's stupid because he's fat. They ignore that it does actually take quite a lot of work to get elected as governor - politics is many things, but it's never a cake walk, and he's been involved since 1977. And America has had fat presidents before - not many of them, but some rather notable ones, including Teddy Roosevelt.&#10;&#10;Chris Christie is - and this is another uncomfortable thing for someone with my own fairly radical political views to say - a complicated and intelligent politician. His actions are often well-considered (even when I screamingly disagree with them, which happens a lot) and even sometimes moderate, at least in the sense that he occasionally works across party lines ... and certainly across state lines when it comes to the NFL.&#10;&#10;But the fat jokes keep on coming :.&#10;&#10;How bout hittin the gym?? ... Christie won't back down, may watch Cowboys in Green Bay via @POLITICO for iOS http://t.co/Vn6SS5J4EB.&#10;&#10;US News &amp; World Report's David Catanese even said that his brother's defense makes Christie looks bad because ... he countered &quot;'crazy, pathetic posts' with one of his own&quot;. Apparently it's more presidential when you take the abuse about your body without anyone saying anything.&#10;&#10;And the fat jokes keep obscuring the actual conversation that needs to happen about Christie's political views, even as he remains cagey about running for the Republican nomination in 2016. And if you're one of the people who'd rather insult his weight than talk about his politics, I have to ask: who is the less intelligent person, really? I don't think it's the fat guy."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 291"/>
+</xmi:XMI>

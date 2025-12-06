@@ -1,0 +1,197 @@
+0	title	Rape culture on campus: The silence of men.
+-1	par-sep	
+1	continued	There are some voices
+2	assumption	that have been conspicuously absent since the publication of Sabrina Rubin Erdely's Rolling Stone article "A Rape on Campus: A Brutal Assault and a Struggle for Justice at UVA."
+3	continued	Administrators at UVA were forced
+4	anecdote	to respond to the allegations of a 2012 gang rape at the Phi Kappa Psi fraternity
+5	no-unit	,
+6	no-unit	and
+7	continued	women came out in force
+8	assumption	to share their stories of sexual violence on campus
+9	no-unit	.
+-1	par-sep	
+10	continued	Erdely received so much testimony from women on the UVA campus about the rape culture
+11	continued	that she wrote a follow-up article "Rape at UVA
+12	continued	:
+13	continued	Readers Say
+14	anecdote	Jackie Wasn't Alone."
+15	no-unit	However
+16	no-unit	,
+17	assumption	 the fraternities on campus have been silent as a whole
+18	no-unit	.
+19	assumption	And this is not only a UVA problem
+20	no-unit	-
+21	assumption	rape culture, often cantered in the hypermasculine environment of fraternities, is an epidemic at colleges across the US
+22	no-unit	.
+23	continued	Gregory Orr
+24	continued	,
+25	continued	who has taught at UVA for the past 39 years
+26	continued	,
+27	continued	argued
+28	continued	:
+29	continued	"Fraternity culture is about as deeply implicated in misogyny and other prejudicial evils
+30	continued	as
+31	testimony	you can imagine."
+-1	par-sep	
+32	continued	In September, New York Magazine ran a feature
+33	continued	"Meet the College Women
+34	continued	Who Are Starting a Revolution Against Campus Sexual Assault"
+35	anecdote	that included the story of Emma Sulkowicz
+36	no-unit	.
+37	continued	She is a Columbia University student
+38	continued	who, in response to
+39	continued	being raped and seeing inaction on the part of her university
+40	continued	to seek justice
+41	continued	,
+42	continued	strapped a mattress to her back and vowed
+43	continued	to walk around campus
+44	continued	until
+45	anecdote	her rapist was expelled
+46	no-unit	.
+-1	par-sep	
+47	assumption	Women like Sulkowicz and Jackie (the victim at UVA) are insulted, mistreated, and ignored by the university administration
+48	no-unit	until
+49	assumption	they take their stories public
+50	no-unit	.
+51	assumption	In many of these stories of sexual violence, the victims are transformed into activists
+52	no-unit	.
+-1	par-sep	
+53	continued	But where
+54	continued	are the men, and in particular
+55	continued	,
+56	continued	where
+57	assumption	are the fraternity brothers?
+58	continued	In the case of Jackie	Modd-NU
+59	continued	,	Modd-NU
+60	continued	seven fraternity brothers participated in the rape
+61	continued	while
+62	anecdote	two watched
+63	no-unit	,
+64	no-unit	and
+65	anecdote	it took place at a fraternity party
+66	no-unit	.
+67	continued	We know
+68	assumption	that there were witnesses
+69	no-unit	,
+70	continued	and yet
+71	assumption	the fraternity and its members have been silent
+72	no-unit	.
+-1	par-sep	
+73	no-unit	While
+74	assumption	some critics are calling for an end to Greek life
+75	no-unit	,
+76	continued	I ask
+77	other	that fraternity brothers speak out about sexual violence
+78	no-unit	,
+79	continued	which has been widely documented across the country
+80	continued	,
+81	assumption	and act in solidarity with victims of violence
+82	no-unit	.
+-1	par-sep	
+83	anecdote	I reached out to several fraternity brothers on the UVA campus for interviews
+84	no-unit	,
+85	no-unit	and
+86	anecdote	I got only one response
+87	no-unit	:
+88	continued	"I'm sure
+89	continued	you're aware of the moratorium
+90	continued	the IFC placed on fraternities in regards to
+91	testimony	speaking to journalists about the Rolling Stone article."
+-1	par-sep	
+92	continued	The IFC should take this moment
+93	assumption	to promote open dialogue about sexual violence
+94	no-unit	,
+95	no-unit	and
+96	continued	this requires
+97	continued	admitting
+98	assumption	that the documented culture of sexual violence in fraternities has validity
+99	no-unit	,
+100	no-unit	and
+101	continued	that fraternity brothers have been complicit in a culture
+102	assumption	that shames and silences rape victims
+103	no-unit	.
+-1	par-sep	
+104	continued	Across the board denial of any mistreatment of women seems
+105	assumption	to be the modus operandi of fraternities
+106	no-unit	.
+107	continued	One fraternity brother at UVA agreed
+108	continued	to speak to me as long
+109	continued	as
+110	anecdote	I didn't use his name or identify his fraternity
+111	no-unit	.
+112	continued	He said
+113	continued	:
+114	continued	"The only times
+115	continued	I've ever seen or heard of disrespect towards women happening at our fraternity house
+116	continued	was at the hand of non-brothers
+117	continued	,
+118	continued	and
+119	testimony	they were promptly thrown out."
+-1	par-sep	
+120	no-unit	To say the least
+121	no-unit	,
+122	continued	I find
+123	continued	this hard
+124	assumption	to believe
+125	no-unit	.
+126	assumption	Stories of disrespect towards women at fraternities or elsewhere on campus abound not only at UVA, but nationwide
+127	no-unit	.
+-1	par-sep	
+128	continued	Fraternity culture is a vestige of the past, of a money and power pipeline
+129	continued	that installs men into a network
+130	assumption	that protects and provides for them for life
+131	no-unit	if
+132	assumption	they are loyal
+133	no-unit	.
+-1	par-sep	
+134	continued	That power was on display
+135	continued	when
+136	continued	UVA made a choice about
+137	continued	hiring an "independent" investigator
+138	assumption	to look into the gang rape allegations
+139	no-unit	.
+140	continued	Lawyer Mark Filip was selected
+141	continued	to lead the independent investigation, this despite the fact
+142	continued	that he was a member of the Phi Kappa Psi fraternity, the very same one
+143	continued	whose members
+144	anecdote	were accused of gang rape
+145	no-unit	.
+146	anecdote	He was later recused from the case
+147	no-unit	.
+-1	par-sep	
+148	assumption	Fraternity culture also represents antiquated values about gender
+149	no-unit	,
+150	no-unit	and
+151	continued	on the UVA campus it manifests itself in a system
+152	continued	in which fraternities have a monopoly on
+153	continued	serving alcohol
+154	anecdote	(drinking is not allowed at sororities)
+155	no-unit	.
+156	assumption	This installs fraternities at the very centre of college drinking and socialisation culture
+157	no-unit	.
+-1	par-sep	
+158	continued	I wish
+159	continued	I was writing the article
+160	continued	,
+161	continued	"Meet the College Fraternity Brothers
+162	anecdote	Who Are Starting a Revolution Against Campus Sexual Assault,"
+163	no-unit	but
+164	continued	that would mean
+165	continued	that fraternities would have
+166	assumption	to quickly usher themselves into the 21st century
+167	no-unit	.
+168	continued	All
+169	continued	it takes
+170	continued	is a few inspired, outspoken individuals
+171	continued	to start a movement against sexual violence
+172	continued	,	Modd-NU
+173	continued	as	Modd-NU
+174	assumption	victims of sexual violence have shown	modd-ASM
+175	no-unit	.
+176	continued	It is time for fraternity brothers
+177	assumption	to join them
+178	no-unit	,
+179	continued	to use
+180	continued	their strength and numbers to speak out against rape culture and work
+181	assumption	to change it
+182	no-unit	.

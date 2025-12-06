@@ -1,0 +1,156 @@
+0	title	Privatising Mexico's oil industry spells disaster.
+-1	par-sep	
+1	continued	Considering Mexico's history and the present political context, it's no surprise
+2	continued	that the majority of the Mexican population nowadays is either deeply suspicious of President Pena Nieto or just opposed to the current fast-track drive
+3	assumption	to privatise oil and pass it into the hands of foreign oligopolies
+4	no-unit	.
+-1	par-sep	
+5	assumption	At present, Mexico suffers from an extremely weak state
+6	continued	where	Modd-NU
+7	assumption	the vast majority of crimes go unaddressed because of a judicial vacuum
+8	no-unit	.
+9	continued	More than 22,000 forced disappearances have occurred
+10	continued	since
+11	statistics	2007 and more than 70,000 people have been killed since 2006
+12	no-unit	.
+13	continued	Almost every week we hear
+14	assumption	about more mass graves discovered
+15	no-unit	.
+16	assumption	Most recently, a massacre of students in Iguala shook the nation
+17	no-unit	.
+-1	par-sep	
+18	statistics	Mexico also suffers from the third largest illicit economy in the world, according to the Global Financial Integrity Report
+19	no-unit	.
+20	assumption	Clearly, organised crime is openly challenging and fragmenting the state
+21	no-unit	.
+22	continued	In the face of these facts even President Nieto has admitted in public speeches
+23	testimony	that Mexico's legal system is in shambles
+24	no-unit	.
+-1	par-sep	
+25	continued	International experience and basic common sense indicate
+26	continued	that a country must possess a minimum standard of the rule of law
+27	continued	in order
+28	continued	to be able
+29	continued	to foster social benefits for most of its population
+30	continued	when
+31	assumption	privatising state assets
+32	no-unit	.
+-1	par-sep	
+33	continued	Without functional regulatory and judicial controls, it is technically and politically not feasible for any oil-funded social development fund
+34	assumption	to effectively spread wealth to future generations through new public education programmes, a modernised public health, adequate environmental standards and a much-improved physical infrastructure
+35	no-unit	.
+-1	par-sep	
+36	continued	Absolutely nothing today indicates
+37	assumption	that Mexico can implement privatisation of the oil infrastructure at even the most basic standards of security, transparency, effectiveness and efficiency
+38	no-unit	.
+-1	par-sep	
+39	no-unit	Yet
+40	no-unit	,
+41	assumption	 a Mexican paradox occurs
+42	no-unit	.
+43	no-unit	While
+44	assumption	insecurity still runs at record highs
+45	no-unit	,
+46	continued	foreign money keeps
+47	assumption	pouring in
+48	no-unit	.
+49	continued	What's
+50	assumption	going on?	m-question
+51	continued	Since the beginning of the still unfinished democratic transition and since the economic opening to international trade of the early 1990s, Mexico managed
+52	anecdote	to attract billions of dollars per year in foreign direct investment
+53	no-unit	.
+54	no-unit	Yet
+55	no-unit	,
+56	assumption	 most of this money has been channelled into politically managed non-competitive sectors in the hands of Mexican "state courtesans" disguised as private entrepreneurs
+57	assumption	who over the last 25 years created vast oligopolies out of the privatisation of state assets
+58	no-unit	.
+-1	par-sep	
+59	assumption	The privatisation process in Mexico has largely been conducted through dubious procedures orchestrated by corrupt federal governments
+60	no-unit	.
+61	continued	All this happened in the midst of a Mexican economy
+62	assumption	lacking technological innovation with low productivity
+63	no-unit	and
+64	continued	where	Modd-NU
+65	continued	more than half of
+66	continued	what
+67	continued	is produced and consumed
+68	statistics	is exchanged within informal/illicit markets
+69	no-unit	.
+-1	par-sep	
+70	no-unit	Nevertheless	Modd-NU
+71	no-unit	,	Modd-NU
+72	continued	 these so-called private oligopolies within the mining, banking and telecommunications industries operate in a crony capitalistic fashion by
+73	continued	attracting foreign investors to politically protected markets
+74	assumption	in which governments (through bribes and subsidies) ensure rates of return two to five times above the international average
+75	no-unit	.
+76	continued	How
+77	continued	can, for example, German or US oligopolies presently investing in Mexico fail
+78	assumption	to fall in love with such a "generous" corrupt system?
+-1	par-sep	
+79	assumption	The forthcoming Mexican oil privatisation falls comfortably within this "legally corrupt" economic framework
+80	no-unit	.
+-1	par-sep	
+81	no-unit	Yet	Modd-NU
+82	no-unit	,	Modd-NU
+83	continued	 harsh social realities have a way of
+84	assumption	trumping politics most of the time
+85	no-unit	.
+86	continued	Mexican writer and journalist Ana Lilia Perez published in 2012 a book titled
+87	anecdote	"The Black Cartel"
+88	anecdote	in which she provides a description of massive organised crime infiltration within the top managerial echelons of the state-run oil company, PEMEX
+89	no-unit	.
+-1	par-sep	
+90	assumption	The nature of the organised crime infiltration covers technical and political appointees at PEMEX
+91	no-unit	.
+92	no-unit	Moreover	Modd-NU
+93	no-unit	,	Modd-NU
+94	continued	 with thorough documentation, Ms Perez provides a detailed account of
+95	continued	how and where
+96	anecdote	a large portion of the oil extracted and distributed by PEMEX is currently stolen through illegal operations
+97	no-unit	.
+-1	par-sep	
+98	continued	These have been linked to Mexican politicians and US and Mexican private companies
+99	continued	selling illegal Mexican oil to the markets in Canada, Mexico and the US
+100	continued	,
+101	continued	with the complicity of the Mexican armed forces supposedly responsible for
+102	assumption	protecting the PEMEX infrastructure
+103	no-unit	.
+-1	par-sep	
+104	assumption	The current illegal oil trafficking comes with high-level political corruption, intense armed conflict causing thousands of deaths per month and frequent acts of terrorism against the PEMEX infrastructure
+105	no-unit	.
+106	continued	One cannot expect this armed conflict scenario
+107	assumption	to just go away after privatisation
+108	no-unit	.
+-1	par-sep	
+109	continued	In this kind of context, any honest foreign investor bidding within a Mexican oil privatisation process should have his or her head checked or otherwise possess enough political clout within Mexico or the financial capacity
+110	continued	to bribe with millions of dollars
+111	continued	the government ladder and pay for a vast praetorian guard of security personnel
+112	assumption	to manage the armed chaos ahead
+113	no-unit	.
+114	no-unit	In comparison
+115	no-unit	,
+116	continued	dealing with other oil producing countries with problematic states, such as Nigeria
+117	continued	,
+118	assumption	would seem like a walk in the park
+119	no-unit	.
+-1	par-sep	
+120	continued	Shareholders of oil companies can only expect low economic returns and chaos from
+121	assumption	investing in the Mexican oil sector
+122	no-unit	,
+123	no-unit	unless
+124	no-unit	,
+125	continued	prior to any private investment drive, an international judicial cooperation effort starts
+126	assumption	dismantling the vast organised crime networks within the Mexican oil business and beyond
+127	no-unit	.
+128	continued	This international judicial cooperation must entail the actual implementation of a serious anti-corruption programme within the Mexican state with much broader conflict of interest and traffic of influence statutes
+129	continued	,
+130	assumption	all monitored by reputable international civil society organisations
+131	no-unit	.
+-1	par-sep	
+132	no-unit	Furthermore	Modd-NU
+133	no-unit	,	Modd-NU
+134	continued	 the failure of the Mexican state needs
+135	assumption	to be corrected with the installation of autonomous investigative units for economic crimes within each Mexican region and the creation of witness protection programmes for cases of political corruption linked to organised crime
+136	no-unit	.
+137	assumption	These reforms will be good for Mexican society in general and also good for the pockets of Mexican and foreign oil investors
+138	no-unit	.

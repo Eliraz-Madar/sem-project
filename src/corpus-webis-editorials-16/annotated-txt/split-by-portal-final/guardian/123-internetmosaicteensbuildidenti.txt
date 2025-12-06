@@ -1,0 +1,244 @@
+0	title	The internet is fertile ground for the mosaic of allegiances out of which teens build identity.
+-1	par-sep	
+1	continued	Young people - at least weird young people, at very least weird young girls - are often eager
+2	assumption	to announce themselves
+3	no-unit	.
+4	assumption	In lieu of a strong self-concept, the young build themselves out of a mosaic of allegiances
+5	no-unit	.
+6	assumption	The online world is fertile ground for these
+7	no-unit	.
+8	continued	Tumblr, Twitter and 4chan, for example, are full of young people pledging fervent allegiance to a favorite fan culture, a political movement or a self-diagnosis, with all the rights, privileges, and rivalries
+9	anecdote	that implies
+10	no-unit	.
+11	assumption	Some of these will be important parts of a person's identity for life
+12	no-unit	.
+13	assumption	Others will mortify them within a year
+14	no-unit	.
+15	continued	At that age, it can be very, very hard
+16	continued	to tell
+17	assumption	which will be which
+18	no-unit	.
+-1	par-sep	
+19	continued	Building a self-concept
+20	continued	means
+21	assumption	staking your claim for an audience, however small
+22	no-unit	.
+23	continued	I'm sure
+24	assumption	kids still write private stuff
+25	no-unit	.
+26	continued	But it's hard
+27	continued	when
+28	continued	you are young and lonely - no matter
+29	continued	how many
+30	continued	fandoms
+31	continued	you join
+32	continued	-
+33	continued	to resist a readily- available audience
+34	assumption	that doubles as a support group
+35	no-unit	.
+36	continued	I wouldn't have been able to
+37	continued	,
+38	assumption	I think
+39	no-unit	:
+40	anecdote	I wrote letters
+41	no-unit	,
+42	no-unit	but
+43	no-unit	if	cond
+44	assumption	there had been Tumblr back then	cond
+45	no-unit	,	cond
+46	assumption	I would have been on it like scarves on Sherlock
+47	no-unit	.
+-1	par-sep	
+48	assumption	The support of the invisible masses can be incredibly positive
+49	no-unit	.
+50	continued	For teens
+51	continued	who are isolated physically or emotionally
+52	continued	,
+53	continued	the internet might provide the first glimmer of
+54	continued	understanding
+55	assumption	that there's nothing actually wrong with them
+56	no-unit	.
+57	continued	It can be a way
+58	continued	to connect with other people
+59	continued	,
+60	continued	to build support systems to
+61	continued	which you don't have access in your offline life, a way
+62	continued	to live and explore an identity
+63	continued	that you might have
+64	assumption	to keep hidden or secret for your own protection
+65	no-unit	.
+-1	par-sep	
+66	assumption	But there can also be pitfalls
+67	no-unit	.
+68	continued	Sometimes
+69	continued	,
+70	continued	when
+71	continued	you're trying
+72	continued	to figure out
+73	continued	who you are
+74	continued	and
+75	continued	what
+76	continued	you believe
+77	continued	,
+78	assumption	you test out a lot of convictions
+79	no-unit	.
+80	continued	(I had an
+81	continued	"I hate feminists
+82	continued	because
+83	continued	they get mad
+84	continued	when
+85	continued	men hold doors for them"
+86	anecdote	phase, for example
+87	no-unit	.)
+88	continued	Once
+89	assumption	you've made those statements in public	cond
+90	no-unit	,	cond
+91	continued	it's harder
+92	continued	to pull up
+93	continued	,
+94	continued	to nix one bit of the person
+95	continued	you've created from scratch
+96	continued	and go
+97	assumption	exploring down a different route
+98	no-unit	.
+99	continued	You've already told Tumblr
+100	anecdote	that you are definitely, really a wolf with wings
+101	no-unit	;
+102	anecdote	you've argued in favor of Otherkin rights and awareness
+103	no-unit	;
+104	anecdote	you've become a leader of the Otherkin community
+105	no-unit	.
+106	continued	Or	Modd-NU
+107	continued	worse	Modd-NU
+108	continued	,	Modd-NU
+109	continued	you've helped
+110	anecdote	your 4chan buddies dox a female game developer
+111	no-unit	and
+112	anecdote	your rape-threat tweets are screencapped and re-tweeted all over the internet
+113	no-unit	.
+114	assumption	You've pledged allegiance
+115	no-unit	,
+116	no-unit	and
+117	continued	everyone saw
+118	assumption	you do it
+119	no-unit	.
+120	continued	Now
+121	continued	,
+122	continued	when
+123	continued	someone challenges you
+124	continued	,
+125	continued	you have
+126	assumption	to double down
+127	no-unit	.
+-1	par-sep	
+128	continued	The danger of
+129	continued	overcommitting to
+130	continued	passing thoughts by
+131	continued	making
+132	continued	them public
+133	assumption	isn't just a pitfall for teens
+134	no-unit	.
+135	assumption	Adults do it all the time 
+136	no-unit	-
+137	continued	they make an offhanded comment and then make
+138	continued	it worse
+139	assumption	with a defensive non-apology, or complain about an offhanded comment and set off the outrage machine
+140	no-unit	.
+141	continued	But the teen years are an identities factory
+142	continued	,
+143	assumption	churning out new products right and left
+144	no-unit	.
+145	assumption	You try out more opinions and self-concepts
+146	no-unit	,
+147	no-unit	and
+148	continued	you're much more susceptible
+149	assumption	to peer pressure
+150	no-unit	.
+151	continued	It's perfect lab conditions for
+152	continued	getting locked into an idea of yourself
+153	assumption	that would have otherwise been ephemeral
+154	no-unit	.
+-1	par-sep	
+155	continued	I'm not saying
+156	assumption	we should keep teenagers off the internet
+157	no-unit	.
+158	assumption	Teens are the internet's beating heart
+159	no-unit	,
+160	no-unit	and
+161	assumption	they always have been
+162	no-unit	;
+163	continued	an internet without teens doesn't bear
+164	assumption	thinking about
+165	no-unit	.
+166	no-unit	Besides	Modd-NU
+167	no-unit	,	Modd-NU
+168	continued	 young people
+169	continued	who are marginalized, or confused, or in any way lonely
+170	continued	need
+171	continued	to see
+172	continued	that there is a whole world
+173	continued	they can connect to
+174	continued	-
+175	continued	that there are people
+176	continued	who share their problems
+177	continued	,
+178	continued	or maybe
+179	assumption	that their idiosyncrasies aren't problems at all
+180	no-unit	.
+-1	par-sep	
+181	continued	In an ideal world we'd keep adults off the internet instead
+182	continued	,
+183	continued	to preserve it as a space of identity experimentation for the people
+184	assumption	who really need that
+185	no-unit	.
+186	no-unit	Given	cond
+187	continued	that adults are unlikely
+188	assumption	to accept this idea	cond
+189	no-unit	,	cond
+190	continued	maybe we can all go back to
+191	continued	using cute
+192	assumption	handles like LadyBloodrayne instead of our real names all the time
+193	no-unit	.
+194	continued	(I
+195	continued	don't know
+196	continued	,
+197	anecdote	I was a goth
+198	no-unit	.)
+199	no-unit	If	cond
+200	assumption	she embarrasses you	cond
+201	no-unit	,	cond
+202	assumption	ditch her for TitaniaDarkwing!
+203	no-unit	If	cond
+204	assumption	she gets you in trouble
+205	no-unit	,	cond
+206	assumption	switch to EldritchAngel!
+207	assumption	Actually, don't
+208	no-unit	:
+209	continued	I like that one
+210	continued	,
+211	continued	and
+212	other	I'm keeping it
+213	no-unit	.
+-1	par-sep	
+214	continued	At any rate, I hope
+215	assumption	that young people - at least lonely, weird young people, at very least lonely weird young girls - occasionally resist some of their urges for public self-declaration
+216	no-unit	.
+217	continued	I hope
+218	continued	they're writing emails to friends, even ones
+219	assumption	they've never met in person
+220	no-unit	.
+221	continued	In my ideal world they'd even take up
+222	assumption	writing letters again
+223	no-unit	.
+224	continued	Cobbling together an identity
+225	assumption	is a fraught, uncertain, often very retroactively embarrassing pursuit
+226	no-unit	.
+227	continued	I hope
+228	continued	that the young weirdos of today can be kind enough to their future selves
+229	assumption	to draw a decorous veil over some of that floundering
+230	no-unit	.
+231	continued	At least until 20 years in the future
+232	continued	,
+233	continued	when
+234	assumption	it becomes funny again
+235	no-unit	.

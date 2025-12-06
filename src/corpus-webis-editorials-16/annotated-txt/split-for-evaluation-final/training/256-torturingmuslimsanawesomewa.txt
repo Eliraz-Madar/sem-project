@@ -1,0 +1,350 @@
+0	title	Torturing Muslims is an 'awesome' way to get things done.
+-1	par-sep	
+1	anecdote	On December 9, the Senate Select Committee released a partial report of the horrifying, illegal torture tactics used by the CIA during the Bush administration
+2	no-unit	.
+3	assumption	Some question the timing
+4	no-unit	.
+5	continued	I think
+6	assumption	the timing is perfect
+7	no-unit	.
+-1	par-sep	
+8	continued	We are now in a position
+9	continued	to recall
+10	continued	what
+11	continued	past black activists, from Martin Luther King to Angela Davis to Muhammad Ali, knew
+12	continued	when
+13	assumption	they spoke against the immoral actions of their nation in Vietnam
+14	no-unit	.
+15	continued	The protesters in Ferguson got a sneak peek, or a reminder, of this lesson in August
+16	continued	,
+17	continued	when
+18	continued	Palestinians
+19	continued	,
+20	continued	who had experience with
+21	continued	being shot at with US-made weaponry
+22	continued	,
+23	continued	advised US protesters on
+24	continued	how
+25	anecdote	to treat the searing pain of tear gas bombs
+26	no-unit	(pour Coca-Cola directly over the eyes)
+27	no-unit	.
+-1	par-sep	
+28	continued	But recently, because of the quick succession of the failures
+29	continued	to indict the killers of Michael Brown and Eric Garner, and then the release of the torture report
+30	continued	,
+31	continued	we are at a moment
+32	assumption	in which the link between our domestic terrorism and our international terrorism is being drawn for the rest of us
+33	no-unit	.
+-1	par-sep	
+34	continued	Immediately after the release of the report, many in the media did their best
+35	continued	to claim
+36	assumption	that the release of this report was part of some wider conspiracy to demoralise Americans
+37	no-unit	.
+38	assumption	The best example of this would be Fox News' Andrea Tantaros
+39	no-unit	,
+40	continued	who, in the middle of a conversation about the report, began
+41	continued	shouting
+42	continued	that "The United States of America is awesome
+43	continued	,
+44	anecdote	we are awesome."
+45	continued	She seemed positively indignant
+46	continued	that the Obama administration was attempting
+47	continued	to "have this discussion
+48	continued	to show us
+49	continued	how
+50	assumption	we're not awesome"
+51	no-unit	.
+-1	par-sep	
+52	continued	For those unfamiliar with the slang of US hipsters and teenagers, we generally use the "awesome/not awesome" binary
+53	assumption	to evaluate things like pizza, beer, or surfboards - not the moral character of a nation-state
+54	no-unit	.
+-1	par-sep	
+55	no-unit	But
+56	no-unit	,
+57	no-unit	if
+58	continued	we are	cond
+59	assumption	to adopt her method of expression	cond
+60	no-unit	,
+61	continued	Tantaros seems
+62	continued	to be forgetting
+63	continued	that she is able
+64	continued	to be on television in part because one
+65	continued	or
+66	continued	two generations ago, a few people declared
+67	continued	that women not
+68	continued	being able
+69	continued	to participate in news media
+70	assumption	was not very "awesome"
+71	no-unit	.
+72	continued	She also forgets
+73	continued	that a couple generations before that, her Greek last name would have prevented her from
+74	continued	being considered
+75	assumption	"white"
+76	no-unit	,
+77	no-unit	and
+78	assumption	she thus would not have been allowed in front of a camera
+79	no-unit	.
+80	continued	Whether	Modd-NU
+81	continued	Tantaros accepts it or not	Modd-NU
+82	continued	,	Modd-NU
+83	continued	the history of equality in the US has been one of people deciding
+84	continued	that things were not yet awesome
+85	continued	,
+86	continued	and taking it upon themselves
+87	continued	to make
+88	assumption	them more awesome
+89	no-unit	.
+-1	par-sep	
+90	continued	But we should note
+91	continued	that Tantaros was primarily angry at
+92	continued	being forced
+93	continued	to have a public conversation
+94	continued	,
+95	continued	and at
+96	continued	being embarrassed
+97	continued	that the world was seeing
+98	assumption	us have a discussion about our behaviour
+99	no-unit	.
+100	continued	"This
+101	continued	makes
+102	continued	us look bad,"
+103	testimony	she pleaded
+104	no-unit	.
+105	continued	"And all this does
+106	continued	is have our enemies
+107	testimony	laughing at us."
+-1	par-sep	
+108	common-ground	Not only is torture illegal
+109	no-unit	,
+110	no-unit	but
+111	assumption	by US' own standards, it is ineffective
+112	no-unit	.
+113	assumption	The CIA knew this
+114	no-unit	.
+115	continued	The 1992 US Army Field Manual on Interrogation explicitly advises
+116	continued	that "the use of force is a poor technique
+117	continued	,
+118	continued	as
+119	continued	it yields unreliable results", and can "induce the source
+120	continued	to say
+121	continued	whatever
+122	continued	he thinks
+123	continued	the interrogator wants
+124	testimony	to hear"
+125	no-unit	.
+126	continued	This ended up
+127	assumption	being true
+128	no-unit	-
+129	continued	we now know
+130	continued	that one prisoner told the CIA
+131	continued	that he was trying
+132	continued	to recruit black Muslims in the US
+133	anecdote	to attack gas stations
+134	no-unit	.
+135	continued	He later admitted
+136	continued	that he made up the story
+137	continued	,
+138	continued	"because
+139	continued	he thought
+140	continued	that's
+141	continued	what
+142	continued	interrogators wanted
+143	testimony	to hear"
+144	no-unit	.
+-1	par-sep	
+145	continued	This year has also shown us
+146	assumption	that ineptitude can also happen at home, with our domestic police forces
+147	no-unit	.
+148	assumption	The Ferguson Police Department has utterly failed to de-escalate tensions at every possible opportunity
+149	no-unit	.
+150	continued	We now know the officer
+151	continued	that killed
+152	continued	12-year-old Tamir Rice was not fit
+153	assumption	to hold a pistol, much less a badge
+154	no-unit	.
+155	no-unit	In fact	Modd-NU
+156	no-unit	,	Modd-NU
+157	continued	 a report by the Justice Department has shown
+158	continued	that Cleveland police officers routinely use unjustified force in arrests, and fire
+159	testimony	their weapons "carelessly"
+160	no-unit	,
+161	continued	putting both innocent bystanders
+162	continued	and
+163	common-ground	themselves in danger
+164	no-unit	.
+-1	par-sep	
+165	no-unit	If
+166	assumption	the timing of the one-two punch of public revelations of anti-black racism and criminal torture do not convince us	cond
+167	no-unit	,	cond
+168	continued	then we can at least recognise a pattern in the people
+169	continued	that are desperate
+170	assumption	to deny both
+171	no-unit	.
+-1	par-sep	
+172	continued	The torture report is available to anyone
+173	continued	to view online
+174	continued	,
+175	continued	provided
+176	continued	they are willing
+177	assumption	to wade through pages and pages of gruesome accounts
+178	no-unit	.
+179	continued	There is an account of
+180	anecdote	putting a prisoner in a diaper, shackling him to the ceiling, and leaving him for days
+181	no-unit	.
+-1	par-sep	
+182	continued	One prisoner died of hypothermia after
+183	anecdote	being chained, nearly naked, to a concrete floor
+184	no-unit	.
+185	anecdote	Many were sexually assaulted
+186	no-unit	.
+187	continued	Despite this, Republican Congressman Peter King attempted
+188	continued	to wave these facts away
+189	continued	,
+190	continued	declaring
+191	testimony	that no harmful torture occurred
+192	no-unit	.
+193	no-unit	Instead	Modd-NU
+194	no-unit	,	Modd-NU
+195	continued	 he brushed it off as merely a few
+196	continued	"people made
+197	testimony	to stand in awkward positions"
+198	no-unit	.
+-1	par-sep	
+199	continued	This is the same Peter King
+200	continued	who said
+201	continued	that Eric Garner did not die because of a chokehold
+202	continued	,
+203	continued	but
+204	continued	because
+205	testimony	he was overweight
+206	no-unit	.
+207	continued	It is also the same Peter King
+208	continued	that implied
+209	continued	that Garner, in his final moments, was lying about
+210	continued	not being able
+211	testimony	to breathe
+212	no-unit	.
+-1	par-sep	
+213	no-unit	If
+214	assumption	Tantaros' reaction to the defiling of the "awesomeness" of the US seems childish	cond
+215	no-unit	,	cond
+216	assumption	Peter King's reaction is worse
+217	no-unit	.
+218	continued	It is the rhetorical equivalent of
+219	continued	sticking your fingers in your ears, and shouting "nyah, nyah
+220	continued	,
+221	assumption	I can't hear you" - as your brother drowns beside you
+222	no-unit	.
+-1	par-sep	
+223	no-unit	And
+224	no-unit	,
+225	continued	as if
+226	continued	we needed any clearer indication on
+227	continued	how
+228	assumption	racism and callousness regarding the torture of non-whites were connected
+229	no-unit	,
+230	assumption	we were given a clear reminder last week
+231	no-unit	,
+232	no-unit	when
+233	anecdote	Facebook released a 23 second commercial about a feature of its service, and cast a Sikh man as the spokesperson
+234	no-unit	.
+235	continued	The video was immediately bombarded with angry comments
+236	anecdote	calling the man an "ISIL terrorist", a "raghead", and a "sand nigger"
+237	no-unit	.
+238	continued	One commenter blasted
+239	continued	Facebook itself
+240	continued	,
+241	continued	asking
+242	continued	"Why
+243	anecdote	do you have a Muslim on this pic?"
+244	continued	When
+245	continued	another user replied
+246	continued	that he was a Sikh
+247	continued	,
+248	continued	the commenter responded
+249	continued	:
+250	anecdote	"Same thing."
+-1	par-sep	
+251	assumption	We might chalk this up to ignorance
+252	no-unit	:
+253	assumption	Our education system is focused on white European and US history
+254	no-unit	.
+255	assumption	Most Americans don't know the difference between a friendly Sikh man and a scary Muslim terrorist
+256	no-unit	.
+257	assumption	Actually, most Americans couldn't tell you the difference between a fatwah and a plate of chapati
+258	no-unit	.
+259	assumption	But we should be more precise here
+260	no-unit	-
+261	continued	it's not
+262	assumption	that we don't know
+263	no-unit	,
+264	continued	it's
+265	continued	that we don't want
+266	assumption	to know
+267	no-unit	.
+-1	par-sep	
+268	no-unit	But then again
+269	no-unit	,
+270	continued	separating "good" brown people from "bad" ones
+271	assumption	isn't the point, and wouldn't make a difference
+272	no-unit	.
+273	continued	For too many of us, anyone brown and bearded is automatically al-Qaeda, and deserves
+274	continued	to be tortured
+275	assumption	and killed
+276	no-unit	.
+277	continued	Our understanding of humanity does not apply to anyone
+278	assumption	that can be mistaken for Muslim or Arab
+279	no-unit	,
+280	no-unit	and
+281	continued	we excuse ourselves for this moral exception by
+282	continued	constantly reminding ourselves
+283	assumption	that our country was attacked in 2001
+284	no-unit	.
+285	continued	It's not
+286	continued	that we can't know
+287	assumption	that we are terrorising black people
+288	no-unit	.
+289	continued	It's not
+290	continued	that we can't know
+291	assumption	that the people we tortured in those prisons were people
+292	no-unit	.
+293	continued	We could
+294	continued	,
+295	continued	if
+296	assumption	we wanted to
+297	no-unit	.
+298	assumption	But we don't want to
+299	no-unit	.
+-1	par-sep	
+300	continued	The events of the past few months have shown us
+301	assumption	that we are not up against a few crooked cops, a group of rogue rednecks, or a wacky news station
+302	no-unit	.
+303	continued	We are up against an empire of immorality
+304	continued	that, in its fear, would rather shoot and waterboard the world
+305	continued	,
+306	continued	than
+307	assumption	to learn about it
+308	no-unit	.
+309	no-unit	If	cond
+310	assumption	there is a true "enemy"	cond
+311	no-unit	,	cond
+312	assumption	it is that Empire
+313	no-unit	.
+314	assumption	It has been hiding in plain sight
+315	no-unit	,
+316	no-unit	and
+317	continued	this year, it has revealed
+318	continued	itself
+319	assumption	- in the mirror
+320	no-unit	.
+321	continued	As
+322	continued	Tantaros says
+323	continued	,
+324	assumption	it laughs at us
+325	no-unit	.
+-1	par-sep	
+326	continued	What
+327	continued	we choose
+328	continued	to do about that
+329	assumption	is up to us
+330	no-unit	.

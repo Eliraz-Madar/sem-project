@@ -1,0 +1,144 @@
+0	title	The Guardian view on cheaper oil and the environment: an invitation for business as usual.
+-1	par-sep	
+1	continued	Sell roubles
+2	continued	,
+3	other	buy Ryanair
+4	no-unit	.
+5	continued	That's not only been the way
+6	continued	to make money over the past six months but also the terms
+7	assumption	in which the current slide in the price of oil is discussed
+8	no-unit	.
+9	assumption	But the effect on this stock or that currency could be as nothing compared to the eventual effect on the resources of nature
+10	no-unit	.
+-1	par-sep	
+11	continued	The gloop
+12	continued	that lubricates industrial life
+13	assumption	can remake the weather in various ways
+14	no-unit	.
+15	continued	Most obviously, cheaper energy prices
+16	continued	(many of which are still linked to the cost of crude)
+17	continued	will incrementally increase the temptation
+18	continued	to fritter away precious power 
+19	continued	-
+20	continued	to leave the car engine idling, or to fail
+21	continued	to go upstairs
+22	assumption	to switch off that light
+23	no-unit	.
+24	continued	Little habits matter, because, with the clock ticking remorselessly down towards climate catastrophe
+25	continued	,
+26	assumption	every little hurts
+27	no-unit	.
+28	continued	How much
+29	continued	damage the great oil crash will do here
+30	continued	depends
+31	continued	what
+32	assumption	happens next
+33	no-unit	.
+34	assumption	In the past, the world has been stunned not only by the waning but also the waxing of the price
+35	no-unit	.
+36	no-unit	If
+37	continued	what
+38	continued	comes down soon
+39	assumption	goes back up	cond
+40	no-unit	,	cond
+41	assumption	such direct effects may not prove so profound
+42	no-unit	.
+-1	par-sep	
+43	continued	What
+44	continued	will matter more in the longer term
+45	assumption	is the dynamic effect on the energy infrastructure
+46	no-unit	.
+47	assumption	For both good and ill, cheap oil disincentivises investment in change
+48	no-unit	.
+49	continued	On the plus side, the most exploitative schemes
+50	continued	to extract ever more fossil fuels
+51	assumption	become less economic
+52	no-unit	.
+53	continued	Already, oil companies are reviewing a planned $1 trillion in ventures, such as deep-sea drilling
+54	continued	,
+55	assumption	that no longer make economic sense
+56	no-unit	.
+57	no-unit	If	cond
+58	assumption	oil's depression continues	cond
+59	no-unit	,	cond
+60	assumption	marginal fracking projects could be extinguished
+61	no-unit	.
+62	continued	All this is helpful in terms of the burning question about
+63	continued	how
+64	continued	the world can agree
+65	assumption	to leave half of its coal, gas and oil underground
+66	no-unit	,
+67	continued	as	Modd-NU
+68	continued	it will have
+69	assumption	to	cond
+70	no-unit	if	cond
+71	continued	the world is
+72	assumption	to keep a lid on the warming
+73	no-unit	.
+-1	par-sep	
+74	continued	But at the same time cheap oil weakens market forces
+75	assumption	that might otherwise rein in energy use
+76	no-unit	.
+77	continued	The expectation
+78	continued	that fossil fuels would get scarcer and pricier
+79	continued	has forced capitalism
+80	assumption	to take investment in energy efficiency seriously
+81	no-unit	.
+82	assumption	Manufacturers of electric cars and green fridges could get cold feet
+83	no-unit	,
+84	no-unit	and
+85	assumption	there could likewise be an unravelling of the logic of developing renewable energy
+86	no-unit	,
+87	continued	which only stacks up
+88	continued	when
+89	continued	the power
+90	continued	that it generates
+91	assumption	is less costly than carbon-based energy
+92	no-unit	.
+93	continued	That's not a sum
+94	assumption	that works in favour of renewables in a free-market $50-a-barrel world
+95	no-unit	.
+-1	par-sep	
+96	no-unit	But
+97	no-unit	if	cond
+98	continued	the free market is doing less work in
+99	assumption	rationing carbon	cond
+100	no-unit	,	cond
+101	continued	that means
+102	assumption	government must do more
+103	no-unit	.
+104	continued	The politics of fixing climate have often proved
+105	assumption	horrendous
+106	no-unit	,
+107	no-unit	but
+108	continued	there really ought
+109	continued	to be a new opportunity
+110	assumption	now to do a few overdue things
+111	no-unit	.
+112	continued	Emerging economies must call time on ruinous energy subsidies
+113	assumption	that local industries now unexpectedly have less need for
+114	no-unit	.
+115	continued	Cheaper oil means
+116	continued	it's more necessary than ever
+117	assumption	that the US should follow Europe and regulate for leaner engines
+118	no-unit	.
+119	assumption	And Britain should look again at tax
+120	no-unit	.
+121	continued	As	Modd-NU
+122	continued	oil prices rose
+123	continued	,
+124	continued	the chancellor made great play of freezing fuel duties, while
+125	continued	also promising a "stabilising" rise in duties
+126	continued	when
+127	anecdote	pump prices fell
+128	no-unit	.
+129	no-unit	Now
+130	no-unit	that they have
+131	no-unit	,
+132	anecdote	the stabiliser is being abandoned
+133	no-unit	-
+134	continued	a destabilising move from an administration
+135	continued	whose claim
+136	continued	to be the greenest government
+137	assumption	ever has slowly become a hollow joke
+138	no-unit	.

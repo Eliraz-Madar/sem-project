@@ -1,0 +1,245 @@
+0	title	Nigeria's old impeachment games.
+-1	par-sep	
+1	anecdote	Recently the former president labelled many Nigerian federal legislators as thieves and looters
+2	no-unit	.
+3	continued	According to him, they indulge in
+4	testimony	extorting money from departments, contractors and ministries
+5	no-unit	.
+6	continued	"When
+7	continued	the guard is the thief,"
+8	continued	Obasanjo lamented,"
+9	testimony	only God can keep the house safe and secure."
+-1	par-sep	
+10	continued	With	Modd-NU
+11	continued	what	Modd-NU
+12	continued	is presently playing out at the National Assembly of Nigeria	Modd-NU
+13	continued	,	Modd-NU
+14	assumption	Obasanjo may be right after all
+15	no-unit	.
+16	continued	Currently, some lawmakers are purportedly plotting
+17	assumption	to remove President Goodluck Jonathan from office
+18	no-unit	.
+19	assumption	About 65 out of 109 Senators are reportedly involved in the plot
+20	no-unit	.
+-1	par-sep	
+21	continued	These anti-Jonathan lawmakers have told
+22	continued	whoever
+23	continued	cared
+24	continued	to listen
+25	testimony	that they would table the president's sins on December 16, 2014
+26	continued	when	Modd-NU
+27	assumption	they reconvene from their current recess
+28	no-unit	.
+-1	par-sep	
+29	continued	Chief among the president's reported sins are failure
+30	continued	to contain the raging insurgency in the north
+31	continued	;
+32	continued	refusal
+33	continued	to sign some bills
+34	continued	;
+35	assumption	and alleged unauthorised expenditure of 1.7 trillion Naira (about $9.5bn) on the oil subsidy fund in 2011
+36	no-unit	.
+-1	par-sep	
+37	assumption	True, the security situation in the country is not palatable
+38	no-unit	,
+39	no-unit	but
+40	assumption	it has always been so since 2009
+41	continued	when	Modd-NU
+42	assumption	Boko Haram started its violent uprising
+43	no-unit	.
+44	continued	No doubt, the president needs
+45	continued	to demonstrate
+46	continued	that he is capable of
+47	assumption	putting the terrorists to rout
+48	no-unit	.
+-1	par-sep	
+49	no-unit	But then
+50	no-unit	,
+51	continued	why
+52	assumption	are the senators just waking up to the existential realities in Nigeria?
+53	continued	Why
+54	continued	are they just discovering
+55	continued	that the president spent more than
+56	continued	what
+57	assumption	was approved for the oil subsidy fund in 2011?
+-1	par-sep	
+58	continued	The point is
+59	continued	,
+60	continued	the lawmakers desperately need financial and political support
+61	assumption	to pursue their campaigns for the general elections coming up in February 2015
+62	no-unit	.
+63	continued	And the best way
+64	continued	to get this
+65	continued	,
+66	continued	I suspect
+67	continued	,
+68	continued	is
+69	assumption	to blackmail the president with impeachment or removal
+70	no-unit	.
+71	continued	In a bid	Modd-NU
+72	continued	to retain his seat	Modd-NU
+73	continued	,	Modd-NU
+74	continued	the president is supposed
+75	continued	to calm them down by
+76	assumption	greasing their palms and supporting their bids for re-election
+77	no-unit	.
+-1	par-sep	
+78	assumption	For many Nigerians, the legislators are actually acting true to type
+79	no-unit	.
+80	continued	In August 2002	Modd-NU
+81	continued	,	Modd-NU
+82	continued	when	Modd-NU
+83	continued	the nation was preparing for the 2003 general elections	Modd-NU
+84	continued	,	Modd-NU
+85	anecdote	the National Assembly waved the impeachment flag against the then President Obasanjo
+86	no-unit	.
+-1	par-sep	
+87	continued	The lower chamber, the House of Representatives, gave
+88	continued	the him an ultimatum
+89	anecdote	to resign within two weeks or be removed
+90	no-unit	.
+91	anecdote	They accused Obasanjo of incompetence and abuse of office
+92	no-unit	.
+93	continued	At the end of the day, the so-called impeachment turned out
+94	assumption	to be a storm in a teacup
+95	no-unit	.
+-1	par-sep	
+96	continued	It has become a tradition
+97	continued	that whenever
+98	continued	the lawmakers want anything done in their favour
+99	continued	,
+100	assumption	they arm-twist the executive with threats of probes or impeachment
+101	no-unit	.
+102	assumption	But most of the probes end up an exercise in futility
+103	no-unit	.
+104	assumption	Nobody is punished
+105	no-unit	.
+106	assumption	No credible result is released
+107	no-unit	.
+-1	par-sep	
+108	continued	In 2009, the then Special Adviser on Petroleum to the president, Dr Emmanuel Egbogah, alleged
+109	continued	that oil companies took some senators to Ghana
+110	continued	to feed and bribe them
+111	anecdote	to oppose the oil and gas reforms being initiated by the federal government
+112	no-unit	.
+113	assumption	Naturally, the senators were angry
+114	no-unit	.
+115	anecdote	They called for a probe of the allegations
+116	no-unit	.
+-1	par-sep	
+117	continued	Senate President David Mark thundered
+118	continued	then
+119	continued	,
+120	continued	"There is going
+121	continued	to be a serious public hearing
+122	continued	...
+123	continued	because
+124	continued	when
+125	continued	people begin
+126	continued	to beckon at their whims and caprices
+127	continued	to label us in the way
+128	continued	they want
+129	continued	,
+130	testimony	we should take it seriously."
+131	assumption	Nothing concrete came out of this
+132	no-unit	.
+-1	par-sep	
+133	anecdote	There was also a probe of the power sector reforms undertaken by the then President Olusegun Obasanjo
+134	no-unit	.
+135	continued	The Ndudi Elumelu-led committee of the House of Representatives
+136	continued	that probed the rot in the power sector
+137	continued	spent millions of Naira in the course of
+138	anecdote	conducting their investigations
+139	no-unit	.
+140	assumption	They turned in many volumes of the report on the probe
+141	no-unit	.
+142	continued	At the end, the House set up an ad hoc committee
+143	anecdote	to review the report
+144	no-unit	.
+-1	par-sep	
+145	no-unit	Of course
+146	no-unit	,
+147	anecdote	 the review committee dropped the probe report
+148	no-unit	.
+149	continued	It reportedly accused the Elumelu panel of
+150	anecdote	lacking understanding of the nature of power sector contracts
+151	no-unit	.
+152	no-unit	Hence
+153	no-unit	,
+154	anecdote	 it exonerated the Obasanjo-led government of mismanaging funds for power projects
+155	no-unit	.
+156	assumption	The rot in this power sector is still haunting Nigerians up until today
+157	no-unit	.
+-1	par-sep	
+158	assumption	Undoubtedly, our lawmakers are incurable lawbreakers
+159	no-unit	.
+160	assumption	Sometimes, they engage in physical combat in the chambers
+161	no-unit	.
+162	continued	Sometimes, their unruly behaviour leaves even children
+163	continued	wondering
+164	continued	why
+165	assumption	such supposedly mature individuals have become soup-guzzling elders
+166	no-unit	.
+-1	par-sep	
+167	continued	They collect jumbo pay
+168	assumption	only to pass a few bills and devote most of their time in shadow-boxing
+169	no-unit	.
+170	continued	A good number of these legislators, for instance, never sponsored any bill
+171	continued	since
+172	assumption	they were elected
+173	no-unit	.
+174	assumption	Some care less about the interest of their constituents and don't report back to them
+175	no-unit	.
+176	assumption	They have also failed in their oversight of ministries and government agencies
+177	no-unit	.
+178	assumption	The House has committees in charge of different government ministries
+179	no-unit	.
+180	no-unit	But
+181	continued	what
+182	continued	some members of these committees do
+183	continued	,
+184	continued	sometimes, is
+185	continued	to demand monetary inducement
+186	assumption	to pass the budget of these ministries
+187	no-unit	.
+188	no-unit	In fact
+189	no-unit	,
+190	assumption	 money is the name of the game
+191	no-unit	.
+-1	par-sep	
+192	continued	Last year, The Economist of London reported
+193	testimony	that Nigerian legislators were about the highest paid in the world
+194	no-unit	.
+195	testimony	According to the newspaper, with the basic salary of $189,500 per annum, the Nigerian legislator earns 116 times the country's Gross Domestic Product per capita of $1,600
+196	no-unit	.
+-1	par-sep	
+197	no-unit	Still
+198	no-unit	,
+199	assumption	 many of the legislators frequently agitate for increase in their already bloated salaries and allowances
+200	no-unit	.
+-1	par-sep	
+201	no-unit	For instance	Modd-NU
+202	no-unit	,	Modd-NU
+203	continued	 in 2010, some members of the House of Representatives, not satisfied with their personal quarterly allocation of 27.2 million Naira ($153,000), wanted
+204	anecdote	their quarterly allocation increased to 42 million Naira ($234,000) for each of them
+205	no-unit	.
+206	assumption	The budget of the House could not accommodate it then
+207	no-unit	.
+208	no-unit	Hence	Modd-NU
+209	no-unit	,	Modd-NU
+210	continued	 the lawmakers reportedly suggested
+211	continued	collapsing the capital budget of the House
+212	assumption	to take care of their request
+213	no-unit	.
+-1	par-sep	
+214	assumption	It would serve the Nigerian nation better	cond
+215	no-unit	if	cond
+216	assumption	the job of the lawmakers is on a part-time basis	cond
+217	no-unit	and
+218	assumption	their salaries are drastically cut
+219	no-unit	.
+220	continued	That way, many of them will not find
+221	continued	it attractive
+222	continued	to contest the position for the sake of the lucrative pay, not to mention thinking of issuing threats
+223	assumption	they will never carry through
+224	no-unit	.

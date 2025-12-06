@@ -1,0 +1,187 @@
+0	title	Sustaining Iran's regional ambitions at all costs.
+-1	par-sep	
+1	anecdote	On December 7, Iranian President Hassan Rouhani announced a huge hike in military expenditure for the next fiscal year
+2	no-unit	.
+3	continued	Though	Modd-NU
+4	testimony	he described the budget presented to parliament as "cautious" and "tight"
+5	no-unit	,
+6	continued	military spending is
+7	statistics	to rise by 33.5 percent, far above the six percent increase in the general budget
+8	no-unit	.
+-1	par-sep	
+9	assumption	This will likely result in a greater military footprint in the region, particularly in Syria and Iraq
+10	no-unit	,
+11	continued	where
+12	anecdote	Iranian troops are directly involved in combat, training, logistics and intelligence-gathering
+13	continued	(Tehran
+14	continued	this week expanded its operations in Iraq
+15	anecdote	to include air strikes)
+16	no-unit	.
+17	assumption	It is also likely meant as a show of strength and defiance against Iran's regional rivals
+18	no-unit	.
+-1	par-sep	
+19	no-unit	However	Modd-NU
+20	no-unit	,	Modd-NU
+21	continued	 it is doubtful
+22	assumption	that Tehran can economically sustain its existing regional military commitments, let alone expand them
+23	no-unit	.
+24	continued	Crippling sanctions and a massive drop in oil prices mean
+25	assumption	a much larger military budget will put further strain on the economy
+26	no-unit	,
+27	statistics	which has reportedly shrunk by 8.6 percent over the past two fiscal years
+28	no-unit	.
+-1	par-sep	
+29	no-unit	Furthermore
+30	no-unit	,
+31	assumption	 the new budget might not be "cautious" enough
+32	no-unit	.
+33	no-unit	While
+34	continued	it is based on oil
+35	anecdote	being $70 per barrel
+36	no-unit	,
+37	continued	the price has fallen to under $70, with predictions
+38	statistics	that it will hover around $65 for the next several months, and perhaps slump even further
+39	no-unit	.
+40	assumption	This is worrying news for the government
+41	no-unit	,
+42	assumption	whose revenues are largely dependent on oil
+43	no-unit	.
+-1	par-sep	
+44	no-unit	In addition	Modd-NU
+45	no-unit	,	Modd-NU
+46	continued	 western sanctions have caused Iran's oil exports
+47	assumption	to plummet compared with a few years ago
+48	no-unit	.
+49	continued	Last year, the oil minister said
+50	testimony	the fall in exports was costing the country up to $8bn each month
+51	no-unit	.
+52	statistics	Iran reportedly lost some $26bn in oil revenue in 2012
+53	no-unit	.
+54	continued	Sanctions and falling oil revenues have hurt the value of Iran's currency, and caused inflation
+55	anecdote	to rise considerably
+56	no-unit	.
+-1	par-sep	
+57	anecdote	There has been an easing of sanctions in light of negotiations over Iran's nuclear programme
+58	no-unit	,
+59	no-unit	but
+60	assumption	it is limited
+61	no-unit	.
+62	continued	Given
+63	continued	that the talks have been extended by several months
+64	continued	,
+65	continued	the bulk of the sanctions will remain in place at least until then, with no indication as yet
+66	assumption	that a deal is within reach
+67	no-unit	.
+68	assumption	Sanctions could be reinstated or increased	cond
+69	no-unit	if	cond
+70	assumption	the talks fail
+71	no-unit	.
+-1	par-sep	
+72	continued	All this amounts to an economy
+73	assumption	that cannot keep up with Iran's regional ambitions
+74	no-unit	.
+75	assumption	The hike in military spending may arouse domestic anger	cond
+76	no-unit	if	cond
+77	continued	it is seen by Iranians
+78	continued	as
+79	assumption	spurred by foreign ventures
+80	no-unit	,
+81	continued	which is already a cause of increasing frustration
+82	continued	,
+83	continued	particularly with regard to
+84	assumption	propping up the Syrian regime
+85	no-unit	.
+-1	par-sep	
+86	no-unit	While
+87	assumption	Tehran is secretive about the extent of its military and financial assistance to its regional allies
+88	no-unit	,
+89	continued	there is a consensus
+90	assumption	that it has been a considerable economic drain, not least because of the long-term nature of these commitments
+91	no-unit	.
+-1	par-sep	
+92	continued	Tehran's direct military involvement in Iraq is viewed by many Iranians as necessary
+93	continued	to stop the Islamic State of Iraq and the Levant (ISIL) from
+94	assumption	reaching its borders
+95	no-unit	.
+96	no-unit	However	Modd-NU
+97	no-unit	,	Modd-NU
+98	continued	 there are reports of growing unease, among the public and within government, about the accumulating burden of
+99	continued	propping up Bashar al-Assad in Syria, with no end in sight to a conflict
+100	assumption	that is entering its fourth year
+101	no-unit	.
+-1	par-sep	
+102	continued	Given the current economic climate, it may be harder for Iran and Russia 
+103	continued	-
+104	continued	which is also hurting under western sanctions and low oil prices
+105	continued	-
+106	assumption	to sustain the war of attrition in Syria than for Assad's opponents
+107	no-unit	.
+108	no-unit	While
+109	assumption	the latter are also affected by falling oil prices
+110	no-unit	,
+111	anecdote	they are not under sanctions
+112	no-unit	.
+-1	par-sep	
+113	no-unit	Furthermore	Modd-NU
+114	no-unit	,	Modd-NU
+115	continued	 according to the International Monetary Fund, Iran and Russia need a much higher oil price
+116	testimony	to balance their budgets than Arab Gulf states, key backers of Syrian rebels
+117	no-unit	.
+118	assumption	Given this, and Arab Gulf states' large cash reserves and funds, they can absorb low oil prices for longer
+119	no-unit	.
+120	assumption	Saudi Arabia has relatively low production costs
+121	no-unit	,
+122	no-unit	and
+123	assumption	the US is enjoying a boom in shale oil
+124	no-unit	.
+125	assumption	Iran's oil revenue reserve fund, on the other hand, has reportedly been drained
+126	no-unit	.
+-1	par-sep	
+127	continued	Government spokesman Mohammad Baqer Nobakht accused "some so-called Islamic countries in the region" of
+128	continued	"serving the interests of America and [other] arrogant powers in
+129	continued	trying
+130	testimony	to squeeze the Islamic Republic"
+131	no-unit	.
+-1	par-sep	
+132	testimony	Rouhani has spoken of a "political conspiracy by certain countries"
+133	no-unit	.
+134	assumption	Other Iranian officials have specifically pointed the finger at Saudi Arabia
+135	no-unit	.
+-1	par-sep	
+136	continued	Regional political calculations may have been behind the decision by Riyadh and its Arab Gulf neighbours
+137	continued	to stop the recent OPEC meeting from
+138	continued	deciding
+139	continued	to cut oil output
+140	assumption	to shore up prices
+141	no-unit	.
+142	continued	The intention may be
+143	assumption	to curb Iran's regional power, and to weaken its negotiating position over its nuclear programme
+144	no-unit	,
+145	anecdote	over which the Gulf Cooperation Council has been very vocal in its concerns
+146	no-unit	.
+-1	par-sep	
+147	no-unit	However
+148	no-unit	,
+149	assumption	other theories unrelated to Iran have been offered by analysts
+150	no-unit	,
+151	no-unit	and
+152	anecdote	Gulf officials have spoken only of market forces rather than political considerations
+153	no-unit	.
+154	continued	In any case, the result is
+155	continued	that for the foreseeable future, it will be increasingly costly for Tehran
+156	assumption	to maintain and extend its regional influence
+157	no-unit	.
+-1	par-sep	
+158	assumption	Its new budget defies this reality
+159	no-unit	,
+160	no-unit	but
+161	continued	Iranians cannot, and should not
+162	continued	,
+163	assumption	endure indefinite economic hardship
+164	no-unit	.
+165	continued	They are less likely
+166	continued	to tolerate such a situation
+167	continued	if
+168	continued	their sacrifices at home are paying for long-term military ventures abroad from
+169	assumption	which they see little tangible benefit
+170	no-unit	.

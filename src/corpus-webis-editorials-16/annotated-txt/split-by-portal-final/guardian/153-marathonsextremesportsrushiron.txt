@@ -1,0 +1,199 @@
+0	title	Marathons don't cut it any more - the extreme events offer the best rush.
+-1	par-sep	
+1	continued	I'm not sure
+2	continued	when
+3	anecdote	the abnormal became normal
+4	no-unit	.
+5	continued	I remember a time not so long ago
+6	continued	when
+7	assumption	a marathon runner was a mythical beast
+8	no-unit	-
+9	continued	we all knew someone
+10	continued	who knew someone
+11	assumption	who had run a marathon
+12	no-unit	,
+13	no-unit	but
+14	assumption	most of us had only ever seen these creatures on the TV in their emaciated, long-limbed flow
+15	no-unit	.
+16	no-unit	But
+17	assumption	now everyone knows a marathon runner
+18	no-unit	and
+19	assumption	they just look like normal people
+20	no-unit	.
+-1	par-sep	
+21	continued	Somewhere along the way	Modd-NU
+22	continued	,	Modd-NU
+23	assumption	marathons became commonplace
+24	no-unit	and
+25	continued	a whole new breed of extreme activities came along	Modd-NU
+26	continued	-	Modd-NU
+27	continued	the Ironman triathlon; multi-day cycle events like John O'Groats to Lands End; crazy ultra marathons like the Thames Path 100; and events	Modd-NU
+28	continued	that defy description like the Tough Mudder
+29	assumption	.
+30	no-unit	While
+31	continued	a lot of extreme challenges are
+32	assumption	to do with ultra endurance
+33	no-unit	,
+34	continued	the Tough Mudder is short but involves	Modd-NU
+35	continued	getting hurt	modd-ASM
+36	continued	.	Modd-NU
+37	continued	Sometimes by electric shocks	Modd-NU
+38	continued	.	Modd-NU
+39	assumption	And fire	modd-ASM
+40	no-unit	.
+41	continued	What
+42	assumption	is wrong with you, Mudders?
+-1	par-sep	
+43	continued	I have no idea
+44	continued	what
+45	assumption	caused the rise of the extreme sports as a phenomenon
+46	no-unit	,
+47	no-unit	but
+48	continued	I do know
+49	continued	what
+50	anecdote	happened for me
+51	no-unit	.
+52	continued	After many years of corporate life and general indolence I found
+53	continued	myself resting a glass of champagne on a large belly, unable
+54	anecdote	to get to the buffet without puffing
+55	no-unit	.
+56	continued	Horrified at the realisation	Modd-NU
+57	continued	that I had become Mr Creosote from The Meaning of Life
+58	continued	,
+59	continued	I resolved immediately
+60	anecdote	to sign up for the Great Edinburgh Run
+61	no-unit	.
+62	anecdote	The GER was only 10k
+63	no-unit	but
+64	anecdote	it terrified me and filled me with doubts
+65	no-unit	:
+66	continued	what
+67	continued	if
+68	anecdote	I came last?
+69	continued	Do I have
+70	anecdote	to run all the way?
+71	anecdote	Will I be the fattest dude on the course?
+72	anecdote	Four months later I completed it easily
+73	no-unit	.
+74	anecdote	And then I signed up for a marathon
+75	no-unit	.
+76	anecdote	And then an Ironman
+77	no-unit	.
+-1	par-sep	
+78	continued	And this is the thing - every step of the way
+79	continued	you reassess your judgment of
+80	continued	what
+81	assumption	is crazy
+82	no-unit	.
+83	assumption	It becomes a rapidly escalating obsession
+84	no-unit	.
+85	continued	What
+86	continued	seemed like a hardcore event reserved solely for proper endurance loons
+87	assumption	soon becomes just within reach
+88	no-unit	.
+89	continued	Six years after the GER, the only event
+90	continued	I still consider
+91	continued	to be bonkers beyond belief
+92	assumption	is the Marathon des Sables
+93	no-unit	.
+94	continued	And that's
+95	continued	only because
+96	continued	everyone knows
+97	assumption	that Scots melt in the desert
+98	no-unit	.
+-1	par-sep	
+99	continued	My personal theory for the rise of the extreme sports is
+100	continued	that life has become
+101	assumption	sterile
+102	no-unit	.
+103	continued	The chances of
+104	continued	really getting an adrenaline rush in day-to-day life
+105	assumption	is minimal
+106	no-unit	,
+107	no-unit	so
+108	continued	people search out ways
+109	assumption	to re-engage with life
+110	no-unit	.
+111	continued	After	Modd-NU
+112	continued	completing two Ironman events	Modd-NU
+113	continued	,	Modd-NU
+114	continued	I can testify
+115	continued	that the feeling of
+116	continued	sweeping down the finish chute after 140.6 miles to
+117	continued	pumping pop music
+118	continued	,
+119	continued	flashing lights and a cheering crowd
+120	anecdote	is the ultimate buzz
+121	no-unit	.
+122	no-unit	But
+123	continued	finishing a marathon, in an empty car park, in the dark, in the pouring rain
+124	continued	,
+125	anecdote	is easily its equal for an overwhelming inner sense of achievement
+126	no-unit	.
+-1	par-sep	
+127	continued	The other personal joy
+128	continued	I get from training for events
+129	anecdote	is the quiet time
+130	no-unit	.
+131	continued	Although	Modd-NU
+132	assumption	modern life is humdrum
+133	no-unit	,
+134	assumption	it is noisy
+135	no-unit	,
+136	no-unit	and
+137	continued	even a three-mile run gives me the chance
+138	anecdote	to clear my head, breathe cold fresh air and feel the wind on my skin
+139	no-unit	.
+140	continued	Within 10 minutes of
+141	continued	beginning a run
+142	anecdote	my head is clear
+143	no-unit	,
+144	anecdote	I am calm
+145	no-unit	and
+146	anecdote	I am reset
+147	no-unit	.
+-1	par-sep	
+148	continued	The side benefit of all this training (and probably the reason
+149	continued	that most people start
+150	assumption	) is health
+151	no-unit	.
+152	continued	If
+153	continued	you run, cycle or swim you
+154	assumption	lose weight and feel more vital for it
+155	no-unit	.
+156	assumption	You are fitter, stronger and sleep more soundly
+157	no-unit	.
+158	assumption	You are fit for life - the kid climbing on your shoulders, the run for the bus
+159	no-unit	,
+160	continued	even
+161	continued	just climbing
+162	assumption	the stairs become infinitely more manageable
+163	no-unit	.
+164	assumption	It also sets a great example
+165	no-unit	-
+166	continued	my three-year-old has now collected finisher's medals at Ironkids and Loch Ness Marathon and loves
+167	anecdote	being outside
+168	continued	because	Modd-NU
+169	continued	that's
+170	continued	what
+171	anecdote	mummy and daddy do
+172	no-unit	.
+-1	par-sep	
+173	assumption	The increase in demand cannot be satisfied
+174	no-unit	.
+175	continued	A new event seems
+176	assumption	to spring up every day
+177	no-unit	.
+178	continued	No longer restricted by a single Ironman distance	Modd-NU
+179	assumption	you can do double, triple or even (for the proper enthusiasts) deca Ironman
+180	no-unit	.
+181	assumption	You can run the 268 frostbitten, British-winter miles of the Spine Race
+182	no-unit	.
+183	assumption	You can even get teargassed in the Tough Mudder
+184	no-unit	.
+185	continued	Whether	Modd-NU
+186	continued	for the T-shirt, the tattoo or just the sheer pride of accomplishment	Modd-NU
+187	continued	,	Modd-NU
+188	continued	extreme sports are here
+189	assumption	to stay
+190	no-unit	.

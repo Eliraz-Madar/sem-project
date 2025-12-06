@@ -1,0 +1,144 @@
+0	title	The Guardian view on the end of the Page 3 pin-up: a modest victory.
+-1	par-sep	
+1	continued	Everyone recognises
+2	assumption	that the end of the Page 3 pin-up is a significant moment
+3	no-unit	.
+4	continued	The question is
+5	continued	what
+6	assumption	that significance is
+7	no-unit	.
+8	continued	There are almost as many interpretations of the demise of the daily topless model
+9	continued	as
+10	continued	there are voices in the debate
+11	continued	that has raged
+12	continued	since
+13	continued	it emerged via the Sun's stablemate, the Times
+14	continued	,
+15	assumption	that she has gone
+16	no-unit	.
+17	assumption	The future is clothed, slightly
+18	no-unit	,
+19	no-unit	and	Modd-NU
+20	no-unit	if	cond
+21	assumption	Tuesday's Sun is any guide	cond
+22	no-unit	,	cond
+23	assumption	loping along a beach somewhere sunny
+24	no-unit	.
+-1	par-sep	
+25	assumption	It might be taken as just another typically astute commercial judgment by the Sun's ultimate proprietor, Rupert Murdoch
+26	no-unit	,
+27	continued	who tweeted last September
+28	continued	that he thought
+29	testimony	Page 3 was out of date
+30	no-unit	.
+31	continued	It might be part of the smartening up
+32	assumption	that's followed the phone-hacking scandal
+33	no-unit	,
+34	no-unit	or
+35	continued	it might be more evidence of the newspaper's brilliant ability
+36	assumption	to reflect its readership's changing perceptions back at them
+37	no-unit	.
+-1	par-sep	
+38	continued	On the nuttier fringes of the conversation are those
+39	continued	who claim
+40	continued	to believe
+41	continued	it will come
+42	assumption	to be seen as the first move in a new oppression
+43	continued	which will end only
+44	continued	when
+45	continued	wearing the burqa
+46	assumption	becomes obligatory
+47	no-unit	.
+48	continued	A handful of others believe
+49	assumption	that the last symbol of the objectification of women has finally been extinguished
+50	no-unit	.
+51	assumption	The truth is simpler
+52	no-unit	.
+53	assumption	The mighty Sun has, despite all its protestations, been defeated by one small but core concern of feminism
+54	no-unit	.
+55	common-ground	Exploitative images of women have no place in a newspaper
+56	no-unit	.
+57	continued	Their disappearance is a recognition
+58	continued	that ways of
+59	continued	seeing
+60	assumption	are changing
+61	no-unit	.
+-1	par-sep	
+62	continued	It may seem misjudged
+63	assumption	to herald the disappearance of the Page 3 girl as a victory
+64	no-unit	when
+65	common-ground	pornography is probably more easily available than at any time in history
+66	no-unit	.
+67	no-unit	Yet
+68	continued	this is a fight
+69	assumption	that will be won skirmish by skirmish
+70	no-unit	,
+71	no-unit	and
+72	assumption	the fight against Page 3 has been more than a skirmish
+73	no-unit	.
+74	assumption	It matters
+75	continued	because	Modd-NU
+76	assumption	this is not some small elitist publication but Britain's biggest-selling newspaper
+77	no-unit	.
+78	assumption	It matters
+79	continued	because	Modd-NU
+80	continued	it was made
+81	continued	to matter through the efforts of brave and resolute women like Clare Short and Harriet Harman
+82	continued	,
+83	continued	campaigning unflinchingly through 40 long years of sneering and jeering
+84	continued	to make
+85	continued	people see
+86	continued	why
+87	continued	it is an outrage in a society
+88	continued	that purports
+89	assumption	to believe in equality between the sexes
+90	no-unit	.
+91	assumption	It matters
+92	continued	because	Modd-NU
+93	continued	-	Modd-NU
+94	continued	even when
+95	continued	it is subsitituted
+96	continued	,
+97	continued	as
+98	continued	the Sun intends
+99	continued	,
+100	continued	with more images of airbrushed beauty
+101	continued	-
+102	continued	it is a reminder to girls worrying about the gap between their own body and some version of perfection
+103	assumption	that there is an alternative view
+104	no-unit	.
+105	assumption	It matters
+106	continued	because	Modd-NU
+107	continued	it means
+108	continued	that it is now generally recognised
+109	continued	that pictures objectifying women 
+110	continued	-
+111	continued	even when
+112	continued	she is a willing partner in the objectification
+113	assumption	- are demeaning and damaging to wider society
+114	no-unit	.
+-1	par-sep	
+115	continued	But there are many things
+116	assumption	that the disappearance of Page 3 is not
+117	no-unit	.
+118	continued	It is not the end of the battle
+119	continued	to end gender discrimination, a battle with a distance
+120	continued	to go on every front
+121	continued	,
+122	assumption	from pay and employment to the portrayal of women in the media
+123	no-unit	.
+124	continued	Pragmatists will point out
+125	continued	that the Page 3 girl has after all
+126	continued	not gone
+127	continued	,
+128	assumption	merely been locked behind a paywall, currency in the Sun's contest with the Daily Mail and its sidebar of shame
+129	no-unit	,
+130	continued	where
+131	assumption	semi-clothed celebrities are held up for ridicule
+132	no-unit	.
+133	continued	Getting
+134	continued	the bikini top put on
+135	assumption	is a victory
+136	no-unit	.
+137	assumption	But only a small one
+138	no-unit	.

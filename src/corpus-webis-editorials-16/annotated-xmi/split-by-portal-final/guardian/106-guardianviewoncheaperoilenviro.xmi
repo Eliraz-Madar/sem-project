@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3119" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="25" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="27" end="173" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="175" end="299" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="302" end="382" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="384" end="635" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="637" end="757" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="759" end="833" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="835" end="930" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="935" end="968" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="970" end="1015" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="1018" end="1109" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1111" end="1180" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1182" end="1284" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1286" end="1419" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1424" end="1450" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1452" end="1500" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1502" end="1635" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1640" end="1700" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1703" end="1795" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1797" end="1932" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1934" end="2002" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="2004" end="2007" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="2008" end="2090" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="2092" end="2185" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2187" end="2274" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2277" end="2280" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2284" end="2338" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2340" end="2374" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2376" end="2435" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2437" end="2440" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2441" end="2514" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2516" end="2635" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2637" end="2749" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2751" end="2787" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2792" end="2938" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2940" end="2943" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2944" end="2958" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2960" end="2993" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2996" end="3118" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="208" sofa="1" begin="0" end="3119" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/106-guardianviewoncheaperoilenviro.txt" offsetInSource="0" documentSize="3119" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="216" sofa="1" begin="0" end="3119" lastUpdate="2015-01-06T19:24:40Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/guardian-view-on-cheaper-oil-environment-business-as-usual" portal="guardian" authors="Editorial" articleSum="Editorial: With cheaper crude, markets will do even less than before to ration carbon – so governments must do much more" title="The Guardian view on cheaper oil and the environment: an invitation for business as usual."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Sell roubles, buy Ryanair. That's not only been the way to make money over the past six months but also the terms in which the current slide in the price of oil is discussed. But the effect on this stock or that currency could be as nothing compared to the eventual effect on the resources of nature.&#10;&#10;The gloop that lubricates industrial life can remake the weather in various ways. Most obviously, cheaper energy prices (many of which are still linked to the cost of crude) will incrementally increase the temptation to fritter away precious power  - to leave the car engine idling, or to fail to go upstairs to switch off that light. Little habits matter, because, with the clock ticking remorselessly down towards climate catastrophe, every little hurts. How much damage the great oil crash will do here depends what happens next. In the past, the world has been stunned not only by the waning but also the waxing of the price. If what comes down soon goes back up, such direct effects may not prove so profound.&#10;&#10;What will matter more in the longer term is the dynamic effect on the energy infrastructure. For both good and ill, cheap oil disincentivises investment in change. On the plus side, the most exploitative schemes to extract ever more fossil fuels become less economic. Already, oil companies are reviewing a planned $1 trillion in ventures, such as deep-sea drilling, that no longer make economic sense. If oil's depression continues, marginal fracking projects could be extinguished. All this is helpful in terms of the burning question about how the world can agree to leave half of its coal, gas and oil underground, as it will have to if the world is to keep a lid on the warming.&#10;&#10;But at the same time cheap oil weakens market forces that might otherwise rein in energy use. The expectation that fossil fuels would get scarcer and pricier has forced capitalism to take investment in energy efficiency seriously. Manufacturers of electric cars and green fridges could get cold feet, and there could likewise be an unravelling of the logic of developing renewable energy, which only stacks up when the power that it generates is less costly than carbon-based energy. That's not a sum that works in favour of renewables in a free-market $50-a-barrel world.&#10;&#10;But if the free market is doing less work in rationing carbon, that means government must do more. The politics of fixing climate have often proved horrendous, but there really ought to be a new opportunity now to do a few overdue things. Emerging economies must call time on ruinous energy subsidies that local industries now unexpectedly have less need for. Cheaper oil means it's more necessary than ever that the US should follow Europe and regulate for leaner engines. And Britain should look again at tax. As oil prices rose, the chancellor made great play of freezing fuel duties, while also promising a &quot;stabilising&quot; rise in duties when pump prices fell. Now that they have, the stabiliser is being abandoned - a destabilising move from an administration whose claim to be the greenest government ever has slowly become a hollow joke."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 216"/>
+</xmi:XMI>

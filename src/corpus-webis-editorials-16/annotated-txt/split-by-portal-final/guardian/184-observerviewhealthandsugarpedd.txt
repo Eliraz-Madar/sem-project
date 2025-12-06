@@ -1,0 +1,246 @@
+0	title	The Observer view on our health and the sugar-peddling food industry.
+-1	par-sep	
+1	anecdote	The London Eye, a landmark since the Millennium, welcomed the first day of a new sponsor yesterday
+2	no-unit	.
+3	continued	Coca-Cola plans
+4	continued	to play "an even greater part in future moments of happiness and celebration in the capital"
+5	continued	,
+6	testimony	according to Jon Woods, general manager of Coca-Cola UK and Ireland
+7	no-unit	.
+8	continued	It's ironic
+9	continued	that the arrival of the red and white trademark colours of a global drink renowned, in its original form, for
+10	continued	providing a shocking nine spoonfuls of sugar per 330ml can
+11	continued	,
+12	continued	comes at the end of a week
+13	continued	in which
+14	continued	,
+15	continued	as
+16	continued	in every week
+17	continued	,
+18	assumption	500 children received hospital treatment for dental decay
+19	no-unit	,
+20	no-unit	and
+21	assumption	there have been a stream of warnings about the health of the nation
+22	no-unit	.
+23	continued	We are swallowing far more sugar, salt and fat
+24	continued	than
+25	continued	is good for us
+26	assumption	- or the public purse
+27	no-unit	.
+-1	par-sep	
+28	anecdote	One warning came last Thursday
+29	continued	when	Modd-NU
+30	anecdote	On Rock or Sand: Firm Foundations for Britain's Future was published, edited by John Sentamu, archbishop of York
+31	no-unit	.
+32	continued	It tackles a range of issues spawned by a low-wage economy and refers to the current epidemic of obesity
+33	continued	that, for the first time in many decades, means
+34	assumption	that some children may live shorter lives than their parents
+35	no-unit	.
+36	continued	On Rock or Sand rightly points out
+37	testimony	that "choice" in diet is complex
+38	no-unit	.
+39	continued	It is influenced by income, class, culture and societal pressure among myriad other drivers, not least the seductive practices of the marketplace in
+40	continued	disguising
+41	continued	what
+42	continued	goes into processed food
+43	continued	and employing the hard sell in honeyed words
+44	assumption	that are particularly effective on children
+45	no-unit	.
+-1	par-sep	
+46	assumption	Low-cost food and medical progress have ensured longer lives
+47	no-unit	but
+48	assumption	decades with a long-term condition can also bring misery
+49	no-unit	.
+50	continued	The book quotes Department of Health figures
+51	continued	that show 62% of adults
+52	continued	and
+53	statistics	28% of children are overweight or obese
+54	no-unit	.
+55	continued	The health problems
+56	continued	this spawns
+57	continued	include type 2 diabetes, cancer and heart disease, between
+58	continued	them costing NHS England more than
+59	continued	?	modd-del
+60	statistics	5bn a year
+61	no-unit	.
+-1	par-sep	
+62	anecdote	Last Wednesday, Andy Burnham, Labour shadow health secretary, launched Labour's public health strategy
+63	no-unit	.
+64	assumption	It served up even scarier statistics
+65	no-unit	.
+66	no-unit	Unless
+67	assumption	the rise in obesity is reversed
+68	no-unit	,
+69	continued	the cost to the NHS of diabetes alone will rise from ?
+70	continued	10bn a year to an unsustainable ?
+71	statistics	17bn a year by 2035
+72	no-unit	.
+73	no-unit	While
+74	continued	the World Health Organisation recommends
+75	testimony	that 5% of our food energy should come from sugar
+76	no-unit	,
+77	statistics	children are consuming triple that amount
+78	no-unit	.
+79	anecdote	Further bad news came from the Youth Sport Trust, in its Unlocking Potential report
+80	no-unit	.
+81	statistics	Only 21% of boys and 16% of girls are exercising sufficiently
+82	no-unit	.
+83	assumption	Physical education lessons have slumped below the miserly two hours a week set by the previous Labour government
+84	no-unit	.
+85	continued	The trust is rightly calling for five hours of physical activity a week in state schools
+86	continued	to match
+87	assumption	that offered by private schools
+88	no-unit	.
+89	continued	Eating too much and doing too little
+90	assumption	may be a personal "choice" for some
+91	no-unit	,
+92	no-unit	but
+93	continued	it's one
+94	assumption	the nation can ill-afford
+95	no-unit	.
+96	continued	So what's	modd-NU
+97	assumption	to be done?	m-question
+-1	par-sep	
+98	continued	The first is
+99	assumption	to show common sense
+100	no-unit	.
+101	continued	It is incredible
+102	continued	that Merlin Entertainments should consider
+103	assumption	Coca-Cola a suitable sponsor for the London Eye
+104	no-unit	.
+105	continued	As this paper reports, John Middleton, vice-president of the UK Faculty of Public Health, says
+106	continued	:
+107	testimony	"Coca-Cola is the flagship for sugar marketing and therefore the flagship for rotten teeth and diabetes."
+108	assumption	The second imperative is for government to wake up to the scale of the health disaster on its doorstep
+109	no-unit	.
+110	anecdote	In February 2010, David Cameron laid out his vision for "a new age of government"
+111	no-unit	.
+112	continued	"If
+113	continued	you combine this very simple, very conservative thought 
+114	continued	-
+115	continued	go with the grain of human nature
+116	continued	- with all the advances in behavioural economics,"
+117	continued	he said
+118	continued	,
+119	continued	"I think
+120	continued	we can achieve a real increase in
+121	continued	wellbeing... without
+122	continued	necessarily having
+123	testimony	to spend a lot of money."
+124	assumption	Money has certainly been tight
+125	continued	even as	Modd-NU
+126	assumption	public health issues, supporting improved wellbeing, have disastrously dropped off the agenda, issues such as plain packages for cigarettes, minimum pricing on alcohol and an end to selling sports fields
+127	no-unit	.
+128	continued	In 2013-14, the NHS budget was over ?
+129	continued	95bn, compared with only ?
+130	continued	1.8 bn allocated to Public Health England
+131	anecdote	to promote "wellness"
+132	no-unit	.
+-1	par-sep	
+133	continued	The lack of investment in prevention, married to politicians' fear of the charge of "uber-interference" and "the nanny state", means
+134	assumption	that multinationals have too little restraint
+135	no-unit	.
+136	continued	We accept
+137	assumption	the so-called nanny state edicts on seat belts, smoking and drink
+138	no-unit	,
+139	no-unit	so
+140	continued	why
+141	continued	can't the state take a much greater role in
+142	continued	improving the food
+143	assumption	that is sold to us and marketed to our children?
+-1	par-sep	
+144	testimony	Andy Burnham calls this "finger wagging"
+145	no-unit	.
+146	no-unit	On the contrary
+147	no-unit	,
+148	assumption	 it is lifesaving
+149	no-unit	.
+150	continued	It is welcome
+151	continued	that Burnham has promised
+152	continued	that Labour will legislate
+153	assumption	to reduce the sugar, fat and salt in foods sold to children
+154	no-unit	.
+155	continued	Such steps require rigour in the face of food industry claims
+156	continued	that it's difficult
+157	assumption	to differentiate between "family foods"
+158	no-unit	.
+159	continued	The "responsibility deal"
+160	continued	in which businesses voluntarily take action
+161	continued	to improve public health
+162	assumption	hasn't produced many results
+163	no-unit	.
+164	continued	Last week, for instance, Asda promised
+165	continued	to reduce 22% of added sugar in some 26 of its own brand drinks
+166	continued	,
+167	anecdote	amounting to a reduction of a staggering 3.25bn calories
+168	no-unit	.
+169	no-unit	However	Modd-NU
+170	no-unit	,	Modd-NU
+171	continued	 Professor Graham MacGregor of Action on Sugar says
+172	continued	that only reveals the scale of
+173	continued	what
+174	continued	remains
+175	testimony	to be done
+176	no-unit	.
+177	assumption	Little bits of action are no substitute for sugar reduction mandated by government policy
+178	no-unit	.
+179	continued	As	Modd-NU
+180	continued	Burnham correctly said last week
+181	continued	:
+182	continued	"For change
+183	continued	to work in a market context
+184	continued	,
+185	continued	all players need
+186	testimony	to be following the same rules."
+-1	par-sep	
+187	continued	Dame Sally Davies, the chief medical officer, has warned
+188	testimony	that a 20% tax on sugar in fizzy drinks may be required
+189	no-unit	.
+190	assumption	It makes sense
+191	no-unit	.
+192	assumption	Advertising to children is another issue requiring intervention
+193	no-unit	.
+194	assumption	Promoting unhealthy products is restricted on children's television
+195	no-unit	but
+196	assumption	it is unfettered online in "advergames" and between 8pm and 9pm on television
+197	continued	when	Modd-NU
+198	continued	,	Modd-NU
+199	testimony	according to Malcolm Clark of the lobbying group, the Children's Food Campaign (CFC), ads are a junk food paradise
+200	no-unit	.
+201	continued	Burnham intends
+202	continued	to ask the committee on advertising practice and the Advertising Standards Authority
+203	continued	how
+204	assumption	children can be better protected
+205	no-unit	.
+206	assumption	That is a cop-out
+207	no-unit	.
+208	continued	The CFC, backed by the British Heart Foundation, has rightly proposed
+209	continued	a body independent from the advertising industry
+210	testimony	to monitor and regulate marketing to children and tougher enforcements
+211	no-unit	.
+-1	par-sep	
+212	continued	Managing diet, taking exercise and aiming for fitness
+213	assumption	can't be directly stipulated in law
+214	no-unit	.
+215	continued	Parents, government, the community and the commercial sector all play a part in
+216	assumption	taking responsibility
+217	no-unit	.
+218	no-unit	However
+219	no-unit	,
+220	assumption	 the balance of power is skewed against the ordinary citizen, particularly those penalised by profound health inequalities, and towards those with profit in mind
+221	no-unit	.
+222	continued	The state has
+223	continued	to play a far more dynamic role
+224	continued	than
+225	continued	Labour envisages or the coalition provides
+226	continued	,
+227	continued	to ensure that
+228	continued	what
+229	continued	does
+230	continued	us good
+231	continued	,
+232	continued	at a price
+233	continued	we can afford
+234	continued	,
+235	assumption	becomes the established framework for a healthy life
+236	no-unit	.

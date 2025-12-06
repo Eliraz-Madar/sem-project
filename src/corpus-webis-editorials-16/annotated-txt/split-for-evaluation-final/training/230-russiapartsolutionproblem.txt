@@ -1,0 +1,271 @@
+0	title	Russia is part of the solution and the problem.
+-1	par-sep	
+1	continued	When
+2	continued	it comes to Russia
+3	continued	,
+4	continued	I must admit
+5	continued	,
+6	assumption	I have my biases
+7	no-unit	.
+8	assumption	Political and economic developments in Russia have a direct impact on the Caucasus and particularly my own country, Armenia
+9	no-unit	.
+10	continued	The heightened tension between Russia and the West limits Armenia's ability
+11	assumption	to balance between two friendly sides
+12	no-unit	while
+13	assumption	Russia's economic reversals impact Armenia's fragile economy
+14	no-unit	.
+15	continued	Not to mention
+16	continued	what
+17	no-unit	another Cold War might do to Armenia, to the region and the world	?
+18	no-unit	.
+-1	par-sep	
+19	continued	My enquiry generated a commotion in the hall and the Finnish representative
+20	continued	,
+21	anecdote	pre-empting the speaker, challenged my premise
+22	continued	arguing
+23	testimony	that Finland's choice was of its own volition
+24	no-unit	,
+25	anecdote	which is not the case in Ukraine
+26	no-unit	.
+27	testimony	Schussel concurred
+28	no-unit	.
+-1	par-sep	
+29	assumption	Fair point
+30	no-unit	.
+31	assumption	But in international relations, a state's "volition" is so often shaped and determined by perceived threats
+32	no-unit	.
+33	assumption	It's called diplomacy
+34	no-unit	and
+35	continued	it requires
+36	assumption	reconciling the pursuit of national interests with regional and global peace
+37	no-unit	.
+38	continued	Finland's President Sauli Niinisto
+39	continued	himself, in a recent interview with the Washington Post, predicted
+40	testimony	that Finland joining NATO would negatively affect relations with Russia
+41	no-unit	.
+-1	par-sep	
+42	continued	"It is very obvious
+43	continued	that if
+44	continued	Finland joins NATO
+45	continued	,
+46	testimony	that would undoubtedly harm our relations with Russia
+47	no-unit	.
+48	continued	You have
+49	continued	to keep in mind
+50	continued	that 1,300km is a long border
+51	continued	,
+52	continued	and
+53	continued	you just don't keep
+54	testimony	it closed
+55	no-unit	.
+56	continued	On the contrary
+57	continued	,
+58	continued	 it's a living border,"
+59	testimony	Niinisto said
+60	no-unit	.
+-1	par-sep	
+61	assumption	It's time Ukraine does the same
+62	no-unit	.
+63	continued	The world is inching towards a new Cold War and at the heart of
+64	assumption	it is Ukraine
+65	no-unit	.
+66	continued	When
+67	continued	and
+68	continued	what
+69	continued	will be the last straw
+70	continued	is hard
+71	assumption	to tell
+72	no-unit	.
+73	continued	But then it will be too late
+74	assumption	to reverse things from a point of no return
+75	no-unit	.
+-1	par-sep	
+76	assumption	Russia today faces serious geopolitical and economic challenges
+77	no-unit	.
+78	assumption	It is in direct confrontation with the West on a vision about the world order, on Ukraine, on Syria and on a great many other large and not-so-large issues
+79	no-unit	.
+80	continued	Economically, Russia is beginning
+81	assumption	to feel the aggregate impact of the West's economic sanctions
+82	no-unit	,
+83	anecdote	falling oil prices, the devaluation of the ruble, capital outflow and a decline in direct foreign investment
+84	no-unit	.
+-1	par-sep	
+85	no-unit	But
+86	continued	to think
+87	continued	that these pressures will force the Kremlin into even partial submission
+88	continued	and to change its posture on global issues and weaken its grip on its immediate neighbourhood
+89	continued	would be
+90	assumption	to misjudge President Vladimir Putin
+91	no-unit	.
+92	assumption	It could have the exact opposite effect
+93	no-unit	,
+94	no-unit	as
+95	assumption	Russia's president perhaps walks his way out of this through consolidation at home and further assertiveness and intransigence abroad
+96	no-unit	.
+-1	par-sep	
+97	assumption	In his annual State of the Nation address to parliament on December 4, Putin evoked exactly that
+98	no-unit	.
+99	continued	He called for the public's resilience in the face of hardship, and promised
+100	testimony	to continue his foreign policy in the belief in the justness of Russia's cause and greatness
+101	no-unit	.
+102	continued	Russia's
+103	continued	(or
+104	continued	Putin's)
+105	assumption	convictions are anchored on several real or perceived premises
+106	no-unit	.
+-1	par-sep	
+107	no-unit	Russian influence
+108	no-unit	.
+-1	par-sep	
+109	no-unit	First	Modd-NU
+110	no-unit	,	Modd-NU
+111	continued	 Russia believes
+112	continued	that the US never stopped
+113	assumption	containing Russia
+114	no-unit	.
+115	anecdote	Since the collapse of the Berlin wall, NATO's and the EU's borders have moved east
+116	no-unit	.
+117	continued	Russia fears
+118	continued	that Ukraine's and Georgia's expressed desire
+119	assumption	to join both organisations, risks bringing those organisations to Russia's most vulnerable borders - to the east and the south
+120	no-unit	.
+-1	par-sep	
+121	continued	In
+122	continued	his address condemning the "pure cynicism" of the West
+123	continued	,
+124	continued	he accused western governments of
+125	continued	seeking
+126	continued	to raise a new "iron curtain" around Russia
+127	continued	and suggested
+128	continued	that even if
+129	continued	Crimea had not been annexed
+130	continued	,
+131	continued	the West would have come up with a different pretext
+132	continued	to impose
+133	testimony	sanctions to contain Russia's resurgence
+134	no-unit	.
+-1	par-sep	
+135	no-unit	Second	Modd-NU
+136	no-unit	,	Modd-NU
+137	continued	 Russia firmly believes
+138	assumption	that Americans are interventionists and falsely moralistic in their discourse
+139	no-unit	.
+140	continued	They are heavily involved in
+141	continued	using soft power
+142	assumption	to manipulate and shape the will of the people
+143	continued	while
+144	continued	advocating the independence and sovereignty of states and respect of the will of those same people
+145	assumption	to determine their own future
+146	no-unit	.
+147	continued	In the same speech, Putin accused the West of
+148	continued	meddling in Russia's internal affairs
+149	continued	,
+150	continued	claiming
+151	continued	that sanctions were merely an excuse
+152	testimony	to weaken Russia
+153	no-unit	.
+-1	par-sep	
+154	continued	Last month, Russian Foreign Minister Sergey Lavrov charged the West with
+155	testimony	seeking regime change in Moscow
+156	no-unit	.
+157	continued	Russia has always blamed the West for its policies of interference in other countries' internal affairs, but had never before implied
+158	assumption	that it had worries of its own
+159	no-unit	.
+-1	par-sep	
+160	no-unit	As
+161	continued	we are faced with the possibility of another Cold War and are challenged
+162	continued	to look for ways
+163	assumption	to avoid it
+164	no-unit	,
+165	continued	it is worth
+166	assumption	looking into history's verdict on the original one
+167	no-unit	.
+-1	par-sep	
+168	no-unit	Facing a Cold War
+169	no-unit	.
+-1	par-sep	
+170	continued	First there are the traditionalists of the 1960s
+171	continued	who argued
+172	anecdote	that the Cold War was the direct result of Stalin's aggressive Soviet expansionism
+173	no-unit	.
+174	continued	Later on, particularly during the Vietnam War, the revisionists (William Appleman Williams) challenged that view blaming the US for the Cold War
+175	continued	,
+176	continued	arguing that
+177	continued	:
+178	continued	"America's chief aim in the years after the war was
+179	continued	to make sure
+180	continued	that there was an 'open door' for American trade
+181	continued	,
+182	continued	and
+183	continued	that this led the American government
+184	continued	to try
+185	continued	to make sure
+186	testimony	that countries remained capitalist like the United States."
+-1	par-sep	
+187	continued	Then there were the post-revisionists (John Lewis Gaddis) in the 1970s
+188	continued	who believed that
+189	continued	:
+190	continued	"America and Russia wanted
+191	continued	to keep the peace after the war
+192	continued	but
+193	continued	that conflict was caused by mutual misunderstanding, reactivity, and above all the American inability
+194	continued	to understand Stalin's fears and need
+195	testimony	to defend himself after the war."
+-1	par-sep	
+196	assumption	The latter is the closest guide to today's problems
+197	no-unit	.
+198	continued	One of the specificities of the current period is
+199	continued	that the West considers
+200	continued	Russia to be both part of the solution but part of the problem
+201	assumption	as well
+202	no-unit	.
+-1	par-sep	
+203	no-unit	Indeed	Modd-NU
+204	no-unit	,	Modd-NU
+205	continued	 Russia supports the separatists in Ukraine and is the only power
+206	continued	that can influence decisions there and make
+207	assumption	the rebels listen
+208	no-unit	.
+209	anecdote	In Iran, Russia built the heavy water Arak nuclear power station
+210	continued	which was perceived
+211	assumption	to be a huge problem
+212	no-unit	,
+213	continued	even as
+214	continued	it offers
+215	anecdote	to supply enriched uranium or host Iran's centrifuges as part of a solution
+216	no-unit	.
+217	anecdote	In Syria, Russia backs the Assad regime
+218	no-unit	while
+219	continued	it remains
+220	continued	engaged in the political process and under certain circumstances
+221	assumption	can influence Assad's decisions
+222	no-unit	.
+-1	par-sep	
+223	assumption	The list grows even longer	cond
+224	no-unit	if	cond
+225	assumption	one considers the conflicts in other parts of Russia's neighbourhood
+226	no-unit	.
+227	assumption	From the Moldovan to the Georgian and the Armenian- Azerbaijani conflicts, Russia has a major influence and say in the final outcomes
+228	no-unit	.
+-1	par-sep	
+229	continued	As a result of this duality, the line is blurred between engagement and confrontation
+230	continued	,
+231	assumption	creating misunderstandings and uncertainties, but also opportunities for both Russia and the US
+232	no-unit	.
+233	assumption	This was not the case in the East- West standoff during the Cold War
+234	no-unit	.
+-1	par-sep	
+235	assumption	These beliefs and perceptions are both strengths and weaknesses for one side or the other
+236	no-unit	.
+237	continued	Taken together
+238	continued	,
+239	assumption	they nullify each other
+240	no-unit	.
+241	continued	In the bigger picture, in
+242	continued	the face of enormous global disturbances causing untold carnage and loss of life
+243	continued	,
+244	assumption	they seem trivial
+245	no-unit	.
+246	continued	It is time
+247	assumption	that the major players look beyond history and personalities and transcend the zero-sum thinking of the past
+248	no-unit	.

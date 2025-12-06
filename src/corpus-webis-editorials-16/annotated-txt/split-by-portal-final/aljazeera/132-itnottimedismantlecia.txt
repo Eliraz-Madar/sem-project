@@ -1,0 +1,180 @@
+0	title	Is it not time to dismantle the CIA?
+-1	par-sep	
+1	continued	It's not
+2	continued	as if
+3	assumption	we weren't warned about the CIA
+4	no-unit	.
+5	continued	Some 50 years before
+6	continued	the Senate Intelligence Committee issued its 500-page report on torture
+7	continued	,
+8	continued	former President Harry Truman published an opinion piece in the Washington Post
+9	continued	asserting
+10	continued	that the CIA was out of control
+11	continued	and calling for it
+12	testimony	to be broken up
+13	no-unit	.
+-1	par-sep	
+14	continued	Truman's column appeared on December 22, 1963, a month to the day following US President John F Kennedy's assassination and 11 years after he
+15	anecdote	himself moved out of the White House
+16	no-unit	.
+-1	par-sep	
+17	continued	Truman argued, as the president
+18	continued	who authorised its establishment in 1947
+19	continued	,
+20	continued	that the CIA had strayed from the mission
+21	testimony	he had intended for it
+22	no-unit	.
+-1	par-sep	
+23	continued	He had favoured creation of the CIA
+24	continued	so that a president would have
+25	continued	one agency providing him with objective foreign intelligence, rather than having
+26	continued	to rely upon the often conflicting information being served up by the Departments of State, Defense, and others
+27	continued	who "slanted
+28	testimony	to conform to established positions of a given department"
+29	no-unit	.
+-1	par-sep	
+30	continued	Viewing intelligence gathering as its sole mission
+31	continued	,
+32	continued	Truman was disturbed "by the way
+33	assumption	the CIA has been diverted from its original assignment
+34	no-unit	.
+35	testimony	It has become an operational and at times a policy-making arm of the government."
+36	continued	He said
+37	continued	he had "never had any thought"
+38	testimony	that the CIA would involve itself in "cloak and dagger operations"
+39	no-unit	.
+40	continued	But it had
+41	testimony	which "has led to trouble and may have compounded our difficulties in several explosive areas"
+42	no-unit	.
+-1	par-sep	
+43	continued	It is clearly of some significance
+44	assumption	that Truman published his piece just one month after Kennedy's assassination
+45	no-unit	.
+46	continued	Although	Modd-NU
+47	continued	there is no evidence
+48	assumption	that Truman was suggesting CIA involvement in the assassination
+49	no-unit	,
+50	continued	it is impossible
+51	continued	to believe
+52	assumption	that the late president's difficulties with the CIA were far from Truman's mind
+53	no-unit	.
+-1	par-sep	
+54	continued	As a former president
+55	continued	who the Kennedy White House regularly briefed on foreign policy issues and decisions
+56	continued	,
+57	continued	Truman knew
+58	continued	how
+59	continued	the CIA essentially steamrolled Kennedy into the disastrous Bay of Pigs invasion of Cuba (and other anti- Castro actions)
+60	continued	,
+61	continued	leading
+62	continued	Kennedy to tell a friend
+63	continued	that he wanted
+64	assumption	"to splinter the CIA into a thousand pieces and scatter it to the winds"
+65	no-unit	.
+-1	par-sep	
+66	continued	Kennedy never had the chance
+67	common-ground	to follow up on that idea
+68	no-unit	but
+69	continued	it was essentially
+70	continued	what
+71	assumption	Truman suggested a month after Kennedy's death
+72	no-unit	.
+-1	par-sep	
+73	assumption	Obviously, Truman's recommendation had no effect
+74	no-unit	.
+75	no-unit	In fact	Modd-NU
+76	no-unit	,	Modd-NU
+77	continued	 the Washington establishment apparently took action
+78	continued	to see
+79	assumption	that Truman's piece disappeared almost without a trace (easier in those pre-internet days)
+80	no-unit	.
+-1	par-sep	
+81	continued	According to former CIA analyst Ray McGovern, the Washington Post only published the piece in its morning edition
+82	continued	,
+83	continued	pulling it from view after that (a peculiar way
+84	testimony	to treat an opinion piece by a former president, especially on such a weighty issue)
+85	no-unit	.
+-1	par-sep	
+86	continued	McGovern also reports
+87	continued	that former CIA Director Allen Dulles
+88	continued	,
+89	continued	who Kennedy fired after the Bay of Pigs debacle
+90	continued	,
+91	continued	actually flew down to Truman's home in Independence, Missouri
+92	testimony	to get the former president to retract
+93	no-unit	.
+-1	par-sep	
+94	continued	Although	Modd-NU
+95	continued	Dulles reported back to his friends
+96	anecdote	that Truman had indeed recanted
+97	no-unit	,
+98	assumption	he clearly never did
+99	no-unit	.
+100	no-unit	In fact	Modd-NU
+101	no-unit	,	Modd-NU
+102	continued	 six months after
+103	continued	publishing the column in the Post
+104	continued	,
+105	continued	Truman wrote to the managing editor of Look Magazine
+106	continued	that he intended the CIA as an intelligence gathering agency only and not a place
+107	continued	where
+108	testimony	"strange activities" would be launched
+109	no-unit	.
+-1	par-sep	
+110	continued	No doubt, the Bay of Pigs and Cuba, in general, were not the only examples of CIA interventions
+111	assumption	that disturbed Truman
+112	no-unit	.
+113	assumption	In the years between the end of Truman's administration and his Washington Post column, the CIA had orchestrated the overthrow of governments in Iran (1953), Guatemala (1954), Congo (1960), Dominican Republic (1961), South Vietnam (1963), Brazil (1964)
+114	no-unit	.
+115	assumption	Within a year following Truman's death, the CIA successfully brought down the Allende government in Chile (1973)
+116	no-unit	.
+-1	par-sep	
+117	continued	As for its activities since, its intelligence activities have clearly continued
+118	assumption	to be a low priority
+119	continued	(it has gotten
+120	continued	Iraq wrong from the start, culminating most recently in its failure
+121	assumption	to predict the rise of ISIL)
+122	no-unit	while
+123	no-unit	,
+124	continued	what
+125	continued	Truman called its "cloak and dagger" operations
+126	continued	,
+127	assumption	have proliferated
+128	no-unit	.
+-1	par-sep	
+129	continued	According to historian William Blum
+130	continued	,
+131	continued	writing in Foreign Policy Journal
+132	continued	,
+133	continued	in the last 69 years, the CIA has (often in conjunction with the military) "(1)
+134	continued	attempted
+135	continued	to overthrow more than 50 governments
+136	continued	,
+137	continued	most of which were democratically-elected, (2)
+138	continued	attempted
+139	continued	to suppress a populist or nationalist movement in 20
+140	continued	countries, (3) grossly interfered in democratic elections in at least 30 countries, (4) dropped bombs on the people of more than 30 countries, (5) attempted
+141	testimony	to assassinate more than 50 foreign leaders."
+-1	par-sep	
+142	assumption	And now there are the horrific reports of torture and, equally appalling, the defense of CIA torture by former CIA driectors, other top CIA officials and, most enthusiastically, former Vice President Dick Cheney
+143	continued	who famously told NBC five days after 9/11
+144	continued	that it was now time for US intelligence agencies
+145	testimony	to operate on the "dark side"
+146	no-unit	.
+-1	par-sep	
+147	assumption	That is the context of the torture debate
+148	no-unit	.
+149	continued	As
+150	continued	Truman understood
+151	continued	,
+152	assumption	the CIA was dangerous and should be broken up or, in Kennedy's words, "splinter[ed] into a thousand pieces and scatter[ed] to the winds"
+153	no-unit	.
+154	common-ground	That was 50 years and nine presidents ago
+155	no-unit	and
+156	assumption	since John F Kennedy, no president has challenged the CIA
+157	no-unit	.
+-1	par-sep	
+158	continued	Perhaps each of them have understood
+159	continued	there are battles
+160	assumption	that not even a president could win
+161	no-unit	.

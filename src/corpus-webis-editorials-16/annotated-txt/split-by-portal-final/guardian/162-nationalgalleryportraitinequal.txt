@@ -1,0 +1,320 @@
+0	title	Inside the National Gallery, a portrait of modern inequality.
+-1	par-sep	
+1	assumption	The National Gallery's colonnaded splendour radiates across Trafalgar Square a sense of the importance of art in Britain's national life
+2	no-unit	.
+3	assumption	But the reality inside is far less glorious
+4	no-unit	.
+5	continued	The 400 gallery assistants are about
+6	continued	to be outsourced to a private company against their will
+7	continued	,
+8	anecdote	to squeeze pay and conditions
+9	no-unit	.
+10	continued	A ballot by their union, PCS, closes this week
+11	continued	,
+12	anecdote	calling for a five-day strike in protest
+13	no-unit	.
+-1	par-sep	
+14	continued	All day
+15	continued	they guard the nation's treasures: not automata, but well-informed
+16	continued	,
+17	continued	if
+18	continued	untrained, guides
+19	continued	who like
+20	continued	to be asked questions
+21	continued	,
+22	continued	know
+23	continued	where
+24	continued	paintings are
+25	continued	,
+26	continued	are glad
+27	continued	to advise
+28	continued	nervous visitors unsure
+29	continued	what
+30	assumption	to look at
+31	no-unit	.
+32	assumption	Some have worked there for 40 years
+33	no-unit	,
+34	assumption	some are younger, many former art students
+35	no-unit	.
+36	continued	Ben
+37	continued	,
+38	continued	who has been there for over a decade since art school
+39	continued	,
+40	continued	is an artist
+41	continued	when
+42	continued	not at
+43	anecdote	work stopping people poking the paintings
+44	no-unit	.
+45	anecdote	His favourite beat is the impressionists and Van Gogh
+46	no-unit	,
+47	continued	where
+48	anecdote	he sends the ditherers
+49	no-unit	:
+50	continued	all assistants have their preferences
+51	continued	,
+52	testimony	he says
+53	testimony	(Poussin and the French classicists being the least popular)
+54	no-unit	.
+-1	par-sep	
+55	continued	A letter
+56	continued	to staff from the director, Nicholas Penny
+57	continued	,
+58	continued	says
+59	continued	all gallery services go out to tender in April, something
+60	assumption	no other national gallery or museum has done
+61	no-unit	.
+62	assumption	That includes visitor services, school bookings, public information and even complaints
+63	no-unit	.
+64	continued	As
+65	continued	Tupe - Transfer of Undertakings (Protection of Employment) - regulations require
+66	continued	,
+67	assumption	staff will transfer to a private company on the same terms
+68	no-unit	,
+69	no-unit	but
+70	assumption	that's weak protection
+71	no-unit	:
+72	continued	they can be sent
+73	assumption	to work anywhere in that company
+74	no-unit	.
+75	no-unit	As
+76	continued	one fearful gallery assistant says
+77	continued	:
+78	continued	"I came
+79	continued	to work at the National Gallery
+80	continued	,
+81	continued	but
+82	testimony	I could be transferred to a supermarket car park."
+-1	par-sep	
+83	continued	This is the only national museum in London
+84	assumption	not paying the living wage
+85	no-unit	.
+86	continued	A tangle of pay rates means
+87	assumption	that older staff (predominantly male) are paid more than newer (predominantly female)
+88	no-unit	.
+89	no-unit	But
+90	no-unit	even if
+91	assumption	men and women's pay were equalised
+92	no-unit	,
+93	assumption	many of the older staff would still lose out
+94	no-unit	.
+95	anecdote	The gallery's grant is being cut
+96	no-unit	,
+97	no-unit	so
+98	continued	it needs
+99	assumption	to make more money with extra paid evening events
+100	no-unit	.
+101	assumption	Staff are willing - but expect extra pay
+102	no-unit	.
+103	continued	Management says
+104	testimony	negotiations went nowhere
+105	no-unit	,
+106	no-unit	so
+107	continued	they have
+108	continued	to go nuclear: let
+109	assumption	a private company get tough with them
+110	no-unit	.
+111	assumption	Some would leave
+112	no-unit	:
+113	continued	they note
+114	continued	that the security firm CIS, brought in
+115	continued	to staff the recent Rembrandt exhibition
+116	continued	,
+117	testimony	took away the chairs used by the gallery's own guards
+118	no-unit	.
+119	continued	That's
+120	continued	how
+121	assumption	private companies profit from these contracts
+122	no-unit	:
+123	no-unit	as
+124	continued	old staff leave
+125	continued	,
+126	assumption	new staff can be hired at any pay rate
+127	no-unit	.
+-1	par-sep	
+128	continued	One gallery trustee
+129	continued	I spoke to
+130	continued	admitted
+131	continued	that CIS had been brought in
+132	continued	to run
+133	testimony	the Sainsbury wing to give the gallery staff a fright
+134	no-unit	.
+135	continued	CIS
+136	continued	,
+137	continued	if
+138	assumption	you look at its website	cond
+139	no-unit	,	cond
+140	continued	mostly provides
+141	anecdote	heavies to guard empty buildings, not talk to the public
+142	no-unit	.
+143	continued	Most trustees
+144	continued	,
+145	continued	I'm told
+146	continued	,
+147	continued	would like
+148	anecdote	to keep the staff in-house
+149	no-unit	.
+-1	par-sep	
+150	continued	What
+151	continued	happens in hard times
+152	assumption	is always the same
+153	no-unit	:
+154	continued	spreadsheets show
+155	assumption	the most crushable item is staff
+156	no-unit	.
+157	assumption	Numbers are cut and squeezed hard for longer hours
+158	no-unit	.
+159	assumption	Vital breaks in a long day are eliminated
+160	no-unit	.
+161	continued	Changing into your uniform or taking your tea break
+162	continued	has
+163	assumption	to happen on unpaid time
+164	no-unit	.
+165	continued	It's easier
+166	continued	to let ruthless companies
+167	assumption	to do the dirty work
+168	no-unit	,
+169	assumption	so squeamish managers can wash their hands of consequences
+170	no-unit	.
+171	assumption	Both sides will now go to Acas
+172	no-unit	:
+173	continued	there is still time
+174	assumption	to pull back from this privatisation too far
+175	no-unit	.
+-1	par-sep	
+176	assumption	This shedding of long-term employees is emblematic of low-pay Britain
+177	no-unit	,
+178	continued	where
+179	assumption	a million public jobs are being lost
+180	no-unit	.
+181	continued	Public servants are more unionised than other workforces, and so irksome to managers
+182	assumption	who eye a commercial world of 19th century employment practices - lump labour on zero hours, temp agencies, free interns, the bogus self-employed free of national insurance
+183	no-unit	.
+184	assumption	The public servants' ethos, their attachment to the civic realm, has been systematically trashed as mere unionised self-interest
+185	no-unit	.
+-1	par-sep	
+186	continued	What's
+187	continued	afoot at the gallery
+188	continued	explains
+189	continued	why
+190	assumption	pay is falling as a share of GDP
+191	no-unit	.
+192	continued	Galloping inequality is the result of a million such decisions
+193	assumption	employers think prudent
+194	no-unit	,
+195	continued	mainly because	Modd-NU
+196	assumption	everyone is doing it
+197	no-unit	.
+198	continued	The derelict Low Pay Commission has let the minimum wage
+199	continued	itself fall
+200	continued	?
+201	statistics	1,000 in real value since 2008
+202	no-unit	.
+203	assumption	The Tory call last week for higher wages was breathtaking dishonesty
+204	no-unit	,
+205	continued	echoing the TUC's "Britain
+206	assumption	Needs a Pay Rise" campaign
+207	no-unit	.
+208	assumption	The government has huge sway over pay
+209	no-unit	.
+210	no-unit	If	cond
+211	assumption	it demanded the living wage not just for its employees, but also from every contractor and supplier	cond
+212	no-unit	,	cond
+213	assumption	then national pay norms would rise instantly
+214	no-unit	.
+215	no-unit	If
+216	continued	the Low Pay Commission set
+217	assumption	higher minimums appropriate to each sector	cond
+218	no-unit	,	cond
+219	continued	like the old wages councils
+220	continued	,
+221	assumption	larger companies could pay decent salaries according to profitability
+222	no-unit	.
+-1	par-sep	
+223	statistics	The Joseph Rowntree Foundation's latest report finds 40% of families with children living below a minimum threshold of decency
+224	no-unit	.
+225	continued	Most are in work
+226	continued	-
+227	continued	but
+228	continued	earning too little
+229	continued	to buy
+230	continued	what
+231	continued	a majority of the public in focus groups consider essentials for participation in society: no drink or cigarettes
+232	continued	,
+233	continued	?
+234	continued	5 a fortnight for eating out, ?
+235	statistics	40 for Christmas food, one week's UK holiday
+236	no-unit	.
+-1	par-sep	
+237	continued	That takes an income of ?
+238	statistics	20,400 a year for a couple with two children 
+239	no-unit	-
+240	continued	which is almost
+241	continued	?
+242	assumption	3,000 more than National Gallery assistants earn
+243	no-unit	.
+244	assumption	GDP growth is near invisible to the 8 million squeezed hardest, by this government's deliberate choice
+245	no-unit	:
+246	continued	average income loss since 2010 is
+247	continued	?
+248	statistics	33 a week
+249	no-unit	.
+250	assumption	Now the government promises full employment - but what kind?
+251	assumption	Most new jobs are low paid, precarious and part time
+252	no-unit	.
+253	continued	For all George Osborne's hi-vis posturing about his sham "northern powerhouse", the latest figures from the Centre for Cities show
+254	continued	how far
+255	assumption	the gap between the south and the rest has widened
+256	no-unit	.
+-1	par-sep	
+257	continued	At Davos this week, central bankers will echo the fashionable view
+258	continued	that accelerating inequality is the real economic risk, a danger
+259	assumption	to capitalism itself
+260	no-unit	.
+261	continued	Oxfam tells them 1% of the population
+262	testimony	will by next year own more of the world's wealth than the other 99%
+263	no-unit	:
+264	assumption	in Britain, the top 1% has soared away
+265	no-unit	,
+266	no-unit	and
+267	continued	the bottom 10% has done worst while
+268	statistics	paying the highest proportion of its income in taxes: 47%
+269	no-unit	.
+270	continued	But no sign yet
+271	continued	that the Davos set is worrying unduly: by Epiphany
+272	continued	- 6 January - FTSE
+273	statistics	100 chief executives had already earned more than a year of the average wage
+274	no-unit	.
+-1	par-sep	
+275	continued	How
+276	assumption	do you wrest back wealth from them?
+277	assumption	Restoring power to unions would help
+278	no-unit	,
+279	continued	ensuring	Modd-NU
+280	assumption	every workplace is offered union membership
+281	no-unit	.
+282	no-unit	Instead
+283	no-unit	,
+284	assumption	 Cameron's manifesto will make strikes near-impossible, with a 40% ballot threshold unknown anywhere in the democratic west
+285	no-unit	.
+286	continued	That's a reason
+287	continued	to hope the ever
+288	continued	-
+289	continued	patient attendants at the National Gallery resist
+290	continued	being cast out to G4S, Serco and the rest
+291	continued	-
+292	assumption	and remain as treasured employees of us all
+293	no-unit	.
+-1	par-sep	
+294	other	o This article was amended on 20 January 2015
+295	no-unit	.
+296	continued	An earlier version said
+297	continued	:
+298	continued	"Oxfam tells them 1% of the population
+299	other	will next year own 99% of the world's wealth"
+300	no-unit	.
+301	continued	This has been corrected
+302	continued	to
+303	continued	:
+304	continued	"Oxfam tells them 1% of the population
+305	other	will by next year own more of the world's wealth than the other 99%"
+306	no-unit	.

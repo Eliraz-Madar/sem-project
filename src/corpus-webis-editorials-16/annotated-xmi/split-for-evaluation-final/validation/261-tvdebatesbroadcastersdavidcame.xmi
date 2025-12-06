@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="324" begin="0" end="4236" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="324" begin="0" end="77" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="324" begin="79" end="164" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="324" begin="166" end="169" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="324" begin="170" end="325" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="324" begin="327" end="453" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="324" begin="456" end="534" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="324" begin="536" end="588" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="324" begin="589" end="594" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="324" begin="595" end="679" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="324" begin="681" end="742" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="324" begin="745" end="816" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="324" begin="818" end="821" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="324" begin="822" end="904" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="324" begin="905" end="908" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="324" begin="909" end="925" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="324" begin="927" end="1030" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="324" begin="1032" end="1184" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="324" begin="1186" end="1238" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="324" begin="1240" end="1245" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="324" begin="1246" end="1334" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="324" begin="1336" end="1432" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="324" begin="1437" end="1482" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="324" begin="1484" end="1540" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="324" begin="1542" end="1691" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="324" begin="1693" end="1696" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="324" begin="1697" end="1769" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="324" begin="1774" end="1851" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="324" begin="1854" end="1944" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="324" begin="1946" end="2137" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="324" begin="2139" end="2217" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="324" begin="2219" end="2222" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="324" begin="2223" end="2270" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="324" begin="2272" end="2275" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="324" begin="2276" end="2325" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="324" begin="2328" end="2335" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="324" begin="2337" end="2531" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="324" begin="2533" end="2684" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="324" begin="2687" end="2760" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="324" begin="2762" end="2887" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="324" begin="2889" end="2930" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="324" begin="2932" end="2935" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="324" begin="2936" end="3027" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="324" begin="3029" end="3120" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="324" begin="3122" end="3125" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="324" begin="3126" end="3232" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="324" begin="3234" end="3276" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="324" begin="3278" end="3281" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="324" begin="3282" end="3395" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="324" begin="3398" end="3493" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="324" begin="3495" end="3498" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="324" begin="3499" end="3650" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="324" begin="3653" end="3720" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="324" begin="3722" end="3725" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="324" begin="3726" end="3755" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="324" begin="3757" end="3771" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="324" begin="3774" end="3802" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="324" begin="3804" end="3945" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="324" begin="3947" end="4041" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="324" begin="4043" end="4121" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="324" begin="4123" end="4235" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="306" sofa="324" begin="0" end="4236" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/261-tvdebatesbroadcastersdavidcame.txt" offsetInSource="0" documentSize="4236" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="331" sofa="324" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/261-tvdebatesbroadcastersdavidcame.xmi" offsetInSource="0" documentSize="4236" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="314" sofa="324" begin="0" end="4236" lastUpdate="2015-01-14T12:40:51Z" url="http://www.theguardian.com/commentisfree/2015/jan/14/tv-debates-broadcasters-david-cameron-empty-chair-treatment" portal="guardian" authors="Roger Mosey" articleSum="Roger Mosey: If David Cameron refuses to take part in the leaders’ debates, broadcasters are within their rights to make his absence obvious" title="TV debates: why broadcasters should give Cameron the empty chair treatment."/>
+    <cas:Sofa xmi:id="324" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In a short time, television debates have become a vital part of our democracy. They were watched by tens of millions of people in the 2010 general election campaign, and the Scottish referendum campaign would have been poorer without the two showdowns between Alex Salmond and Alistair Darling live across all media platforms. Now is not the time to retreat from the kind of broadcasting that engages so many voters and illuminates the choices they face.&#10;&#10;Naturally, I hope all the major parties take part in the 2015 election debates. That will rightly remain the aim of the broadcasters . But I believe they should be resolute in the face of a refusal by one party to take part: the empty chair, or the deserted lectern, should be an option.&#10;&#10;The BBC guidelines do not specifically cover a national leaders' debate, but the principles they set out argue not just that they can wheel out the empty chair but that they should. On general output, BBC published editorial policy is that one reluctant participant cannot stop an item: &quot;The refusal of an individual or an organisation to make a contribution should not be allowed to act as a veto on the appearance of other contributors.&quot;&#10;&#10;That is confirmed in the various election guidelines, where over the years the ability of one awkward candidate to stop a broadcast has been removed. And the BBC and other broadcasters do use the empty chair, albeit on less high-profile occasions: if a news maker is unwilling to face the cameras, best practice is to say so and to cover the topic anyway. As far back as 1987, when I was Today's political producer, we empty-chaired Labour in a campaign debate on defence - to the fury of their leadership. But they had been given every opportunity to take part and had chosen not to, so we went ahead with the other parties and told our listeners what had happened.&#10;&#10;There is in this current row a legitimate argument about fairness and about who takes part. The arid bureaucratic view would be that this should be based on the results of the 2010 general election and therefore be a three-way debate between David Cameron, Ed Miliband and Nick Clegg. The rise of Ukip and the surge in multi-party politics have muddied the waters, and the broadcasters are having to be more flexible, and I think the Greens should be somewhere in the mix.&#10;&#10;However,  I believe we can trust the BBC, ITV and Sky to come up with the right format and a proposal that offers the appropriate levels of exposure to all the parties in the UK across the whole campaign. It is for them, with the appropriate regulators, to make that judgment and not for individual politicians to seek to exclude or include their opponents.&#10;&#10;It is, in any case, inevitable that some debates of some kind will happen. The Farage v Clegg encounter just ahead of the European election campaign was an example of the asymmetry that may now happen: it was not part of a formal coverage plan, but it was compelling viewing for anyone interested in politics and millions of people tuned in. The digital debate proposed by the Guardian, Telegraph and Google is one viable alternative; and there is nothing to stop anyone hiring a hall in Manchester and getting Miliband and Clegg to debate there. I guarantee the broadcasters would turn up, and it is significant that the opposition parties are willing to take part in debates even without the prime minister.&#10;&#10;The broadcasters may, possibly, face a legal challenge about the allocation of national airtime, but in the court of public opinion it would be a brave act to try to close down a debate in which you have been invited to take part but have chosen not to.&#10;&#10;I'm pleased to say that I don't sense the broadcasters are wavering, and they are prepared to be tough. They are right - now is the time to hold firm. At a time of lack of faith in politicians, it would be the worst option to allow game-playing to block a format that the public find valuable. Electors have a right to see their potential prime ministers live and unfiltered and at length. Those who are willing to put themselves on the line should be allowed to do so. Those who don't can watch at home and see what an empty chair looks like over 90 minutes of primetime television."/>
+    <cas:View sofa="324" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 331 314"/>
+</xmi:XMI>

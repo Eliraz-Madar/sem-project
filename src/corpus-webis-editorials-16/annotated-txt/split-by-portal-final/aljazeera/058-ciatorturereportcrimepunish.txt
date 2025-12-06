@@ -1,0 +1,245 @@
+0	title	Punishment, not apology after CIA torture report.
+-1	par-sep	
+1	assumption	What a dark day for the United States	changtype
+2	no-unit	.
+-1	par-sep	
+3	continued	Five years and nine months
+4	continued	after
+5	continued	Senators Dianne Feinstein and Kit Bond, the chair and vice chair of the Senate Intelligence Committee, announced a review of the CIA's detention and interrogation programme in the so-called "war on terror", the 500-page executive summary of that report
+6	continued	has been made
+7	anecdote	publicly available
+8	no-unit	.
+-1	par-sep	
+9	assumption	Its conclusions are shocking
+10	no-unit	.
+11	continued	As
+12	continued	Feinstein explained in an interview with the Los Angeles Times at the weekend
+13	continued	,
+14	continued	"We have
+15	continued	to get this report out
+16	continued	.
+17	continued	Anybody
+18	continued	who reads this
+19	continued	is going
+20	continued	to never let
+21	testimony	this happen again."
+-1	par-sep	
+22	continued	Let
+23	continued	us hope so - and let
+24	continued	us also hope
+25	assumption	that senior officials in the Bush administration, as well as senior CIA personnel, will eventually be held accountable for their actions
+26	no-unit	.
+-1	par-sep	
+27	assumption	The CIA's torture programme, initiated almost immediately after the 9/11 attacks, remained a closely guarded secret for many years
+28	no-unit	.
+29	anecdote	An early revelation was a June 2004 leak of a memo
+30	continued	which purported to redefine torture
+31	assumption	so that it could be used by the CIA
+32	no-unit	.
+33	anecdote	The memo was written by John Yoo, a lawyer in the Department of Justice's Office of Legal Counsel (OLC)
+34	no-unit	,
+35	assumption	who was close to Dick Cheney
+36	no-unit	.
+-1	par-sep	
+37	assumption	The CIA's "black sites" in Europe were not publicly exposed until November 2005
+38	no-unit	.
+39	continued	The Bush administration still refused
+40	assumption	to openly acknowledge the programme until September 2006
+41	no-unit	,
+42	continued	when	Modd-NU
+43	continued	then President George W Bush announced that, with the arrival of 14 "high-value detainees" at Guantanamo
+44	continued	from various "black sites", the programme
+45	continued	he had denied the existence of
+46	continued	until
+47	anecdote	that time had now closed down
+48	no-unit	.
+-1	par-sep	
+49	continued	That statement
+50	continued	,
+51	continued	we subsequently learned
+52	continued	,
+53	assumption	was not entirely true
+54	no-unit	,
+55	continued	as	Modd-NU
+56	assumption	a few other prisoners arrived at Guantanamo from CIA custody in 2007 and 2008
+57	no-unit	,
+58	no-unit	but
+59	assumption	the torture report provides conclusive proof
+60	no-unit	.
+-1	par-sep	
+61	continued	"By March 2006,"
+62	continued	the report states
+63	continued	,
+64	continued	"the programme was operating in only one country
+65	continued	.
+66	continued	The CIA last used its enhanced interrogation techniques on November 8, 2007
+67	continued	.
+68	testimony	The CIA did not hold any detainees after April 2008."
+-1	par-sep	
+69	continued	After the arrival of the "high-value detainees" at Guantanamo, numerous attempts were made
+70	continued	to pierce the veil of secrecy
+71	assumption	that surrounded the programme
+72	no-unit	.
+73	anecdote	In 2007, Swiss Senator Dick Marty published an influential report for the Council of Europe about secret prisons and rendition in Europe
+74	no-unit	.
+-1	par-sep	
+75	continued	In February 2008, CIA Director Michael Hayden admitted
+76	testimony	that three "high-value detainees" had been subjected to waterboarding
+77	no-unit	.
+78	continued	In December 2008, the Senate Armed Services Committee published a powerful report about
+79	continued	how
+80	continued	the policies for
+81	continued	dealing with prisoners in the "war on terror"
+82	continued	had developed - including detailed analysis of
+83	continued	how
+84	continued	the US military's SERE programme (intended
+85	continued	to train
+86	continued	US personnel to resist torture
+87	continued	if
+88	continued	captured by a hostile enemy)
+89	continued	had been reverse-engineered for the "war
+90	testimony	on terror"
+91	no-unit	.
+-1	par-sep	
+92	continued	In April 2009	Modd-NU
+93	continued	,	Modd-NU
+94	anecdote	harrowing interviews with the 14 "high-value detainees", conducted by representatives of the International Committee of the Red Cross, were leaked
+95	no-unit	,
+96	no-unit	and
+97	anecdote	in August 2009 an internal CIA report from 2004 into the agency's detention and interrogation policies after 9/11 was released
+98	continued	containing details of
+99	continued	how
+100	continued	one prisoner, Abd al-Rahim al-Nashiri (one of the three men waterboarded, along with Abu Zubaydah and Khalid Sheikh Muhammad), was physically abused
+101	continued	and threatened with a gun and power drill
+102	continued	while
+103	testimony	hooded at a "black site" in Thailand
+104	no-unit	.
+-1	par-sep	
+105	anecdote	In 2010 I wrote a detailed analysis of the secret detention programme for a UN study
+106	no-unit	,
+107	continued	in which I sought
+108	anecdote	to ascertain the identities of the 94 "ghost prisoners" in CIA custody - including 28 subjected to "enhanced interrogation" 
+109	no-unit	-
+110	continued	who were referred
+111	continued	to
+112	continued	in a memo from 2005 by OLC lawyer Steven G Bradbury
+113	anecdote	that was released by the Obama administration in April 2009
+114	no-unit	.
+115	anecdote	Another major report, by the Constitution Project, was published in 2013
+116	no-unit	.
+-1	par-sep	
+117	no-unit	And yet
+118	no-unit	,
+119	continued	although	Modd-NU
+120	assumption	some of the gruesome facts about the torture programme were known
+121	no-unit	,
+122	assumption	the Senate Intelligence Committee's report provides far more
+123	no-unit	.
+124	no-unit	In its "Findings and Conclusions", for example, the report states
+125	no-unit	:.
+-1	par-sep	
+126	no-unit	There are many more examples	Modd-NU
+127	no-unit	.	Modd-NU
+128	assumption	The report states
+129	no-unit	:.
+-1	par-sep	
+130	no-unit	In addition	Modd-NU
+131	no-unit	,	Modd-NU
+132	continued	"sleep deprivation involved
+133	continued	keeping
+134	continued	detainees awake
+135	testimony	for up to 180 hours"
+136	no-unit	,
+137	no-unit	and
+138	continued	although	Modd-NU
+139	continued	some "experienced disturbing hallucinations", in at least two cases
+140	testimony	the CIA continued its abuse
+141	no-unit	.
+-1	par-sep	
+142	continued	These examples - and many more in the summary - demonstrate clearly the committee's conclusion
+143	continued	that the interrogations "were brutal and far worse
+144	continued	than
+145	assumption	the CIA represented to policymakers and others"
+146	no-unit	.
+-1	par-sep	
+147	continued	Perhaps more importantly, however, the committee also concludes
+148	continued	that torture was "not an effective means of
+149	continued	acquiring intelligence or gaining cooperation from detainees"
+150	continued	,
+151	continued	that the CIA made "inaccurate claims" about the "effectiveness" of the programme in an attempt
+152	continued	to justify it
+153	continued	and
+154	continued	that it led to friction with other agencies
+155	continued	that endangered national security, as well as providing false statements
+156	testimony	that led to costly and worthless wild goose chases
+157	no-unit	.
+-1	par-sep	
+158	continued	The report also concludes
+159	testimony	that non-approved techniques were used widely
+160	no-unit	,
+161	continued	and
+162	continued	that "[a]t least
+163	continued	17 detainees
+164	continued	were subjected
+165	continued	to CIA enhanced interrogation techniques without authorisation from CIA headquarters"
+166	continued	,
+167	continued	and
+168	continued	that "multiple detainees were subjected to techniques
+169	continued	that were applied in ways
+170	continued	that diverged from the specific authorisation
+171	continued	,
+172	testimony	or were subjected to enhanced interrogation techniques by interrogators
+173	continued	who had not been authorised
+174	testimony	to use them"
+175	no-unit	.
+-1	par-sep	
+176	assumption	The committee was also critical of the central role played by two contract psychologists from the SERE programme
+177	no-unit	,
+178	continued	even though	Modd-NU
+179	testimony	neither of them "had any experience as an interrogator, nor did either have specialised knowledge of al-Qaeda, a background in counterterrorism, or any relevant cultural or linguistic expertise"
+180	no-unit	.
+-1	par-sep	
+181	continued	The committee also concluded
+182	continued	that Steven Bradbury's numbers were wrong
+183	continued	,
+184	continued	and
+185	continued	that the CIA "detained at least 119 individuals
+186	continued	,
+187	testimony	of whom at least 39 were subjected to the CIA's enhanced interrogation techniques"
+188	no-unit	.
+189	no-unit	Moreover	Modd-NU	
+190	no-unit	,	Modd-NU
+191	continued	 of these 119 "at least 26
+192	continued	were wrongfully held and did not meet the detention standard"
+193	testimony	in the still-secret Bush administration memorandum establishing the programme in September 2001
+194	no-unit	.
+-1	par-sep	
+195	continued	In the days and weeks	Modd-NU
+196	continued	to come	Modd-NU
+197	continued	,	Modd-NU
+198	continued	there will be concerted efforts by the CIA and by former Bush administration officials
+199	assumption	to defend their actions
+200	no-unit	,
+201	no-unit	but
+202	continued	the report makes clear
+203	assumption	that any kind of defence is untenable
+204	no-unit	.
+205	assumption	Crimes were committed, authorised at the highest level of the US government
+206	no-unit	,
+207	no-unit	and
+208	no-unit	,
+209	continued	although	Modd-NU
+210	continued	Obama came into office in 2009
+211	continued	expressing "a belief
+212	continued	that we need
+213	continued	to look forward
+214	continued	as opposed to
+215	testimony	looking backwards"
+216	no-unit	,
+217	assumption	that is not acceptable
+218	no-unit	.
+-1	par-sep	
+219	continued	The Senate Intelligence Committee's torture report - all 6,700 pages of it, costing $40m and involving an analysis of more than six million pages of classified documents - must be the trigger not just for an airing of apologies, but for those
+220	continued	who instigated and authorised the torture programme
+221	assumption	to be held accountable - up to and including President George W Bush and Vice President Dick Cheney
+222	no-unit	.

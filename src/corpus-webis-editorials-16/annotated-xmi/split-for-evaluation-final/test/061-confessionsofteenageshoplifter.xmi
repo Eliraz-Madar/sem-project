@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="299" begin="0" end="3976" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="299" begin="0" end="55" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="299" begin="56" end="150" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="299" begin="152" end="174" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="299" begin="179" end="270" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="299" begin="272" end="378" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="299" begin="380" end="520" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="299" begin="522" end="610" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="299" begin="611" end="823" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="299" begin="825" end="837" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="299" begin="839" end="951" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="299" begin="954" end="1039" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="299" begin="1040" end="1078" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="299" begin="1080" end="1118" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="299" begin="1120" end="1185" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="299" begin="1186" end="1280" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="299" begin="1281" end="1384" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="299" begin="1390" end="1424" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="299" begin="1426" end="1453" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="299" begin="1455" end="1632" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="299" begin="1634" end="1717" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="299" begin="1719" end="1780" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="299" begin="1782" end="1785" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="299" begin="1786" end="1882" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="299" begin="1884" end="2005" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="299" begin="2007" end="2149" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="299" begin="2151" end="2217" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="299" begin="2219" end="2303" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="299" begin="2306" end="2474" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="299" begin="2476" end="2596" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="299" begin="2598" end="2696" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="299" begin="2698" end="2741" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="299" begin="2743" end="2752" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="299" begin="2754" end="2810" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="299" begin="2812" end="2824" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="299" begin="2826" end="2872" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="299" begin="2874" end="2894" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="299" begin="2895" end="2927" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="299" begin="2930" end="3015" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="299" begin="3017" end="3096" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="299" begin="3098" end="3205" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="299" begin="3208" end="3218" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="299" begin="3219" end="3280" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="299" begin="3282" end="3285" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="299" begin="3286" end="3301" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="299" begin="3303" end="3367" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="299" begin="3369" end="3402" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="299" begin="3405" end="3464" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="299" begin="3467" end="3571" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="299" begin="3573" end="3630" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="299" begin="3632" end="3644" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="299" begin="3646" end="3658" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="299" begin="3660" end="3722" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="299" begin="3724" end="3782" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="299" begin="3784" end="3922" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="299" begin="3924" end="3976" unitType="anecdote"/>
+    <core:SourceDocumentInformation xmi:id="281" sofa="299" begin="0" end="3976" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/061-confessionsofteenageshoplifter.txt" offsetInSource="0" documentSize="3976" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="306" sofa="299" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/061-confessionsofteenageshoplifter.xmi" offsetInSource="0" documentSize="3976" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="289" sofa="299" begin="0" end="3976" lastUpdate="2015-01-20T16:36:59Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/confessions-of-teenage-shoplifter-241" portal="guardian" authors="Anonymous" articleSum="Anonymous: News that the shoplifter’s average haul is worth £241 brings back memories of my own moments of madness" title="Confessions of a teenage shoplifter."/>
+    <cas:Sofa xmi:id="299" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="I couldn't help letting out a low whistle of admiration when I read news that the cost of goods stolen in the average shoplifting incident is now? 241. Bloody hell, I thought, as I tried to imagine how exactly you would stash that many eye-shadow compacts up your sleeve. You see for a few months back when I was 16, shoplifting was the hottest craze at my suburban girls school. It spread like a virus through Year 11, to the point that students would pop into town at lunch and return with a huge cache of stolen goods. They'd upturn the contents of their bags on to a desk with a shout of: &quot;Who wants what?&quot; Now,  the thieves providing the British Retail Consortium with a headache this week with their high-cost hauls are more likely to be professional &quot;steal to order&quot; shoplifters, not a gang of feckless teenage girls. Nevertheless,  it instantly brought back that rush of adrenaline that always follows a bout of five-finger discount &quot;shopping&quot;.&#10;&#10;It all began with a couple of girls nicking a few small items of makeup and jewellery - and then we realised how easy it was. It was almost impossible to get caught. Why choose one eyeshadow, when you could have it in every colour? Why bother trying to find the right shade of foundation, when you could just take one of each? In any case, there would always be someone at school who would want it - or at least be impressed by it.&#10;&#10;As the weeks went by things escalated. We went after bigger prizes. I vividly remember the thrill of the day I walked out of Topshop with two bikinis on under my clothes, alongside my best friend, brazenly wearing a stolen denim jacket over hers. We graduated from our local town centre to field trips to the nearest shopping mall. On the train back we would compare our hauls and swap stories. How the security guard didn't notice the Buffy the Vampire Slayer boxset stuffed up my mate's jumper. How the Venus razor blade hadn't set off the alarm in Boots, but in the book shop, leading to suspicious looks but escape. At school, when our teachers warned us that they wouldn't lend out French dictionaries to those who forgot to bring their own to the oral exam, we sent a couple of girls into town to empty WH Smith of its stock. On their return they defiantly plonked a stack on the desk for anyone who needed one.&#10;&#10;I remember discussing what we should tell our parents when they asked questions about where our new clothes came from, but don't remember anyone raising the moral alarm. Far from being unable to sleep at night, I would go to bed dreaming of new things to &quot;jack&quot; and innovative ways to do it. Yes, I had worries about being caught but, as far as I can remember, there was no guilt whatsoever. It seemed like the perfect victimless crime. After all,  we were stealing from chain stores that had plenty more. Looking back, it seems ludicrous that it ever felt so normal. What happened to us? We weren't stealing through need - most of us got pocket money from our parents and had more than enough clothes to wear. Maybe it was that particularly hot summer, or the pressure of our looming GCSEs. Or maybe we were greedy little consumerists with an overdeveloped sense of entitlement and no moral compass.&#10;&#10;Who knows? I would like to say we came to our senses and decided to stop, but that's not true. The worst happened and two good friends were caught and arrested. They were let off with a caution  - because their loot had included a GCSE maths revision guide.&#10;&#10;We're all upstanding members of the community now, with proper jobs and the inclination to pay for goods. I've learned there' s no such thing as a victimless crime. Stores close, prices go up, maybe wages get kept down because of losses due to shoplifting. But habits built up during that summer of madness die hard. I still occasionally find myself in a shop thinking: &quot;How silly. If they're not going to put a security tag on those expensive silk shirts, they really shouldn't put them right near the door.&quot;"/>
+    <cas:View sofa="299" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 306 289"/>
+</xmi:XMI>

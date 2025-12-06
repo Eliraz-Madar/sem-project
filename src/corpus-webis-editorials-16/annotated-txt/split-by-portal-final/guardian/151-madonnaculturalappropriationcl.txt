@@ -1,0 +1,185 @@
+0	title	Madonna's cultural appropriation confirms what a cliche she has become.
+-1	par-sep	
+1	continued	There'	Modd-NU
+2	assumption	s only thing duller than a Twitterstorm
+3	no-unit	,
+4	no-unit	and
+5	assumption	that's an Instagramstorm
+6	no-unit	.
+7	no-unit	Particularly
+8	continued	when	Modd-NU
+9	continued	said
+10	continued	storms feature
+11	continued	figures
+12	continued	who like
+13	continued	to think of themselves
+14	continued	as controversial and as deliberately
+15	assumption	baiting us
+16	no-unit	:
+17	anecdote	Rihanna posing in a clingy burqa at a mosque, Mario Balotelli posting a racist image
+18	no-unit	,
+19	no-unit	and now
+20	continued	Madonna doctoring pictures of African and African-American leaders
+21	anecdote	to promote her new album
+22	no-unit	.
+-1	par-sep	
+23	continued	Really, the only dignified thing
+24	continued	to do
+25	continued	is
+26	assumption	to not dignify it with a response, and move on
+27	no-unit	.
+28	continued	Who cares
+29	continued	if
+30	assumption	Madonna straps black ropes on the images of dead black rights icons?
+31	continued	As
+32	continued	Peter Robinson wrote in the Guardian
+33	continued	:
+34	continued	"It's slightly heartbreaking
+35	continued	that Madonna, an artist
+36	continued	who made her name through an intuitive grasp of almost every major trend and zeitgeist fluctuation
+37	continued	,
+38	testimony	is so crap at social media."
+-1	par-sep	
+39	continued	But sometimes a solely jaded response betrays our own complacency, like
+40	continued	resigning yourself to the fact
+41	continued	that there will always be people
+42	assumption	who think of racist slurs as banter
+43	no-unit	,
+44	continued	or those	Modd-NU
+45	continued	who think
+46	continued	it is just fine to appropriate the symbols of others
+47	assumption	to give their own tepid existence some edge
+48	no-unit	,
+49	no-unit	or people
+50	assumption	who still wear bootcut jeans
+51	no-unit	.
+52	continued	It's not OK	modd-ASM
+53	continued	,	Modd-NU
+54	continued	no matter how	Modd-NU
+55	continued	persistent and ever	Modd-NU
+56	continued	-
+57	assumption	present it is	modd-ASM
+58	no-unit	.
+-1	par-sep	
+59	continued	Even though	Modd-NU
+60	assumption	Madonna has always been controversial
+61	no-unit	,
+62	continued	it also seems
+63	continued	that as
+64	continued	the world around her has got
+65	continued	sharper
+66	continued	,
+67	continued	she has got
+68	assumption	duller and more derivative
+69	no-unit	.
+70	continued	The appropriation
+71	continued	that she and others have carried out
+72	assumption	is nothing new
+73	no-unit	;
+74	continued	we're just noticing
+75	assumption	it more
+76	no-unit	.
+77	continued	That's	Modd-NU
+78	continued	because	Modd-NU
+79	continued	those
+80	continued	who are piggybacking on others' journeys
+81	continued	do not only have more channels
+82	assumption	to flaunt their cluelessness and sense of entitlement (Iggy Azalea, walk away from Twitter)
+83	no-unit	but
+84	assumption	they are also being called out on it more
+85	no-unit	.
+86	no-unit	Whether
+87	assumption	it is usurping religion
+88	no-unit	-
+89	continued	crucifixes and nun habits are passe now
+90	continued	;
+91	assumption	it's niqabs on naked bodies 
+92	no-unit	-
+93	no-unit	keep up
+94	no-unit	- homosexuality or now minority rights
+95	no-unit	,
+96	continued	Madonna is a manifestation of
+97	continued	how
+98	assumption	privilege feeds off the authenticity of "struggle"
+99	no-unit	.
+100	continued	This is a double plundering
+101	assumption	that leads to further marginalisation
+102	no-unit	:
+103	assumption	the dominant narrative will oppress you, then co-opt you, and then weave you into your own tiny little section of the tapestry
+104	no-unit	.
+-1	par-sep	
+105	continued	Some would argue
+106	assumption	that slavery and segregation ended long ago (well, segregation in the US in the 60s and apartheid in South African in the 90s, so not that long ago)
+107	no-unit	.
+108	continued	But that doesn't mean
+109	continued	white people can now happily vandalise the cultural and historical totems of a minority's struggle as part of some universal poster for the white western narrative of
+110	assumption	overcoming and learning from our mistakes
+111	no-unit	.
+112	continued	Imagine
+113	continued	a pop artist using the recent CIA torture as part of their campaign 
+114	continued	-
+115	anecdote	perhaps showing dead Arab personalities being waterboarded
+116	no-unit	.
+117	assumption	No?	m-question
+118	assumption	Too soon?	m-question
+119	no-unit	Well
+120	no-unit	,
+121	no-unit	when
+122	assumption	it comes to certain issues	cond
+123	no-unit	,	cond
+124	assumption	it will always too soon
+125	no-unit	.
+-1	par-sep	
+126	no-unit	Of course	Modd-NU
+127	no-unit	,	Modd-NU
+128	continued	 the charitable position is that Madonna, or to
+129	assumption	a different extent, Iggy Azalea, are not doing this with any high degree of self-awareness or design
+130	no-unit	-
+131	continued	they might see all contemporary culture as equal-access human heritage
+132	continued	that they can dip into
+133	assumption	and sample as a vehicle for their talent
+134	no-unit	.
+-1	par-sep	
+135	assumption	They would be right to some extent
+136	no-unit	,
+137	no-unit	but
+138	continued	the sad fact is
+139	continued	that these modern iterations of minority culture
+140	continued	that they are sampling all
+141	continued	arose from suffering and oppression rather than from a series of tortured geniuses in
+142	assumption	drawing rooms across Europe
+143	no-unit	.
+144	continued	Yes, there are spaces
+145	continued	where
+146	continued	our common mix of religious, sexual and racial legacies intermingle - gloriously
+147	continued	,
+148	assumption	sometimes
+149	no-unit	.
+150	assumption	But that is usually an uncurated, spontaneous thing, not a cynical shopping list
+151	no-unit	.
+-1	par-sep	
+152	no-unit	To put it simply
+153	no-unit	,
+154	assumption	edginess comes from just that
+155	no-unit	:
+156	assumption	being on the edge
+157	no-unit	.
+158	continued	Ironically, all Madonna and her ilk's desperate antics
+159	continued	to appear so only
+160	continued	confirm
+161	assumption	that they are, in fact, utterly comfortable and mainstream
+162	no-unit	.
+163	assumption	Cultural appropriation is now the standard default of the unoriginal
+164	no-unit	.
+165	assumption	It is a common and predictable template
+166	no-unit	,
+167	no-unit	where
+168	continued	one becomes a cliche in
+169	continued	trying
+170	continued	to avoid
+171	assumption	being a cliche
+172	no-unit	because
+173	assumption	you have nothing new to offer
+174	no-unit	-
+175	assumption	something Madonna would surely be mortified by
+176	no-unit	.

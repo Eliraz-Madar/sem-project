@@ -1,0 +1,315 @@
+0	title	CIA torture report: Debunking the myths.
+-1	par-sep	
+1	anecdote	Last night, after months of delay, the Senate Select Committee on Intelligence (SSCI) released a summary of their classified report on the Central Intelligence Agency's (CIA) post-9/11 Detention and Interrogation Programme
+2	no-unit	.
+3	assumption	That's government-speak for torture
+4	no-unit	.
+5	continued	It was the first public accounting of
+6	continued	what
+7	continued	that programme actually entailed, and as one of the most controversial topics in Washington, is sure
+8	continued	to create a political firestorm on both the left and the right
+9	continued	,
+10	continued	not to mention around the world
+11	continued	,
+12	continued	for many months
+13	assumption	to come
+14	no-unit	.
+-1	par-sep	
+15	no-unit	In short
+16	no-unit	,
+17	assumption	 it was shocking
+18	no-unit	.
+19	assumption	It was ugly
+20	no-unit	.
+21	continued	It should lead no doubt to the reader
+22	continued	that the programme was as wrong
+23	continued	as
+24	assumption	it was useless
+25	no-unit	.
+26	continued	And it can never be permitted
+27	assumption	to happen again
+28	no-unit	.
+-1	par-sep	
+29	anecdote	The CIA's torture programme was authorised by then President George W Bush in August 2002
+30	no-unit	,
+31	continued	giving them broad discretion in the use of harsh interrogation techniques
+32	assumption	that included waterboarding, sleep deprivation, hypothermia, stress positions, abdomen strikes, slapping and forced shaking
+33	no-unit	.
+34	continued	Its stated purpose was
+35	continued	to solicit actionable intelligence
+36	assumption	that might save American lives
+37	no-unit	.
+38	continued	In effect, it gave carte blanche for interrogators
+39	continued	to do pretty much anything
+40	continued	they wanted from a laundry list of macabre techniques
+41	assumption	to extract that information
+42	no-unit	.
+43	assumption	To those behind the programme, the moral question was perversely inconsequential
+44	no-unit	,
+45	continued	as	Modd-NU
+46	continued	they all too readily adopted the Machiavellian philosophy of "the end
+47	assumption	justifies the means"
+48	no-unit	.
+-1	par-sep	
+49	anecdote	In methodical fashion, SSCI laid out its case through 20 findings and conclusions, followed by detailed supporting chapters tying them all together
+50	no-unit	.
+-1	par-sep	
+51	no-unit	Abysmal failure
+52	no-unit	.
+-1	par-sep	
+53	continued	Nearly 500 pages in length	Modd-NU
+54	continued	,	Modd-NU
+55	assumption	it was a mere, yet chilling, fraction of the overall report
+56	no-unit	,
+57	assumption	which will remain classified
+58	no-unit	.
+59	assumption	But the message was clear
+60	no-unit	.
+61	continued	The torture programme, despite
+62	continued	what
+63	continued	its supporters claimed at the time, and continue
+64	continued	to do so even now
+65	continued	,
+66	assumption	was an abysmal failure and disgrace for the US
+67	no-unit	.
+-1	par-sep	
+68	continued	In its very first finding	Modd-NU
+69	continued	,	Modd-NU
+70	continued	which set the stage for
+71	continued	what
+72	continued	was
+73	assumption	to follow
+74	no-unit	,
+75	continued	SSCI concluded
+76	continued	the use of torture was not an "effective means of
+77	testimony	acquiring intelligence or gaining cooperation from detainees"
+78	no-unit	.
+79	continued	And most disturbingly, right from the beginning, CIA officers routinely called into question the programme's effectiveness in
+80	assumption	producing accurate intelligence
+81	no-unit	.
+-1	par-sep	
+82	no-unit	Yet	Modd-NU
+83	no-unit	,	Modd-NU
+84	continued	 their leadership turned a blind eye to those concerns
+85	continued	,
+86	continued	ignoring numerous internal critiques, criticisms and objections from those charged with
+87	assumption	carrying out the grisly day-to-day operations
+88	no-unit	.
+89	continued	There were even instances
+90	continued	when
+91	continued	interrogators were ordered
+92	continued	to continue
+93	continued	torturing certain detainees
+94	continued	who they had already assessed as
+95	anecdote	being cooperative
+96	no-unit	.
+97	continued	This is
+98	continued	what
+99	assumption	we call a crisis in leadership - both at the CIA and at the highest levels of the Bush Administration
+100	no-unit	.
+-1	par-sep	
+101	continued	Incredibly, of the 20 examples most often used by the CIA
+102	continued	to show
+103	continued	how successful
+104	continued	their torture programme was
+105	continued	,
+106	continued	all were determined
+107	assumption	to be fundamentally wrong or misleading
+108	no-unit	.
+109	no-unit	Case in point
+110	no-unit	:
+111	continued	In their representations to the White House, National Security Council, Department of Justice, Congress and the American people, the CIA often referred to Abu Zubaydah as "proof"
+112	continued	that those methods provided real, actionable intelligence
+113	testimony	that saved American lives
+114	no-unit	.
+-1	par-sep	
+115	anecdote	Zubaydah, a senior al-Qaeda figure, was captured in Pakistan in March 2002
+116	no-unit	.
+117	no-unit	Several months later
+118	no-unit	,
+119	continued	after	Modd-NU
+120	anecdote	the torture programme was authorised
+121	no-unit	,
+122	continued	he was subjected to numerous and repeated torture techniques
+123	continued	,
+124	continued	to include
+125	anecdote	being waterboarded 83 times
+126	no-unit	.
+-1	par-sep	
+127	continued	According to former Bush Administration and CIA officials involved in the programme at the time, Zubaydah - as a direct result of his being waterboarded - not only provided information
+128	continued	that allowed
+129	continued	the FBI to disrupt the Jose Padilla "Dirty Bomb Plot" in Chicago
+130	continued	,
+131	testimony	but also identified Khalid Sheikh Mohammed as the mastermind behind the 9/11 attacks
+132	no-unit	.
+-1	par-sep	
+133	continued	There'	Modd-NU
+134	assumption	s only one problem with that story
+135	no-unit	.
+136	assumption	It wasn't true
+137	no-unit	.
+138	continued	According to the SSCI report, the FBI actually obtained that information from Zubaydah through legal interrogation techniques between March and June 2002, and provided it to the CIA months
+139	continued	before
+140	testimony	he was ever subjected to waterboarding or any other torture techniques
+141	no-unit	.
+-1	par-sep	
+142	testimony	According to the FBI interrogators, they had developed a rapport with Zubaydah
+143	no-unit	,
+144	testimony	who was cooperating with them
+145	no-unit	.
+146	continued	And yet
+147	continued	,
+148	continued	 the CIA decided
+149	continued	to subject
+150	assumption	him to torture
+151	no-unit	.
+152	assumption	Maybe Zubaydah repeated that information as a result of waterboarding
+153	no-unit	,
+154	no-unit	but
+155	continued	the official record reflects
+156	continued	that it certainly wasn't the first time
+157	assumption	the CIA ever heard about it
+158	no-unit	.
+159	continued	And that's pretty much it
+160	continued	when
+161	assumption	it comes to "actionable intelligence" gained through the CIA's use of torture
+162	no-unit	.
+163	no-unit	None
+164	no-unit	.
+165	no-unit	Nada
+166	no-unit	.
+167	no-unit	Zip
+168	no-unit	.
+169	other	Seriously?	m-question
+-1	par-sep	
+170	assumption	But it gets worse
+171	no-unit	.
+172	continued	Beginning with Zubaydah	Modd-NU
+173	continued	,	Modd-NU
+174	continued	the first CIA detainee	Modd-NU
+175	continued	to undergo torture	Modd-NU
+176	continued	,	Modd-NU
+177	continued	and	Modd-NU
+178	continued	continuing on with numerous others
+179	continued	,
+180	anecdote	the techniques went on for days or weeks at a time
+181	no-unit	.
+182	continued	There were physical beatings, mock executions, sleep deprivations for days at a time
+183	continued	while
+184	continued	standing with hands chained above their heads
+185	continued	,
+186	continued	and threats
+187	anecdote	to sexually assault or kill detainees' family members
+188	no-unit	.
+-1	par-sep	
+189	continued	One detainee even died, apparently of hypothermia, after
+190	anecdote	being chained nearly naked to a cement floor
+191	no-unit	.
+192	continued	Reading the report
+193	continued	,
+194	continued	one has
+195	continued	to ask
+196	continued	how
+197	continued	the US, or any country for that matter could morally justify
+198	continued	what
+199	assumption	was done
+200	no-unit	.
+201	assumption	It can't
+202	no-unit	.
+-1	par-sep	
+203	assumption	The final finding and conclusion was an understatement
+204	no-unit	,
+205	assumption	in that the CIA's torture programme "damaged the United States' standing in the world"
+206	no-unit	.
+207	continued	And that's something
+208	continued	the US isn't going
+209	assumption	to get over any time soon
+210	no-unit	.
+211	continued	As	Modd-NU
+212	continued	a longtime global leader in human rights issues, particularly on the subject of torture	Modd-NU
+213	continued	,	Modd-NU
+214	assumption	the US has lost its moral credibility on the world stage	Modd-NU
+215	no-unit	.
+-1	par-sep	
+216	no-unit	Law of the land
+217	no-unit	.
+-1	par-sep	
+218	continued	The first step in
+219	continued	ending the torture programme
+220	assumption	was accomplished in 2009
+221	no-unit	,
+222	no-unit	when
+223	continued	US President Barack Obama signed an executive order banning it shortly after
+224	anecdote	taking office
+225	no-unit	.
+226	assumption	That's the law of the land in the US right now
+227	no-unit	.
+228	no-unit	However
+229	no-unit	,
+230	continued	when	Modd-NU
+231	assumption	Obama leaves office in 2016
+232	no-unit	,
+233	continued	there'
+234	continued	s nothing
+235	continued	to stop his successor from
+236	assumption	authorising it again
+237	no-unit	.
+238	assumption	Except, of course, the court of public opinion
+239	no-unit	,
+240	continued	which is
+241	continued	why
+242	assumption	the release of this report was so important
+243	no-unit	.
+244	statistics	In a recent Pew Research report, half the US public polled thought torture could be justified sometimes or even often
+245	no-unit	.
+-1	par-sep	
+246	assumption	The second step happened last night with SSCI's public release of their report summary
+247	no-unit	.
+248	continued	No doubt, those
+249	continued	who are still in favour the torture programme, particularly the former Bush Administration and the CIA officials closely involved with it
+250	continued	,
+251	assumption	will aggressively refute the facts laid out in SSCI's report
+252	no-unit	.
+253	other	Let them	?
+254	no-unit	.
+-1	par-sep	
+255	continued	Then
+256	continued	,
+257	continued	 it's time
+258	continued	to have a frank and informed discussion on the whole	Modd-NU
+259	continued	torture issue	Modd-NU
+260	continued	,	Modd-NU
+261	assumption	separating the facts from the myths
+262	no-unit	.
+263	continued	The American public and its leaders need
+264	continued	to ask themselves
+265	continued	if
+266	continued	torture is
+267	continued	how
+268	continued	they really want
+269	assumption	to be defined
+270	no-unit	.
+271	assumption	Does the end really justify the means?	m-question
+-1	par-sep	
+272	continued	After	Modd-NU
+273	continued	reading the report	Modd-NU
+274	continued	,	Modd-NU
+275	continued	one would have
+276	continued	to wonder
+277	continued	how
+278	assumption	it could
+279	no-unit	.
+280	assumption	Torture is wrong, plain and simple
+281	no-unit	.
+282	continued	The US needs
+283	assumption	to reject it outright now
+284	no-unit	,
+285	continued	while	Modd-NU
+286	assumption	the report, in all its shocking and macabre detail, is fresh in the public's mind
+287	no-unit	.
+288	no-unit	Otherwise	Modd-NU
+289	no-unit	,	Modd-NU
+290	continued	 they'll find
+291	continued	themselves going back down
+292	assumption	that path again the next time fear and panic take hold
+293	no-unit	.

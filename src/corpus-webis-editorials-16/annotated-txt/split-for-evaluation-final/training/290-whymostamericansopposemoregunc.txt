@@ -1,0 +1,241 @@
+0	title	Why most Americans oppose more gun control.
+-1	par-sep	
+1	continued	A new Pew Research Center survey finds
+2	testimony	that, for the first time in their surveys, the majority of Americans oppose more gun control
+3	no-unit	.
+4	statistics	Gallup and CNN polls tell a similar story
+5	no-unit	.
+6	assumption	Opposition to gun control has been increasing over at least the last couple of decades
+7	no-unit	.
+-1	par-sep	
+8	continued	Gun control groups have spent hundreds of millions of dollars
+9	continued	to try
+10	continued	to convince Americans
+11	statistics	that gun control is the answer
+12	no-unit	.
+13	statistics	In 2013, gun owners' groups -- including the NRA -- spent less than one seventh as much on television advertisements
+14	no-unit	.
+15	continued	This year looks
+16	assumption	to be even more lopsided, thanks to the unrelenting efforts of individuals such as Michael Bloomberg, George Soros and Gabriel Giffords
+17	no-unit	.
+-1	par-sep	
+18	continued	Perceptions have changed dramatically, with
+19	continued	most people now believing
+20	assumption	the "More Guns, Less Crime" hypothesis
+21	no-unit	.
+22	continued	Gallup recently asked Americans
+23	continued	if
+24	continued	they thought
+25	anecdote	residents are safer with a gun in the home
+26	no-unit	.
+27	statistics	People answered "Yes" by a margin of 63 to 30 percent
+28	no-unit	.
+29	statistics	In 2000, Americans gave just the opposite answer by a margin of 51 to 35 percent
+30	no-unit	.
+31	continued	In 2013,[3] Sixty percent of gun owners listed "Personal Safety/Protection" as the reason for
+32	statistics	owning a gun
+33	no-unit	.
+-1	par-sep	
+34	assumption	Academic research aligns with current public opinion
+35	no-unit	.
+36	no-unit	If	cond
+37	assumption	you have a gun in the home	cond
+38	continued	,
+39	continued	that gun is far more likely
+40	continued	to prevent murder
+41	continued	than
+42	continued	it is
+43	assumption	to be used in an accidental shooting or to kill a loved one
+44	no-unit	.
+-1	par-sep	
+45	assumption	Accidental gun deaths get a lot of press coverage
+46	no-unit	,
+47	no-unit	but
+48	continued	the press is quite misleading
+49	continued	when
+50	assumption	it talks about juvenile gun deaths
+51	no-unit	.
+52	no-unit	In fact
+53	no-unit	,
+54	assumption	 many news reports lump in young deaths involving gang fights
+55	no-unit	.
+56	common-ground	These deaths are also tragic
+57	no-unit	,
+58	no-unit	but
+59	continued	they have nothing
+60	continued	to do with
+61	continued	whether
+62	assumption	law-abiding citizens should own guns
+63	no-unit	.
+-1	par-sep	
+64	continued	The Centers for Disease Control reports
+65	statistics	that, in 2012, there were 58 accidental gun deaths involving children under the age of 15
+66	no-unit	.
+67	continued	More than 20 times as many children died due
+68	statistics	to accidental suffocation
+69	no-unit	.
+70	continued	In most cases
+71	continued	,
+72	continued	an adult accidentally shoots a child
+73	continued	,
+74	continued	not
+75	statistics	children shooting themselves or other children
+76	no-unit	.
+77	assumption	And many of those adults have criminal records and drug or alcohol problems
+78	no-unit	.
+-1	par-sep	
+79	statistics	Between 2000 and 2014, the number of concealed handgun permits soared from about 2.7 million to well over 12 million
+80	no-unit	.
+81	continued	Similarly
+82	continued	,
+83	statistics	 the annual number of federal background checks increased from 8.5 to 21 million
+84	no-unit	.
+85	statistics	According to Gallup, 42 percent of Americans now have a gun in the home
+86	no-unit	.
+-1	par-sep	
+87	continued	The Pew Research Center survey found
+88	continued	that 57 percent of Americans believe
+89	continued	gun ownership "protects people from
+90	statistics	becoming victims of crime."
+91	continued	Thirty-eight percent believe
+92	statistics	that it "puts people's safety at risk."
+93	statistics	Support for gun ownership has grown particularly sharply among blacks and women, with their support since 2012 rising by 25 and 11 percentage points respectively
+94	no-unit	.
+-1	par-sep	
+95	continued	My research shows
+96	continued	that since
+97	continued	blacks are the most likely victims of violent crime
+98	continued	,
+99	continued	they are also the ones
+100	continued	who benefit most from
+101	continued	being able
+102	assumption	to defend themselves
+103	no-unit	.
+104	continued	Women and the elderly are especially unlikely
+105	continued	to be able
+106	assumption	to fend off a male attacker without the benefit of a firearm
+107	no-unit	.
+-1	par-sep	
+108	continued	Gary Kleck, Larry Southwick and other academics have shown
+109	continued	that having a gun
+110	continued	is by far the safest option
+111	continued	when
+112	assumption	confronted by a criminal
+113	no-unit	.
+-1	par-sep	
+114	continued	Police are extremely important in
+115	assumption	reducing crime
+116	no-unit	.
+117	no-unit	Indeed	Modd-NU
+118	no-unit	,	Modd-NU
+119	continued	 I have found
+120	assumption	that they are by far the single most important factor
+121	no-unit	.
+122	continued	But police know
+123	continued	that they almost always arrive on the crime scene
+124	continued	after
+125	assumption	a crime has occurred
+126	no-unit	,
+127	no-unit	and
+128	continued	because
+129	assumption	of that police are among the strongest supporters for private gun ownership
+130	no-unit	.
+-1	par-sep	
+131	continued	PoliceOne
+132	continued	,
+133	continued	which has a membership of about 450,000 active and retired police officers
+134	continued	,
+135	continued	found last year
+136	continued	that 76 percent of its members believe
+137	continued	legally armed citizens are either extremely or very important to
+138	statistics	stopping crime
+139	no-unit	.
+140	continued	Over 91 percent of members "support the concealed carry of firearms by civilians
+141	continued	who have not been convicted of a felony
+142	continued	and
+143	continued	/
+144	continued	or not been deemed
+145	statistics	psychologically/medically incapable."
+146	continued	This is a less stringent standard
+147	continued	than
+148	assumption	exists in most right-to-carry states
+149	no-unit	.
+-1	par-sep	
+150	continued	In the wake of tragedies such as Newtown, gun control advocates keep
+151	anecdote	pushing for more restrictions
+152	no-unit	.
+153	continued	But the proposed regulations have nothing
+154	assumption	to do with the tragedies
+155	no-unit	.
+156	continued	Even Mark Glaze
+157	continued	,
+158	continued	who was executive director of Bloomberg's Everytown For Gun Safety until earlier this year
+159	continued	,
+160	continued	conceded to the Wall Street Journal
+161	continued	,
+162	continued	"Is it
+163	continued	a messaging problem
+164	continued	when
+165	continued	a mass shooting happens
+166	continued	and nothing
+167	continued	that we have
+168	continued	to offer
+169	continued	would have stopped that mass shooting?
+170	testimony	Sure it's a challenge...."
+-1	par-sep	
+171	continued	Even	Modd-NU
+172	continued	worse for gun control advocates	Modd-NU
+173	continued	,	Modd-NU
+174	continued	people are realizing	Modd-NU
+175	continued	that regulations -- such as gun-free zones -- tend
+176	continued	to encourage attacks by
+177	assumption	disarming law-abiding citizens instead of criminals
+178	no-unit	.
+-1	par-sep	
+179	continued	Hopefully, cities such as Washington, Los Angeles and New York will change their rules
+180	continued	as
+181	assumption	more poor blacks and women recognize the benefits of gun ownership
+182	no-unit	.
+183	assumption	At present, only rich, well-connected people can get concealed carry permits in those places
+184	no-unit	.
+185	continued	The poor have every bit as much right
+186	assumption	to defend themselves
+187	no-unit	.
+-1	par-sep	
+188	assumption	Increased gun ownership may solve another problem
+189	no-unit	.
+190	continued	There are two ways
+191	assumption	to protect poor law-abiding blacks in high-crime urban areas
+192	no-unit	:
+193	continued	Either rely more on the police or make
+194	continued	it easier for people
+195	assumption	to defend themselves
+196	no-unit	.
+197	continued	Given the polls
+198	continued	show
+199	continued	that blacks have a greater trust in guns than the police
+200	continued	making
+201	continued	them safer
+202	continued	,
+203	continued	why not make
+204	continued	it easier for law-abiding poor blacks
+205	assumption	to arm themselves?
+-1	par-sep	
+206	anecdote	John R  Lott, Jr  is a columnist for FoxNews.com
+207	no-unit	.
+208	anecdote	He is an economist and was formerly chief economist at the United States Sentencing Commission
+209	no-unit	.
+210	continued	Lott is also a leading expert on guns and op-eds
+211	anecdote	on that issue are done in conjunction with the Crime Prevention Research Center
+212	no-unit	.
+213	other	He is the author of eight books including "More Guns, Less Crime."
+214	continued	His latest book is
+215	continued	"Dumbing Down the Courts
+216	continued	:
+217	continued	How
+218	continued	Politics Keeps
+219	continued	the Smartest Judges Off the Bench"
+220	other	Bascom Hill Publishing Group (September 17, 2013)
+221	no-unit	.
+222	other	Follow him on Twitter@johnrlottjr
+223	no-unit	.

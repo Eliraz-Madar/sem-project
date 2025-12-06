@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="374" begin="0" end="5184" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="374" begin="0" end="119" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="374" begin="120" end="136" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="374" begin="137" end="348" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="374" begin="351" end="561" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="374" begin="563" end="712" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="374" begin="715" end="817" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="374" begin="819" end="920" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="374" begin="922" end="989" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="374" begin="991" end="1006" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="374" begin="1008" end="1023" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="374" begin="1025" end="1041" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="374" begin="1043" end="1063" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="374" begin="1066" end="1097" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="374" begin="1099" end="1187" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="374" begin="1189" end="1288" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="374" begin="1289" end="1345" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="374" begin="1346" end="1370" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="374" begin="1371" end="1512" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="374" begin="1515" end="1623" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="374" begin="1624" end="1711" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="374" begin="1713" end="1766" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="374" begin="1769" end="1775" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="374" begin="1780" end="1801" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="374" begin="1803" end="1897" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="374" begin="1899" end="1951" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="374" begin="1953" end="2047" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="374" begin="2049" end="2054" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="374" begin="2056" end="2135" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="374" begin="2137" end="2292" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="374" begin="2294" end="2346" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="374" begin="2349" end="2584" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="374" begin="2587" end="2654" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="374" begin="2656" end="2693" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="374" begin="2695" end="2769" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="374" begin="2772" end="2930" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="374" begin="2933" end="3018" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="374" begin="3020" end="3107" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="374" begin="3109" end="3114" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="374" begin="3115" end="3172" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="374" begin="3175" end="3262" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="374" begin="3264" end="3328" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="374" begin="3329" end="3416" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="374" begin="3418" end="3502" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="374" begin="3505" end="3523" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="374" begin="3524" end="3527" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="374" begin="3529" end="3562" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="374" begin="3564" end="3571" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="374" begin="3573" end="3681" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="374" begin="3684" end="3772" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="374" begin="3774" end="3823" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="374" begin="3824" end="3828" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="374" begin="3829" end="3903" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="374" begin="3906" end="3969" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="374" begin="3971" end="4037" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="374" begin="4039" end="4187" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="374" begin="4190" end="4365" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="374" begin="4367" end="4430" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="374" begin="4432" end="4644" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="374" begin="4647" end="4697" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="374" begin="4699" end="4724" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="374" begin="4726" end="4766" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="374" begin="4768" end="4783" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="374" begin="4785" end="4810" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="374" begin="4812" end="4923" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="374" begin="4926" end="4929" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="374" begin="4930" end="4952" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="336" sofa="374" begin="4953" end="4956" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="341" sofa="374" begin="4957" end="4981" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="346" sofa="374" begin="4983" end="5149" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="351" sofa="374" begin="5151" end="5183" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="356" sofa="374" begin="0" end="5184" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/138-jenesuispascharlienuancegroupt.txt" offsetInSource="0" documentSize="5184" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="381" sofa="374" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/138-jenesuispascharlienuancegroupt.xmi" offsetInSource="0" documentSize="5184" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="364" sofa="374" begin="0" end="5184" lastUpdate="2015-01-12T17:47:03Z" url="http://www.theguardian.com/commentisfree/2015/jan/12/je-ne-suis-pas-charlie-nuance-groupthink" portal="guardian" authors="Roxane Gay" articleSum="Roxane Gay: When our responses are limited to ‘you are either with us or against us’, those that need to mourn and be sympathetic to complexities are cast as villians" title="If je ne suis pas Charlie, am I a bad person? Nuance gets lost in groupthink."/>
+    <cas:Sofa xmi:id="374" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In the wake of terrorist attacks in Paris last week, many people in France and elsewhere have declared, Je suis Charlie (&quot;I am Charlie&quot;) after heavily armed gunmen broke into the headquarters of Charlie Hebdo, a satirical French magazine, and killed eight staff members, two police officers, a building maintenance worker and wounded several others.&#10;&#10;On Sunday, hundreds of thousands of people including a number of world leaders such as Angela Merkel, Benjamin Netanyahu, and David Cameron gathered in Paris for a unity rally, to stand in mourning, in defiance. There were cries of Je suis Charlie, Je suis Ahmed (I am Ahmed, the Muslim police officer who lost his life in the attack), Je suis juif (I am a Jew).&#10;&#10;These declarations were a display of solidarity with those who lost their lives and those who survived. They allowed people to try and place themselves in the lives of others by using the power of language. We have seen this kind of remembrance before in the face of tragedy: I am Troy Davis; I am Mike Brown; I am Eric Garner; I am Renisha McBride.&#10;&#10;But we are none of these people. We can and do empathize with the plights of the dead, the survivors and their loved ones. We can and do empathize with how fragile we all are, and with how we cannot be ruled by terror, but why the rhetorical urge to take the place of the fallen? What does it bring them? I, too, have ached since hearing the news of what happened in Paris but je ne suis pas Charlie et je ne suis pas Ahmed et je ne suis pas juif.&#10;&#10;There are times when silence equals consent, but is the loss of someone else's life really such an instance? Is it reasonable to assume that if je ne suis pas Charlie, I tacitly endorse terrorism?&#10;&#10;I believe in the freedom of expression, unequivocally - though, as I have written before, I wish more people would understand that freedom of expression is not freedom from consequence. I find some of the work of Charlie Hebdo distasteful, because there is a preponderance of bigotry of all kinds in many of their cartoons' sentiments. Still,  my distaste should not dictate the work the magazine produces or anything else. The cartoonists at Charlie Hebdo - and writers and artists everywhere - should be able to express themselves and challenge authority without being murdered. Murder is not an acceptable consequence for anything.&#10;&#10;Yet it is also an exercise of freedom of expression to express offense at the way satire like Charlie Hebdo's characterizes something you hold dear - like your faith, your personhood, your gender, your sexuality, your race or ethnicity.&#10;&#10;Demands for solidarity can quickly turn into demands for groupthink, making it difficult to express nuance. It puts the terms of our understanding of the situation in black and white - you are either with us or against us - instead of allowing people to mourn and be angry while also being sympathetic to complexities that are being overlooked.&#10;&#10;It has been disheartening to see calls for the Muslim community to denounce terrorism. It has been disheartening to see journalists highlighting the stories of &quot;good&quot; Muslims, as if goodness is the exception to the rule of an entire people.&#10;&#10;We will continue to see discussions of satire, the freedom of expression and its limits. We will see speculations as to how such a tragedy can be avoided because it is easier to speculate than it is to accept that we cannot prevent terrorism. We cannot sway extremists with rational thought or with our ideas of right and wrong.&#10;&#10;Life moves quickly but, sometimes, consideration does not. And yet,  we insist that people provide an immediate response, or immediate agreement, a universal, immediate me-too  - as though we don't want people to pause at all, to consider what they are weighing in on. We don't want to complicate our sorrow or outrage when it is easier to experience these emotions in their simplest, purest states.&#10;&#10;The older (and hopefully wiser) I get, the more I want to pause. I want to take the time to think through how I feel and why I feel. I don't want to feign expertise on matters I know nothing about for the purpose of offering someone else my immediate reaction for their consumption.&#10;&#10;The demand for response from all of us through the means available to us, most often our social networks, rises in part because we can feel so impotent in our day-to-day lives. We are people with jobs and families and our quotidian concerns. It is easy to feel impotent in the face of terrorism in Paris or hundreds of girls being kidnapped in Nigeria or a bombing at an NAACP building in Colorado or an unarmed black man being killed by a police officer.&#10;&#10;Within our social networks, we can feel less alone. We can feel less impotent. We can make these gestures of solidarity. Je suis Charlie. We can change our avatars. We can share our anger, our fear, or devastation without having to face that we may not be able to do much more.&#10;&#10;But we still feel impotent and we still feel inadequate. When we see people not participating in our expressions of solidarity -- not showing their awareness of their own impotence -- we see something we can possibly change. That is why we demand allegiance."/>
+    <cas:View sofa="374" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 341 346 351 356 381 364"/>
+</xmi:XMI>

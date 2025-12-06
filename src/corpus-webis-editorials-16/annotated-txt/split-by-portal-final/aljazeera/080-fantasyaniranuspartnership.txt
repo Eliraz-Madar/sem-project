@@ -1,0 +1,193 @@
+0	title	The fantasy of an Iran-US partnership.
+-1	par-sep	
+1	no-unit	When
+2	continued	US Vice-President Joe Biden told an American university audience in October
+3	continued	that Turkey, the UAE and Saudi Arabia are responsible for
+4	continued	arming al- Nusra, ISIL, and other al-Qaeda-rooted extremists in Syria
+5	continued	and
+6	testimony	that there is no "moderate middle" in the country
+7	no-unit	,
+8	continued	there was
+9	continued	(as
+10	continued	most non-Americans expected)
+11	anecdote	little coverage of this stunning admission in the US mainstream media
+12	no-unit	.
+-1	par-sep	
+13	no-unit	Indeed	Modd-NU
+14	no-unit	,	Modd-NU
+15	continued	 what little coverage there was focused on Biden's subsequent apologies to Turkish, Emirati, and Saudi leaders for
+16	anecdote	having made such comments in the first place
+17	no-unit	.
+-1	par-sep	
+18	continued	Predictably, there was no follow-up reporting in the New York Times reminding Americans
+19	continued	that the US is itself complicit in
+20	assumption	funding and arming extremists in Syria
+21	no-unit	.
+-1	par-sep	
+22	continued	In early 2013, the newspaper reported
+23	continued	what
+24	assumption	many in the region already knew
+25	no-unit	;
+26	continued	that since the beginning of 2012, the CIA had been deeply involved in
+27	continued	procuring weapons for anti-Assad forces, airlifting arms to Jordanian and Turkish airports, and "vetting" rebel commanders
+28	continued	-
+29	continued	all to help
+30	testimony	US allies "support the lethal side of the civil war"
+31	no-unit	.
+32	continued	Other reports pointed out
+33	testimony	that these shipments were actually paid for by US allies, at the bidding of the Obama administration
+34	no-unit	.
+-1	par-sep	
+35	no-unit	But	Modd-NU
+36	no-unit	,	Modd-NU
+37	continued	 after the Biden revelation, the so-called "newspaper of record" made no reference to
+38	continued	how
+39	continued	the US, in violation of international law, helped
+40	continued	to facilitate the Syrian civil war
+41	assumption	- and, in the process, to enable the rise of ISIL
+42	no-unit	.
+-1	par-sep	
+43	assumption	Western-backed extremism is neither a new nor regionally-bound concept
+44	no-unit	.
+45	continued	Whether
+46	continued	it is the "Contra" rebels in Nicaragua or al-Qaeda-like groups in Afghanistan
+47	continued	,
+48	continued	the objective has always been
+49	continued	to achieve strategic objectives through the infliction of mass suffering - for, in the "free and civilised world" of the US and its allies
+50	continued	,
+51	continued	the utopian end too often justifies
+52	assumption	the Mephistophelean means
+53	no-unit	.
+-1	par-sep	
+54	assumption	More recently, an important footnote to the Libyan civil war was the involvement of Abdul Hakim Belhaj, previously the leader of the Libyan Islamic Fighting Group as well as an al-Qaeda member
+55	no-unit	.
+-1	par-sep	
+56	assumption	He was one of many Libyan militants influenced by a takfiri (apostate) ideology
+57	no-unit	;
+58	continued	the groups
+59	continued	with which he was affiliated
+60	anecdote	were designated as terrorist organisations by the US State Department
+61	no-unit	.
+-1	par-sep	
+62	no-unit	Nevertheless	Modd-NU
+63	no-unit	,	Modd-NU
+64	continued	 he, along with other like-minded militants, became central components in the efforts of western and Arab-backed anti-Gaddafi forces
+65	assumption	to capture Tripoli, the Libyan capital
+66	no-unit	.
+-1	par-sep	
+67	continued	Western willingness
+68	continued	to cooperate with al-Qaeda (or "former" al-Qaeda) militants in Libya
+69	assumption	was a major turning point
+70	no-unit	.
+71	assumption	Even the subsequent death of the US ambassador to Libya did not change US policy in this regard
+72	no-unit	.
+73	anecdote	Belhaj became the representative of Libya's interim president after Gaddafi's overthrow (before the complete ruin of the country)
+74	no-unit	.
+-1	par-sep	
+75	continued	More importantly, the willingness of the US and European and "Middle Eastern" allies
+76	continued	to embrace al-Qaeda-like militants
+77	continued	took US and western foreign policy in the region back to
+78	continued	what
+79	continued	it had been before the September 11, 2001 attacks - a policy of cooperation with violent extremists
+80	continued	to undermine regional actors
+81	assumption	the West considers problematic
+82	no-unit	.
+-1	par-sep	
+83	no-unit	Monster they created
+84	no-unit	.
+-1	par-sep	
+85	assumption	This policy quickly expanded from Libya to Syria
+86	no-unit	and
+87	assumption	the repercussions are being felt today in countries like Pakistan, Nigeria, Australia, and China
+88	no-unit	.
+-1	par-sep	
+89	continued	After Gaddafi's overthrow, Turkey - a NATO member - allegedly helped Belhaj
+90	assumption	to meet with leaders of the so-called "Free Syrian Army" in Istanbul and along the Syrian-Turkish border
+91	no-unit	.
+92	continued	In the meetings the former al-Qaeda leader discussed
+93	assumption	supporting the FSA with money, weapons, and fighters
+94	no-unit	,
+95	continued	at a time
+96	continued	when
+97	assumption	the CIA was a major conduit for the transfer of weapons from Libya to Syria
+98	no-unit	.
+-1	par-sep	
+99	no-unit	While
+100	assumption	Belhaj was just one of many al-Qaeda affiliates involved in violent anti-government campaigns in both Libya and Syria
+101	no-unit	,
+102	continued	his openly acknowledged
+103	continued	role underscores
+104	continued	how
+105	continued	the supposedly "moderate" FSA was, from early on in the Syrian civil war
+106	continued	,
+107	continued	as
+108	assumption	Iran repeatedly warned, deeply associated with and infiltrated by extremists
+109	no-unit	.
+-1	par-sep	
+110	continued	Over time, the problem grew so large with ISIL's rise
+111	continued	that it became impossible
+112	continued	to hide the monster
+113	assumption	that the US and its allies had created
+114	no-unit	.
+115	assumption	And so, Washington launched yet another chapter in its never-ending post-9/11 "war on terror"
+116	no-unit	.
+-1	par-sep	
+117	continued	Notwithstanding Washington's professed determination
+118	continued	to degrade and, ultimately, to destroy ISIL
+119	continued	,
+120	assumption	Iran remains profoundly skeptical of US intentions
+121	no-unit	.
+-1	par-sep	
+122	continued	Even after
+123	continued	dramatic gains by ISIL in Iraq and the formation of a US-led coalition of the guilty to fight it
+124	continued	,
+125	statistics	this coalition has, on average, carried out just nine airstrikes per day in both Iraq and Syria
+126	no-unit	.
+-1	par-sep	
+127	continued	In comparison, western reports indicate
+128	continued	that
+129	continued	,
+130	statistics	in the same period, the Syrian air force alone has at times carried out up to 200 strikes in 36 hours
+131	no-unit	.
+132	no-unit	Even as
+133	assumption	these largely inconsequential US-led airstrikes are carried out in Iraq and Syria
+134	no-unit	,
+135	continued	some regional players continue
+136	assumption	to provide extensive logistical support to ISIL
+137	no-unit	;
+138	continued	along Syria's borders with Jordan and the Israeli regime, the Nusra Front continues
+139	assumption	to collaborate with other extremist militias backed by foreign (including western) powers
+140	no-unit	.
+-1	par-sep	
+141	continued	In light of these realities, Iranians 
+142	continued	-
+143	continued	who have been indispensable in
+144	continued	preventing the fall of Damascus, Baghdad, Aleppo, and Erbil
+145	continued	- simply do not buy the argument
+146	assumption	that a repentant US is now waging a real war against ISIL, the Nusra Front, and other extremist organisations in Iraq and Syria
+147	no-unit	.
+-1	par-sep	
+148	continued	Rather
+149	continued	,
+150	continued	 Iranians see the evidence as
+151	continued	pointing to a complex (yet foolish) policy undertaken by Washington and its allies for the purpose of
+152	assumption	"containing" the Islamic Republic
+153	no-unit	.
+-1	par-sep	
+154	continued	What	modd-NU
+155	continued	,	modd-NU
+156	continued	then	modd-NU
+157	continued	,	modd-NU
+158	continued	 would be the justification - under such circumstances and	modd-NU
+159	continued	as	modd-NU
+160	assumption	Iranian allies are successfully pushing back extremists in Iraq and Syria	modd-ASM
+161	continued	- for the Islamic Republic	modd-NU
+162	assumption	to cooperate with the US in Iraq?	m-question
+-1	par-sep	
+163	continued	No matter
+164	continued	how much
+165	continued	some may try
+166	assumption	to tempt it
+167	no-unit	,
+168	assumption	Iran will not play Faust to America's Mephistopheles
+169	no-unit	.

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="3762" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="189" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="195" end="368" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="370" end="499" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="501" end="580" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="583" end="656" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="657" end="733" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="734" end="804" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="806" end="832" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="833" end="839" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="840" end="939" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="941" end="951" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="952" end="1008" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1011" end="1093" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1094" end="1097" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1098" end="1139" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1145" end="1245" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1247" end="1296" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1298" end="1305" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1307" end="1402" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1404" end="1485" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1487" end="1579" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1585" end="1719" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1721" end="1724" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1725" end="1785" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1787" end="1805" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1807" end="1884" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1886" end="1941" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1942" end="1976" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="1979" end="2058" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2060" end="2143" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2146" end="2202" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2204" end="2296" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2299" end="2390" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2393" end="2454" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2455" end="2472" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2474" end="2527" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2530" end="2539" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2541" end="2584" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2587" end="2666" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2669" end="2781" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="2783" end="2839" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="2842" end="2900" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="2901" end="2970" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="2972" end="3079" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3082" end="3085" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3089" end="3159" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3161" end="3224" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3226" end="3384" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3386" end="3543" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3545" end="3600" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3602" end="3659" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3665" end="3739" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3742" end="3762" unitType="no-unit"/>
+    <core:SourceDocumentInformation xmi:id="278" sofa="1" begin="0" end="3762" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/112-hohonoschoolbanssantafromwinte.txt" offsetInSource="0" documentSize="3762" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="286" sofa="1" begin="0" end="3762" lastUpdate="2014-12-15T17:51:50Z" url="http://www.foxnews.com/opinion/2014/12/15/ho-ho-no-school-bans-santa-from-winter-concert/" portal="foxnews" authors="Todd Starnes" articleSum="A Cambridge, Massachusetts school that advertises itself as an “inclusive&amp;#10;community” banned Santa Claus from its annual Christmas concert after someone&amp;#10;complained.&amp;#10;&amp;#10;" title="Ho Ho No: School bans Santa from winter concert."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="A Massachusetts school that advertises itself as an &quot;inclusive community&quot; banned Santa Claus from its annual Christmas concert in the hometown of Harvard University after someone complained.&#10;&#10;&quot;I am writing to you today to inform you of a change in our concert series this winter,&quot; wrote Principal Jennifer Ford in a letter to parents of the Peabody School in Cambridge. &quot;Our first through fourth grade concert as well as our kindergarten concert will not include a visit from Santa Claus this year.&quot;&#10;&#10;The principal did not explain why Santa was banned from the December 12 concert.&#10;&#10;Could local environmentalists have taken issue with his carbon footprint? Did animal rights activists complain about the welfare of Prancer and Vixen? Did the milk and cookies violate the school's &quot;Let's Move&quot; food rules?&#10;&#10;It's hard to know for sure -- but I'm going to take a wild guess and say they probably thought Santa was the &quot;Reason for the Season.&quot;&#10;&#10;CLICK HERE TO FOLLOW TODD ON FACEBOOK FOR CONSERVATIVE CONVERSATION.&#10;&#10;Moms and dads around Cambridge, Mass  say the principal's ban is naughty, not nice and some are ready to jingle somebody's bells.&#10;&#10;&quot;I come from a city that celebrates diversity and tolerance,&quot; parent Robert Thompson told Fox &amp; Friends. &quot;At its base this decision reeks of intolerance.&quot;&#10;&#10;Instead,  Jolly Old Saint Nick has been relegated to a family sing-along on the day before Christmas Eve. Thompson said as if they are saying Santa is not &quot;good enough for the main show.&quot;&#10;&#10;The school was afraid even that even the presence of Old St  Nick overly sensitive residents.&#10;&#10;&quot;I am sensitive to the fact that you may not want your child involved in this event,&quot; Ford wrote in a letter obtained by the Boston Globe. &quot;If you prefer that your child spend time with me that afternoon, please let me know. I will be in the library, playing games and reading books with the children.&quot;&#10;&#10;How's that for an unadulterated does of liberal lunacy? It's enough to curdle your egg nog.&#10;&#10;Jeffrey Young is the superintendent of this calamitous mess of public education. He told the Globe he doesn't understand why Santa needs to visit the Peabody School.&#10;&#10;&quot;There's no anti-Santa sentiment,&quot; he told the newspaper. &quot;It's just that there's no pro-Santa sentiment either ... Santa's not on the top of my list&quot;.&#10;&#10;I'd be willing to bet a pound of fruitcake the superintendent is at the top of Santa's list.&#10;&#10;Mr  Thompson said the school celebrates all sorts of cultures - so why not his?&#10;&#10;&quot;They are telling me mine is not acceptable,&quot; he said.&#10;&#10;Of course,  this is the hometown of Harvard University - so it's fair to say they have a disproportionate number of certifiable citizens.&#10;&#10;This is the same town that in 2007 stopped a Boy Scout troop from collecting care packages for American soldiers. They scouts were accused of making a political statement.&#10;&#10;And how can we forget about the city's war on carbonation? The mayor wanted to ban any bottled soft drinks larger than 16 ounces. They also wanted to decide how much popcorn citizens could pop and how many milkshakes citizens could slurp.&#10;&#10;And if you need further proof that Cambridge is to the left of Vladimir Putin, consider this item from the 2006 edition of The Harvard Crimson. A member of the Cambridge Public Schools Committee compared a law mandating the recitation of the Pledge of Allegiance to a &quot;post 9/11 ultra-patriotism push.&quot;&#10;&#10;School committee member Luc Schuster told the newspaper that &quot;pledging blind allegiance&quot; to the United States stifles the intellectual capacity of children.&quot;&#10;&#10;You just can't argue with that kind of ignorance, folks. Sounds to me like they've been smoking too much mistletoe.&#10;&#10;As they say back home in Tennessee - the cheese has done slid off the cracker.&#10;&#10;Ho, ho, ho, America!"/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 286"/>
+</xmi:XMI>

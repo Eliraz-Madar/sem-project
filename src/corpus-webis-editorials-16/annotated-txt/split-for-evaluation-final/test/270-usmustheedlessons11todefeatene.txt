@@ -1,0 +1,174 @@
+0	title	Obama's terror strategy is failing: US must heed lessons of 9/11.
+-1	par-sep	
+1	continued	It is increasingly apparent
+2	assumption	that the U.S  war against Islamic extremism has been put on hold by President Obama and his national security team
+3	no-unit	.
+-1	par-sep	
+4	continued	President Obama failed
+5	anecdote	to even mention Al Qaeda during his State of the Union address
+6	no-unit	.
+7	continued	In early January, the recent terrorist attacks in Paris against the Charlie Hebdo magazine and a kosher supermarket gave us a glimpse of
+8	continued	what
+9	continued	the future of terrorism looks
+10	continued	like
+11	continued	,
+12	continued	and
+13	continued	what
+14	continued	the civilized world will have
+15	assumption	to defend against
+16	no-unit	.
+-1	par-sep	
+17	continued	At the same time
+18	continued	,
+19	continued	 the unfolding chaos in Yemen and loss of a U.S  partner in the fight against Al Qaeda in the Arabian Peninsula (AQAP) raises serious concerns about the future of a country
+20	continued	that four months ago President Obama cited as a successful model for U.S.-led efforts
+21	assumption	to defeat the Islamic State of Iraq and the Levant (ISIL)
+22	no-unit	.
+-1	par-sep	
+23	assumption	ISIL and AQAP are two faces of the same enemy, radical violent Islam
+24	no-unit	,
+25	assumption	which is on the march around the world
+26	no-unit	.
+-1	par-sep	
+27	anecdote	In 2013, ISIL was confined to Syria and Iraq
+28	no-unit	.
+29	continued	As
+30	continued	the Syria civil war dragged on, and in the absence of early, forceful intervention on the part of the United States or European nations
+31	continued	,
+32	anecdote	the chaotic situation spread to Iraq
+33	no-unit	,
+34	continued	where	Modd-NU
+35	assumption	weak security services were no match for an emboldened terrorist army
+36	no-unit	.
+-1	par-sep	
+37	continued	In 2014
+38	continued	,
+39	assumption	global support to the Islamic State blossomed
+40	no-unit	as
+41	continued	it began
+42	assumption	to supplant likeminded terrorist groups
+43	no-unit	,
+44	no-unit	and
+45	anecdote	the Islamic State counted affiliates in Algeria, Libya, Egypt, Saudi Arabia
+46	no-unit	.
+47	continued	ISIL even has begun
+48	anecdote	to make inroads in Yemen
+49	no-unit	,
+50	continued	where
+51	continued	the United States has been involved in efforts
+52	continued	to degrade AQAP's capabilities
+53	continued	,
+54	continued	but have been unable
+55	continued	to eliminate AQAP's ability
+56	anecdote	to conduct attacks on us and our allies
+57	no-unit	.
+58	continued	AQAP remains one of the most pressing security threats
+59	assumption	America currently faces
+60	continued	as
+61	assumption	the recent attacks in Paris show
+62	no-unit	.
+63	assumption	In the wake of the Paris attacks and plots disrupted elsewhere in Europe, European capitals are rightfully defiant in the face of terror
+64	no-unit	.
+65	continued	But without a change in our strategy, the task of
+66	continued	defending against the triple threat of home grown extremism
+67	continued	,
+68	continued	jihadists
+69	continued	who have easy access to hotbeds of radicalization in places like Yemen and Syria
+70	continued	,
+71	assumption	and the expansion of the Islamic State, will be nearly impossible
+72	no-unit	.
+73	anecdote	The Islamic State continues to recruit extremists in Europe, the Middle East, and as far away as southeast Asia
+74	no-unit	,
+75	continued	using targeted, high quality videos, magazines and literature copied in several languages
+76	anecdote	to spread their message around the world
+77	no-unit	.
+78	continued	They trumpet their successes on the battlefield, and try
+79	continued	to portray a welcoming environment centered on family and Islam as a means
+80	assumption	to attract terrorists and their families as subjects of their caliphate
+81	no-unit	.
+-1	par-sep	
+82	continued	The United States and all civilized countries need
+83	continued	to coordinate our efforts
+84	continued	to fight the Islamic State first by
+85	assumption	cutting them off
+86	no-unit	.
+87	continued	We must counter their message on social media
+88	continued	;
+89	continued	bolster allies like Iraq and Jordan
+90	continued	;
+91	continued	and ensure
+92	continued	that we prevent suspected terrorists from
+93	assumption	traveling back and forth between their homelands and places like Syria, Libya, and Yemen
+94	no-unit	.
+95	continued	Perhaps most importantly, we have
+96	continued	to help
+97	continued	governments eliminate the safe havens
+98	continued	that the Islamic State relies on
+99	assumption	to gather strength
+100	no-unit	.
+101	continued	Syria, Yemen, and Libya are all examples of our failure
+102	anecdote	to learn one of the fundamental lessons of the terrorist attacks of September 11, 2001
+103	no-unit	--
+104	assumption	that failed and failing states breed instability and are potential safe havens for terrorists
+105	assumption	who will eventually turn their attention toward us
+106	no-unit	.
+107	continued	We also cannot afford
+108	continued	to ignore another lesson of 9/11 and curtail intelligence gathering capabilities
+109	assumption	that have been legally and painstakingly established following those horrific attacks
+110	no-unit	.
+-1	par-sep	
+111	continued	The U.S  government should implore American technology companies
+112	continued	to cooperate with authorities
+113	continued	so that we can better track terrorist activity and monitor terrorist communications
+114	continued	as
+115	continued	we face the increasing challenge of homegrown terrorists radicalized by little more than
+116	continued	what
+117	assumption	they see on the Internet
+118	no-unit	.
+-1	par-sep	
+119	continued	This year, a new Republican majority in both houses of Congress will have
+120	assumption	to extend current authorities under the Foreign Intelligence Surveillance Act
+121	no-unit	,
+122	no-unit	and
+123	continued	I urge my colleagues
+124	continued	to consider a permanent extension of the counterterrorism tools
+125	continued	our intelligence community relies on
+126	continued	to keep
+127	assumption	the American people safe
+128	no-unit	.
+129	continued	The challenge
+130	continued	we face as free societies
+131	continued	is
+132	assumption	unlike anything we have seen in recent decades
+133	no-unit	.
+134	continued	As
+135	continued	we look at this moment in the long war against terrorism
+136	continued	,
+137	continued	it is encouraging
+138	continued	to see Europeans aggressively moving
+139	assumption	to defend the continent following a horrific attack
+140	no-unit	.
+141	continued	But one need look no further than the setbacks in Yemen and the stalemate in Syria and Iraq
+142	assumption	to see the limitations of President Obama's current strategy
+143	no-unit	.
+144	common-ground	Lofty speeches and half measures do not defeat terrorist groups
+145	no-unit	.
+146	continued	They also do not keep
+147	common-ground	Americans safe in the long term
+148	no-unit	.
+149	assumption	The threat from Islamic extremism is only growing
+150	no-unit	and
+151	continued	without greater leadership from the United States, I fear
+152	continued	that it will only be a matter of time
+153	continued	before
+154	assumption	innocent Americans pay the ultimate price	cond
+155	no-unit	if	cond
+156	continued	we continue
+157	continued	to underestimate our enemies and not develop a strategy
+158	assumption	that is commensurate to the threat
+159	no-unit	.
+-1	par-sep	
+160	anecdote	Republican Marco Rubio represents Florida in the U.S  Senate
+161	no-unit	.
+162	anecdote	He is a member of the Senate Committee on Commerce, Science and Transportation
+163	no-unit	.

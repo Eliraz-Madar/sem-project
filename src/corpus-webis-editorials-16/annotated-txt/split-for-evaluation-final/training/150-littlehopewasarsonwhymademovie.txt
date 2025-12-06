@@ -1,0 +1,172 @@
+0	title	'Little Hope Was Arson': Why I made a movie about burning churches.
+-1	par-sep	
+1	continued	As the son of missionaries
+2	continued	,
+3	continued	losing my faith
+4	anecdote	was no small event
+5	no-unit	.
+6	anecdote	I was 19 and hurting
+7	no-unit	.
+8	anecdote	My older brother was strung out on a number of drugs
+9	no-unit	and
+10	continued	I had moved in with
+11	continued	him naively attempting
+12	anecdote	to help my childhood hero
+13	no-unit	.
+-1	par-sep	
+14	continued	One night he jumped on top of me, wrapped both hands around my throat and had all the rage in his eyes needed
+15	anecdote	to end my life
+16	no-unit	.
+17	no-unit	When	cond
+18	continued	he saw
+19	assumption	that I wasn't struggling
+20	no-unit	,	cond
+21	anecdote	he let go, only to wake the next morning and drag me to church
+22	no-unit	.
+-1	par-sep	
+23	continued	My brother could threaten my life on Saturday night and
+24	continued	,
+25	continued	come Sunday morning
+26	continued	,
+27	anecdote	lift his hands to Jesus
+28	no-unit	.
+29	continued	That morning in his church I lost hope in the transformation
+30	anecdote	that supposedly comes with faith
+31	no-unit	.
+-1	par-sep	
+32	continued	On Christmas Day I announced to my father
+33	continued	that I no longer wanted
+34	anecdote	to be a Christian
+35	no-unit	.
+-1	par-sep	
+36	continued	A few months later, I boarded
+37	anecdote	a ship in New Zealand operated by the medical missions branch of YWAM--Youth with a Mission
+38	no-unit	--
+39	continued	though	Modd-NU
+40	continued	I was hardly signing up for six months
+41	anecdote	to serve God
+42	no-unit	.
+43	continued	I was there
+44	continued	to prove
+45	anecdote	that God didn't exist
+46	no-unit	.
+-1	par-sep	
+47	continued	One afternoon
+48	continued	David Cowie, the head of the program, asked
+49	continued	how
+50	anecdote	I was doing
+51	no-unit	and
+52	anecdote	I spilled my guts
+53	no-unit	.
+54	continued	At that point every kid
+55	continued	who's grown up in a church
+56	assumption	knows the drill
+57	no-unit	:
+58	continued	I disclose my doubt
+59	continued	;
+60	assumption	he gives the come-back-to-Jesus speech; roll credits
+61	no-unit	.
+-1	par-sep	
+62	no-unit	But
+63	anecdote	I reached the end of my story
+64	no-unit	and
+65	anecdote	David said nothing
+66	no-unit	.
+67	anecdote	He sat in silence
+68	no-unit	.
+69	continued	Not the kind of silence
+70	continued	that communicates indifference
+71	continued	,
+72	continued	but the kind
+73	assumption	that is reserved for close friends sharing a moment of understanding
+74	no-unit	.
+75	continued	He didn't push me away or try
+76	anecdote	to rush my journey with God
+77	no-unit	.
+-1	par-sep	
+78	anecdote	The next few months were transformational, a religious love story
+79	no-unit	.
+80	continued	Like many in my generation, the faith
+81	continued	I'd lost inside the four walls of a church
+82	continued	was found again through believers
+83	continued	who left the sanctuary
+84	anecdote	to help people in need
+85	no-unit	.
+86	anecdote	I hadn't been persuaded by a man building a congregation
+87	no-unit	;
+88	continued	I was undone by a friend
+89	anecdote	who listened without judgment
+90	no-unit	.
+-1	par-sep	
+91	continued	These were the thoughts rattling around in my head
+92	continued	when
+93	continued	I heard the story of 10 churches in East Texas
+94	anecdote	that had burned to the ground
+95	no-unit	.
+96	continued	Right away I could see
+97	anecdote	the makings of a great crime documentary akin to Errol Morris' "The Thin Blue Line,"
+98	no-unit	but
+99	anecdote	on a personal level, I also saw a road into my questions about churches
+100	no-unit	.
+-1	par-sep	
+101	continued	Ironically it was my brother
+102	continued	who encouraged
+103	continued	me to start
+104	anecdote	making the film
+105	no-unit	.
+106	continued	With his help I scraped together enough cash
+107	anecdote	to cover airfare to Texas and a small camera crew
+108	no-unit	.
+-1	par-sep	
+109	assumption	Then came a few more surprises
+110	no-unit	.
+111	no-unit	As
+112	anecdote	I interviewed pastors mourning the loss of their churches
+113	no-unit	,
+114	anecdote	I felt a growing sense of sympathy
+115	no-unit	.
+116	continued	Far more than buildings, these people had lost their community homes -- places
+117	continued	that heard
+118	assumption	wedding vows recited and last goodbyes whispered at funerals
+119	no-unit	.
+120	continued	I began
+121	anecdote	to feel sheepishly aware of my own cultural insensitivity
+122	no-unit	.
+123	no-unit	After all
+124	no-unit	,
+125	assumption	 this was, as many locals put it, "The buckle of the Bible belt."
+-1	par-sep	
+126	no-unit	But
+127	continued	the more
+128	continued	I learned about the two young men
+129	continued	who deliberately torched 10 houses of worship
+130	continued	,
+131	anecdote	the more I saw of myself
+132	no-unit	.
+133	continued	Jason Bourque and Daniel McAllister had grown up
+134	anecdote	attending Sunday school together
+135	no-unit	.
+136	no-unit	When	cond
+137	assumption	family problems and tragedy struck	cond
+138	no-unit	,	cond
+139	anecdote	their faith in God stumbled
+140	no-unit	and
+141	anecdote	they left the church
+142	no-unit	.
+143	continued	But during their time of need, no one was there
+144	assumption	to listen
+145	continued	as	Modd-NU
+146	anecdote	there had been for me
+147	no-unit	.
+-1	par-sep	
+148	continued	"Little
+149	continued	Hope Was Arson" ends with a quote from the Spanish anarchist Buenaventura Durruti
+150	continued	:
+151	continued	"The only church
+152	continued	that illuminates
+153	testimony	is a burning church."
+-1	par-sep	
+154	continued	When a church burns
+155	continued	does it simply illuminate the night, or through its destruction
+156	continued	will the world see
+157	assumption	the Gospel shine?

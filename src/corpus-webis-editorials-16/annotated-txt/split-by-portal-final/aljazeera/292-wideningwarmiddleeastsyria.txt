@@ -1,0 +1,155 @@
+0	title	The widening war in the Middle East.
+-1	par-sep	
+1	continued	It has been a week of air
+2	assumption	strikes "whodunnit" mysteries in the Middle East
+3	no-unit	.
+4	continued	Firstly, Al Jazeera broke the news
+5	testimony	that Iranian F-4 Phantoms were bombing ISIL in Iraq
+6	no-unit	.
+7	continued	The Iranians initially denied
+8	continued	being in the same airspace bombing the same enemies as the Americans
+9	anecdote	but later came clean about their role to the Guardian
+10	no-unit	.
+-1	par-sep	
+11	continued	We've also heard rumours of the US A-10 "tank buster" arriving
+12	assumption	to support the US mission in Iraq
+13	continued	although	Modd-NU
+14	continued	,	Modd-NU
+15	continued	again	Modd-NU
+16	continued	,	Modd-NU
+17	assumption	 nothing has been confirmed at this point
+18	no-unit	.
+19	no-unit	Then
+20	no-unit	,
+21	continued	 on as normal a Sunday	Modd-NU
+22	continued	as	Modd-NU
+23	continued	Damascus has experienced in the last few years	Modd-NU
+24	continued	,	Modd-NU
+25	continued	the Syrian regime released grainy photographs	Modd-NU
+26	anecdote	supposedly showing the trails of Israeli aircraft following a bombing run on targets in the area
+27	no-unit	.
+28	continued	Among the rumoured sites
+29	continued	that were hit
+30	anecdote	were areas of Damascus International Airport
+31	no-unit	.
+32	assumption	This caps a busy weekend for Syria's airbases
+33	anecdote	which withstood ISIL attacks in the east of the country on Saturday
+34	no-unit	.
+-1	par-sep	
+35	no-unit	While
+36	continued	at a tactical level it is impossible
+37	continued	to understand
+38	continued	what impact
+39	assumption	the strikes have had
+40	no-unit	,
+41	continued	at a political level
+42	assumption	it works for all sides
+43	no-unit	.
+44	continued	The Syrian regime has used its conflict with Israel
+45	continued	to justify an internal state of emergency and restrictions to freedoms for decades
+46	continued	and can now sell to the war weary public
+47	continued	who remain in their controlled areas
+48	continued	,
+49	assumption	the twin threat of ISIL and Israeli "terrorism"
+50	no-unit	.
+51	continued	For Benjamin Netanyahu, with elections looming, there is no better time for Israel's prime minister
+52	assumption	to act "prime ministerial" and remind voters of his eternal vigilance of the threat coming from Syria
+53	no-unit	.
+-1	par-sep	
+54	no-unit	Indeed	Modd-NU
+55	no-unit	,	Modd-NU
+56	continued	 earlier in the week, Netanyahu said
+57	continued	that Israel "is following the Middle East
+58	continued	and
+59	continued	what
+60	continued	is happening very closely, with wide open eyes and ears
+61	continued	- and
+62	testimony	a lot is happening
+63	no-unit	...
+64	continued	We will continue
+65	continued	to keep our fingers on the pulse
+66	continued	and
+67	continued	we will deal with these threats and these challenges
+68	continued	,
+69	testimony	which never take time off"
+70	no-unit	.
+-1	par-sep	
+71	continued	In a letter to Secretary General Ban Ki-moon, Syria's foreign ministry claimed
+72	continued	the bombing happened
+73	testimony	to distract from the break up of Netanyahu's coalition
+74	no-unit	.
+75	continued	Israeli officials meanwhile, would neither confirm nor deny the attacks with an Israeli army spokesman saying
+76	testimony	he would not comment on the "foreign reports"
+77	no-unit	.
+-1	par-sep	
+78	no-unit	While
+79	assumption	Syrian state media should always be read with a healthy pinch of salt
+80	no-unit	,
+81	no-unit	if	cond
+82	assumption	confirmed	cond
+83	no-unit	,	cond
+84	continued	the latest Israeli attack comes in a series
+85	assumption	that preceded the outbreak of civil war
+86	no-unit	.
+-1	par-sep	
+87	assumption	There is a certain format to this low level state of eternal conflict between the two parties
+88	no-unit	.
+89	anecdote	Israel's September 2007 attack on Syria's al-Kibar facility was again initially unconfirmed but would eventually be told as a strategic masterstroke taking down Syria's nuclear programme at a critical time
+90	no-unit	.
+91	continued	Following the attacks
+92	continued	,
+93	continued	Syria responded with bombastic rhetoric over
+94	continued	what
+95	assumption	it would do in the face of the strikes
+96	no-unit	but
+97	assumption	nothing ever happened
+98	no-unit	.
+-1	par-sep	
+99	assumption	Since the Syrian uprising and civil war, Israel's primary concern has been with certain types of hi-tech weaponry going to Hezbollah
+100	no-unit	,
+101	continued	which was used
+102	anecdote	to explain strikes in January and May of 2013
+103	no-unit	.
+104	continued	A year later and Israel responded to the very physical spillover of the Syrian conflict by
+105	anecdote	launching strikes in June 2014
+106	continued	after
+107	anecdote	shells were fired at their positions on the Golan Heights
+108	no-unit	.
+109	anecdote	Syria responded to the January bombings by warning of a "surprise"
+110	no-unit	,
+111	no-unit	but
+112	assumption	in fact their actual reaction has been predictably mute
+113	no-unit	.
+-1	par-sep	
+114	continued	The airspace over Syria has never been busier with different nations
+115	continued	pursuing different enemies with metrics of success
+116	continued	hard
+117	assumption	to distinguish among the smoke and debris of the destruction
+118	no-unit	.
+119	continued	This weekend's attacks
+120	continued	,
+121	continued	if
+122	continued	they are eventually claimed by Israel
+123	continued	,
+124	assumption	would further entrench the growing irrelevance of many of the region's borders as recognised and respected lines
+125	no-unit	.
+126	no-unit	While
+127	anecdote	the focus of global attention has been on ISIL's dismantling of the Iraq-Syria border
+128	no-unit	,
+129	assumption	the Lebanon-Syria border is also becoming functionally blurred and clearly no longer deters Israel's strategic decision makers
+130	no-unit	.
+-1	par-sep	
+131	continued	At the most immediate level, the strikes will likely embolden
+132	continued	Assad to play a traditional nationalist card
+133	assumption	to strengthen support among his remaining loyalists
+134	no-unit	.
+135	continued	Over in Israel
+136	continued	,
+137	continued	Netanyahu can appear
+138	assumption	to be making statesmanlike decisions ahead of a likely bruising election
+139	no-unit	and
+140	continued	it cannot be a coincidence
+141	continued	that he was in the US
+142	continued	when
+143	assumption	the bombing happened - a nod perhaps to a US green light and the durability of that continued relationship
+144	no-unit	.

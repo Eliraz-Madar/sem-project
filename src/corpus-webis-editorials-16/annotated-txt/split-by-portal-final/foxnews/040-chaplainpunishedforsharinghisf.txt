@@ -1,0 +1,239 @@
+0	title	Chaplain punished for sharing his faith in suicide prevention class.
+-1	par-sep	
+1	continued	An Army chaplain was punished for
+2	anecdote	discussing matters of faith and quoting from the Bible during a suicide prevention training session with the 5th Ranger Training Battalion -- leading to outrage from religious liberty groups and a Georgia congressman
+3	no-unit	.
+-1	par-sep	
+4	continued	Chaplain Joseph Lawhorn was issued a Letter of Concern
+5	continued	that accused him of
+6	anecdote	advocating for Christianity and "using Christian scripture and solutions" during a Nov  20th training session held at the University of North Georgia
+7	no-unit	.
+-1	par-sep	
+8	continued	"You
+9	continued	provided a two-sided handout
+10	continued	that listed Army resources on one side and a biblical approach to handling depression on the other side,"
+11	testimony	Col  David Fivecoat, the commander of the Airborne and Ranger Training Brigade at Ft  Benning, Georgia, wrote in the letter to the chaplain
+12	no-unit	.
+13	continued	"This made
+14	continued	it impossible for those in attendance
+15	continued	to receive the resource information without
+16	testimony	also receiving the biblical information."
+-1	par-sep	
+17	continued	The Christian chaplain was warned
+18	continued	to be "careful
+19	continued	to avoid any perception
+20	testimony	you are advocating one system of beliefs over another."
+-1	par-sep	
+21	no-unit	However	Modd-NU
+22	no-unit	,	Modd-NU
+23	continued	 attorneys for the chaplain, along with religious advocacy groups, say
+24	continued	his comments are covered by the "right of conscience clause"
+25	anecdote	that was passed in last year's National Defense Authorization Act, section 533
+26	no-unit	.
+-1	par-sep	
+27	no-unit	CLICK HERE	modd-del
+28	no-unit	TO JOIN TODD ON FACEBOOK FOR CONSERVATIVE CONVERSATION!	modd-del
+-1	par-sep	
+29	continued	Chaplain Lawhorn was ordered
+30	continued	to appear in the colonel's office on Thanksgiving Day
+31	continued	where
+32	anecdote	he was personally handed the Letter of Concern
+33	no-unit	.
+-1	par-sep	
+34	continued	Based on Col  Fivecoat's version of events -- you would've thought
+35	assumption	Chaplain Lawhorn had turned the suicide prevention workshop into a Billy Graham Crusade
+36	no-unit	.
+37	no-unit	However	Modd-NU
+38	no-unit	,	Modd-NU
+39	continued	 that's not
+40	continued	what
+41	assumption	happened
+42	no-unit	.
+-1	par-sep	
+43	no-unit	During the course of
+44	no-unit	conducting the training session
+45	no-unit	,
+46	continued	Ron Crews, the endorsing agent for military chaplains for Grace Churches International, explained
+47	continued	,
+48	continued	the chaplain discussed his own struggles with depression and the methods and techniques
+49	continued	he personally used
+50	testimony	to combat depression
+51	no-unit	.
+52	continued	He said
+53	testimony	the chaplain did provide a handout with religious resources
+54	no-unit	--
+55	assumption	but he also provided a handout with non-religious resources
+56	no-unit	.
+-1	par-sep	
+57	continued	"The
+58	continued	chaplain did nothing wrong,"
+59	testimony	said Crews
+60	no-unit	.
+61	continued	"At no time did
+62	continued	he say
+63	continued	his was the only or even the preferred way of
+64	continued	dealing with depression
+65	continued	.
+66	continued	And at no time did
+67	testimony	he deny the validity of any other method."
+-1	par-sep	
+68	continued	Lawhorn is one of the few Army chaplains
+69	anecdote	to wear the Ranger Tab
+70	no-unit	and
+71	continued	Crews said
+72	continued	it was through that identification
+73	testimony	that he shared his story about depression
+74	no-unit	.
+-1	par-sep	
+75	continued	"His
+76	continued	story involves his faith journey,"
+77	testimony	Crews said
+78	no-unit	.
+79	continued	"He was simply being a great Army chaplain - in
+80	continued	ministering to his troops and providing first hand
+81	continued	how
+82	testimony	he has dealt with depression in the past
+83	no-unit	.
+84	continued	That's
+85	continued	what
+86	continued	chaplains do
+87	continued	.
+88	continued	They bare their souls for their soldiers
+89	continued	in order
+90	continued	to help them with crises
+91	testimony	they may be going through."
+-1	par-sep	
+92	no-unit	However
+93	no-unit	,
+94	anecdote	 someone in the training session complained to the Military Association of Atheists and Freethinkers
+95	no-unit	.
+96	anecdote	That complaint led to a story on the Huffington Post
+97	no-unit	.
+-1	par-sep	
+98	continued	Michael Berry, an attorney with Liberty Institute, a law firm
+99	continued	that handles religious liberty cases
+100	continued	,
+101	anecdote	is representing the chaplain
+102	no-unit	.
+103	continued	He said the person
+104	continued	who filed
+105	testimony	the complained "exploited" the chaplain's "vulnerability."
+-1	par-sep	
+106	continued	"It
+107	continued	took a great amount of courage for Chaplain Lawhorn
+108	continued	to discuss his own personal battle with depression,"
+109	testimony	Berry said
+110	no-unit	.
+111	continued	"At no time did
+112	continued	he consider
+113	testimony	himself to be in a 'preacher' role."
+114	continued	Berry called on the Army
+115	continued	to rescind the Letter of Concern
+116	continued	--
+117	testimony	calling it a violation of the chaplain's constitutional rights
+118	no-unit	.
+-1	par-sep	
+119	continued	"Not
+120	continued	only is it lawful for a chaplain
+121	continued	to talk about matters of faith and spirituality and religion in a suicide prevention training class
+122	continued	-
+123	continued	but the Army policy encourages discussion of matters of faith and spiritual wellness,"
+124	testimony	Berry told me
+125	no-unit	.
+126	continued	"The fact
+127	continued	that one person in the class was offended
+128	testimony	changes nothing."
+-1	par-sep	
+129	continued	Congressman Doug Collins, a Republican lawmaker from Georgia
+130	continued	,
+131	continued	whose district
+132	continued	includes the area
+133	continued	where
+134	continued	the training session took place
+135	continued	,
+136	anecdote	fired off a letter to Col  Fivecoat expressing his concerns in the matter
+137	no-unit	.
+-1	par-sep	
+138	continued	"I
+139	continued	find
+140	continued	it counterintuitive
+141	continued	to have
+142	continued	someone lead a suicide prevention course but prohibit them from
+143	continued	providing their personal testimony,"
+144	testimony	Collins wrote
+145	no-unit	.
+-1	par-sep	
+146	continued	He cited the Army's Equal Opportunity policy and
+147	continued	how
+148	continued	it was set up
+149	anecdote	to protect the personal beliefs of military personnel
+150	no-unit	.
+-1	par-sep	
+151	continued	"I
+152	continued	fear
+153	continued	Chaplain Lawhorn's freedom of expression was improperly singled out,"
+154	testimony	he wrote
+155	no-unit	.
+-1	par-sep	
+156	continued	Liberty Institute tells me the Army
+157	continued	will allow
+158	anecdote	me to speak with the chaplain -- but not right now
+159	no-unit	.
+160	continued	And Col  Fivecoat sent me an email telling me
+161	continued	that he would not be able
+162	anecdote	to comment at this point
+163	no-unit	.
+-1	par-sep	
+164	continued	If
+165	continued	I'm reading between the lines -- that Letter of Concern
+166	continued	comes pretty close to
+167	assumption	accusing the chaplain of proselytizing
+168	no-unit	.
+169	assumption	Crews agrees with my assessment
+170	no-unit	.
+-1	par-sep	
+171	continued	"The
+172	continued	bottom line is 
+173	continued	--
+174	continued	that is
+175	continued	exactly what
+176	continued	they are trying
+177	continued	to accuse him of
+178	continued	--
+179	continued	when
+180	continued	nothing could be further from the truth,"
+181	testimony	Crews told me
+182	no-unit	.
+183	continued	"The military leadership needs
+184	testimony	to commend Chaplain Lawhorn, not condemn him."
+-1	par-sep	
+185	continued	Berry said
+186	testimony	Americans should be shocked and outraged over Chaplain Lawhorn's punishment
+187	no-unit	.
+-1	par-sep	
+188	continued	"His
+189	continued	job is
+190	continued	to save lives
+191	continued	-- and
+192	continued	he's being punished for
+193	continued	trying
+194	continued	to do his job,"
+195	testimony	Berry said
+196	no-unit	.
+197	continued	"He's
+198	continued	doing everything
+199	continued	he can
+200	continued	to save them
+201	continued	- and yet
+202	continued	now they're trying
+203	continued	to say - the way
+204	continued	you're doing
+205	testimony	it offends me."
+-1	par-sep	
+206	continued	I find
+207	continued	it both repulsive and heartbreaking
+208	continued	to know
+209	continued	that we have a military
+210	continued	that frowns upon a chaplain using
+211	assumption	a Bible to save a soldier's life
+212	no-unit	.

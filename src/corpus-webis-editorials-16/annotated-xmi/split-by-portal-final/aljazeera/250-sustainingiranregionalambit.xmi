@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="5144" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="118" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="120" end="200" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="202" end="304" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="307" end="408" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="410" end="510" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="511" end="584" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="586" end="675" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="678" end="685" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="687" end="805" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="807" end="933" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="935" end="1008" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1011" end="1022" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1024" end="1070" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1072" end="1077" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1078" end="1117" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1119" end="1260" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1262" end="1302" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1304" end="1347" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1350" end="1361" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1363" end="1453" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1455" end="1553" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1555" end="1609" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1611" end="1727" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1730" end="1822" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1824" end="1827" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1828" end="1841" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1843" end="2023" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2025" end="2067" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2071" end="2085" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2088" end="2169" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2171" end="2226" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2230" end="2283" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2285" end="2394" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2397" end="2402" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2403" end="2503" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2505" end="2636" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2639" end="2805" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2807" end="2814" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2816" end="3032" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="3035" end="3245" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3247" end="3252" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3253" end="3303" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3305" end="3333" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3336" end="3347" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3349" end="3517" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3519" end="3625" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3627" end="3675" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3677" end="3680" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3681" end="3719" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3721" end="3800" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3803" end="4011" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="4014" end="4081" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="4083" end="4159" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="4162" end="4349" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="4351" end="4468" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="4470" end="4545" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="4548" end="4555" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="4557" end="4619" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="4621" end="4624" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="4625" end="4710" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="4712" end="4859" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4862" end="4896" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4898" end="4901" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4902" end="4970" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4972" end="5143" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="338" sofa="1" begin="0" end="5144" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/250-sustainingiranregionalambit.txt" offsetInSource="0" documentSize="5144" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="346" sofa="1" begin="0" end="5144" lastUpdate="2014-12-14T09:08:59Z" url="http://www.aljazeera.com/indepth/opinion/2014/12/sustaining-iran-regional-ambit-2014121354258407502.html" portal="aljazeera" authors="Sharif Nashashibi" articleSum="There is growing unease in Iran over the accumulated financial burden of&amp;#10;Tehran's regional military commitments.&amp;#10;&amp;#10;" title="Sustaining Iran's regional ambitions at all costs."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="On December 7, Iranian President Hassan Rouhani announced a huge hike in military expenditure for the next fiscal year. Though he described the budget presented to parliament as &quot;cautious&quot; and &quot;tight&quot;, military spending is to rise by 33.5 percent, far above the six percent increase in the general budget.&#10;&#10;This will likely result in a greater military footprint in the region, particularly in Syria and Iraq, where Iranian troops are directly involved in combat, training, logistics and intelligence-gathering (Tehran this week expanded its operations in Iraq to include air strikes). It is also likely meant as a show of strength and defiance against Iran's regional rivals.&#10;&#10;However,  it is doubtful that Tehran can economically sustain its existing regional military commitments, let alone expand them. Crippling sanctions and a massive drop in oil prices mean a much larger military budget will put further strain on the economy, which has reportedly shrunk by 8.6 percent over the past two fiscal years.&#10;&#10;Furthermore,  the new budget might not be &quot;cautious&quot; enough. While it is based on oil being $70 per barrel, the price has fallen to under $70, with predictions that it will hover around $65 for the next several months, and perhaps slump even further. This is worrying news for the government, whose revenues are largely dependent on oil.&#10;&#10;In addition,  western sanctions have caused Iran's oil exports to plummet compared with a few years ago. Last year, the oil minister said the fall in exports was costing the country up to $8bn each month. Iran reportedly lost some $26bn in oil revenue in 2012. Sanctions and falling oil revenues have hurt the value of Iran's currency, and caused inflation to rise considerably.&#10;&#10;There has been an easing of sanctions in light of negotiations over Iran's nuclear programme, but it is limited. Given that the talks have been extended by several months, the bulk of the sanctions will remain in place at least until then, with no indication as yet that a deal is within reach. Sanctions could be reinstated or increased if the talks fail.&#10;&#10;All this amounts to an economy that cannot keep up with Iran's regional ambitions. The hike in military spending may arouse domestic anger if it is seen by Iranians as spurred by foreign ventures, which is already a cause of increasing frustration, particularly with regard to propping up the Syrian regime.&#10;&#10;While Tehran is secretive about the extent of its military and financial assistance to its regional allies, there is a consensus that it has been a considerable economic drain, not least because of the long-term nature of these commitments.&#10;&#10;Tehran's direct military involvement in Iraq is viewed by many Iranians as necessary to stop the Islamic State of Iraq and the Levant (ISIL) from reaching its borders. However,  there are reports of growing unease, among the public and within government, about the accumulating burden of propping up Bashar al-Assad in Syria, with no end in sight to a conflict that is entering its fourth year.&#10;&#10;Given the current economic climate, it may be harder for Iran and Russia  - which is also hurting under western sanctions and low oil prices - to sustain the war of attrition in Syria than for Assad's opponents. While the latter are also affected by falling oil prices, they are not under sanctions.&#10;&#10;Furthermore,  according to the International Monetary Fund, Iran and Russia need a much higher oil price to balance their budgets than Arab Gulf states, key backers of Syrian rebels. Given this, and Arab Gulf states' large cash reserves and funds, they can absorb low oil prices for longer. Saudi Arabia has relatively low production costs, and the US is enjoying a boom in shale oil. Iran's oil revenue reserve fund, on the other hand, has reportedly been drained.&#10;&#10;Government spokesman Mohammad Baqer Nobakht accused &quot;some so-called Islamic countries in the region&quot; of &quot;serving the interests of America and [other] arrogant powers in trying to squeeze the Islamic Republic&quot;.&#10;&#10;Rouhani has spoken of a &quot;political conspiracy by certain countries&quot;. Other Iranian officials have specifically pointed the finger at Saudi Arabia.&#10;&#10;Regional political calculations may have been behind the decision by Riyadh and its Arab Gulf neighbours to stop the recent OPEC meeting from deciding to cut oil output to shore up prices. The intention may be to curb Iran's regional power, and to weaken its negotiating position over its nuclear programme, over which the Gulf Cooperation Council has been very vocal in its concerns.&#10;&#10;However, other theories unrelated to Iran have been offered by analysts, and Gulf officials have spoken only of market forces rather than political considerations. In any case, the result is that for the foreseeable future, it will be increasingly costly for Tehran to maintain and extend its regional influence.&#10;&#10;Its new budget defies this reality, but Iranians cannot, and should not, endure indefinite economic hardship. They are less likely to tolerate such a situation if their sacrifices at home are paying for long-term military ventures abroad from which they see little tangible benefit."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 346"/>
+</xmi:XMI>

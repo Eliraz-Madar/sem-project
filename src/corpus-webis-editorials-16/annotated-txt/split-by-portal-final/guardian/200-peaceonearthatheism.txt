@@ -1,0 +1,116 @@
+0	title	If peace on earth is our goal, atheism might be the means to that end.
+-1	par-sep	
+1	continued	The quiet truth behind the inescapable headlines about man's inhumanity to man is
+2	assumption	that the world is actually becoming a more peaceful place
+3	no-unit	.
+4	assumption	Deaths from war and conflict have been declining for decades
+5	no-unit	- and
+6	no-unit	,
+7	no-unit	if	cond
+8	assumption	current trends continue	cond
+9	no-unit	,	cond
+10	continued	we can make
+11	assumption	them rarer still
+12	no-unit	.
+-1	par-sep	
+13	continued	What mysterious force
+14	assumption	is sowing peace among humankind?
+15	continued	One possible reason is
+16	assumption	that there are more atheists and nonbelievers than ever before
+17	no-unit	.
+-1	par-sep	
+18	statistics	In America, millennials are the largest and least religious generation in the country's history
+19	no-unit	.
+20	assumption	The trend toward secularization in the US mirrors the movement in Europe and throughout the developed world
+21	no-unit	.
+22	continued	And poll after poll have shown
+23	statistics	that the nonreligious also lean more progressive and more pacifist on a wide variety of issues relating to violence: torture, the death penalty, corporal punishment, military adventurism and more
+24	no-unit	.
+-1	par-sep	
+25	continued	A Pew poll from 2009, well before the Senate released its devastating torture report last month, asked
+26	continued	whether
+27	continued	torturing suspected terrorists could be justified
+28	continued	found
+29	continued	that the non-religious were most opposed
+30	continued	to torture
+31	continued	,
+32	continued	with a combined 55% saying
+33	statistics	that it could rarely or never be justified
+34	no-unit	.
+35	continued	Gallup has also found
+36	statistics	that people with no religious preference are less supportive of the death penalty than any group of Christians
+37	no-unit	.
+38	continued	The non-religious are also among the most likely
+39	continued	to say
+40	statistics	the invasion of Iraq was a mistake
+41	no-unit	.
+42	continued	The religiously unaffiliated are also less likely
+43	continued	than
+44	continued	Christians to believe
+45	continued	that the US is superior to all other countries in the world, a hyper-patriotic attitude
+46	statistics	that's hardly conducive to careful reflection about the use of American military power
+47	no-unit	.
+-1	par-sep	
+48	continued	As long
+49	continued	as
+50	continued	humanity was in thrall to the violent morality of religious texts
+51	continued	,
+52	assumption	our societies were warlike and cruel
+53	no-unit	.
+54	continued	As
+55	continued	the American revolutionary Thomas Paine said
+56	continued	,
+57	testimony	belief in a cruel god makes a cruel man
+58	no-unit	.
+59	continued	It's only in the last few decades
+60	continued	,
+61	continued	as
+62	continued	we've begun
+63	continued	to cast these beliefs off
+64	continued	,
+65	assumption	that we're making real moral progress
+66	no-unit	.
+-1	par-sep	
+67	assumption	The influence of the non-religious shows is also evident on an international scale
+68	no-unit	.
+69	continued	The nonprofit group Vision of Humanity publishes an annual Global Peace Index
+70	continued	,
+71	common-ground	which ranks countries on a broad spectrum of indicators, including violent crime, incarceration rates, weapon ownership, and military spending
+72	no-unit	.
+73	anecdote	Sociologist Phil Zuckerman summarizes their results in his new book Living the Secular Life
+74	no-unit	:.
+-1	par-sep	
+75	no-unit	...
+76	statistics	according to their most recent rankings, among the top ten most peaceful nations on earth, all are among the least God-believing
+77	no-unit	-
+78	no-unit	in fact
+79	no-unit	,
+80	statistics	 eight of the ten are specifically among the least theistic nations on earth
+81	no-unit	.
+82	no-unit	Conversely	Modd-NU
+83	no-unit	,	Modd-NU
+84	continued	 of the bottom ten - the least peaceful nations - most of
+85	testimony	them are extremely religious
+86	no-unit	.
+-1	par-sep	
+87	no-unit	Of course
+88	no-unit	,
+89	continued	not every atheist is peaceful
+90	continued	and not
+91	common-ground	every religious person is violent
+92	no-unit	.
+93	assumption	Avowedly pacifist faiths like the Quakers or Unitarian Universalists have played an important role in peace movements
+94	no-unit	and
+95	no-unit	,
+96	continued	in the other direction, there are lamentably prominent atheists like Sam Harris or the late Christopher Hitchens
+97	assumption	who've been entirely too cavalier about imperialism and military aggression
+98	no-unit	.
+99	continued	But in general, the trend is
+100	continued	that
+101	continued	,
+102	continued	as
+103	continued	the world becomes less religious
+104	continued	,
+105	continued	we can expect
+106	assumption	it to become even more peaceful
+107	no-unit	.

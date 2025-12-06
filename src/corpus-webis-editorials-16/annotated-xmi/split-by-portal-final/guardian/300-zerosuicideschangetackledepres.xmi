@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="4946" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="86" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="88" end="319" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="321" end="409" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="411" end="414" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="415" end="463" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="465" end="487" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="489" end="504" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="506" end="534" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="536" end="553" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="554" end="630" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="632" end="659" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="661" end="760" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="762" end="816" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="818" end="880" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="882" end="1040" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1043" end="1107" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1109" end="1200" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1202" end="1279" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1281" end="1304" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1306" end="1377" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1379" end="1456" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1458" end="1489" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1491" end="1560" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1563" end="1648" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="1650" end="1857" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="1859" end="1969" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="1971" end="1995" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="1997" end="2000" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2001" end="2155" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2158" end="2196" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="163" sofa="1" begin="2198" end="2272" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="168" sofa="1" begin="2274" end="2317" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="173" sofa="1" begin="2318" end="2349" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="178" sofa="1" begin="2350" end="2394" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="183" sofa="1" begin="2396" end="2479" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="188" sofa="1" begin="2481" end="2518" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="193" sofa="1" begin="2520" end="2592" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="198" sofa="1" begin="2594" end="2756" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="203" sofa="1" begin="2758" end="2821" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="208" sofa="1" begin="2823" end="3026" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="213" sofa="1" begin="3028" end="3084" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="218" sofa="1" begin="3090" end="3156" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="223" sofa="1" begin="3158" end="3226" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="228" sofa="1" begin="3227" end="3230" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="233" sofa="1" begin="3231" end="3270" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="238" sofa="1" begin="3271" end="3291" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="243" sofa="1" begin="3292" end="3302" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="248" sofa="1" begin="3303" end="3343" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="253" sofa="1" begin="3344" end="3428" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="258" sofa="1" begin="3429" end="3432" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="263" sofa="1" begin="3433" end="3480" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="268" sofa="1" begin="3482" end="3537" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="273" sofa="1" begin="3539" end="3571" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="278" sofa="1" begin="3573" end="3627" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="283" sofa="1" begin="3629" end="3709" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="288" sofa="1" begin="3711" end="3768" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="293" sofa="1" begin="3770" end="3789" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="298" sofa="1" begin="3791" end="3812" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="303" sofa="1" begin="3814" end="3833" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="308" sofa="1" begin="3835" end="3838" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="313" sofa="1" begin="3839" end="4013" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="318" sofa="1" begin="4016" end="4063" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="323" sofa="1" begin="4065" end="4079" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="328" sofa="1" begin="4081" end="4084" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="333" sofa="1" begin="4085" end="4274" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="338" sofa="1" begin="4276" end="4329" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="343" sofa="1" begin="4331" end="4392" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="348" sofa="1" begin="4394" end="4565" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="353" sofa="1" begin="4567" end="4697" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="358" sofa="1" begin="4700" end="4747" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="363" sofa="1" begin="4749" end="4792" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="368" sofa="1" begin="4794" end="4885" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="373" sofa="1" begin="4887" end="4945" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="378" sofa="1" begin="0" end="4946" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/300-zerosuicideschangetackledepres.txt" offsetInSource="0" documentSize="4946" lastSegment="true"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="386" sofa="1" begin="0" end="4946" lastUpdate="2015-01-20T20:58:06Z" url="http://www.theguardian.com/commentisfree/2015/jan/20/zero-suicides-change-tackle-depression" portal="guardian" authors="Jake Mills" articleSum="Jake Mills: We need to start talking about depression, for young men’s sake, in schools and workplaces. Politicians and the media must lead the way" title="Zero suicides is an admirable aim but it requires all-out change."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="On Monday, Nick Clegg pledged to sign up the NHS to a national &quot;zero suicide&quot; campaign. This comes in a week when I have spent a lot of time talking to the media about depression in an attempt to get people to support Calm and the other charities that are doing incredible work to help people coping with mental illness. I have appeared on national radio, in the press and on television to talk about my story, but the more coverage I get, the more I ask: why me?&#10;&#10;Let me make this clear. I am not famous, I am not trying to be famous. I am a normal lad who made mistakes, lived a lie, and eventually attempted to take my own life. I am just another statistic. Someone who suffered from an illness that took over my life and made me a person I didn't recognise. There is absolutely nothing special or unique about me. Yet I am getting calls from people asking me to share my story. The fact that I am newsworthy, simply because I have spoken openly about the demons I was facing, makes me think that we are being greatly let down by society.&#10;&#10;Suicide is the biggest single killer of men aged 20-49 in the UK. It's a statistic that, no matter how many times I say it, continues to shock me to the core. Yet it's something that few people seem to be talking about openly, if at all. I get it, we're British. Sometimes we don't like talking about things that make us uncomfortable. Sometimes we'd rather not ask the question because we can't handle the answer. But that simply cannot continue. It's time that people are made to stand up and face the harsh reality.&#10;&#10;The fear of being judged is preventing people from talking about their secret turmoil. There is very little being done by the people who have the biggest influence to remove those fears, remove the stigmas, to get people talking about mental health, and make people comfortable with the subject. The media doesn't just have influence, it has a responsibility to help communicate a message and set an agenda. Yes, things are changing, but it can't be right that the furthest we've come is having someone receive live therapy on air with Phillip Schofield or a soap character crashing a minibus.&#10;&#10;There is too much box-ticking going on. A petition signed, a campaign joined, an empty promise in an election year. All very good but what do they actually do? Do they help save enough lives? The system needs changing from top to bottom. There is no consistency or urgency, despite the high rate of men dying from suicide. What bigger wake-up call do you need?&#10;&#10;I would ask David Cameron to speak up and tell us what he is going to do. To meet me, to let me introduce him to the small team at Calm, the volunteers, the campaigners, the people on the end of phones with someone's life in their hands. Let me show him people who feel as if they have nowhere to turn. Let me show him the lack of knowledge of some people working in GP surgeries, and the pressure that those who make a positive difference are working under, as rates of mental illness increase continually. Let me show how so little can make such a big difference.&#10;&#10;If Nick Clegg is serious about mental health then he needs to show it. It's great that he has decided that we need to aim for zero suicides but I wonder, what was the aim before this? Just a few suicides? A hundred? Shouldn't the aim always have been zero? The likes of Calm, Mind, The Samaritans and everyone else, are doing incredible work but it shouldn't be left to them to do it all alone. They can only work with the limited resources they have. They need supporting and backing. We need to put faces and voices to genuine experiences. Speaking out about dealing with depression shouldn't be considered a &quot;brave&quot; act; it shouldn't be an extraordinary or unusual story to read. It should be common. It should be accepted. It should be normal. But while we live in a society that doesn't know how to deal with it, and perhaps does not want to deal with it, we cannot expect people to talk openly about such private matters.&#10;&#10;Much focus is placed on those who are suffering, and rightly so, but in order to truly help them, we need to make everyone else comfortable and knowledgeable enough to know what to do, how to act, and know how to signpost people to the help that is out there. We need to be talking about mental illness in schools. We need to make in-depth training compulsory in the workplace. We need to be training taxi drivers, bar staff, hairdressers - people who will find out more about a person through a casual conversation than their friends will ever know. We need to normalise talking about the realities of depression, to normalise conversations about the very real prospect of suicide - it is the only way we can move forward together. We need a radical change from top to bottom. Therapy isn't just about lying on a couch while someone writes down your childhood memories. It's about feeling comfortable enough to say you're not OK."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 168 173 178 183 188 193 198 203 208 213 218 223 228 233 238 243 248 253 258 263 268 273 278 283 288 293 298 303 308 313 318 323 328 333 338 343 348 353 358 363 368 373 378 386"/>
+</xmi:XMI>

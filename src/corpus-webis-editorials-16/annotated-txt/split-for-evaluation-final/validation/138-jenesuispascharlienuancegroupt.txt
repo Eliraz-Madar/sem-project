@@ -1,0 +1,244 @@
+0	title	If je ne suis pas Charlie, am I a bad person? Nuance gets lost in groupthink.
+-1	par-sep	
+1	anecdote	In the wake of terrorist attacks in Paris last week, many people in France and elsewhere have declared, Je suis Charlie
+2	no-unit	("I am Charlie")
+3	continued	after	Modd-NU
+4	anecdote	heavily armed gunmen broke into the headquarters of Charlie Hebdo, a satirical French magazine, and killed eight staff members, two police officers, a building maintenance worker and wounded several others	Modd-NU
+5	no-unit	.
+-1	par-sep	
+6	continued	On Sunday, hundreds of thousands of people including a number of world leaders such as Angela Merkel, Benjamin Netanyahu, and David Cameron gathered in Paris for a unity rally
+7	continued	,	Modd-NU
+8	anecdote	to stand in mourning, in defiance
+9	no-unit	.
+10	continued	There were cries of Je suis Charlie, Je suis Ahmed
+11	continued	(I am Ahmed, the Muslim police officer
+12	continued	who lost his life in the attack)
+13	continued	,
+14	continued	Je suis juif
+15	anecdote	(I am a Jew)
+16	no-unit	.
+-1	par-sep	
+17	continued	These declarations were a display of solidarity with those
+18	continued	who lost their lives
+19	continued	and those
+20	assumption	who survived
+21	no-unit	.
+22	continued	They allowed people
+23	continued	to try and place themselves in the lives of others	modd-ASM
+24	continued	by	Modd-NU
+25	assumption	using the power of language	Modd-NU
+26	no-unit	.
+27	assumption	We have seen this kind of remembrance before in the face of tragedy
+28	no-unit	:
+29	anecdote	I am Troy Davis
+30	no-unit	;
+31	anecdote	I am Mike Brown
+32	no-unit	;
+33	anecdote	I am Eric Garner
+34	no-unit	;
+35	anecdote	I am Renisha McBride
+36	no-unit	.
+-1	par-sep	
+37	common-ground	But we are none of these people
+38	no-unit	.
+39	assumption	We can and do empathize with the plights of the dead, the survivors and their loved ones
+40	no-unit	.
+41	continued	We can and do empathize with
+42	continued	how fragile
+43	continued	we all are
+44	continued	,
+45	continued	and with
+46	continued	how
+47	assumption	we cannot be ruled by terror, but
+48	continued	why
+49	continued	the rhetorical urge
+50	assumption	to take the place of the fallen?
+51	continued	What
+52	assumption	does it bring them?
+53	continued	I, too, have ached since
+54	continued	hearing the news of
+55	continued	what
+56	continued	happened in Paris but je ne suis pas Charlie et je ne suis pas Ahmed et je ne
+57	assumption	suis pas juif
+58	no-unit	.
+-1	par-sep	
+59	continued	There are times
+60	continued	when
+61	assumption	silence equals consent, but is the loss of someone else's life really such an instance?
+62	continued	Is it reasonable
+63	continued	to assume
+64	continued	that if
+65	continued	je ne suis pas Charlie
+66	continued	,
+67	assumption	I tacitly endorse terrorism?
+-1	par-sep	
+68	assumption	I believe in the freedom of expression, unequivocally
+69	no-unit	-
+70	no-unit	though
+71	no-unit	,
+72	no-unit	as
+73	no-unit	I have written before
+74	no-unit	,
+75	continued	I wish
+76	continued	more people would understand
+77	assumption	that freedom of expression is not freedom from consequence
+78	no-unit	.
+79	continued	I find
+80	anecdote	some of the work of Charlie Hebdo distasteful
+81	no-unit	,
+82	continued	because
+83	assumption	there is a preponderance of bigotry of all kinds in many of their cartoons' sentiments
+84	no-unit	.
+85	no-unit	Still	Modd-NU
+86	no-unit	,	Modd-NU
+87	continued	 my distaste should not dictate the work
+88	continued	the magazine produces
+89	continued	or
+90	assumption	anything else
+91	no-unit	.
+92	continued	The cartoonists at Charlie Hebdo - and writers and artists everywhere - should be able
+93	continued	to express themselves and challenge authority without
+94	assumption	being murdered
+95	no-unit	.
+96	assumption	Murder is not an acceptable consequence for anything
+97	no-unit	.
+-1	par-sep	
+98	continued	Yet it is also an exercise of freedom of expression
+99	continued	to express offense at the way satire like Charlie Hebdo's characterizes something
+100	assumption	you hold dear - like your faith, your personhood, your gender, your sexuality, your race or ethnicity
+101	no-unit	.
+-1	par-sep	
+102	assumption	Demands for solidarity can quickly turn into demands for groupthink
+103	no-unit	,
+104	continued	making	Modd-NU
+105	continued	it difficult
+106	assumption	to express nuance
+107	no-unit	.
+108	assumption	It puts the terms of our understanding of the situation in black and white
+109	no-unit	-
+110	continued	you are either with us or against us - instead of
+111	continued	allowing people
+112	continued	to mourn and be angry
+113	continued	while
+114	continued	also being sympathetic to complexities
+115	assumption	that are being overlooked
+116	no-unit	.
+-1	par-sep	
+117	continued	It has been disheartening
+118	continued	to see calls for the Muslim community
+119	assumption	to denounce terrorism
+120	no-unit	.
+121	continued	It has been disheartening
+122	assumption	to see journalists highlighting the stories of "good" Muslims
+123	no-unit	,
+124	no-unit	as if
+125	assumption	goodness is the exception to the rule of an entire people
+126	no-unit	.
+-1	par-sep	
+127	continued	We will continue
+128	assumption	to see discussions of satire, the freedom of expression and its limits
+129	no-unit	.
+130	continued	We will see speculations as to
+131	continued	how
+132	assumption	such a tragedy can be avoided
+133	continued	because	Modd-NU
+134	continued	it is easier
+135	continued	to speculate
+136	continued	than
+137	continued	it is
+138	continued	to accept
+139	assumption	that we cannot prevent terrorism
+140	no-unit	.
+141	assumption	We cannot sway extremists with rational thought or with our ideas of right and wrong
+142	no-unit	.
+-1	par-sep	
+143	assumption	Life moves quickly
+144	no-unit	but
+145	no-unit	,
+146	assumption	sometimes, consideration does not
+147	no-unit	.
+148	no-unit	And yet	Modd-NU
+149	no-unit	,	Modd-NU
+150	continued	 we insist
+151	assumption	that people provide an immediate response, or immediate agreement, a universal, immediate me-too 
+152	no-unit	-
+153	continued	as though	Modd-NU
+154	continued	we don't want people to pause at all
+155	continued	,
+156	continued	to consider
+157	continued	what
+158	assumption	they are weighing in on
+159	no-unit	.
+160	continued	We don't want
+161	assumption	to complicate our sorrow or outrage
+162	no-unit	when
+163	continued	it is easier
+164	assumption	to experience these emotions in their simplest, purest states
+165	no-unit	.
+-1	par-sep	
+166	continued	The older
+167	continued	(and
+168	continued	hopefully wiser)
+169	continued	I get
+170	continued	,
+171	assumption	the more I want to pause
+172	no-unit	.
+173	continued	I want
+174	continued	to take the time
+175	continued	to think through
+176	continued	how
+177	continued	I feel
+178	continued	and
+179	continued	why
+180	assumption	I feel
+181	no-unit	.
+182	continued	I don't want
+183	continued	to feign expertise on matters
+184	continued	I know nothing about for the purpose of
+185	assumption	offering someone else my immediate reaction for their consumption
+186	no-unit	.
+-1	par-sep	
+187	continued	The demand for response from all of us through the means available to us, most often our social networks, rises in part
+188	continued	because
+189	assumption	we can feel so impotent in our day-to-day lives
+190	no-unit	.
+191	assumption	We are people with jobs and families and our quotidian concerns
+192	no-unit	.
+193	continued	It is easy
+194	assumption	to feel impotent in the face of terrorism in Paris or hundreds of girls being kidnapped in Nigeria or a bombing at an NAACP building in Colorado or an unarmed black man being killed by a police officer
+195	no-unit	.
+-1	par-sep	
+196	assumption	Within our social networks, we can feel less alone
+197	no-unit	.
+198	assumption	We can feel less impotent
+199	no-unit	.
+200	assumption	We can make these gestures of solidarity
+201	no-unit	.
+202	assumption	Je suis Charlie
+203	no-unit	.
+204	assumption	We can change our avatars
+205	no-unit	.
+206	continued	We can share our anger, our fear, or devastation without
+207	continued	having
+208	continued	to face
+209	continued	that we may not be able
+210	assumption	to do much more
+211	no-unit	.
+-1	par-sep	
+212	no-unit	But
+213	assumption	we still feel impotent
+214	no-unit	and
+215	assumption	we still feel inadequate
+216	no-unit	.
+217	continued	When
+218	continued	we see people
+219	continued	not participating in our expressions of solidarity
+220	continued	--
+221	continued	not showing their awareness of their own impotence
+222	continued	-- we see something
+223	assumption	we can possibly change
+224	no-unit	.
+225	continued	That is
+226	continued	why
+227	assumption	we demand allegiance
+228	no-unit	.

@@ -1,0 +1,313 @@
+0	title	Pope Francis, Salman Rushdie and Charlie Hebdo.
+-1	par-sep	
+1	assumption	There is some common ground, but not much
+2	no-unit	.
+3	assumption	The killings in Paris last week were horrifying crimes
+4	continued	that expose the vulnerability of democratic societies to lethal vigilante violence	Modd-NU
+5	continued	,	Modd-NU
+6	continued	whether	Modd-NU
+7	assumption	facilitated from outside or as a spontaneous expression of homegrown psychopathic alienation	Modd-NU
+8	no-unit	.
+9	continued	Beyond this morbid reality associated with the murder of the Charlie Hebdo cartoonists, police officers, and the supermarket hostages	Modd-NU
+10	continued	,	Modd-NU
+11	assumption	there is nothing but darkness
+12	no-unit	,
+13	no-unit	and
+14	assumption	in that darkness some additional monsters lurk
+15	no-unit	.
+-1	par-sep	
+16	assumption	We can be thankful once more for the moral clarity of Pope Francis
+17	continued	who in
+18	continued	the impromptu setting of a plane taking him from Sri Lanka to Manila
+19	anecdote	shined some light on the darkness
+20	no-unit	.
+21	continued	Unlike those	Modd-NU
+22	continued	who so ardently wielded	Modd-NU
+23	continued	the slogan "Je Suis Charlie"	Modd-NU
+24	continued	,	Modd-NU
+25	continued	the pope understood
+26	continued	that free speech without limits is an invitation
+27	continued	to indulge the worst negative impulses
+28	assumption	that will then operate as viruses destroying the vital organs of the body politic
+29	no-unit	.
+-1	par-sep	
+30	continued	What
+31	continued	Pope Francis underscored
+32	continued	was the impossibility of
+33	assumption	reconciling dignity with hurtful insults
+34	no-unit	.
+35	continued	He illustrated his view by
+36	continued	saying
+37	continued	that if
+38	continued	his companion on the plane, Dr Alberto Gazparri, a Vatican official, were to insult Francis' mother
+39	continued	,
+40	continued	he could expect
+41	testimony	to be punched
+42	no-unit	.
+43	continued	He called
+44	continued	such behaviour normal
+45	continued	:
+46	continued	"It's normal
+47	continued	.
+48	continued	It's normal
+49	continued	.
+50	continued	You cannot provoke
+51	continued	.
+52	testimony	You cannot insult the faith of others."
+-1	par-sep	
+53	assumption	Perhaps, this is too strong an expression of limits
+54	no-unit	,
+55	no-unit	but
+56	continued	it does indirectly raise the Derrida urgent question of
+57	continued	learning
+58	continued	to "live together" in peace and with respect within
+59	assumption	globalising social space
+60	no-unit	.
+-1	par-sep	
+61	no-unit	Response to provocation
+62	no-unit	.
+-1	par-sep	
+63	continued	Francis goes on
+64	continued	to say
+65	continued	that to kill in response to provocation
+66	continued	,
+67	testimony	however severe, is not compatible with religion properly understood
+68	no-unit	.
+69	testimony	It is behaviour of "deviant forms of religion"
+70	no-unit	.
+71	continued	He goes on
+72	continued	to say
+73	continued	"To kill in the name of God
+74	testimony	is an aberration"
+75	no-unit	.
+76	no-unit	At the same time
+77	no-unit	,
+78	continued	how
+79	continued	lines are drawn with respect to acceptable and unacceptable forms of provocation
+80	continued	is highly political
+81	continued	and
+82	assumption	culturally influenced
+83	no-unit	.
+-1	par-sep	
+84	assumption	In one respect, France and other governments understand both sides of this argument, but twist it for political purposes
+85	no-unit	.
+86	continued	The popular comedian Dieudonne is being currently prosecuted in France for
+87	anecdote	"defending terrorism"
+88	continued	because	Modd-NU
+89	assumption	his humour deeply offends Jews, Zionists, and Israel
+90	no-unit	.
+-1	par-sep	
+91	statistics	There are no less than 54 cases in the country associated with "condoning terrorism"
+92	no-unit	.
+93	continued	The Associated Press reports
+94	continued	that just now "France ordered prosecutors around the country
+95	testimony	to crack down on hate speech, anti-Semitism, and glorifying terrorism"
+96	no-unit	.
+-1	par-sep	
+97	no-unit	But
+98	continued	note no message by the French government
+99	continued	is sent
+100	anecdote	mentioning "hate cartooning" or addressing the surge of "Islamophobia" in the country in the days following the January 7 attack on the Charlie Hebdo editorial offices
+101	no-unit	.
+102	assumption	A large number of mosques in France and elsewhere in Europe have been desecrated in the last week
+103	no-unit	.
+-1	par-sep	
+104	assumption	This kind of double standards performs a variety of insidious functions for the French state
+105	no-unit	.
+106	continued	It uses
+107	continued	the language of "terrorism" to demonise
+108	assumption	its political enemies and "free speech" to immunise its political friends
+109	no-unit	.
+110	assumption	It merges the criminalisation of anti-Semitism with strong criticisms of Israel along with any advocacy of boycott, divestment, and sanctions (BDS)
+111	no-unit	.
+112	continued	And it makes
+113	continued	it even clearer to Muslims
+114	assumption	that they are fair game for Islamophobes and xenophobes
+115	no-unit	.
+116	continued	In effect, a French political community is being upheld
+117	continued	that seeks
+118	continued	to include Jews as valued and protected members
+119	continued	while
+120	continued	reinforcing the Muslim understanding
+121	assumption	that their residences and social standing can be fully understood by reference to the no-go banilieus of the country
+122	no-unit	.
+-1	par-sep	
+123	no-unit	Salman Rushdie's ordeals
+124	no-unit	.
+-1	par-sep	
+125	assumption	In the wake of these events, there is a new sympathetic look back at the ordeals of Salman Rushdie endured after the publication of his satirical novel "The Satanic Verses" in 1988
+126	no-unit	.
+127	continued	Rushdie
+128	continued	,
+129	continued	appearing as a guest on Bill Maher's talk show and delivering a lecture at the University of Vermont
+130	continued	,
+131	anecdote	understandably defended freedom of expression as an absolute right
+132	no-unit	.
+-1	par-sep	
+133	continued	His words, deeply felt, are worth
+134	continued	heeding
+135	continued	as
+136	assumption	the counterpoint to the views expressed by Pope Francis
+137	no-unit	:
+138	continued	"And so artists
+139	testimony	who ... push outwards often find very powerful forces pushing back
+140	no-unit	.
+141	testimony	They find the forces of silence opposing the forces of speech
+142	no-unit	.
+143	continued	The forces of censorship against the forces of utterance 
+144	continued	...
+145	testimony	At that boundary is that push-and-pull between more and less
+146	no-unit	.
+147	testimony	And that push and pull can be very dangerous to the artist
+148	no-unit	.
+149	testimony	And many artists have suffered terribly for that."
+-1	par-sep	
+150	anecdote	The context of Rushdie's recent remarks was the Charlie Hebdo incident
+151	no-unit	,
+152	no-unit	but
+153	continued	his outlook was intended
+154	assumption	to be sweeping in its generality
+155	no-unit	.
+156	no-unit	And
+157	no-unit	yet
+158	continued	he did not, nor did Bill Maher
+159	continued	,
+160	continued	pause
+161	anecdote	to take note of those powerful forces in the West
+162	continued	that have tried
+163	continued	to shut down critics of Israel by
+164	assumption	shouting "anti-Semite" at the top of their lungs
+165	no-unit	.
+166	continued	Without some degree of consistency it is difficult
+167	assumption	to consider clearly the societal choice at stake
+168	no-unit	.
+-1	par-sep	
+169	continued	What
+170	continued	makes
+171	continued	this confrontation so difficult
+172	continued	to resolve
+173	continued	is
+174	assumption	that it engages two truths, not one
+175	no-unit	.
+176	continued	The beginning of ethical credibility is
+177	assumption	to insist upon consistency
+178	no-unit	.
+179	no-unit	Either
+180	continued	Rushdie and France have
+181	assumption	to abide by the unsavoury views of Dieudonne as well as those of Charlie Hebdo
+182	no-unit	or
+183	continued	it should suppress
+184	assumption	them both
+185	no-unit	.
+-1	par-sep	
+186	no-unit	If	cond
+187	assumption	it allows both	
+188	assumption	then it is opting for the Rushdie view
+189	continued	that members of a modern society must learn
+190	assumption	to live with the extremes of cultural freedom
+191	no-unit	even if
+192	no-unit	hurtful
+193	no-unit	.
+194	no-unit	If
+195	continued	it allows neither then
+196	continued	it is choosing
+197	assumption	to protect the sensibilities of minorities and others
+198	continued	whose dignity
+199	assumption	is under attack
+200	no-unit	.
+201	no-unit	Of course	Modd-NU
+202	no-unit	,	Modd-NU
+203	continued	 there are many compromises
+204	continued	that can be made
+205	continued	to ensure maximum freedom of expression while
+206	assumption	acknowledging certain limits
+207	no-unit	.
+-1	par-sep	
+208	continued	The US Supreme Court long ago decided
+209	continued	that free speech does entitle someone
+210	assumption	to yell "fire" in a crowded theatre
+211	no-unit	.
+212	continued	This is
+213	continued	what
+214	assumption	courts are for
+215	no-unit	,
+216	assumption	to draw these lines in specific cases, balancing opposing truths in the light of practicality and the evolving values of the community
+217	no-unit	.
+218	continued	What
+219	continued	a judicial body had
+220	continued	to say about race or homosexuality
+221	continued	a century ago is different than
+222	continued	what
+223	assumption	it says today
+224	no-unit	.
+225	no-unit	And
+226	continued	as	Modd-NU
+227	assumption	we in the US know too well
+228	no-unit	,
+229	continued	the prevailing ideology among the justices is often of greater importance to
+230	continued	determining
+231	continued	how
+232	continued	such lines are drawn
+233	continued	than
+234	assumption	are the legislative or constitutional enactments being interpreted
+235	no-unit	.
+236	assumption	In some respects, then, such determinations are more part of the problem than of the solution
+237	no-unit	.
+-1	par-sep	
+238	no-unit	Abstract sentiments
+239	no-unit	.
+-1	par-sep	
+240	continued	I find
+241	continued	myself siding with the abstract sentiments of Pope Francis, but with Rushdie's view of
+242	assumption	minimising the role of law and the state
+243	no-unit	.
+244	no-unit	In this respect
+245	no-unit	,
+246	no-unit	if	cond
+247	assumption	we impose limits by way of government	cond
+248	assumption	we are entering the domain of censorship
+249	no-unit	.
+250	no-unit	At the same time	Modd-NU
+251	no-unit	,	Modd-NU
+252	continued	 we need
+253	continued	to protect individuals and groups against malicious forms of defamation and hateful attacks on identities without
+254	continued	confusing such protection with efforts
+255	assumption	to channel public awareness in certain prescribed directions
+256	no-unit	.
+-1	par-sep	
+257	continued	My own experience suggests
+258	continued	that "freedom" of this sort has been used by some pro-Zionist and pro-Israeli organisations
+259	continued	to discredit and deter
+260	continued	and
+261	anecdote	criticism of Israel, and especially of Israeli state crimes victimising the Palestinian people
+262	no-unit	.
+263	continued	In Rushdie's case we need
+264	continued	to protect his right
+265	continued	to publish "The Satanic Verses"
+266	continued	,
+267	continued	while
+268	continued	condemning the fatwa
+269	continued	imposing a death sentence for blasphemy and apostasy
+270	continued	,
+271	continued	yet upholding the right of non-western political communities
+272	assumption	to prohibit distribution of such a book because of its provocative nature in certain civilisational settings
+273	no-unit	.
+-1	par-sep	
+274	assumption	Obviously, there are no cookie cutter answers
+275	no-unit	.
+276	assumption	The proper limits are a matter of history, ethics, cultural priorities, and circumstances
+277	no-unit	.
+278	continued	I feel
+279	continued	that the central question is raised by Derrida's inquiry into
+280	continued	how
+281	continued	we can learn
+282	assumption	to live together
+283	no-unit	.
+284	continued	For me
+285	continued	,
+286	continued	living together
+287	continued	,
+288	continued	given the originality of our historical moment, involves the construction of overlapping political communities of destiny - from family to world, with a major focus on the national political community combined with a greater effort
+289	continued	to establish a global political community
+290	assumption	so that challenges posed by climate change, nuclear weaponry, infectious disease, and world poverty can be addressed more effectively and humanely
+291	no-unit	.

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="349" begin="0" end="4568" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="349" begin="0" end="116" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="349" begin="118" end="209" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="349" begin="211" end="255" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="349" begin="257" end="478" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="349" begin="480" end="549" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="349" begin="551" end="589" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="349" begin="591" end="657" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="349" begin="660" end="739" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="349" begin="741" end="780" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="349" begin="782" end="937" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="349" begin="939" end="976" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="349" begin="978" end="993" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="349" begin="995" end="998" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="349" begin="1002" end="1033" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="349" begin="1035" end="1083" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="349" begin="1086" end="1148" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="349" begin="1150" end="1311" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="349" begin="1313" end="1543" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="349" begin="1546" end="1576" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="349" begin="1578" end="1689" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="349" begin="1691" end="1788" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="349" begin="1792" end="1835" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="349" begin="1837" end="1957" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="349" begin="1959" end="2035" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="349" begin="2037" end="2092" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="349" begin="2094" end="2142" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="349" begin="2147" end="2214" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="349" begin="2215" end="2218" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="349" begin="2219" end="2296" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="349" begin="2298" end="2323" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="349" begin="2325" end="2328" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="349" begin="2329" end="2351" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="349" begin="2353" end="2410" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="349" begin="2413" end="2514" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="349" begin="2516" end="2542" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="349" begin="2545" end="2699" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="349" begin="2701" end="2787" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="349" begin="2789" end="2832" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="349" begin="2834" end="2837" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="349" begin="2838" end="2883" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="349" begin="2885" end="2997" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="349" begin="3000" end="3056" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="349" begin="3058" end="3096" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="349" begin="3098" end="3101" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="349" begin="3102" end="3123" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="349" begin="3125" end="3178" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="349" begin="3180" end="3187" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="349" begin="3189" end="3426" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="349" begin="3429" end="3579" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="349" begin="3581" end="3586" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="349" begin="3587" end="3631" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="349" begin="3633" end="3738" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="349" begin="3743" end="3767" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="349" begin="3774" end="3793" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="349" begin="3795" end="3825" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="349" begin="3829" end="3852" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="349" begin="3854" end="3878" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="349" begin="3879" end="3894" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="349" begin="3896" end="3931" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="349" begin="3934" end="4119" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="349" begin="4121" end="4200" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="349" begin="4202" end="4261" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="349" begin="4263" end="4363" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="349" begin="4365" end="4499" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="349" begin="4501" end="4567" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="331" sofa="349" begin="0" end="4568" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/123-internetmosaicteensbuildidenti.txt" offsetInSource="0" documentSize="4568" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="356" sofa="349" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/123-internetmosaicteensbuildidenti.xmi" offsetInSource="0" documentSize="4568" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="339" sofa="349" begin="0" end="4568" lastUpdate="2015-01-12T16:30:09Z" url="http://www.theguardian.com/commentisfree/2015/jan/12/internet-mosaic-teens-build-identity" portal="guardian" authors="Jess Zimmerman" articleSum="Jess Zimmerman: Your teen years are a time to try on a bunch of different self-concepts. Today, you have to be careful when the internet doesn’t want you to change" title="The internet is fertile ground for the mosaic of allegiances out of which teens build identity."/>
+    <cas:Sofa xmi:id="349" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Young people - at least weird young people, at very least weird young girls - are often eager to announce themselves. In lieu of a strong self-concept, the young build themselves out of a mosaic of allegiances. The online world is fertile ground for these. Tumblr, Twitter and 4chan, for example, are full of young people pledging fervent allegiance to a favorite fan culture, a political movement or a self-diagnosis, with all the rights, privileges, and rivalries that implies. Some of these will be important parts of a person's identity for life. Others will mortify them within a year. At that age, it can be very, very hard to tell which will be which.&#10;&#10;Building a self-concept means staking your claim for an audience, however small. I'm sure kids still write private stuff. But it's hard when you are young and lonely - no matter how many fandoms you join - to resist a readily- available audience that doubles as a support group. I wouldn't have been able to, I think: I wrote letters, but if there had been Tumblr back then, I would have been on it like scarves on Sherlock.&#10;&#10;The support of the invisible masses can be incredibly positive. For teens who are isolated physically or emotionally, the internet might provide the first glimmer of understanding that there's nothing actually wrong with them. It can be a way to connect with other people, to build support systems to which you don't have access in your offline life, a way to live and explore an identity that you might have to keep hidden or secret for your own protection.&#10;&#10;But there can also be pitfalls. Sometimes, when you're trying to figure out who you are and what you believe, you test out a lot of convictions. (I had an &quot;I hate feminists because they get mad when men hold doors for them&quot; phase, for example .) Once you've made those statements in public, it's harder to pull up, to nix one bit of the person you've created from scratch and go exploring down a different route. You've already told Tumblr that you are definitely, really a wolf with wings; you've argued in favor of Otherkin rights and awareness; you've become a leader of the Otherkin community. Or worse, you've helped your 4chan buddies dox a female game developer and your rape-threat tweets are screencapped and re-tweeted all over the internet. You've pledged allegiance, and everyone saw you do it. Now, when someone challenges you, you have to double down.&#10;&#10;The danger of overcommitting to passing thoughts by making them public isn't just a pitfall for teens. Adults do it all the time  - they make an offhanded comment and then make it worse with a defensive non-apology, or complain about an offhanded comment and set off the outrage machine. But the teen years are an identities factory, churning out new products right and left. You try out more opinions and self-concepts, and you're much more susceptible to peer pressure. It's perfect lab conditions for getting locked into an idea of yourself that would have otherwise been ephemeral.&#10;&#10;I'm not saying we should keep teenagers off the internet. Teens are the internet's beating heart, and they always have been; an internet without teens doesn't bear thinking about. Besides,  young people who are marginalized, or confused, or in any way lonely need to see that there is a whole world they can connect to - that there are people who share their problems, or maybe that their idiosyncrasies aren't problems at all.&#10;&#10;In an ideal world we'd keep adults off the internet instead, to preserve it as a space of identity experimentation for the people who really need that. Given that adults are unlikely to accept this idea, maybe we can all go back to using cute handles like LadyBloodrayne instead of our real names all the time. (I don't know, I was a goth .) If she embarrasses you, ditch her for TitaniaDarkwing! If she gets you in trouble, switch to EldritchAngel! Actually, don't: I like that one, and I'm keeping it.&#10;&#10;At any rate, I hope that young people - at least lonely, weird young people, at very least lonely weird young girls - occasionally resist some of their urges for public self-declaration. I hope they're writing emails to friends, even ones they've never met in person. In my ideal world they'd even take up writing letters again. Cobbling together an identity is a fraught, uncertain, often very retroactively embarrassing pursuit. I hope that the young weirdos of today can be kind enough to their future selves to draw a decorous veil over some of that floundering. At least until 20 years in the future, when it becomes funny again."/>
+    <cas:View sofa="349" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 356 339"/>
+</xmi:XMI>

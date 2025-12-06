@@ -1,0 +1,250 @@
+0	title	Forget the bad science. Here are my top 5 dos and don'ts of dating.
+-1	par-sep	
+1	continued	You would be forgiven for
+2	continued	thinking
+3	continued	that centuries of human society would mean
+4	continued	that we were now at a stage
+5	continued	where
+6	continued	we didn't need help
+7	continued	finding another human being
+8	continued	whom we could bear
+9	continued	to be around
+10	continued	and
+11	continued	who wanted
+12	assumption	to get naked with us
+13	no-unit	.
+14	assumption	But you would be mistaken
+15	no-unit	.
+16	continued	It seems
+17	continued	as
+18	continued	time progresses
+19	continued	we need more and more tactics for
+20	assumption	tricking someone into a relationship
+21	no-unit	.
+22	continued	Some people need
+23	continued	pickup artists to help
+24	assumption	them manipulate women
+25	no-unit	,
+26	continued	others think
+27	assumption	"science" will provide the 21st-century love potion
+28	no-unit	.
+-1	par-sep	
+29	continued	In the latest use of scientists' time, they have found
+30	continued	that eating dessert on a date increases the likelihood
+31	anecdote	that there'll be a second date
+32	no-unit	.
+33	continued	This research is flawed on a number of levels, not least
+34	continued	because
+35	continued	you shouldn't have a meal on a first date: too many food-related potential disasters
+36	assumption	and not enough alcohol
+37	no-unit	.
+38	no-unit	Plus
+39	no-unit	,
+40	no-unit	if	cond
+41	assumption	you're on a date with a diabetic	cond
+42	continued	,
+43	continued	you could be responsible for
+44	assumption	putting them into a coma
+45	no-unit	,
+46	continued	which is likely
+47	assumption	to hamper the relationship
+48	no-unit	.
+-1	par-sep	
+49	no-unit	Instead
+50	no-unit	,	Modd-NU
+51	continued	 here are some further helpful dos and don'ts
+52	continued	when
+53	continued	it comes to
+54	other	dating
+55	no-unit	:.
+-1	par-sep	
+56	continued	1) Don't call
+57	assumption	it dating imp
+58	no-unit	.
+59	assumption	It's a horrible word and a horrible concept
+60	no-unit	.
+61	no-unit	Instead	Modd-NU
+62	no-unit	,	Modd-NU
+63	continued	 think of it as
+64	assumption	going for a drink or to a gallery or whatever, and there being someone else there	imp
+65	no-unit	.
+66	continued	This relieves the pressure
+67	continued	to be attractive
+68	continued	and the crushing disappointment
+69	assumption	that comes with it
+70	no-unit	.
+-1	par-sep	
+71	assumption	2) Do get drunk	imp
+72	no-unit	.
+73	assumption	There is no downside to this
+74	no-unit	.
+75	assumption	OK, there are a couple of downsides
+76	no-unit	.
+77	continued	The trick is
+78	continued	to get drunk enough
+79	continued	to be hilariously funny, intelligent and confident but not so drunk
+80	continued	that you lower your standards and impair your ability
+81	continued	to get the hell out of there
+82	continued	if
+83	continued	it becomes
+84	assumption	boring or creepy
+85	no-unit	.
+86	no-unit	Even if	cond
+87	continued	you get so drunk
+88	continued	that you dance on a table, start
+89	continued	crying
+90	assumption	or vomit into your lap
+91	no-unit	,	cond
+92	assumption	you can always blame the booze
+93	no-unit	.
+94	no-unit	If	cond
+95	assumption	you don't drink	cond
+96	no-unit	, then	cond
+97	continued	I'm afraid
+98	continued	there is nothing
+99	assumption	I can do for you
+100	no-unit	:
+101	no-unit	best of luck
+102	no-unit	.
+-1	par-sep	
+103	assumption	3) Don't be too self-deprecating	imp
+104	no-unit	.
+105	continued	It is a good idea
+106	continued	to show
+107	assumption	that you don't take yourself too seriously
+108	no-unit	and
+109	continued	it can be endearing, but keep it to the stories about
+110	continued	giving a presentation with your skirt/shirt tucked into your knickers/Y-fronts
+111	continued	or
+112	continued	when
+113	continued	you had
+114	continued	a conversation about nobody taking you seriously
+115	continued	while
+116	assumption	you had mustard on your face
+117	no-unit	.
+118	continued	Save the stories about
+119	continued	when
+120	no-unit	you soiled yourself until at least the fourth date
+121	no-unit	.
+122	continued	You don't want
+123	continued	to waste these comedy gold stories on someone
+124	assumption	you might only see a couple of times
+125	no-unit	.
+126	continued	When	Modd-NU
+127	no-unit	it comes to defecating stories
+128	no-unit	,
+129	continued	you don't want
+130	continued	to unload your A-list stories on someone
+131	assumption	who might not be worthy
+132	no-unit	.
+133	assumption	This is a journey of discovery
+134	no-unit	,
+135	assumption	so temporarily hold some mystery back	imp
+136	no-unit	.
+-1	par-sep	
+137	assumption	4) Do find out their politics	imp
+138	no-unit	.
+139	continued	Life is too short
+140	continued	to waste on someone
+141	continued	who thinks
+142	common-ground	Hitler had a point
+143	no-unit	.
+144	continued	It is good
+145	assumption	to surround yourself with people with different views to your own
+146	continued	because	Modd-NU
+147	assumption	arguments are fun
+148	no-unit	,
+149	no-unit	but
+150	common-ground	everyone has their red-line issues
+151	no-unit	and
+152	continued	you might as well shake them down on these
+153	continued	before
+154	assumption	you spend too much on booze
+155	no-unit	.
+156	continued	So try
+157	assumption	to turn the conversation round to Ched Evans, free speech or the order of greatness of the Star Wars films	imp
+158	continued	(which for
+159	continued	reference is: episode V, episode IV, Episode VI
+160	continued	,
+161	assumption	episodes I-III don't exist and should never be mentioned)
+162	no-unit	.
+163	no-unit	If	cond
+164	continued	you feel
+165	assumption	they're wildly wrong on any of these subjects	cond
+166	no-unit	,	cond
+167	continued	shriek
+168	continued	that you've left the oven on
+169	assumption	and run	imp
+170	no-unit	.
+-1	par-sep	
+171	assumption	5) Don't talk about your ex(es) all night	imp
+172	no-unit	.
+173	continued	You may like
+174	continued	to use every opportunity
+175	assumption	to talk about the profound personality flaws of your former lovers
+176	no-unit	,
+177	no-unit	but
+178	continued	it's rather ungallant and makes
+179	assumption	you look slightly like a psychopath
+180	no-unit	.
+181	continued	You want
+182	continued	to hint at the fact
+183	assumption	that you have been in a relationship before
+184	no-unit	,
+185	continued	as	Modd-NU
+186	continued	it implies
+187	continued	that there are human beings
+188	continued	who don't find
+189	assumption	your regular presence completely loathsome
+190	no-unit	.
+191	no-unit	But
+192	continued	make sure
+193	continued	you don't get a nervous tick
+194	continued	when
+195	continued	you talk about it
+196	continued	or start
+197	no-unit	stabbing the table
+198	no-unit	-
+199	continued	these are
+200	continued	what
+201	assumption	are known as "giveaways"
+202	no-unit	.
+-1	par-sep	
+203	no-unit	In general	Modd-NU
+204	no-unit	,	Modd-NU
+205	continued	 we have
+206	continued	to be a little wary of claims
+207	continued	that science holds the key
+208	assumption	to love
+209	no-unit	,
+210	continued	as	Modd-NU
+211	assumption	many myths abound
+212	no-unit	.
+213	no-unit	For instance
+214	no-unit	,
+215	assumption	 pheromones don't work in humans
+216	no-unit	.
+217	continued	Dopamine is released
+218	continued	when
+219	continued	you're in love
+220	continued	and
+221	continued	when
+222	continued	you eat chocolate
+223	continued	,
+224	continued	but also
+225	continued	when
+226	assumption	you take cocaine and smoke fags
+227	no-unit	,
+228	no-unit	and
+229	assumption	the latter two may very well hamper your success at relationships
+230	no-unit	.
+231	continued	Other research shows
+232	continued	that you increase your chances of
+233	continued	falling in love
+234	continued	if
+235	statistics	you ask just 36 questions and then stare into their eyes for four minutes
+236	no-unit	.
+237	continued	Which looks a lot like
+238	continued	just showing an interest in someone and finding out
+239	assumption	you have things in common, so not exactly rocket science
+240	no-unit	.

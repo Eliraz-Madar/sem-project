@@ -1,0 +1,185 @@
+0	title	Islamic civilisation is in Europe's DNA.
+-1	par-sep	
+1	anecdote	The brutal and tragic murders of 12 people at the offices of Charlie Hebdo in Paris - 10 staff members and two police officers - by masked gunmen has triggered an outpouring of shock and grief, not only in France but around the world
+2	no-unit	.
+-1	par-sep	
+3	anecdote	Large, spontaneous vigils filled the streets of many French cities
+4	no-unit	,
+5	continued	while	Modd-NU
+6	continued	social media was awash with solidarity and condemnation, including the hashtags #JeSuisCharlie and #NotInMyName
+7	continued	,
+8	continued	which was used by Muslims
+9	anecdote	condemning the attacks
+10	no-unit	.
+-1	par-sep	
+11	continued	Police in France have identified and released the photographs of two brothers suspected
+12	anecdote	to be involved in the attack
+13	continued	while	Modd-NU
+14	continued	early speculation focused on the premise
+15	continued	that Muslim extremists were behind the dreadful act, especially given the magazine's long history of
+16	assumption	satirising Islam and other religions
+17	no-unit	.
+18	anecdote	The two brothers have been identified as 32-year-old Said Kouachi and 34-year-old Cherif Kouachi
+19	no-unit	.
+-1	par-sep	
+20	assumption	This theory has been reinforced by eyewitness accounts of the men shouting "Allahu Akbar"
+21	no-unit	.
+22	continued	The designer
+23	continued	who was forced
+24	continued	to let the assailants in
+25	continued	says
+26	continued	they told her
+27	testimony	they were with al-Qaeda
+28	no-unit	,
+29	no-unit	while
+30	no-unit	,
+31	continued	according to AFP, the police claim
+32	continued	that one of the killers remarked
+33	continued	:
+34	testimony	"We have avenged the prophet."
+-1	par-sep	
+35	continued	Why
+36	continued	Prophet Muhammad would need anyone
+37	continued	to "avenge" him
+38	assumption	is beyond me
+39	no-unit	.
+-1	par-sep	
+40	continued	The prophet endured far more mockery, humiliation, insult and rejection during his lifetime without
+41	continued	needing or ordering hitmen
+42	continued	to defend his honour than that meted out by a group of equal-opportunity French cartoonists
+43	assumption	who despise and satirise all forms of organised religion
+44	no-unit	.
+-1	par-sep	
+45	no-unit	Even if	no-unit
+46	no-unit	,	cond
+47	continued	 like with Anders Breivik in Norway
+48	continued	,
+49	continued	the perpetrators turn out
+50	assumption	not to be linked to Islamist groups	cond
+51	continued	,
+52	continued	the collateral damage to French and European Muslims has already been done, despite
+53	assumption	one of the fallen police officers being a Muslim
+54	no-unit	.
+-1	par-sep	
+55	assumption	With the strength of the Front National in France, UKIP in Britain and other anti-Muslim and anti-immigrant currents across Europe, a popular or populist backlash is almost inevitable
+56	no-unit	.
+-1	par-sep	
+57	continued	In	Modd-NU
+58	continued	neighbouring Germany	Modd-NU
+59	continued	,	Modd-NU
+60	continued	the thousands of Patriotic Europeans Against the Islamisation of the West (PEGIDA)
+61	continued	who have turned out to rallies, though still small enough
+62	continued	to be labelled a "flop"
+63	continued	,
+64	continued	has set
+65	continued	alarm bells ringing to the extent
+66	assumption	that strong counter protests have taken place
+67	no-unit	.
+-1	par-sep	
+68	continued	Like Muslims
+69	continued	who fantasise about an ahistorical caliphate, conservative Europeans
+70	continued	who dream of a bygone utopia of a Europe uncontaminated by Islam or immigration
+71	continued	,
+72	continued	miss the reality
+73	assumption	that the "Islamisation of the West" occurred centuries ago
+74	no-unit	.
+-1	par-sep	
+75	continued	Islamic civilisation is so hard-wired into Europe's cultural, social and intellectual DNA
+76	continued	that it would be impossible
+77	assumption	to expunge its influence
+78	no-unit	.
+79	assumption	The same applies in the other direction, in light of Christendom's and the West's powerful influence on Arab and Islamic society
+80	no-unit	.
+-1	par-sep	
+81	continued	In addition to the philosophy, science, literature and art of the Muslim world
+82	continued	which profoundly shaped the European Renaissance
+83	continued	,
+84	assumption	Islamic culture had some far more unexpected and surprising influences on western civilisation
+85	no-unit	.
+-1	par-sep	
+86	continued	One man in particular
+87	continued	,
+88	continued	for whom no statues or memorials stand anywhere in Europe
+89	continued	and
+90	continued	very few westerners have heard of
+91	continued	,
+92	assumption	is possibly the most unsung cultural, style and musical icon in European history
+93	no-unit	.
+-1	par-sep	
+94	anecdote	In the ninth century, Ziryab, Cordoba's most sought-after hipster, brought into vogue the idea of seasonal fashions, steering history's catwalk towards the fashion slavery of the 21st century
+95	no-unit	.
+-1	par-sep	
+96	anecdote	This Sultan of Style also added a fifth pair of strings to the Arab "oud", paving the way to the European lute
+97	no-unit	,
+98	assumption	which would become the modern guitar
+99	no-unit	.
+-1	par-sep	
+100	anecdote	He also introduced Europe to the idea of dining etiquette, from table cloths and crystal decanters to the three-course meal
+101	no-unit	.
+-1	par-sep	
+102	continued	Fashion, fine food and rhythm are not
+103	continued	what
+104	assumption	Europeans tend to associate with Muslims or Islam today
+105	no-unit	.
+106	no-unit	Instead
+107	no-unit	,
+108	assumption	 they are haunted by images of fundamentalists, not fun-loving eccentrics, and fanatics, not fans of refined culture
+109	no-unit	.
+-1	par-sep	
+110	continued	As someone
+111	assumption	who is well aware of the destructive influence of violent Islamism in the Middle East
+112	no-unit	,
+113	assumption	I can, at a certain level, sympathise with fears in the West over radicalisation
+114	no-unit	.
+115	assumption	But Islamic extremism is mostly a threat to Muslim societies, not to Europe
+116	no-unit	,
+117	no-unit	as
+118	assumption	a minority has never, in history, imposed its will on a majority, except in the form of a military conqueror
+119	no-unit	.
+-1	par-sep	
+120	continued	This exaggerated sense of threat can be seen in the enormous hysteria in segments of the media and among some politicians regarding the small trickle of European jihadists
+121	continued	who have gone
+122	assumption	to fight in Syria
+123	no-unit	.
+124	continued	Although	Modd-NU
+125	continued	one gets the impression
+126	assumption	that Europe has sent forth a veritable Islamic army to the Levant
+127	no-unit	,
+128	testimony	the real number is around 3,000 from across the continent, including the dead and returned, according to an estimate by Gilles de Kerchove, the EU's anti- terrorism chief
+129	no-unit	.
+-1	par-sep	
+130	continued	While	Modd-NU
+131	continued	it is important
+132	continued	to be vigilant and to find effective ways
+133	continued	to deal with the threat posed by
+134	assumption	returning fighters
+135	no-unit	,
+136	assumption	society must steer clear of stigmatising Europe's already marginalised and distrusted Muslim communities
+137	no-unit	.
+-1	par-sep	
+138	continued	This is
+139	continued	because
+140	continued	it is unfair
+141	common-ground	to blame an entire group for the behaviour of a tiny minority
+142	no-unit	and
+143	assumption	it is also counterproductive
+144	no-unit	,
+145	continued	as	Modd-NU
+146	assumption	marginalisation is a significant, but not the only, factor in radicalisation
+147	no-unit	.
+-1	par-sep	
+148	no-unit	In addition	Modd-NU
+149	no-unit	,	Modd-NU
+150	continued	 the demonisation of minorities is
+151	continued	what
+152	continued	nurtures the truly threatening radicals in Europe's midst
+153	continued	;
+154	assumption	the far-right and neo-Nazis
+155	no-unit	.
+156	continued	Since the end of World War II, Western Europe has worked consciously
+157	assumption	to build and celebrate diversity
+158	no-unit	.
+-1	par-sep	
+159	continued	Despite its weaknesses and failings, Europe needs
+160	assumption	to cherish, build and strengthen its multicultural experiment
+161	no-unit	.

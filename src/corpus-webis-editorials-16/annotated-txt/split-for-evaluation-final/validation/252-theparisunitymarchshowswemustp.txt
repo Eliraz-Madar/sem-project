@@ -1,0 +1,171 @@
+0	title	The Paris unity march shows we must protect freedom of expression, not curtail it further.
+-1	par-sep	
+1	anecdote	I was just one Australian face in a human sea of more than one and half million Parisians yesterday
+2	no-unit	.
+3	continued	I was trying
+4	continued	to comprehend
+5	continued	what
+6	continued	I was a part of
+7	continued	when
+8	continued	the placard thrust in front of my eyes made
+9	anecdote	it clear
+10	no-unit	:
+11	continued	"La liberte d'expression n'a pas de religion"
+12	continued	-
+13	assumption	freedom of expression has no religion
+14	no-unit	.
+15	continued	This was a rally
+16	assumption	to defend the essential global human right to free expression
+17	no-unit	.
+18	continued	A right
+19	assumption	that should not be bound by religious, cultural or political strictures
+20	no-unit	.
+-1	par-sep	
+21	continued	We were marching
+22	anecdote	to remember the victims of the Charlie Hebdo newsroom massacre and the Kosher grocery store siege
+23	no-unit	.
+24	continued	We were marching in sympathy with those in mourning
+25	anecdote	who joined us
+26	no-unit	.
+27	continued	We were marching in defiance, determined
+28	assumption	to rise above the fear and chaos the terrorists inflicted on our city
+29	no-unit	.
+30	no-unit	But	Modd-NU
+31	no-unit	,	Modd-NU
+32	continued	 overwhelmingly, we marched
+33	continued	to defend our right
+34	anecdote	to freely express our views
+35	no-unit	.
+-1	par-sep	
+36	continued	The main march stretched three kilometres between Place de la Republique and Place de la Nation
+37	continued	,
+38	anecdote	tracking down Boulevard Voltaire
+39	no-unit	.
+40	continued	When
+41	continued	I cried "Je suis Charlie
+42	continued	,
+43	continued	nous somme Charlie!"
+44	continued	,
+45	continued	it was in the spirit
+46	continued	of the French philosopher Voltaire's revolutionary words
+47	continued	:
+48	continued	"I do not agree with
+49	continued	what
+50	continued	you have
+51	continued	to say
+52	continued	,
+53	continued	but
+54	continued	I'll defend to the death your right
+55	testimony	to say it."
+-1	par-sep	
+56	anecdote	The props of the rally - giant pencils supporting the French flag, a flood of demonstrators holding pens aloft and bibs emblazoned with the faces of the massacred Charlie Hebdo staff - told the story
+57	no-unit	.
+-1	par-sep	
+58	anecdote	Paris has been my home for a year
+59	no-unit	.
+60	anecdote	I am a research fellow with the World Editors Forum and the World Association of Newspapers and News Publishers
+61	anecdote	which is based in the city
+62	no-unit	.
+63	common-ground	It's a long way from the University of Wollongong in Australia
+64	no-unit	,
+65	continued	where
+66	anecdote	I am on staff as a journalism academic
+67	no-unit	.
+-1	par-sep	
+68	continued	But the principle of freedom of expression
+69	continued	we were marching
+70	continued	to defend
+71	assumption	binds journalists, writers and artists, and by extension all citizens, globally
+72	no-unit	.
+73	assumption	It transcends national borders, distance, culture, language, class and religion
+74	no-unit	.
+-1	par-sep	
+75	continued	That's
+76	continued	why
+77	continued	,
+78	continued	as
+79	continued	we marched
+80	continued	,
+81	continued	we saw Paris residents
+82	continued	hanging models of pencils and banners
+83	anecdote	carrying free speech slogans from their balconies
+84	no-unit	.
+85	continued	And it's
+86	continued	why
+87	continued	we paused
+88	continued	to listen
+89	continued	while
+90	continued	a little African girl bellowed "Je suis Charlie!"
+91	anecdote	from a third story window at her mother's side
+92	no-unit	.
+-1	par-sep	
+93	anecdote	We were a calm sea of over 1.5 million people pouring through the grand boulevards of central Paris
+94	no-unit	.
+95	continued	Led by the families of those killed and over 40 world leaders
+96	continued	who walked with linked arms
+97	continued	,
+98	continued	it was a significant moment in history, a moment triggered by outrage at the act of terrorists
+99	continued	who massacred journalists and cartoonists in the middle of a weekly editorial meeting and ordinary citizens
+100	anecdote	doing their shopping
+101	no-unit	.
+102	continued	It was also a moment fuelled by a collective determination
+103	assumption	to display unity and defiance in the face of terror and fear
+104	no-unit	.
+-1	par-sep	
+105	continued	The attack on Charlie Hebdo and the climate of fear and anxiety
+106	continued	it created
+107	continued	are, sadly, regular occurrences in countries such as Iraq, Syria, Pakistan and Mexico
+108	continued	,
+109	continued	where
+110	assumption	journalists are frequent targets
+111	no-unit	.
+112	assumption	The western media too often turns a blind eye to the murder of journalists elsewhere
+113	no-unit	.
+-1	par-sep	
+114	continued	The Paris unity march represents a watershed moment in the struggle
+115	assumption	to protect journalists and defend freedom of expression globally
+116	no-unit	.
+117	assumption	Kalashnikov-wielding terrorists took the fight into the heart of a newsroom in one of western Europe's biggest cities
+118	no-unit	.
+119	no-unit	If	cond
+120	continued	that doesn't wake up complacent democracies to the need
+121	continued	to vigorously defend the right
+122	assumption	to report	cond
+123	no-unit	,	cond
+124	assumption	nothing will
+125	no-unit	.
+-1	par-sep	
+126	continued	Once
+127	continued	the news cycle moves on from Paris and the cries of "Je suis Charlie" fade
+128	continued	,
+129	continued	we must harness the levels of public support and political will
+130	assumption	to enact significant and lasting change globally
+131	no-unit	.
+-1	par-sep	
+132	continued	We must be on guard against the already audible attempts
+133	assumption	to justify a further curtailment of media and internet freedoms in the interests of national security in the aftermath of the Paris terror attacks
+134	no-unit	.
+135	continued	The threats posed to investigative journalism by mass surveillance, data retention and the criminalisation of
+136	continued	reporting certain information under anti-terrorism legislation
+137	assumption	are already significant
+138	no-unit	.
+139	assumption	Especially in Australia
+140	no-unit	.
+-1	par-sep	
+141	assumption	It would be an enormous tragedy	cond
+142	no-unit	if	cond
+143	assumption	the lasting legacy of the Charlie Hebdo massacre was ultimately a further undermining of privacy and freedom of expression rights
+144	no-unit	.
+145	continued	Let
+146	continued	us honour the victims and survivors of the Paris terrorist attacks by
+147	continued	finding a sustainable balance between the need for anti- terrorism measures against our collective human right
+148	assumption	to freely express our views
+149	no-unit	.
+-1	par-sep	
+150	continued	As
+151	continued	the murdered editor-in-chief of Charlie Hebdo, Stephane Charbonnier, told Le Monde in 2011
+152	continued	:
+153	continued	"I'd rather die
+154	continued	standing
+155	continued	than
+156	testimony	live on my knees."

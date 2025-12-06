@@ -1,0 +1,242 @@
+0	title	Afghanistan conference won't rock the boat.
+-1	par-sep	
+1	continued	"The
+2	continued	London Conference on Afghanistan will provide an opportunity for the government of Afghanistan
+3	continued	to set out its commitment
+4	continued	to reform,"
+5	testimony	states the UK government's official webpage of the upcoming meeting between the new Afghan government and its international donors
+6	no-unit	.
+7	continued	The conference is
+8	continued	also an opportunity for the international community "to reaffirm its long-term commitment to
+9	testimony	supporting Afghanistan's peaceful development"
+10	no-unit	.
+-1	par-sep	
+11	assumption	Despite the media hype, the London Conference is nothing more than a routine reunion, set by the 2012 Tokyo Mutual Accountability Framework (TMAF)
+12	no-unit	.
+13	continued	As part of the agreement, donors pledged
+14	continued	support and the Afghan government promised
+15	anecdote	to implement reforms and curb corruption
+16	no-unit	.
+17	continued	The upcoming meeting in the British capital, therefore, is the first in a series of exchanges
+18	continued	that will be held every two years, at the ministerial level, between the Afghan and donor governments
+19	anecdote	to assess progress and check TMAF's benchmarks
+20	no-unit	.
+-1	par-sep	
+21	no-unit	Still	Modd-NU
+22	no-unit	,	Modd-NU
+23	continued	 the December 4 conference has the potential
+24	continued	to ease Afghanistan into a stable and increasingly self-sufficient future and render it a reliable global partner for
+25	assumption	ensuring peace and stability in the region and beyond
+26	no-unit	.
+-1	par-sep	
+27	continued	To utilise this opportunity as more than a
+28	assumption	routine progress assessment requires a fundamental shift of attitude on both sides
+29	no-unit	.
+30	continued	Lack of concrete success in the military, economic development and governance efforts in post
+31	continued	-
+32	continued	Taliban Afghanistan needs
+33	assumption	to be sincerely examined
+34	no-unit	and
+35	continued	adjustments need
+36	assumption	to be made
+37	no-unit	.
+-1	par-sep	
+38	assumption	There is multitude of examples in the international community's flawed, if not disingenuous, aid programmes and their monitoring in Afghanistan
+39	no-unit	.
+40	continued	I was hired by a US consultancy firm
+41	anecdote	to map out the field and offer recommendations for the design of a multimillion dollar governance project
+42	no-unit	.
+43	continued	My report and recommendations
+44	continued	,
+45	continued	it turned out
+46	continued	,
+47	anecdote	were too radical
+48	no-unit	.
+-1	par-sep	
+49	continued	"We
+50	continued	expected recommendations for cosmetic changes to the ongoing programmes,"
+51	anecdote	I was told
+52	no-unit	.
+53	continued	"The donor agency does not want
+54	anecdote	to rock the boat."
+-1	par-sep	
+55	continued	On another occasion, I was interviewed by a European consultant for his assessment of the first phase of a programme
+56	anecdote	that had consistently been showcased as a "success story" by donors and the Afghan government
+57	no-unit	.
+-1	par-sep	
+58	anecdote	In his three-day field trip to Kabul, he had held meetings with three embassies, the UN, the Afghan head of the implementing agency and me
+59	no-unit	.
+60	continued	Eagerly, I began
+61	continued	to point to the flaws of the programme
+62	anecdote	and offered suggestions for improvement
+63	no-unit	.
+64	anecdote	I also offered assistance for site visits
+65	no-unit	.
+-1	par-sep	
+66	continued	"Do
+67	continued	n't waste your time and mine,"
+68	anecdote	the septuagenarian consultant told me
+69	no-unit	.
+70	anecdote	"The donor agency expects a rosy report highlighting only the positive."
+-1	par-sep	
+71	continued	He further clarified
+72	continued	that the decision
+73	continued	to fund the second phase
+74	continued	had already been made
+75	continued	and
+76	continued	it had more
+77	anecdote	to do with international aid politics, than development logic
+78	no-unit	.
+-1	par-sep	
+79	continued	Numbers provide
+80	common-ground	an easy way to illustrate success
+81	no-unit	,
+82	continued	especially when
+83	assumption	seeking international aid budget approval from legislative bodies
+84	no-unit	.
+85	continued	While	Modd-NU
+86	assumption	figures indicating Afghanistan's progress towards development are impressive and could not have been achieved without generous international assistance
+87	no-unit	,
+88	assumption	they conceal a lack of attention to quality
+89	no-unit	.
+-1	par-sep	
+90	statistics	About 8 million Afghan children - including over 2.5 million girls - are now in school
+91	no-unit	.
+92	continued	This is a figure cited regularly as an indication
+93	anecdote	that the programmes are yielding tangible results
+94	no-unit	.
+-1	par-sep	
+95	continued	The fact
+96	continued	that most of them graduate only half-literate
+97	assumption	is never revealed
+98	no-unit	.
+-1	par-sep	
+99	assumption	Here's another feel-good figure
+100	no-unit	:
+101	statistics	More than 60 percent of the Afghan population now has access to healthcare facilities
+102	no-unit	.
+103	continued	The fact
+104	continued	that some of those facilities have only received a checkmark
+105	continued	because
+106	continued	merely a building was constructed
+107	continued	and
+108	continued	many are staffed only with a nurse, have no diagnostic technology and have terribly anaemic pharmaceutical offerings
+109	assumption	is often ignored
+110	no-unit	.
+-1	par-sep	
+111	continued	Much has been written about the fact
+112	assumption	that a hefty portion of the aid money goes back to donor countries because of the donors' insistence to award contracts to their own citizens
+113	no-unit	.
+114	anecdote	The contracts move hand to hand
+115	no-unit	and
+116	continued	finally local non-governmental agencies are hired
+117	anecdote	to implement projects
+118	no-unit	.
+119	no-unit	At this point
+120	no-unit	,
+121	continued	while
+122	continued	at best one-quarter of the original funds remains
+123	continued	to be spent on the actual project
+124	continued	,
+125	assumption	quality is grossly compromised
+126	no-unit	and
+127	continued	monitoring becomes
+128	assumption	either too complex or irrelevant
+129	no-unit	.
+-1	par-sep	
+130	assumption	The international community has also created an indigenous vehicle for channelling portions of its assistance
+131	no-unit	.
+132	assumption	Under the guise of "civil society", hundreds of Afghan NGOs have been established since 2002
+133	no-unit	.
+134	assumption	This artificial civil society's lifeline is the donor community in Kabul
+135	no-unit	.
+136	assumption	Projects and funds are handed to them for implementation and as the closing of fiscal year in donor capitals approaches, generosity in disbursing funds, irrespective of the projects' logic, utility and cost increases
+137	no-unit	.
+-1	par-sep	
+138	no-unit	Where
+139	no-unit	the funds go
+140	no-unit	.
+-1	par-sep	
+141	continued	Granted	Modd-NU
+142	continued	that when
+143	continued	international aid began
+144	continued	to pour in
+145	continued	,
+146	continued	the Afghan state had very small
+147	continued	,
+148	continued	if
+149	continued	any
+150	continued	,
+151	continued	capacity
+152	assumption	to absorb and spend it
+153	no-unit	.
+154	no-unit	However	Modd-NU
+155	no-unit	,	Modd-NU
+156	continued	 after 13 years and millions of dollars spent on public sector capacity building, the bulk of the funds continue
+157	assumption	to be spent directly by donors
+158	no-unit	and
+159	statistics	only a little over 20 percent is given to the Afghan government
+160	no-unit	.
+-1	par-sep	
+161	assumption	The parallel system and structures offering higher salaries paid in US dollars have lured much of the skilled Afghan human resources
+162	no-unit	.
+163	continued	The Afghan administration, thus, has
+164	continued	to be grateful to donors for funding training workshops
+165	continued	,
+166	continued	while
+167	assumption	in the end, loses its best trained personnel to international organisations, consulting firms and embassies
+168	no-unit	.
+-1	par-sep	
+169	continued	It is often said
+170	anecdote	that rampant Afghan corruption and lack of capacity would result in misuse and waste of donors' funds
+171	no-unit	.
+172	statistics	A mere review of reports published by the US oversight agency, Special Inspector General for Afghanistan Reconstruction (SIGAR), reveals the depth and extent of waste, fraud and abuse of the direct US aid to Afghanistan just in reconstruction projects
+173	no-unit	.
+174	assumption	Similar monitoring of most donors' direct aid will, no doubt, highlight comparable corruption and waste
+175	no-unit	.
+-1	par-sep	
+176	continued	The government of former President Hamid Karzai admittedly failed
+177	assumption	to launch a genuine fight against corruption
+178	no-unit	.
+179	continued	Lack of capacity for a governance vision
+180	continued	that would make optimum use of international aid
+181	assumption	was also a defect of the previous leadership
+182	no-unit	.
+-1	par-sep	
+183	assumption	High-level appointments were based not on competence and commitment of individuals, but rather on political affiliations and compromises on the one hand, and submissiveness of a handful of "yes sir" entities on the other
+184	no-unit	.
+-1	par-sep	
+185	no-unit	Thus	Modd-NU
+186	no-unit	,	Modd-NU
+187	continued	 both sides - donors and the Afghan government - went on for a decade
+188	assumption	playing a futile blame game
+189	no-unit	,
+190	assumption	each accusing the other of corruption and insincerity
+191	no-unit	.
+-1	par-sep	
+192	no-unit	Now
+193	no-unit	,
+194	assumption	 on the eve of the London Conference, a new page has turned in Afghanistan's leadership and governance
+195	no-unit	.
+196	assumption	The level of optimism among ordinary Afghans is only comparable to the euphoria of the first weeks following the fall of the Taliban regime
+197	no-unit	.
+198	continued	This renewed domestic hope and confidence in the new leadership must not be let
+199	assumption	to deflate
+200	no-unit	.
+-1	par-sep	
+201	continued	Although	Modd-NU
+202	anecdote	the new administration has not yet launched its overhauling programme
+203	no-unit	,
+204	assumption	President Ashraf Ghani's vision and capacity is well known
+205	no-unit	.
+206	assumption	Donors at the London Conference must seize the chance and afford him confidence
+207	no-unit	.
+208	continued	They must also adapt a fundamentally new approach to
+209	assumption	dispensing their generous assistance to Afghanistan
+210	no-unit	.
+-1	par-sep	
+211	continued	A significant funnelling of international aid through the Afghan government (with oversight and accountability benchmarks), a shift of emphasis from quantity to quality, with particular focus on
+212	continued	raising the quality of education and finally
+213	continued	,
+214	assumption	a sincere commitment from both sides to the establishment of rule of law will ensure the stability and eventual self-reliance of Afghanistan
+215	no-unit	.

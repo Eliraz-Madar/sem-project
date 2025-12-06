@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="354" begin="0" end="4469" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="354" begin="0" end="155" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="354" begin="157" end="212" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="354" begin="213" end="307" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="354" begin="309" end="312" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="354" begin="313" end="391" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="354" begin="394" end="519" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="354" begin="524" end="605" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="354" begin="606" end="701" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="354" begin="703" end="738" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="354" begin="740" end="773" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="354" begin="774" end="887" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="354" begin="889" end="968" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="354" begin="970" end="1033" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="354" begin="1035" end="1143" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="354" begin="1145" end="1172" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="354" begin="1174" end="1243" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="354" begin="1245" end="1252" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="354" begin="1253" end="1281" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="354" begin="1284" end="1293" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="354" begin="1295" end="1447" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="354" begin="1449" end="1633" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="354" begin="1635" end="1638" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="354" begin="1639" end="1652" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="354" begin="1654" end="1701" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="354" begin="1703" end="1775" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="354" begin="1777" end="1793" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="354" begin="1798" end="1925" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="354" begin="1927" end="1934" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="354" begin="1936" end="2033" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="354" begin="2035" end="2108" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="354" begin="2110" end="2213" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="354" begin="2215" end="2287" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="354" begin="2292" end="2347" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="354" begin="2349" end="2360" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="354" begin="2363" end="2474" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="354" begin="2476" end="2522" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="354" begin="2524" end="2566" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="354" begin="2568" end="2586" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="354" begin="2587" end="2656" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="354" begin="2658" end="2661" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="354" begin="2662" end="2695" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="354" begin="2698" end="2790" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="354" begin="2792" end="2937" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="354" begin="2939" end="3142" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="354" begin="3144" end="3211" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="354" begin="3212" end="3258" unitType="other"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="354" begin="3261" end="3333" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="354" begin="3335" end="3415" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="354" begin="3417" end="3565" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="354" begin="3567" end="3574" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="256" sofa="354" begin="3579" end="3685" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="261" sofa="354" begin="3687" end="3795" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="266" sofa="354" begin="3797" end="3848" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="271" sofa="354" begin="3851" end="3866" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="276" sofa="354" begin="3868" end="3936" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="281" sofa="354" begin="3938" end="3965" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="286" sofa="354" begin="3967" end="3977" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="291" sofa="354" begin="3979" end="4091" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="296" sofa="354" begin="4092" end="4119" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="301" sofa="354" begin="4123" end="4281" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="306" sofa="354" begin="4283" end="4293" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="311" sofa="354" begin="4295" end="4316" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="316" sofa="354" begin="4318" end="4376" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="321" sofa="354" begin="4378" end="4388" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="326" sofa="354" begin="4389" end="4422" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="331" sofa="354" begin="4424" end="4468" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="336" sofa="354" begin="0" end="4469" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/254-toomanyofusinpointlessjobsbutd.txt" offsetInSource="0" documentSize="4469" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="361" sofa="354" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/guardian/254-toomanyofusinpointlessjobsbutd.xmi" offsetInSource="0" documentSize="4469" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="344" sofa="354" begin="0" end="4469" lastUpdate="2015-01-06T13:00:21Z" url="http://www.theguardian.com/commentisfree/2015/jan/06/too-many-of-us-in-pointless-jobs-but-dont-despair" portal="guardian" authors="Rhiannon Lucy Cosslett" articleSum="Rhiannon Lucy Cosslett: Here are my top tips on how to endure soul-crushing, mundane work" title="Yes, too many of us are in pointless jobs - but don't despair."/>
+    <cas:Sofa xmi:id="354" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="In his usual prescient fashion, Guy Debord once lamented that &quot;young people everywhere have been allowed to choose between love and a garbage disposal unit. Everywhere they have chosen the garbage disposal unit.&quot; The Situationists' vision of the future was not, as I'm sure you've guessed, an optimistic one, but it's nice to see that their spirit is alive and well on the London underground.&#10;&#10;&quot;How can one even begin to speak of dignity in labour when one secretly feels that one's job should not exist?&quot; a poster asks, as part of a campaign called #bullshitjobs devised by the anarchist magazine Strike! Another poster reads: &quot;The moral and spiritual damage that comes from the situation is profound. It is a scar on our collective soul. Virtually no one talks about it.&quot; And a third: &quot;It's as if someone were out there making up pointless jobs for the sake of keeping us all working.&quot;&#10;&#10;Just what every commuter needs on their first day back at work, you might think. But I love these subvertisements, mainly because they are right. No one talks about the soul-crushing sadness experienced by the chronically exhausted and unfulfilled hordes. Forget the garbage disposal: we're in urgent need of an army of pooper-scooper-wielding refuseniks, because bullshit jobs are everywhere.&#10;&#10;Of course, complaining about any of this or doing something as daring as opting out finds you guilty of the most conspicuous of crimes against capitalism: laziness. Or a suspicious lack of ambition, resulting in the label of &quot;scrounger&quot; if you're working class and that of &quot;pampered entitled millennial with no moral backbone&quot; if you're middle class. But don't despair: humans have an incredible capacity for survival. There are ways to endure the pointlessly mundane jobs that many of us do. Here are my tips :.&#10;&#10;One of the most level-headed people I know sets very little store in his job when it comes to defining himself as a human being. Instead,  it's the things he does outside of work that he regards as his main means of personal fulfilment. Guy Debord regarded maximum pleasure as the central aim of any revolution, so start your own personal one, via music or reading or sex or anything that you enjoy doing creatively. Then pour your soul into these activities instead of thinking about work. If you can do one of these activities during working hours, even better.&#10;&#10;Not people who use the word &quot;facetime&quot; as a way of describing hanging out, or talk about things &quot;going forward&quot;. These people will be first up against the wall. I mean family and friends, people you love. Love is the answer (actually, anaesthetising yourself with drink and drugs is the answer, but unfortunately it's less slimming).&#10;&#10;This sounds flippant but can actually be an effective means of delaying job- induced madness. A friend who worked stacking shelves in Tesco overnight was able to keep his sanity by pretending he was playing a game of foodstuff-sized Tetris. In a similar vein, you could see how many Cradle of Filth lyrics you can subtly weave into your customer service emails, wreak subtle psychological havoc upon your colleagues, or, if you're a hairdresser, deliberately give everyone terrible haircuts for your own amusement (my hairdresser has been doing this for years).&#10;&#10;The biggest modern lie is the one told by the Steve Jobses of this world: that, career-wise, we must do what we love in order to experience true happiness. It's a lovely thought but, unfortunately for the generation sold this nonsense by idealistic baby-boomers, a fulfilling job is a luxury, not a given. Instead, as some means of twisted compensation, we're offered slave wages, zero-hours contracts and made-up job titles. But as depressing as things look, it's important to keep hold of those youthful aspirations and harness them, if not for financial profit, then for sanity's sake.&#10;&#10;It's exhausting, I know, especially as in Britain we work the longest hours in Europe. You are right to be furious. We all are. In the words of the retro anarchist-punk soundbite dusted off by Russell Brand: &quot;Let's have a revolution, yeah?&quot; (At least after a short nap .) Let's continue to campaign for better and more flexible working hours, wages that people can actually survive on, and freedom from harassment and exploitation. Let's vote. Let's join our unions. Let's take the bastards to tribunal (whoops, no legal aid). Because if you're going to do a bullshit job, you might as well get what you can out of it."/>
+    <cas:View sofa="354" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 261 266 271 276 281 286 291 296 301 306 311 316 321 326 331 336 361 344"/>
+</xmi:XMI>

@@ -1,0 +1,232 @@
+0	title	What do black and white, rich and poor Americans have in common with one another, anyhow?
+-1	par-sep	
+1	continued	2014 was a year marked by greater division between groups of Americans
+2	continued	than
+3	assumption	I can remember in my adult life
+4	no-unit	.
+-1	par-sep	
+5	anecdote	Racial tensions resurfaced in violent protests following the deaths of Michael Brown and Eric Garner
+6	no-unit	.
+7	continued	New York City's mayor and police split ranks over the mayor's comment
+8	anecdote	that his biracial son faced perpetual danger from police officers, followed by the assassination of two New York City police officers
+9	no-unit	.
+-1	par-sep	
+10	continued	The gap in wealth between the richer and poorer segments of Americans widened
+11	assumption	to record levels
+12	no-unit	.
+-1	par-sep	
+13	continued	The Democratic and Republican parties became more polarized -- with gun rights, immigration, abortion and health insurance leading people
+14	continued	not only to argue the issues more vehemently with people from the other party, but to feel
+15	continued	like
+16	assumption	they might have little in common with people from the other party, period
+17	no-unit	.
+-1	par-sep	
+18	continued	Whether
+19	continued	one supports President Obama or not
+20	continued	,
+21	continued	I believe
+22	continued	most people would agree
+23	continued	our nation is more divided
+24	continued	than
+25	continued	it was
+26	continued	when
+27	assumption	he took office
+28	no-unit	.
+-1	par-sep	
+29	continued	White and black Americans may have thought
+30	continued	they were electing a black leader
+31	assumption	who could unite the country
+32	no-unit	,
+33	no-unit	and
+34	continued	that seemed
+35	assumption	to point to an American future of unity and promise
+36	no-unit	.
+37	assumption	But something went horribly wrong
+38	no-unit	.
+39	continued	To my eye, it was
+40	continued	as if
+41	assumption	the president's own unhealed wounds were ripping open the wounds of our nation
+42	no-unit	.
+-1	par-sep	
+43	continued	So it makes
+44	continued	me wonder
+45	continued	:
+46	continued	What
+47	continued	do
+48	continued	we Americans really have in common
+49	continued	,
+50	continued	whether
+51	continued	black or white, rich or poor
+52	continued	,
+53	assumption	young or old?
+-1	par-sep	
+54	continued	What
+55	continued	should we remember about one another
+56	continued	that could bind us together
+57	continued	while
+58	continued	aggressively
+59	continued	arguing the political and social issues
+60	continued	that threaten
+61	assumption	to pull us apart?
+-1	par-sep	
+62	no-unit	First
+63	no-unit	,
+64	common-ground	 we are all human beings
+65	no-unit	,
+66	continued	which means
+67	common-ground	we all suffer
+68	no-unit	.
+69	continued	None of us avoids pain
+70	continued	,
+71	continued	whether
+72	common-ground	from trauma or loss
+73	no-unit	,
+74	continued	and just the chapters of our life stories
+75	continued	in which we have felt powerless against
+76	continued	loved ones falling ill, or falling ill ourselves, should remind us
+77	common-ground	that we are all intensely vulnerable at all times
+78	no-unit	.
+-1	par-sep	
+79	continued	Our vulnerability means
+80	assumption	that we owe a duty of care to one another
+81	no-unit	.
+82	continued	The universal capacity
+83	continued	to hurt
+84	assumption	is only the flip side of our calling to compassion 
+85	no-unit	--
+86	continued	which is closely aligned with our capacity
+87	assumption	to heal
+88	no-unit	.
+-1	par-sep	
+89	assumption	We should, therefore, debate vigorously, but with this in mind
+90	no-unit	:
+91	continued	There are very few issues
+92	continued	that would keep us on grandstands or podiums or behind television cameras or microphones
+93	continued	if
+94	continued	,
+95	continued	God forbid
+96	continued	,
+97	assumption	we got a call from a doctor with very bad news about our health or -- far worse, in my mind -- the health of our children
+98	no-unit	.
+99	no-unit	And
+100	no-unit	think about this
+101	no-unit	:
+102	continued	How violent
+103	continued	would protests be
+104	continued	if
+105	continued	protesters knew
+106	assumption	that a few dozen of the police officers standing guard in the streets had sick or disabled kids at home?
+-1	par-sep	
+107	no-unit	Second	Modd-NU
+108	no-unit	,	Modd-NU
+109	continued	 I believe
+110	assumption	all human beings are born with the capacity for good
+111	no-unit	.
+112	assumption	Every single one
+113	no-unit	.
+114	assumption	No exceptions
+115	no-unit	.
+116	continued	And I believe
+117	continued	it is a profound tragedy
+118	continued	when
+119	assumption	that capacity is not realized
+120	no-unit	.
+121	assumption	So think about this	imp
+122	no-unit	:
+123	continued	How much more care
+124	continued	would we take
+125	continued	to try
+126	continued	to support parents, even
+127	continued	when
+128	continued	their children run horribly afoul of the law
+129	continued	,
+130	continued	if
+131	assumption	we imagined our own children, broken by forces in their communities or their families or their fragile psyches, paying the price at 17 or 19 and being locked behind bars, alone, for years?
+-1	par-sep	
+132	assumption	The loss of Michael Brown -- to the streets, or unwieldy forces in his psyche, or to a bullet -- is everyone's loss
+133	no-unit	.
+-1	par-sep	
+134	assumption	The loss of two New York City police officers -- to the twisted rage of a twisted man -- is everyone's loss
+135	no-unit	.
+136	continued	And even the suicide of that murderer
+137	continued	,
+138	continued	who started out as a baby and infant and child with no designs, whatsoever, on the life of another 
+139	continued	--
+140	assumption	is everyone's loss
+141	no-unit	.
+-1	par-sep	
+142	assumption	We are all bleeding, all of the time
+143	no-unit	.
+144	assumption	This is the human condition
+145	no-unit	.
+-1	par-sep	
+146	no-unit	Third	Modd-NU
+147	no-unit	,	Modd-NU
+148	continued	 I believe
+149	continued	all Americans share the roughly 238-year struggle -- still ongoing -- for America
+150	assumption	to realize her greatest self
+151	no-unit	.
+152	continued	This struggle, after a War of Independence and through a Civil War and two World Wars and a host of other bloody conflicts inside our boundaries and beyond our boundaries, unites us on a path toward a more perfect union
+153	assumption	that mirrors every individual's path toward a more perfect self
+154	no-unit	.
+155	assumption	This struggle is part of every American's story, woven into our historical and emotional DNA
+156	no-unit	,
+157	no-unit	and
+158	continued	perhaps
+159	continued	(scientists now tell us)
+160	continued	literally encoded in the amino acids
+161	assumption	that make up our actual DNA
+162	no-unit	.
+-1	par-sep	
+163	common-ground	Yes, we become enraged with one another
+164	no-unit	.
+165	common-ground	Yes, we argue passionately about the future of America
+166	no-unit	.
+167	assumption	These things are inevitable
+168	no-unit	.
+169	continued	They are even necessary
+170	continued	when
+171	assumption	the stakes are freedom and the future
+172	no-unit	.
+173	continued	But it might serve
+174	continued	us well to remember
+175	continued	that if
+176	continued	every one of us can grieve
+177	continued	and
+178	continued	every one of
+179	continued	us can suffer
+180	continued	and
+181	continued	every one of us is mortal
+182	continued	and
+183	continued	every one of us has the capacity for compassion and every one of us
+184	continued	is an inextricable part of this whole
+185	continued	we call America
+186	continued	,
+187	continued	that we are brothers and sisters
+188	continued	,
+189	continued	as surely as if
+190	assumption	we shared a single home, the same last name and the same skin
+191	no-unit	.
+-1	par-sep	
+192	continued	Let
+193	assumption	the arguments between us be both very loud and, yet, always, quietly loving	imp
+194	no-unit	.
+195	continued	I think
+196	assumption	this much is possible
+197	no-unit	.
+198	continued	Because	Modd-NU
+199	assumption	we are more alike than different in our needs and fears
+200	no-unit	,
+201	no-unit	and
+202	continued	we have remained
+203	continued	much more
+204	continued	strangers to one another
+205	continued	than
+206	continued	we need
+207	assumption	to be
+208	no-unit	.
+-1	par-sep	
+209	anecdote	Dr  Keith Ablow is a psychiatrist and member of the Fox News Medical A-Team
+210	no-unit	.
+211	other	Dr  Ablow can be reached at info@keithablow.com
+212	no-unit	.

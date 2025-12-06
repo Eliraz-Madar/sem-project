@@ -1,0 +1,273 @@
+0	title	A Russian bank and French nationalism.
+-1	par-sep	
+1	continued	You have
+2	continued	to be made of wood
+3	assumption	not to laugh at this
+4	no-unit	:
+5	anecdote	a private Russian bank has given a loan to France's National Front
+6	no-unit	.
+7	anecdote	This political party, drawn to victory by Marine Le Pen, won the recent French elections by almost three times the number of votes than President Francois Hollande
+8	no-unit	.
+9	continued	Although	Modd-NU
+10	assumption	this is news
+11	no-unit	,
+12	assumption	this wasn't the biggest media reaction of the day
+13	no-unit	.
+-1	par-sep	
+14	continued	Ever since	Modd-NU
+15	continued	the news came out
+16	continued	that the National Front's campaign budget was allegedly funded by the First Czech-Russian Bank
+17	continued	,
+18	continued	accusations
+19	continued	that "the Kremlin is funding the far-right" and "supporting anti-EU parties"
+20	anecdote	have been making the rounds
+21	no-unit	.
+22	anecdote	This bank has been in operation since 1996
+23	no-unit	,
+24	continued	which by Russian terms, makes
+25	assumption	it "ancient"
+26	no-unit	as
+27	assumption	capitalism didn't really kick in until the mid-1990s in Russia
+28	no-unit	.
+29	continued	Through this, the sole owner of the bank, Roman Popov, was immediately seen as the "oligarch
+30	assumption	who is close to the Kremlin"
+31	no-unit	.
+-1	par-sep	
+32	continued	The funding
+33	continued	,
+34	continued	which initially started at a sum of $11m
+35	continued	,
+36	anecdote	quickly increased to $49m
+37	no-unit	,
+38	continued	purely	Modd-NU	
+39	continued	because
+40	continued	that is the amount of money
+41	continued	the National Front said
+42	continued	it needed
+43	continued	in order
+44	assumption	to pay for its campaign leading up to the presidential elections in 2017
+45	no-unit	.
+-1	par-sep	
+46	continued	With all the media hype, it seems
+47	continued	as though
+48	assumption	people haven't picked up on the irony
+49	no-unit	.
+50	no-unit	When
+51	continued	former French President Nicolas Sarkozy was running for president in 2005
+52	continued	,
+53	anecdote	Libyan leader Muammar Gaddafi also gave him a sum of money for his campaign
+54	no-unit	.
+55	assumption	But that is not the irony
+56	no-unit	;
+57	continued	the amount of money
+58	continued	he gave
+59	anecdote	was $49m
+60	no-unit	.
+61	continued	This doesn't appear
+62	assumption	to have crossed the minds of western hacks just yet
+63	no-unit	.
+64	continued	That is
+65	continued	because
+66	continued	they have their own steadfast views and refuse
+67	assumption	to deviate from them
+68	no-unit	.
+-1	par-sep	
+69	continued	In order	Modd-NU
+70	continued	to find out more	Modd-NU
+71	continued	,	Modd-NU
+72	anecdote	I turned to my Moscow sources for help
+73	no-unit	.
+74	anecdote	But first, I got in touch with the First Czech-Russian Bank
+75	no-unit	.
+76	continued	I wanted
+77	continued	to find out
+78	continued	what
+79	continued	they thought about the whole fuss
+80	anecdote	that has erupted around their institution
+81	no-unit	.
+-1	par-sep	
+82	continued	Unfortunately, but not surprisingly, the staff at the bank was reluctant
+83	continued	to comment on the loan to the National Front
+84	continued	,
+85	anecdote	citing client confidentiality
+86	no-unit	.
+87	continued	They did, however
+88	continued	,
+89	continued	provide me with a direct email address
+90	anecdote	to get in touch with one of the deputy chairmen
+91	no-unit	,
+92	anecdote	who never did respond to my request for comment
+93	no-unit	.
+-1	par-sep	
+94	no-unit	Then again
+95	no-unit	,
+96	no-unit	if
+97	continued	you should try
+98	assumption	to find out something somewhat unconventional from any of the private banks in the West
+99	no-unit	,
+100	assumption	you'd also be met with silence or at best, claims of data protection
+101	no-unit	.
+-1	par-sep	
+102	continued	My sources in Moscow did a bit of their own research and told me
+103	anecdote	that the First Czech-Russian Bank was actually launched on the initiative of the Czech government
+104	no-unit	.
+105	anecdote	At some point later on, one of the shareholders was the Russian construction company Stroitransgaz
+106	no-unit	;
+107	no-unit	translated into English
+108	no-unit	,
+109	continued	the name means
+110	anecdote	"Gas Pipeline Construction"
+111	no-unit	.
+112	continued	The current owner of the bank, Roman Popov, used
+113	anecdote	to work there
+114	no-unit	.
+-1	par-sep	
+115	no-unit	While
+116	assumption	Popov was head of the Finance Department (1992-2002)
+117	no-unit	,
+118	anecdote	Stroitransgaz was a subcontractor for Gazprom, the giant state-owned gas and oil corporation in Russia
+119	no-unit	.
+120	continued	It was probably
+121	continued	because
+122	continued	of that
+123	continued	,
+124	continued	that western hacks came to the conclusion
+125	continued	that Popov is
+126	assumption	"directly linked to the Kremlin"
+127	no-unit	.
+-1	par-sep	
+128	continued	The journalists' suspicions are further fuelled by the fact
+129	assumption	that Popov generally keeps a low profile and does not boast about his football club in England or his basketball team in the US or his real-estate profile
+130	no-unit	,
+131	assumption	which is worth millions in Western Europe
+132	no-unit	.
+133	anecdote	The bank also has two representative offices; one in Prague and one in Bratislava
+134	no-unit	,
+135	continued	which would be logical
+136	continued	if
+137	assumption	the name of your bank included the word "Czech"
+138	no-unit	.
+-1	par-sep	
+139	continued	My sources in Moscow informed me
+140	continued	that the First Czech-Russian bank is quite a good bank
+141	assumption	and has a very decent track record
+142	no-unit	,
+143	continued	which is no mean feat for a financial institution
+144	assumption	that dates back to 1996
+145	no-unit	.
+146	anecdote	It has had no substantial bail outs from the Central Bank and survived the banking crash of 2007 with flying colours
+147	no-unit	.
+-1	par-sep	
+148	continued	As for the owner, the best
+149	continued	I could find out
+150	continued	is
+151	anecdote	that he has a degree in financial management and has been of late developing business beyond corporate entities and individual customers in Russia, the Czech Republic and Slovakia
+152	no-unit	.
+153	continued	No word on
+154	continued	why
+155	continued	he gave the go-ahead
+156	assumption	to give the loan to the National Front
+157	no-unit	,
+158	no-unit	but
+159	continued	even if
+160	continued	he did
+161	continued	,
+162	assumption	why not?
+163	no-unit	If
+164	assumption	the interest is good
+165	no-unit	and
+166	continued	the chances of
+167	continued	getting it
+168	assumption	back are high as well
+169	no-unit	,
+170	assumption	it sounds like a fair deal
+171	no-unit	.
+172	continued	Not to mention	Modd-NU
+173	assumption	that it's a perfectly legitimate political party
+174	no-unit	,
+175	assumption	which enjoys greater support than the ruling party at present
+176	no-unit	.
+177	continued	The most recent opinion poll has shown
+178	continued	that Le Pen would win the first round of the presidential elections
+179	continued	if
+180	statistics	they were held tomorrow
+181	no-unit	.
+-1	par-sep	
+182	continued	The question is
+183	continued	,
+184	continued	of course
+185	continued	,
+186	continued	did Popov bargain on all the publicity
+187	continued	that his bank would be getting
+188	continued	once
+189	continued	word gets out
+190	assumption	that he has been funding an anti-EU and anti-immigration political part in France?	m-question
+191	continued	Well, it might be
+192	continued	that he thought
+193	assumption	that some publicity for his bank might actually attract more clients and raise his bank's profile
+194	no-unit	.
+195	continued	Let's face
+196	assumption	it	imp
+197	no-unit	,
+198	no-unit	if
+199	assumption	a party gets 25 percent in the national vote
+200	no-unit	,
+201	continued	like	Modd-NU
+202	assumption	the National Front did in the European elections this year
+203	no-unit	,
+204	continued	it means
+205	assumption	that a lot of people see it as a better bet than the other parties
+206	no-unit	,
+207	continued	which in turn means
+208	assumption	that the potential client base is substantial
+209	no-unit	.
+-1	par-sep	
+210	continued	In Russia itself, the National Front is not seen
+211	continued	as
+212	assumption	"racist" or "fascist", as some sections of the French media portray it
+213	no-unit	.
+214	continued	In	Modd-NU
+215	continued	doing so	Modd-NU
+216	continued	,	Modd-NU
+217	continued	they seem
+218	continued	to forget
+219	continued	that by
+220	continued	labelling this party as racists and fascists
+221	continued	,
+222	assumption	they also label 25 percent of the French electorate as racists and fascists
+223	no-unit	.
+-1	par-sep	
+224	continued	In Russia, the National Front is considered a right-wing political party
+225	continued	that has some sensible policies on the EU, on immigration
+226	assumption	and supports the idea of a strong French identity and closer ties with Russia
+227	no-unit	.
+-1	par-sep	
+228	assumption	The opposition UMP - led once again by Sarkozy - incidentally, shares some of the National Front's views on immigration and the EU
+229	no-unit	.
+230	continued	Leading Russian political expert
+231	continued	Andrey Fursov says
+232	continued	that "to call the National Front [headed by Marine Le Pen]
+233	testimony	a far-right or fascist party is an exaggeration and a mistake"
+234	no-unit	.
+-1	par-sep	
+235	continued	"It's
+236	continued	a right-wing party, yes,"
+237	testimony	he says
+238	no-unit	.
+239	continued	"In our modern times, it's the left- wing socialists
+240	testimony	who can actually be called fascists."
+-1	par-sep	
+241	continued	In his opinion, those
+242	continued	who are called right-wing these days
+243	anecdote	are "realists"
+244	continued	who don't want
+245	assumption	Europe to be enslaved by the US and the "Euro-bureaucracy"
+246	no-unit	.
+-1	par-sep	
+247	continued	It remains
+248	continued	to be seen
+249	continued	whether
+250	assumption	the First Czech-Russian Bank made the right commercial move
+251	no-unit	.
+252	no-unit	From the point of view of PR, that is
+253	no-unit	.

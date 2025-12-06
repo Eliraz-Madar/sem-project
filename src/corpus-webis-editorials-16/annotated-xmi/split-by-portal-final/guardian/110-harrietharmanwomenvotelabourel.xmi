@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="2403" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="13" sofa="1" begin="0" end="30" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="18" sofa="1" begin="32" end="71" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="23" sofa="1" begin="76" end="144" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="28" sofa="1" begin="146" end="347" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="33" sofa="1" begin="349" end="396" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="38" sofa="1" begin="399" end="496" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="43" sofa="1" begin="498" end="571" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="48" sofa="1" begin="573" end="714" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="53" sofa="1" begin="716" end="941" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="58" sofa="1" begin="943" end="1027" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="63" sofa="1" begin="1029" end="1067" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="68" sofa="1" begin="1070" end="1309" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="73" sofa="1" begin="1314" end="1348" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="78" sofa="1" begin="1350" end="1424" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="83" sofa="1" begin="1426" end="1466" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="88" sofa="1" begin="1467" end="1470" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="93" sofa="1" begin="1471" end="1494" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="98" sofa="1" begin="1496" end="1554" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="103" sofa="1" begin="1556" end="1634" unitType="anecdote"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="108" sofa="1" begin="1637" end="1754" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="113" sofa="1" begin="1756" end="1782" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="118" sofa="1" begin="1784" end="1835" unitType="statistics"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="123" sofa="1" begin="1837" end="1948" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="128" sofa="1" begin="1954" end="1998" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="133" sofa="1" begin="2000" end="2054" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="138" sofa="1" begin="2056" end="2241" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="143" sofa="1" begin="2243" end="2289" unitType="testimony"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="148" sofa="1" begin="2290" end="2295" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="153" sofa="1" begin="2296" end="2307" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="158" sofa="1" begin="2309" end="2402" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="163" sofa="1" begin="0" end="2403" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/110-harrietharmanwomenvotelabourel.txt" offsetInSource="0" documentSize="2403" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="171" sofa="1" begin="0" end="2403" lastUpdate="2015-01-09T09:30:14Z" url="http://www.theguardian.com/commentisfree/2015/jan/09/harriet-harman-women-vote-labour-election" portal="guardian" authors="Polly Toynbee" articleSum="Polly Toynbee: Nearly all progress for women has come from Labour, yet the election may depend on deputy leader’s efforts to get them to the ballot box" title="Harriet Harman is right: women hold the balance of power - if they vote."/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Those who don't vote don't get. The young vote least and they get least, so the old voters are showered with blessings by the Cameron government. New research from the House of Commons library shows women are voting less and less: 9.1 million women failed to vote last time and at each election the gap between women and men voters has grown wider. In 2010, 1.1 million fewer women than men voted - so is it any surprise Cameron and Osborne let them pay the heaviest price in the great austerity?&#10;&#10;Polls show women are more likely to vote Labour than men, for good reason. Just about all progress for women has come from Labour governments - from abortion and divorce law reform, to equal rights and equal pay laws. The Blair-Brown years brought free nursery schools for three - and four-year-olds, 3,500 Sure Start children's centres, better-paid longer maternity leave, child tax credits, childcare credits, flexible working and a lot more. Labour's all - woman shortlists produced many more female MPs than the other parties: Miliband promises a 50% female cabinet.&#10;&#10;Over the past five years, Harriet Harman, Gloria de Piero, Fiona Mactaggart and others have been leading women's meetings all round the country - largely unnoticed by the press, listening to the growing pressure on mothers and grandmothers. As childcare costs shoot out of reach, more grandmothers have cut their working hours to help daughters take jobs, yet their retirement age is rising to 67 and they still need to work. Many still have aged parents needing care at the same time. Mactaggart is shortly producing a manifesto from her Commission on Older Women.&#10;&#10;The government boasts that two-thirds of those who have gained most from raising the personal tax threshold are women. But they don't explain why: women are still clustered in the lowest paying jobs. Nor do they admit that low-paid women have lost far more through benefit cuts than they have gained in tax cuts.&#10;&#10;As the parties slug it out for the women's vote, Tories and Liberal Democrats will struggle to convince. Harman is constructing an entire women's campaign, wrapped within Labour's platform, not as an afterthought but based on the historic difference in how the parties treat female citizens. &quot;Women hold the balance of power,&quot; Harman says - and she's right: the result may depend on Labour's success in rousing up the missing millions of female voters."/>
+    <cas:View sofa="1" members="8 13 18 23 28 33 38 43 48 53 58 63 68 73 78 83 88 93 98 103 108 113 118 123 128 133 138 143 148 153 158 163 171"/>
+</xmi:XMI>

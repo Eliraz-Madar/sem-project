@@ -1,0 +1,233 @@
+0	title	Christians rally to defend fire chief who wrote 'anti-gay' book.
+-1	par-sep	
+1	assumption	Kelvin Cochran is a decorated firefighter
+2	no-unit	.
+3	assumption	He is also a devout Christian
+4	no-unit	.
+5	anecdote	He's a deacon at a Baptist church and also teaches Sunday school
+6	no-unit	.
+7	assumption	By all accounts - he is a decent and honorable man
+8	no-unit	.
+9	continued	And now	Modd-NU
+10	continued	-	Modd-NU
+11	anecdote	he is unemployed
+12	no-unit	.
+-1	par-sep	
+13	continued	Cochran
+14	continued	,
+15	continued	who served
+16	continued	seven years as
+17	continued	the chief of the Atlanta Fire Departmant lost his job over a book
+18	continued	he wrote about biblical morality
+19	continued	titled
+20	continued	,
+21	continued	"Who Told You
+22	assumption	That You Were Naked?"
+23	continued	A small portion of the book contained
+24	continued	what
+25	assumption	critics called homophobic language
+26	no-unit	.
+-1	par-sep	
+27	anecdote	Atlanta Mayor Kasim Reed suspended Cochran last month
+28	no-unit	.
+29	continued	He was fired on Jan  6	Modd-NU
+30	continued	-	Modd-NU
+31	continued	the day he was supposed	Modd-NU
+32	continued	to return	Modd-NU
+33	anecdote	to work	Modd-NU
+34	no-unit	.
+-1	par-sep	
+35	continued	"I
+36	continued	profoundly disagree with and am deeply disturbed by the sentiments expressed in the paperback regarding the LGBT community,"
+37	testimony	Reed wrote last November on his official Facebook page
+38	no-unit	.
+39	testimony	"I will not tolerate discrimination of any kind within my administration."
+-1	par-sep	
+40	continued	Reed told reporters
+41	anecdote	Cochran was not fired because of his religious beliefs
+42	no-unit	.
+43	no-unit	Rather
+44	no-unit	,
+45	continued	he said
+46	continued	,
+47	testimony	the fire chief was ousted because of poor judgment
+48	no-unit	.
+49	continued	The mayor accused the chief of
+50	continued	not getting permission
+51	continued	to write the book	Modd-NU
+52	continued	-	Modd-NU
+53	anecdote	a charge Cochran denies	Modd-NU
+54	no-unit	.
+-1	par-sep	
+55	continued	The mayor also alleged
+56	anecdote	Cochran distributed the book to members of the fire department
+57	no-unit	.
+58	continued	Cochran readily admits
+59	continued	that he gave copies of the book
+60	anecdote	to close associates within the department
+61	no-unit	.
+62	continued	It should be noted
+63	continued	that the individual
+64	continued	who initially complained about the book
+65	assumption	did not receive a copy from the fire chief
+66	no-unit	.
+-1	par-sep	
+67	anecdote	And for the record - a city investigation determined the fire chief had not discriminated against LGBT employees
+68	no-unit	.
+-1	par-sep	
+69	continued	But The New York Times editorial board said
+70	continued	it doesn't matter
+71	continued	if
+72	testimony	Chief Cochran was innocent
+73	no-unit	.
+74	continued	That's not the point
+75	continued	,
+76	continued	they wrote Tuesday in a scathing editorial titled
+77	continued	,
+78	anecdote	"God, Gays and the Atlanta Fire Department."
+-1	par-sep	
+79	continued	"It
+80	continued	should not matter
+81	continued	that the investigation found no evidence
+82	continued	that Mr  Cochran had mistreated gays or lesbians,"
+83	testimony	the Times wrote
+84	no-unit	.
+85	continued	"His position as a high-level public servant makes his remarks especially problematic, and requires
+86	testimony	that he be held to a different standard."
+-1	par-sep	
+87	continued	Robert White, executive director of the Georgia Baptist Convention, called
+88	testimony	The New York Times editorial "quite remarkable."
+-1	par-sep	
+89	continued	"It
+90	continued	declares his innocence and then declares
+91	continued	him guilty,"
+92	testimony	he said
+93	no-unit	.
+94	continued	"Guilty of what?
+95	continued	He didn't discriminate against any homosexuals
+96	continued	.
+97	continued	He vowed
+98	continued	that he wanted
+99	testimony	to have a healthy work place for all of his employees."
+-1	par-sep	
+100	continued	The Times went on
+101	continued	to argue
+102	continued	that while
+103	continued	Cochran is free
+104	continued	to believe
+105	continued	whatever
+106	continued	he wants
+107	continued	-
+108	continued	there are limits to
+109	continued	where
+110	testimony	he can believe and still maintain gainful employment in the public arena
+111	no-unit	.
+-1	par-sep	
+112	continued	"If
+113	continued	he wants
+114	continued	to work as a public official
+115	continued	,
+116	continued	however
+117	continued	,
+118	continued	 he may not foist his religious views on other city employees
+119	continued	who have the right to a boss
+120	continued	who does not speak of them as second-class citizens,"
+121	testimony	the Times wrote
+122	no-unit	.
+-1	par-sep	
+123	continued	"There
+124	continued	is a prejudice against Christians in this country right now,"
+125	testimony	White told me
+126	no-unit	.
+-1	par-sep	
+127	continued	Dr  White made his bold proclamation
+128	continued	just hours before
+129	continued	hundreds of Christians were expected
+130	continued	to gather at the Georgia capitol
+131	anecdote	to protest the firing of Atlanta Fire Chief Kelvin Cochran
+132	no-unit	.
+133	anecdote	Among those taking up his cause are the Billy Graham Evangelistic Association, the Georgia Baptist Convention and the Family Research Council
+134	no-unit	.
+-1	par-sep	
+135	no-unit	Click here	modd-del
+136	no-unit	to follow Todd on Facebook!	modd-del
+-1	par-sep	
+137	continued	"What
+138	continued	happened to Chief Cochran
+139	continued	goes to the core of religious freedom,"
+140	testimony	he said
+141	no-unit	.
+142	testimony	"Georgia Baptists are deeply concerned about the mistreatment of Kelvin Cochran."
+-1	par-sep	
+143	continued	Franklin Graham said
+144	continued	Cochran was a target of "politically correct bullying against Bible-believing Christians"
+145	continued	and vowed
+146	testimony	to stand alongside the embattled former fire chief
+147	no-unit	.
+-1	par-sep	
+148	continued	Tony Perkins, president of the Family Research Council, said
+149	testimony	the Times had "reached a new low in blatant hypocrisy."
+-1	par-sep	
+150	continued	"The
+151	continued	New York Times is calling for public servants
+152	continued	to be held to a different standard
+153	continued	when
+154	continued	it comes to their freedom of speech and religion,"
+155	testimony	Perkins said
+156	no-unit	.
+157	continued	"I think
+158	continued	most Americans are quite happy with the standard
+159	continued	that we have had for the last 226 years
+160	testimony	- the First Amendment."
+-1	par-sep	
+161	no-unit	If
+162	assumption	nothing else	cond
+163	no-unit	,
+164	assumption	Cochran's public shaming at the hands of Atlanta's mayor has unified Georgia Christians from all denominations and races
+165	no-unit	.
+-1	par-sep	
+166	continued	"This
+167	continued	is one of those things
+168	continued	that can bring people together from all of the political spectrum,"
+169	testimony	Garland Hunt, chairman of the Network of Politically Active Christians, told me
+170	no-unit	.
+171	continued	"This is about religious freedom
+172	continued	.
+173	continued	This is not about
+174	continued	whether
+175	testimony	a person is conservative or liberal."
+-1	par-sep	
+176	continued	The reality is
+177	continued	that a good man - a husband and father and grandfather - was fired from his job
+178	continued	because
+179	assumption	his boss objected to his religious beliefs
+180	no-unit	.
+181	continued	That just ought
+182	assumption	not to happen in the United States
+183	no-unit	.
+-1	par-sep	
+184	continued	I'm reminded of something
+185	anecdote	Chief Cochran told me
+186	no-unit	.
+-1	par-sep	
+187	continued	"The
+188	continued	LGBT members of our community have a right
+189	continued	to be able
+190	continued	to express their views and convictions about sexuality and deserve
+191	continued	to be respected for their position without hate or discrimination,"
+192	testimony	he said
+193	no-unit	.
+194	continued	"But Christians also have a right
+195	continued	to express our belief regarding our faith and be respected for our position without hate and without discrimination
+196	continued	.
+197	continued	In the United States, no one should be vilified, hated or discriminated against for
+198	testimony	expressing their beliefs."
+-1	par-sep	
+199	continued	Maybe those
+200	continued	who preach
+201	continued	tolerance and diversity might want
+202	continued	to consider
+203	continued	practicing it	Modd-NU
+204	continued	,	Modd-NU
+205	assumption	too	Modd-NU
+206	no-unit	.

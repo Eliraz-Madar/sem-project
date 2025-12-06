@@ -1,0 +1,196 @@
+0	title	Amnesia, not immigration, is our problem.
+-1	par-sep	
+1	continued	It has been a grim start for 2015
+2	continued	as far as
+3	assumption	European tolerance is concerned
+4	no-unit	.
+5	anecdote	Mosques have been attacked in Sweden
+6	no-unit	.
+7	anecdote	Demonstrations continue in Germany against the "Islamisation of the west"
+8	no-unit	.
+9	assumption	And antisemitism is on the rise
+10	no-unit	.
+-1	par-sep	
+11	continued	We knew
+12	assumption	something nasty had been unleashed
+13	continued	when	Modd-NU
+14	assumption	the European elections last year produced a surge of populist xenophobic parties
+15	no-unit	.
+16	common-ground	Many explanations have been given: the economic crisis, unemployment, the disenfranchisement of the middle classes, anxieties fed by globalisation
+17	no-unit	.
+18	assumption	Pointing fingers at strangers or supposed intruders has become almost an automatic reflex
+19	no-unit	.
+20	assumption	Anti-immigration parties are having a field day
+21	no-unit	.
+22	assumption	All our problems come from the outside, from some kind of invasion
+23	no-unit	:
+24	continued	that's
+25	continued	how
+26	assumption	the narrative goes
+27	no-unit	.
+28	anecdote	In France the novelist Michel Houellebecq is making headlines with a new book imagining the election in 2022 of a Muslim president
+29	no-unit	.
+-1	par-sep	
+30	continued	There are
+31	continued	,
+32	assumption	it is true, signs of a democratic revival against racism
+33	no-unit	.
+34	anecdote	In solidarity with Muslims, some citizens have been demonstrating in European cities
+35	no-unit	.
+36	continued	It is perhaps only
+37	continued	when
+38	continued	the worst happens
+39	continued	- arson attacks on mosques, or neo-Nazi groups in the streets 
+40	continued	-
+41	continued	that people start
+42	assumption	mobilising for common decency
+43	no-unit	.
+44	assumption	But the trend is worrisome indeed
+45	no-unit	.
+46	continued	Europeans seem
+47	continued	to be grappling with this one question
+48	continued	:
+49	continued	how
+50	assumption	do I live alongside people of a different cultural background, the Other?
+-1	par-sep	
+51	continued	In times like this, literature and history can help
+52	continued	us see
+53	assumption	things more clearly
+54	no-unit	.
+55	anecdote	I turned to the Polish writer Ryszard Kapuscinski
+56	no-unit	,
+57	continued	who spent most of his life
+58	continued	travelling across the developing world and reflecting on
+59	continued	how
+60	continued	Europeans relate to that huge part of the global population
+61	continued	that is non- European, and much poorer
+62	anecdote	than Europeans
+63	no-unit	.
+-1	par-sep	
+64	continued	In his book The Other, Kapuscinski 
+65	continued	-
+66	continued	who had flaws as a journalist, but certainly didn't lack curiosity for different cultures
+67	continued	- points out
+68	continued	how difficult
+69	continued	it is for inhabitants of the old continent
+70	continued	to accept
+71	testimony	that "the map of the world has changed" since decolonisation in the 1960s
+72	no-unit	.
+73	continued	After	Modd-NU
+74	no-unit	dominating the globe for hundreds of years
+75	no-unit	,
+76	continued	Europeans still have trouble dealing with the fact
+77	continued	that they have become
+78	assumption	less central, less overpowering
+79	no-unit	.
+80	assumption	And yet it is a paradox
+81	no-unit	,
+82	continued	because	Modd-NU
+83	continued	Europe produced arguably the first world citizen open to
+84	continued	discovering and appreciating foreign cultures
+85	continued	:
+86	assumption	the Greek historian Herodotus, 2,500 years ago
+87	no-unit	.
+-1	par-sep	
+88	other	I can hear the cringing
+89	no-unit	:
+90	continued	how delusional and idealistic
+91	continued	it is
+92	assumption	to bring Herodotus into a 21st-century debate on immigration
+93	no-unit	.
+94	no-unit	But
+95	no-unit	if	cond
+96	assumption	roots matter	cond
+97	no-unit	,then	cond
+98	assumption	 Europeans must look at themselves more closely
+99	no-unit	.
+100	continued	Things were never stable
+101	continued	,
+102	continued	nor
+103	assumption	populations fixed in stone
+104	no-unit	.
+105	common-ground	Europe is after all the appendix of a great and contrasted landmass
+106	no-unit	-
+107	continued	it was always meant
+108	assumption	to be a crossroads
+109	no-unit	.
+110	assumption	We may be baffled by changes
+111	no-unit	,
+112	no-unit	but
+113	continued	there were times
+114	continued	when
+115	assumption	we lived with much more diversity in our midst
+116	no-unit	.
+-1	par-sep	
+117	continued	Tony Judt is great
+118	assumption	to read on this
+119	no-unit	.
+120	continued	In his book Postwar, he recalls
+121	continued	how
+122	continued	"the European continent was once a complex tapestry of languages, religions, communities, and nations
+123	testimony	that overlapped
+124	no-unit	.
+125	testimony	Many of its cities - including some of the smallest, at the intersection of old and new imperial borders, such as Trieste, Sarajevo, Salonica, Czernowitz, Odessa, Vilnius - were truly multicultural, with Catholics, Orthodox, Muslims, Jews and others mingling."
+-1	par-sep	
+126	continued	Judt goes on
+127	continued	:
+128	testimony	"Between 1914 and 1945, however, this Europe was reduced to ashes."
+129	assumption	As a result of war, occupation, border changes, expulsions and genocide, most people ended up living among people like them, in different states
+130	no-unit	.
+131	continued	During the cold war, the two halves of Europe lived in "hermetic national enclaves" - a world of homogeneity
+132	continued	,
+133	testimony	notes Judt
+134	no-unit	.
+-1	par-sep	
+135	continued	In the 1960s immigrants arrived in western Europe
+136	continued	to provide
+137	anecdote	a workforce, most from former colonies
+138	no-unit	.
+139	continued	Judt calls
+140	continued	this a "new presence of 'others' living in Europe"
+141	continued	,
+142	testimony	including the millions of Muslims in today's EU
+143	no-unit	.
+144	continued	He says
+145	continued	this presence "has outlined not only Europe's discomfort
+146	continued	as
+147	continued	it is faced with a renewed and growing diversity
+148	continued	,
+149	continued	but also
+150	testimony	the ease with which the 'other' dead of Europe's past had crept out of people's minds"
+151	no-unit	.
+152	other	So there it is
+153	no-unit	:
+154	assumption	today's intolerance has its roots not just in economic frustration, but in amnesia
+155	no-unit	.
+-1	par-sep	
+156	continued	Since 1989 many of Europe's centres have become
+157	continued	"cosmopolitan global cities
+158	continued	,
+159	continued	whether
+160	continued	they like it or not"
+161	continued	,
+162	testimony	writes Judt
+163	no-unit	.
+164	continued	Note the
+165	continued	"whether
+166	other	they like it or not"
+167	no-unit	.
+168	continued	This book was published 10 years ago, as if in anticipation of
+169	continued	what
+170	assumption	we see today
+171	no-unit	.
+172	continued	The historian's message is
+173	assumption	that Europe's future is multicultural
+174	no-unit	.
+175	continued	Its core values are about
+176	assumption	being open to the Other
+177	no-unit	.
+178	continued	The only time Europeans experienced
+179	assumption	relative demographic homogeneity - that era of supposed tranquillity - was in the wake of Hitler's and Stalin's devastations
+180	no-unit	.
+181	continued	Such thoughts might not be enough
+182	assumption	to calm the anti-Muslim crowds
+183	no-unit	.But	Modd-NU
+184	assumption	they could help
+185	no-unit	.

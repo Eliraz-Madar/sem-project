@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><xmi:XMI xmlns:supertype="http:///de/aitools/ie/uima/type/supertype.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:arguana="http:///de/aitools/ie/uima/type/arguana.ecore" xmlns:infexba="http:///de/aitools/ie/uima/type/infexba.ecore" xmlns:core="http:///de/aitools/ie/uima/type/core.ecore" xmlns:argumentation="http:///de/aitools/ie/uima/type/argumentation.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="1" sofa="274" begin="0" end="3333" language="x-unspecified"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="6" sofa="274" begin="0" end="22" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="11" sofa="274" begin="25" end="122" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="16" sofa="274" begin="124" end="306" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="21" sofa="274" begin="308" end="366" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="26" sofa="274" begin="369" end="463" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="31" sofa="274" begin="465" end="542" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="36" sofa="274" begin="545" end="560" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="41" sofa="274" begin="563" end="635" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="46" sofa="274" begin="637" end="697" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="51" sofa="274" begin="699" end="1112" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="56" sofa="274" begin="1115" end="1140" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="61" sofa="274" begin="1147" end="1164" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="66" sofa="274" begin="1167" end="1214" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="71" sofa="274" begin="1216" end="1256" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="76" sofa="274" begin="1259" end="1329" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="81" sofa="274" begin="1331" end="1458" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="86" sofa="274" begin="1466" end="1490" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="91" sofa="274" begin="1493" end="1551" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="96" sofa="274" begin="1553" end="1632" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="101" sofa="274" begin="1634" end="1639" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="106" sofa="274" begin="1640" end="1689" unitType="common-ground"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="111" sofa="274" begin="1691" end="1740" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="116" sofa="274" begin="1743" end="1770" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="121" sofa="274" begin="1772" end="1861" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="126" sofa="274" begin="1863" end="1888" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="131" sofa="274" begin="1890" end="1907" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="136" sofa="274" begin="1909" end="2000" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="141" sofa="274" begin="2008" end="2039" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="146" sofa="274" begin="2042" end="2135" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="151" sofa="274" begin="2137" end="2263" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="156" sofa="274" begin="2268" end="2301" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="161" sofa="274" begin="2307" end="2342" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="166" sofa="274" begin="2344" end="2410" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="171" sofa="274" begin="2412" end="2465" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="176" sofa="274" begin="2467" end="2533" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="181" sofa="274" begin="2535" end="2599" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="186" sofa="274" begin="2607" end="2636" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="191" sofa="274" begin="2639" end="2769" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="196" sofa="274" begin="2771" end="2789" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="201" sofa="274" begin="2790" end="2793" unitType="no-unit"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="206" sofa="274" begin="2794" end="2822" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="211" sofa="274" begin="2824" end="2881" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="216" sofa="274" begin="2884" end="2951" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="221" sofa="274" begin="2953" end="2989" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="226" sofa="274" begin="2991" end="3015" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="231" sofa="274" begin="3017" end="3078" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="236" sofa="274" begin="3081" end="3232" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="241" sofa="274" begin="3233" end="3259" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="246" sofa="274" begin="3261" end="3314" unitType="assumption"/>
+    <argumentation:ArgumentativeDiscourseUnit xmi:id="251" sofa="274" begin="3316" end="3332" unitType="assumption"/>
+    <core:SourceDocumentInformation xmi:id="256" sofa="274" begin="0" end="3333" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/txt/complete-annotated-final/244-southernbaptistconventionpresi.txt" offsetInSource="0" documentSize="3333" lastSegment="false"/>
+    <core:SourceDocumentInformation xmi:id="281" sofa="274" begin="0" end="0" uri="/Users/teacher/Documents/Arbeit/workspace/software_EssayScoring/data/corpora/Webis-16-Editorials/xmi/split-by-portal-final/foxnews/244-southernbaptistconventionpresi.xmi" offsetInSource="0" documentSize="3333" lastSegment="false"/>
+    <argumentation:MetadataWebis16Editorials xmi:id="264" sofa="274" begin="0" end="3333" lastUpdate="2015-01-20T16:30:03Z" url="http://www.foxnews.com/opinion/2015/01/20/southern-baptist-convention-president-spiritual-state-our-union/" portal="foxnews" authors="Dr. Ronnie Floyd" articleSum="Who is addressing the spiritual state of our nation? Are we really trusting&amp;#10;only in governmental powers and processes to heal our land?&amp;#10;&amp;#10;" title="Southern Baptist Convention President: The spiritual state of our union."/>
+    <cas:Sofa xmi:id="274" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Questions Worth Asking.&#10;&#10;I love America and believe each citizen needs to be involved in charting the future of our nation. Our churches have compartmentalized faith and kept it from influencing our nation for far too long, just as most of America's leaders compartmentalize their faith from their politics. Today, our nation has become a product of this sad reality.&#10;&#10;We need to return to the conviction that a faith worth believing in is a faith worth dying for. Our faith cannot be checked at the door like a piece of luggage at an airport.&#10;&#10;The Time is Now.&#10;&#10;The time is now for our nation to recognize that we cannot fix ourselves. The signs of our brokenness are glistening in our dark world. The blatant destruction of the family, the killing of unborn children, the continuing racial tension, the rebellion against authority, the ongoing reality of poverty, the rising threat of our security, the clear attacks against religious liberty and, of all things, the arrogance to believe the highest court in our land can rule on what the Bible says is genuine marriage testify to just how broken we really are.&#10;&#10;Where Do We Go From Here?&#10;&#10;1 \. We need to repent.&#10;&#10;Repentance occurs when we have a change of mind. This change of mind changes our behavior.&#10;&#10;As a nation, we need to personally and collectively repent of our sins. We need to ask God for His free gift of forgiveness for the sins we have committed, resulting in change from that point forward.&#10;&#10;2 \. We need to return to God.&#10;&#10;America is a nation that was built on a deep belief in God. A desire for religious liberty was the catalyst for the beginning of our nation. While we have gone through ups and downs in our history, God has been very merciful and gracious toward us.&#10;&#10;It is time to return to God. It is time to stop making every issue about ourselves, posturing to ensure we get our way. God's way is the only way. There is no other. Anything less than God's way diminishes our happiness, our fulfillment and even our liberty.&#10;&#10;3 \. We need our churches to wake up.&#10;&#10;Churches all over our nation need to wake up from the slumber we find ourselves in as a whole. We need pastors to return to their spiritual calling, be rekindled by the fire of God and declare the hope we have in the Lord. As a pastor goes, so goes the church.&#10;&#10;As our churches go, so goes our nation. The evidence is overwhelming of just how broken we are as a nation. This is the greatest hour for our churches to rise up. Never more has America needed our churches to lead the way forward, serving and influencing our communities with compassion and hope.&#10;&#10;4 \. We need a spiritual awakening.&#10;&#10;In our history, there have been seasons of spiritual awakening that have influenced the spiritual state of our nation dramatically. Lives were changed and subcultures became different. Spiritual awakening is our greatest need in America today.&#10;&#10;There are many who have probably never even thought about this need. Others may feel we have gone too far. But I want to assure you: God can do more in a moment than we can ever do in a lifetime.&#10;&#10;Wherever you are in life, would you just stop for one moment and pray something like this: &quot;God, would you please bring spiritual awakening to America? It is our greatest need.&quot;?&#10;&#10;America's greatest need is the next great move of God. This is our hope."/>
+    <cas:View sofa="274" members="1 6 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 86 91 96 101 106 111 116 121 126 131 136 141 146 151 156 161 166 171 176 181 186 191 196 201 206 211 216 221 226 231 236 241 246 251 256 281 264"/>
+</xmi:XMI>

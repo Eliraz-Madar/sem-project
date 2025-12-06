@@ -1,0 +1,231 @@
+0	title	Fearmongering in Sydney.
+-1	par-sep	
+1	continued	Australians turning on their televisions Monday morning
+2	continued	to watch breakfast and cooking shows
+3	anecdote	were instead greeted with news channels beaming minute-to-minute fearmongering of the ongoing siege at a chocolate shop in Sydney
+4	no-unit	.
+5	continued	When	Modd-NU	
+6	anecdote	customers and employees were taken hostage by a lone gunman
+7	no-unit	,
+8	no-unit	and
+9	continued	a flag
+10	continued	with
+11	continued	"There is only one God" inscription in Arabic
+12	anecdote	was held in the window
+13	no-unit	,
+14	continued	it was enough
+15	assumption	to hold the rest of the country hostage to their fears and TV screens
+16	no-unit	.
+17	no-unit	Should it be that way and
+18	continued	what	modd-NU
+19	assumption	should an appropriate response look like?	m-question
+-1	par-sep	
+20	no-unit	First	Modd-NU
+21	no-unit	,	Modd-NU
+22	continued	 consider
+23	continued	what
+24	continued	this violent thug had designed our reaction
+25	assumption	to be	imp
+26	no-unit	.
+27	continued	The site of the siege was likely no afterthought - located in the heart of the Sydney CBD and directly opposite a major television station
+28	continued	,
+29	continued	the shop had made
+30	continued	it ideal for the media
+31	assumption	to report on
+32	no-unit	.
+33	anecdote	Streets were cordoned off
+34	no-unit	,
+35	anecdote	public transport diverted
+36	no-unit	,
+37	no-unit	and
+38	anecdote	a strong contingent of police sent to the Opera House
+39	no-unit	.
+40	assumption	All made for good visuals of the incident and terror in an otherwise peaceful city
+41	no-unit	.
+-1	par-sep	
+42	continued	Even the most left-leaning and progressive members of parliament, like Greens MP Adam Bandt
+43	continued	,
+44	continued	who have repeatedly defended the Muslim community from unjust discrimination and generalisation
+45	continued	,
+46	continued	tweeted to their followers in the first hours of the siege
+47	anecdote	that it was "terrifying"
+48	no-unit	.
+49	assumption	Was it really?	m-question
+50	anecdote	Was it at all terrifying for you personally, Adam?	m-question
+51	no-unit	If
+52	assumption	it was
+53	no-unit	,
+54	continued	I'd hate
+55	continued	to know
+56	continued	what
+57	continued	the hostages experienced, including the two
+58	assumption	who were murdered
+59	no-unit	.
+-1	par-sep	
+60	no-unit	A strike in the public's dark
+61	no-unit	.
+-1	par-sep	
+62	assumption	For once, Prime Minister Tony Abbott had a more mature response than his colleagues on the opposite side
+63	no-unit	.
+64	continued	Such a situation can "scare people out of
+65	continued	being themselves"
+66	continued	,
+67	continued	he said in his first press briefing, before
+68	continued	urging
+69	testimony	all Australians to go about their business as usual
+70	no-unit	.
+71	continued	Although	Modd-NU
+72	continued	he told the public
+73	anecdote	to remain vigilant and report any suspicious activity to the authorities
+74	no-unit	,
+75	anecdote	he said so with calm and caution
+76	no-unit	.
+77	continued	Vitally, he avoided
+78	continued	using the t-word at this early stage, or any formulation
+79	anecdote	thereof
+80	no-unit	.
+-1	par-sep	
+81	assumption	No doubt we have since learnt a lot more about this deranged outsider and his motives
+82	no-unit	,
+83	no-unit	and
+84	continued	it is clear
+85	assumption	he had terrorist intent
+86	no-unit	.
+87	continued	His website
+88	continued	,
+89	continued	which was shut down during the final hours of the siege
+90	continued	,
+91	continued	had a message dated December 14
+92	continued	,
+93	continued	which described
+94	continued	why
+95	continued	Muslims "fight against the oppression and terrorism" of the US and its allies
+96	continued	,
+97	assumption	including the UK and Australia
+98	no-unit	.
+-1	par-sep	
+99	assumption	The rampant speculation before this was unnecessary and unhelpful, however
+100	no-unit	,
+101	no-unit	and
+102	continued	letting the siege
+103	continued	sow
+104	continued	fear, enough so
+105	continued	to publicly describe it as "terrifying"
+106	continued	,
+107	assumption	was handing a victory to an extremist
+108	no-unit	.
+-1	par-sep	
+109	continued	With the hot Australian summer setting in
+110	continued	,
+111	continued	many people's minds turn to beer, barbeques, family, and Christmas presents
+112	continued	,
+113	continued	not
+114	assumption	the possibility of "politically motivated violence", as Abbott wisely phrased it
+115	no-unit	.
+-1	par-sep	
+116	continued	Intriguingly, Australians fear terrorism more than a foreign invasion, despite
+117	continued	many believing
+118	continued	we'd have no hope of
+119	continued	fending off the latter
+120	continued	and despite
+121	assumption	us never directly experiencing the former
+122	no-unit	.
+123	no-unit	Given the opportunity
+124	no-unit	to attribute a complexly motivated act to terrorism
+125	no-unit	,
+126	continued	it's no wonder
+127	continued	this all-too-easy escape mechanism
+128	continued	which avoids rigorous thought or objective analysis
+129	assumption	was adopted en masse
+130	no-unit	.
+-1	par-sep	
+131	anecdote	The most noted incidents in Australia's experience of terrorism have been mostly foreign tragedies, like the Bali bombings in 2002 and 2005, or the 2004 Australian embassy bombing in Jakarta
+132	no-unit	.
+133	continued	Although	Modd-NU
+134	anecdote	the September raids and arrests of suspected domestic terrorists in Sydney and Brisbane set a new landscape and brought the thought of an attack to our own shores
+135	no-unit	,
+136	assumption	they merely raised the thought, not the authentic actuality
+137	no-unit	.
+-1	par-sep	
+138	anecdote	The raids sparked limited local backlash against peaceful Muslims at the time
+139	no-unit	,
+140	no-unit	and
+141	assumption	this was both unwarranted and unwanted
+142	no-unit	.
+143	continued	Though	Modd-NU
+144	continued	it only goes
+145	assumption	to further support my thesis
+146	no-unit	;
+147	assumption	Australians just aren't used to this sort of thing and thus are unpractised in their response
+148	no-unit	.
+-1	par-sep	
+149	no-unit	That said
+150	no-unit	,
+151	continued	it hasn't stopped thousands on social media
+152	assumption	to show solidarity with minorities through the #IllRideWithYou campaign
+153	no-unit	.
+-1	par-sep	
+154	no-unit	When
+155	anecdote	the Abbott government raised the domestic terrorism threat level to high before the September raids
+156	no-unit	,
+157	continued	many local commentators criticised
+158	continued	what
+159	assumption	they branded as political theatre (both before and after the arrests)
+160	no-unit	.
+-1	par-sep	
+161	continued	To consider this
+162	continued	is
+163	continued	to suggest an even baser type of political animal
+164	continued	than
+165	assumption	is presently expected by even the most cynical of observers
+166	no-unit	.
+167	continued	Would any rational actor toy with people's lives for short-term political ends in
+168	continued	what
+169	assumption	was an unimportant political week?	m-question
+170	continued	What end	modd-NU
+171	assumption	does that even achieve?	m-question
+172	continued	Plainly, none, and it is sensationally conspiratorialist
+173	assumption	to suggest otherwise
+174	no-unit	.
+-1	par-sep	
+175	continued	To protest against such raids and continue
+176	continued	looking at them through a political lens
+177	continued	was just as unwarranted and unwanted as the racial-profiling and racial- hatred
+178	continued	which events like these
+179	assumption	have sparked
+180	no-unit	.
+-1	par-sep	
+181	continued	Terrorism isn't something
+182	common-ground	that we should let foster, anywhere
+183	no-unit	,
+184	no-unit	and
+185	assumption	the public reactions to the raids were unjustifiably sceptical in comparison to the response to the Sydney siege
+186	no-unit	.
+-1	par-sep	
+187	no-unit	Even so
+188	no-unit	,
+189	assumption	 the authorities' heed for caution may have come too late for some
+190	no-unit	.
+191	continued	Slipshod media reports
+192	continued	that the flag held in the shop window was an ISIL flag 
+193	continued	-
+194	continued	when
+195	continued	it was not
+196	continued	-
+197	assumption	may have already fuelled the imaginations of too many
+198	no-unit	.
+-1	par-sep	
+199	no-unit	Whatever	Modd-NU
+200	continued	the outcome of the full investigation	Modd-NU
+201	continued	,
+202	assumption	one thing remains clear
+203	no-unit	:
+204	assumption	This was a tragic learning experience for the Australian media, public, and politicians
+205	no-unit	.
+206	continued	Keep calm and carry on, though
+207	continued	pay a thought or two
+208	continued	to
+209	continued	how
+210	continued	we ought
+211	no-unit	to respond to events like these in the future
+212	no-unit	.

@@ -1,0 +1,220 @@
+0	title	NFL 2015: Why I hope Ray Rice gets back into the game.
+-1	par-sep	
+1	continued	Last year NFL star Ray Rice committed a single act of unforgettable and inexcusable violence against
+2	assumption	then fiancee Janay Palmer
+3	no-unit	.
+4	continued	This year he and his now wife Janay hope
+5	continued	he will be back in the NFL, a platform
+6	continued	he has used
+7	assumption	to aggressively combat adolescent bullying in the past
+8	no-unit	.
+9	continued	As the founder of an anti-bullying organization, I hope
+10	continued	he gets a second chance and continues his anti-bullying crusade this year	
+11	continued	,
+12	continued	and	Modd-NU
+13	continued	for	Modd-NU
+14	assumption	many years to come	Modd-NU
+15	no-unit	.
+16	continued	The couple is infamous for
+17	continued	what
+18	assumption	went down in a New Jersey casino elevator
+19	no-unit	,
+20	no-unit	where
+21	continued	Ray knocked Janay out with one left-handed strike
+22	continued	,
+23	anecdote	leading to his arrest on assault charges
+24	no-unit	.
+25	anecdote	Rice was later cut by the Baltimore Ravens and suspended by the NFL
+26	no-unit	.
+27	continued	He won his appeal and is now clear
+28	assumption	to play
+29	no-unit	,
+30	no-unit	if
+31	assumption	a team will have him
+32	no-unit	.
+-1	par-sep	
+33	continued	The couple's botched press conference in May
+34	continued	,
+35	continued	where
+36	continued	he failed
+37	continued	to publicly apologize to Janay
+38	continued	,
+39	continued	led many
+40	assumption	to condemn him further
+41	no-unit	.
+42	continued	Fox Sports wrote
+43	continued	,
+44	continued	"Most of
+45	continued	what
+46	continued	(Ray Rice) said
+47	continued	left the public and media
+48	testimony	shaking their heads."
+49	continued	I met with Ray the day before that botched press conference
+50	continued	while
+51	continued	working at the Raven's training camp
+52	continued	to help rookies
+53	continued	and
+54	anecdote	free agents better handle experiences with high school and college bullying
+55	no-unit	.
+56	continued	I encouraged him
+57	continued	,
+58	continued	when
+59	continued	the time was right
+60	continued	,
+61	anecdote	to continue his anti-bullying crusade
+62	no-unit	.
+63	anecdote	His eyes watered
+64	continued	because	Modd-NU
+65	continued	he deeply wants
+66	assumption	to be a hero to children again
+67	no-unit	.
+-1	par-sep	
+68	continued	Why
+69	continued	would an anti-bullying advocate want
+70	assumption	Rice to have a second chance and to stay in the anti-bullying game under the right circumstances?
+71	continued	Because	Modd-NU
+72	continued	Ray's deplorable but isolated act does not come close to the damage
+73	continued	caused by
+74	assumption	bullying
+75	no-unit	,
+76	no-unit	and
+77	continued	it doesn't make
+78	assumption	him a bully
+79	no-unit	.
+80	continued	We need more people like him
+81	continued	who
+82	continued	,
+83	continued	once
+84	continued	amends are made
+85	continued	,
+86	continued	to combat
+87	continued	what
+88	assumption	is now the #1 form of child abuse in America
+89	no-unit	.
+90	continued	Rice is even willing
+91	continued	to get political
+92	assumption	to fight bullying
+93	no-unit	.
+94	anecdote	He supported "Grace's Law," a landmark, anti-cyberbullying law passed in Maryland
+95	no-unit	.
+96	continued	"I
+97	continued	truly hope
+98	continued	that he continues his anti-bullying work,"
+99	anecdote	says Christine McComas, mother of the late Grace McComas, 15
+100	no-unit	,
+101	continued	whose suicide
+102	anecdote	is attributed to cyberbullying
+103	no-unit	.
+104	continued	"His help was probably the single biggest factor
+105	continued	that led to the new anti-cyberbullying law named after our daughter
+106	continued	,
+107	continued	which has already saved lives
+108	continued	.
+109	continued	His empathy and support of our family in our worst hour will never be forgotten
+110	continued	.
+111	continued	I have four daughters
+112	continued	,
+113	continued	so
+114	continued	I'm sensitive to domestic violence
+115	continued	.
+116	continued	I have no reason
+117	continued	to believe
+118	continued	he is a serial abuser
+119	continued	,
+120	continued	and think
+121	continued	he should be given the chance
+122	continued	to redeem himself
+123	continued	.
+124	testimony	Maryland owes a lot to that man."
+-1	par-sep	
+125	continued	Also
+126	continued	,
+127	continued	 people within the Ravens organization
+128	continued	who knew
+129	continued	Ray well told me
+130	continued	that what happened in that elevator
+131	testimony	was inexcusable, yet also did not define Ray's real character
+132	no-unit	.
+133	continued	Matt Lauer of the TODAY Show
+134	continued	,
+135	continued	while
+136	continued	interviewing Janay
+137	continued	,
+138	continued	said
+139	continued	he received numerous phone calls from people
+140	anecdote	who know Ray personally
+141	no-unit	.
+142	continued	They also said
+143	continued	that what happened in
+144	testimony	that elevator was an aberration from his usually strong character
+145	no-unit	.
+-1	par-sep	
+146	assumption	Rice is guilty of a single act of inexcusable violence
+147	no-unit	;
+148	continued	an act Janay says
+149	testimony	didn't happen before and hasn't happened since that fateful day
+150	no-unit	.
+151	assumption	By contrast, most acts of bullying are premeditated, and don't stem from flashes of anger but rather contempt and disdain toward a target
+152	no-unit	.
+153	continued	Bullies, including domestic abusers, wed
+154	continued	power to fear as part of a psychological campaign of cruelty
+155	continued	in order
+156	assumption	to dominate, control, intimidate and isolate another
+157	no-unit	.
+158	continued	Yet Janay says Ray's behavior
+159	continued	before or after
+160	anecdote	this one event includes none of this
+161	no-unit	.
+162	continued	In nearly a year since the punch felt around the NFL, not one woman has come forward
+163	assumption	to accuse Rice of similar abuse
+164	no-unit	.
+165	continued	This supports Janay's statement
+166	continued	that what
+167	continued	happened
+168	assumption	was an isolated incident
+169	no-unit	,
+170	no-unit	something Janay said during her TODAY Show interview with Matt Lauer
+171	no-unit	.
+172	assumption	According to Janay, good may come from this single and deplorable act
+173	no-unit	.
+174	continued	She told Lauer
+175	continued	that though
+176	continued	the claims of serial abuse are false
+177	continued	,
+178	testimony	"God chose us for a reason."
+179	continued	The couple also says
+180	continued	that this incident
+181	continued	,
+182	continued	which pushed Ray into mandatory and intense counseling
+183	continued	,
+184	continued	made them better people, including
+185	continued	how
+186	continued	it compelled
+187	testimony	them to rededicate themselves to their Christian faith
+188	no-unit	.
+189	no-unit	If
+190	assumption	we can't give the Rice family the benefit of the doubt
+191	no-unit	,
+192	continued	then let's
+193	continued	give them the benefit of time
+194	assumption	this new year	imp
+195	no-unit	,
+196	continued	which will tell us
+197	continued	whether
+198	assumption	he has truly seen the light
+199	no-unit	.
+200	continued	I believe
+201	assumption	that time will do more than tell
+202	no-unit	.
+203	continued	I believe
+204	assumption	it's on his side in 2015
+205	no-unit	.
+-1	par-sep	
+206	other	Paul Coughlin is an expert witness regarding bullying and the law, a former newspaper editor and is the author of numerous books, including Raising Bully- Proof Kids
+207	no-unit	.
+208	other	He is the Founder of The Protectors: Freedom From Bullying--Courage, Character & Leadership for Life
+209	no-unit	,
+210	continued	which provides a comprehensive and community-wide solution to adolescent bullying in schools, summer camps, faith-based organizations, and other places
+211	continued	where
+212	other	bullying can be prevalent
+213	no-unit	.

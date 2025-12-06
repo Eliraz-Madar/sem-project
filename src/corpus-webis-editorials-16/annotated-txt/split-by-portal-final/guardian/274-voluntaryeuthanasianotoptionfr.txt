@@ -1,0 +1,210 @@
+0	title	When should voluntary euthanasia not be an option?
+-1	par-sep	
+1	continued	This week a court in Belgium announced
+2	continued	that the convicted rapist and murderer Frank Van Den Bleeken would be put to death by a lethal injection, in spite of the fact
+3	anecdote	that the death penalty is banned across Europe
+4	no-unit	.
+5	assumption	Van Den Bleeken's case was unusual
+6	no-unit	:
+7	continued	having previously been declared insane and not criminally responsible
+8	continued	,
+9	continued	he had himself asked
+10	continued	to be euthanised on the grounds
+11	anecdote	that he would rather die than spend the rest of his life in jail
+12	no-unit	.
+-1	par-sep	
+13	continued	Today the Belgian justice minister announced
+14	continued	that Van Den Bleeken would not be euthanised after all, amid reports
+15	anecdote	that the prisoner had changed his mind
+16	no-unit	.
+17	no-unit	Nonetheless
+18	no-unit	,
+19	assumption	 the case provides a fascinating twist to the old debate about euthanasia
+20	no-unit	.
+21	continued	Should Van Den Bleeken have been allowed
+22	anecdote	to die?	m-question
+-1	par-sep	
+23	assumption	The moral defence of voluntary euthanasia is usually applied to people suffering from a terminal illness
+24	no-unit	.
+25	assumption	But Van Den Bleeken isn't terminally ill and isn't in physical pain
+26	no-unit	.
+27	continued	Another traditional requirement is
+28	continued	that the wish
+29	continued	to die
+30	assumption	should be voluntary and competent
+31	no-unit	.
+32	continued	But how
+33	continued	can the choices of someone
+34	continued	who has been declared
+35	continued	insane
+36	continued	be regarded
+37	assumption	as voluntary and competent?
+38	continued	The concern is
+39	continued	that granting his request
+40	continued	would make
+41	assumption	it a case of involuntary euthanasia
+42	no-unit	,
+43	no-unit	and
+44	common-ground	that is usually seen as morally unacceptable
+45	no-unit	.
+-1	par-sep	
+46	no-unit	If	cond
+47	assumption	there is an issue about Van Bleeken's sanity
+48	continued	that is because of his alleged inability
+49	assumption	to control his sexual impulses
+50	no-unit	.
+51	continued	But it could be argued
+52	continued	that this doesn't affect the validity of his request
+53	assumption	to be euthanised
+54	no-unit	.
+55	continued	The implication is
+56	continued	that while
+57	continued	some of his decisions might be involuntary or incompetent
+58	continued	,
+59	assumption	this doesn't apply to his choice of death over a lifetime behind bars
+60	no-unit	.
+-1	par-sep	
+61	no-unit	Even so
+62	no-unit	,
+63	continued	should his request have been granted
+64	continued	,
+65	continued	given
+66	no-unit	that he isn't terminally ill?	m-question
+67	continued	One argument for
+68	continued	allowing voluntary euthanasia
+69	continued	where
+70	continued	terminal illness isn't an issue
+71	assumption	turns on the idea of wellbeing
+72	no-unit	:
+73	continued	people should be allowed
+74	continued	to choose death
+75	continued	where
+76	continued	they would literally be better off dead
+77	continued	or
+78	continued	where
+79	assumption	their life literally isn't worth living
+80	no-unit	.
+81	assumption	Another argument turns on human autonomy
+82	no-unit	:
+83	continued	we should respect a person's free choices as long
+84	continued	as
+85	continued	they don't harm
+86	assumption	anyone else
+87	no-unit	.
+88	continued	Someone
+89	continued	who is not terminally ill
+90	assumption	could still satisfy these requirements
+91	no-unit	.
+92	continued	Had Van Den Bleeken been allowed
+93	continued	to die
+94	continued	,
+95	continued	critics may say
+96	continued	it would have risked
+97	assumption	opening the floodgates for other similar cases
+98	no-unit	.
+99	continued	Belgium has seen a dramatic rise in euthanasia
+100	continued	since
+101	statistics	the practice was legalised in 2002 and permitted in cases of pain and psychological distress, as well as terminal illness
+102	no-unit	.
+-1	par-sep	
+103	assumption	Some are opposed to voluntary euthanasia as a matter of principle
+104	no-unit	.
+105	continued	The philosopher David Velleman argues
+106	continued	that there isn't a fundamental right
+107	continued	to choose between life and death
+108	continued	,
+109	continued	and
+110	continued	that a person's rights don't expand
+111	continued	when
+112	testimony	they become terminally ill or psychologically distressed
+113	no-unit	.
+114	assumption	He is heavily influenced by 18th century philosopher Immanuel Kant
+115	no-unit	.
+116	continued	According to Kant
+117	continued	,
+118	continued	morality requires
+119	continued	that we respect the dignity of persons
+120	continued	,
+121	continued	and
+122	continued	the dignity of persons makes
+123	testimony	them intrinsically valuable
+124	no-unit	.
+125	continued	For Kant
+126	continued	,
+127	testimony	a person's dignity can't be traded against their wellbeing or happiness
+128	no-unit	,
+129	no-unit	and
+130	continued	the fact
+131	continued	that a person believes
+132	continued	that their life isn't worth living
+133	continued	doesn't make
+134	continued	it acceptable
+135	continued	for
+136	testimony	them to be euthanised
+137	no-unit	.
+-1	par-sep	
+138	assumption	The Van Den Bleeken case puts pressure on these standard arguments for and against voluntary euthanasia
+139	no-unit	.
+140	continued	Suppose
+141	continued	that, contrary to Kant's view, voluntary euthanasia is morally permissible as long
+142	continued	as
+143	continued	the person asking
+144	continued	to be euthanised
+145	other	would be genuinely better off dead
+146	no-unit	.
+147	continued	Relatives of Van Den Bleeken's victim may well argue
+148	continued	that the fact
+149	continued	(if
+150	continued	it is a fact)
+151	continued	that he would be better off dead
+152	continued	is precisely a reason for
+153	continued	not allowing
+154	assumption	him to be put to death
+155	no-unit	.
+156	continued	From this perspective, euthanasia looks like a way for him
+157	assumption	to circumvent his sentence
+158	no-unit	.
+-1	par-sep	
+159	continued	Van Den Bleeken's victim was Christiane Remacle, a 19-year-old
+160	anecdote	he raped and strangled in 1989
+161	no-unit	.
+162	continued	Her sisters are reported
+163	continued	to have said
+164	continued	that Van Den Bleeken should be forced
+165	testimony	to languish in jail
+166	no-unit	,
+167	no-unit	and
+168	continued	their reaction brings out an ambivalence in
+169	continued	how
+170	assumption	we think about the death penalty for murder
+171	no-unit	.
+172	assumption	Relatives of murder victims often demand the death penalty as the ultimate punishment
+173	no-unit	,
+174	no-unit	but
+175	continued	the Van Den Bleeken case suggests
+176	assumption	that, at least from the standpoint of the perpetrator, the ultimate sanction may be life behind bars
+177	no-unit	.
+-1	par-sep	
+178	continued	But the intrinsic value argument against voluntary euthanasia can also be hard
+179	assumption	to swallow, in this case
+180	no-unit	.
+181	continued	Christiane Remacle's sisters might balk at the idea
+182	assumption	that a murderer's life is intrinsically valuable
+183	no-unit	.
+184	continued	It's hard
+185	assumption	not to sympathise
+186	no-unit	,
+187	no-unit	and
+188	continued	there remain strong reasons for
+189	continued	not allowing
+190	continued	Van Den Bleeken to be euthanised regardless of
+191	continued	whether
+192	assumption	his life is intrinsically valuable
+193	no-unit	.
+194	continued	As
+195	continued	long as euthanasia is seen as a way for him
+196	continued	to circumvent his sentence
+197	continued	,
+198	continued	respect for his victim and her family demands
+199	assumption	that he isn't given the option
+200	no-unit	.

@@ -1,0 +1,189 @@
+0	title	Where's the attention from Sharpton & Jackson for Black lives in St  Louis beating?
+-1	par-sep	
+1	assumption	The shooting death of Michael Brown, an unarmed black teenager, by a white policeman rightly set off alarms
+2	no-unit	.
+-1	par-sep	
+3	assumption	But much less media attention -- especially from the black civil rights leadership -- has gone to the deadly assault on a white man by three black teenage boys in St  Louis
+4	no-unit	,
+5	continued	which is likely
+6	assumption	to end with adult murder convictions and life sentences for the boys
+7	no-unit	.
+8	continued	That sentence equals
+9	assumption	a long, slow death in jail just as final and awful as Michael Brown's fate
+10	no-unit	.
+-1	par-sep	
+11	continued	St  Louis police and politicians say
+12	testimony	there was nothing racial about the attack on Zemir Begic, 32, a Bosnian immigrant
+13	no-unit	.
+14	continued	They say
+15	testimony	it was not a hate crime aimed at Bosnians
+16	no-unit	.
+17	continued	And they say
+18	continued	it had nothing
+19	testimony	to do with the racial crisis in Ferguson over Brown's death
+20	no-unit	.
+-1	par-sep	
+21	assumption	Yes, it did
+22	no-unit	.
+-1	par-sep	
+23	assumption	Black men have the highest rate of conviction for violent crime of any racial group in the country
+24	no-unit	.
+25	continued	The harsh truth is
+26	assumption	that we're really talking about poor, young Black men
+27	no-unit	.
+28	assumption	In any case, Blacks have the highest dropout and unemployment rates
+29	no-unit	.
+30	assumption	Black children have the highest poverty rate of any group of children
+31	no-unit	.
+-1	par-sep	
+32	continued	Poor black boys too often take their fashion and cultural cues from rap music
+33	assumption	that celebrates criminal behavior as a show of power and rebellion
+34	no-unit	.
+35	continued	Often, the result is a thuggish attitude, including
+36	continued	dressing like
+37	continued	convicts with their pants falling down
+38	continued	because
+39	assumption	the jail guards have taken away their belts
+40	no-unit	.
+-1	par-sep	
+41	continued	Another consequence of civil rights leaders' failure
+42	continued	to challenge criminal behavior in black neighborhoods
+43	assumption	is the angry, defiant interactions between those black teenagers and the police
+44	no-unit	.
+-1	par-sep	
+45	continued	Once
+46	continued	the black violence leads to death, especially
+47	continued	if
+48	continued	it is beyond the streets of a poor black neighborhood
+49	continued	,
+50	assumption	there is no mercy
+51	no-unit	.
+52	continued	The broken justice system
+53	continued	that gives police a pass for
+54	continued	killing an unarmed black teen
+55	continued	is hard evidence
+56	continued	that Americans, middle-class blacks and whites, think
+57	continued	classifying young black men
+58	continued	as
+59	assumption	an ongoing threat to public safety is not racial stereotyping
+60	no-unit	.
+-1	par-sep	
+61	continued	And the police and grand jurors see physically large black men -- in the cases of both Michael Brown and New York's Eric Garner
+62	continued	,
+63	continued	who was choked to death by police
+64	assumption	-- as especially threatening
+65	no-unit	.
+-1	par-sep	
+66	continued	How else
+67	continued	do you explain the lack of human compassion by the police for Garner
+68	continued	as
+69	continued	he complained
+70	continued	,
+71	assumption	"I can't breathe"?
+72	continued	How else
+73	continued	do you understand two grand juries
+74	continued	deciding
+75	continued	there is nothing wrong with two people being killed by the police, agents of the government
+76	continued	,
+77	continued	if
+78	assumption	the value of their lives is equal to every other citizen's life?
+-1	par-sep	
+79	continued	In Garner's case, the police were videotaped
+80	continued	choking him
+81	continued	even though
+82	anecdote	he never fought with them
+83	no-unit	.
+84	continued	And the grand jurors still refused
+85	continued	to allow the police
+86	anecdote	to go on trial
+87	no-unit	.
+-1	par-sep	
+88	assumption	Mandatory body cameras for police are a good idea
+89	no-unit	,
+90	no-unit	but
+91	assumption	they are not a panacea for the troubled relationship between the larger society and the broken black families, the poorly educated black children and the steady violence in poor black American communities
+92	no-unit	.
+93	continued	Recall
+94	anecdote	that Garner's death at the hands of the police is on videotape
+95	no-unit	,
+96	no-unit	and
+97	continued	it made no difference in the grand jury's decision
+98	anecdote	not to indict the police
+99	no-unit	.
+-1	par-sep	
+100	continued	Even with the video
+101	continued	,
+102	continued	what
+103	continued	the prosecutor and the grand jurors saw
+104	continued	in
+105	continued	Garner was not a fellow citizen being hurt
+106	continued	,
+107	assumption	but a troubling social reality
+108	no-unit	.
+109	assumption	They saw a potential threat to themselves in a big black man hustling on the street
+110	no-unit	,
+111	continued	even if
+112	continued	this was a middle-aged man with no violent intent
+113	continued	who was violating only a minor law by
+114	assumption	selling loose cigarettes
+115	no-unit	.
+-1	par-sep	
+116	common-ground	Garner and Brown are in their graves
+117	no-unit	,
+118	no-unit	but
+119	continued	the body count continues
+120	continued	as
+121	assumption	poor black teenagers, especially boys, march from single-parent homes to bad schools, to jails and to wasted lives
+122	no-unit	.
+123	continued	It begins with
+124	continued	acting out in defiance of a larger society
+125	assumption	that ignores them
+126	no-unit	.
+127	continued	Sometimes there are displays of anger
+128	continued	that are seen as
+129	assumption	threatening
+130	no-unit	,
+131	no-unit	and
+132	continued	they end up
+133	assumption	killing each other
+134	no-unit	.
+135	continued	Other times there are confrontations with the police
+136	assumption	that end with the boys in jail or the grave
+137	no-unit	.
+-1	par-sep	
+138	continued	Robert Joseph Mitchell, the 17-year-old charged with first-degree murder in the attack on Begic, looks
+139	assumption	to fit in that group of poor, young black men in the "pipeline" to prison
+140	no-unit	.
+141	assumption	Also in the "pipeline" to wasted lives are two other black boys, 15 and 16
+142	no-unit	,
+143	continued	whom police
+144	anecdote	arrested after the murder
+145	no-unit	.
+146	continued	And don't forget Begic, an innocent man having fun with his fiancee
+147	continued	who lost his life
+148	continued	because
+149	anecdote	he crossed paths with these furious black boys
+150	no-unit	.
+-1	par-sep	
+151	continued	This is the deeper social breakdown born of segregation of poor black people, lack of opportunity and too many people living with acceptance of anger at the poor for
+152	assumption	making the larger society so uncomfortable
+153	no-unit	,
+154	assumption	so fearful
+155	no-unit	.
+-1	par-sep	
+156	continued	The protests over the Brown and Garner cases deserve
+157	assumption	to be celebrated in the American tradition of social movements against injustice
+158	no-unit	.
+159	continued	But where
+160	assumption	are the protests over the drive-by shootings of black thugs by other black thugs?
+161	continued	Where
+162	continued	are the protests against the bad schools
+163	continued	that close the door of economic opportunity on poor children
+164	continued	,
+165	assumption	disproportionately poor children of color?
+-1	par-sep	
+166	no-unit	As
+167	anecdote	Robert Joseph Mitchell faces a life sentence for murder
+168	no-unit	,
+169	continued	his story is one more tragic version of
+170	assumption	"I can't breathe."

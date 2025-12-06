@@ -1,0 +1,222 @@
+0	title	Saudi's bold political gambit.
+-1	par-sep	
+1	continued	Recent reports of the Kingdom of Saudi Arabia reopening its embassies in Baghdad and in the capital of the Kurdish Regional Government, Erbil, may appear
+2	assumption	to be an overdue, yet mundane diplomatic affair
+3	no-unit	,
+4	no-unit	but
+5	assumption	this news signifies a development in Saudi foreign policy to Iraq
+6	no-unit	.
+-1	par-sep	
+7	no-unit	While
+8	anecdote	diplomatic relations between Riyadh and Baghdad were severed after Saddam Hussein's invasion of Kuwait in 1990
+9	no-unit	,
+10	continued	Saudi Arabia failed
+11	continued	to reopen diplomatic facilities in Iraq
+12	continued	as
+13	anecdote	tensions ensued with the post-Baathist government
+14	no-unit	.
+15	continued	The recent news serves as an indication
+16	continued	that Riyadh has finally come to terms with a Shia-led government in Baghdad, and is now seeking a presence in Iraq
+17	assumption	to influence developments there on an official, bilateral level
+18	no-unit	.
+-1	par-sep	
+19	assumption	In terms of regional power dynamics, the fall of Saddam Hussein's government in 2003 affected all of Iraq's neighbours
+20	no-unit	.
+21	continued	Jordan and Syria had
+22	anecdote	to deal with an influx of Iraqi refugees
+23	no-unit	.
+24	continued	Both Syria and Iran feared
+25	continued	the Bush administration would use Iraq as a base
+26	assumption	to destabilise their regimes
+27	no-unit	.
+28	continued	Both Turkey and Saudi Arabia feared
+29	assumption	that the empowered Kurds and Shia in Iraq after 2003 would foment similar aspirations among their respective Kurdish and Shia populations
+30	no-unit	.
+-1	par-sep	
+31	no-unit	Contentious issue
+32	no-unit	.
+-1	par-sep	
+33	assumption	The reopening of embassies in Baghdad after the US-led occupation had been a contentious issue for regional actors in the Middle East
+34	no-unit	.
+35	continued	The new politicians in Iraq had
+36	continued	to urge various Arab states and organisations
+37	continued	to reopen their embassies in Baghdad
+38	continued	in order
+39	anecdote	to bestow some regional legitimacy upon a nascent Iraqi government
+40	no-unit	.
+-1	par-sep	
+41	continued	The Arab League hesitated
+42	continued	reopening its diplomatic facilities in Baghdad as an indirect way of
+43	continued	protesting the fact
+44	assumption	that an Arab capital was under foreign control
+45	no-unit	.
+-1	par-sep	
+46	continued	Baghdad repeatedly asked
+47	anecdote	Syria to open up its embassy in Baghdad
+48	no-unit	,
+49	continued	hoping
+50	continued	that diplomatic relations would end Syria's policy of
+51	continued	granting refuge to former Baathists
+52	assumption	and supporting the Iraqi insurgency immediately following the 2003 invasion
+53	no-unit	.
+-1	par-sep	
+54	continued	For Saudi Arabia, the failure
+55	continued	to open an embassy in Baghdad
+56	continued	had less
+57	continued	to do with
+58	continued	the presence of US forces occupying an Arab capital
+59	continued	,
+60	continued	but rather as a means of
+61	assumption	protesting the rise of a new Shia-led government in Iraq
+62	no-unit	.
+-1	par-sep	
+63	continued	After the Iranian Revolution of 1979
+64	continued	,
+65	continued	Saudi Arabia's Shia began
+66	continued	to protest
+67	continued	,
+68	anecdote	demanding more rights from the Saudi government
+69	no-unit	,
+70	no-unit	and
+71	continued	the fear in Riyadh was
+72	assumption	that the ascent of a Shia-led government in Iraq could ignite similar protests in 2003
+73	no-unit	.
+74	assumption	Saudi Arabia's fears of renewed unrest among its Shia population in its oil-rich Eastern province is an internal domestic issue
+75	no-unit	.
+76	no-unit	However
+77	no-unit	,
+78	assumption	 the Iraq War of 2003 also represented a foreign policy setback on the regional level
+79	no-unit	.
+-1	par-sep	
+80	no-unit	Iranian influence
+81	no-unit	.
+-1	par-sep	
+82	assumption	Iraq under Saddam Hussein, even a weak Iraq after 1991, still served as a buffer against Iran
+83	no-unit	,
+84	anecdote	which had rivalled Riyadh for regional hegemony in the Middle East and the greater Islamic world since 1979
+85	no-unit	,
+86	assumption	fighting proxy wars from Lebanon to Pakistan
+87	no-unit	.
+88	continued	After 2003, Saudi Arabia watched
+89	continued	as
+90	assumption	Iran's influence grew in Iraq
+91	no-unit	,
+92	continued	which was backing Baghdad's first Shia-led government
+93	continued	,
+94	continued	in addition to Tehran influencing events in the Houthi rebellion in Yemen, another state
+95	assumption	Saudi Arabia considers as its backyard
+96	no-unit	.
+-1	par-sep	
+97	continued	Not only
+98	continued	had Iranian influence outflanked Saudi Arabia on both sides of its borders
+99	continued	,
+100	continued	but
+101	assumption	from the perspective of Riyadh, the Arab Spring protests of Bahrain were deemed as an Iranian-backed project
+102	no-unit	.
+103	no-unit	Finally	Modd-NU
+104	no-unit	,	Modd-NU
+105	continued	 Iran seemed on the verge of
+106	assumption	not only acquiring a nuclear programme, but also reaching at least a de facto working relationship with the US in the region
+107	no-unit	.
+-1	par-sep	
+108	no-unit	While
+109	continued	Saudi Arabia was initially reluctant
+110	continued	to challenge the status quo by
+111	assumption	supporting the protests and rebellion against Syria's Bashar al-Assad
+112	no-unit	,
+113	anecdote	it weighed in on the side of the rebels
+114	no-unit	,
+115	no-unit	and
+116	continued	in this proxy war, Iran also defeated Saudi aspirations by
+117	continued	keeping
+118	assumption	the incumbent government in Damascus alive
+119	no-unit	.
+-1	par-sep	
+120	continued	The regional situation in the Middle East has been described by Richard Haass, President of the Council on Foreign Relations, as the Middle Eastern Thirty Years War
+121	continued	,
+122	continued	or
+123	testimony	as a new sectarian Cold War waged by Iran and Saudi Arabia
+124	no-unit	.
+-1	par-sep	
+125	no-unit	If
+126	continued	one were	cond
+127	assumption	to use either analogy	cond
+128	no-unit	,
+129	assumption	then Iran is definitely winning this conflict
+130	no-unit	.
+131	continued	From this perspective, the news of
+132	continued	reopening
+133	assumption	the Saudi embassies emerges in the context of a reassessment of Riyadh's foreign policy, released at a fortuitous time
+134	no-unit	as
+135	continued	King Abdullah is hospitalised
+136	continued	and worries
+137	continued	emerge
+138	continued	of what
+139	assumption	this means for the future leadership of the Kingdom
+140	no-unit	.
+-1	par-sep	
+141	no-unit	Quiet diplomacy
+142	no-unit	.
+-1	par-sep	
+143	no-unit	However	Modd-NU
+144	no-unit	,	Modd-NU
+145	continued	 the decision
+146	continued	to reopen the embassies
+147	continued	reflect a sustained period of quiet diplomacy
+148	assumption	that preceded the king's health condition
+149	no-unit	.
+150	continued	The first indication
+151	continued	that Iran and Saudi Arabia were beginning
+152	continued	to cooperate over Iraq's future
+153	assumption	occurred after the ISIL offensive into Mosul in the summer of 2014
+154	no-unit	.
+155	anecdote	Both Tehran and Riyadh agreed on Haider al-Abbadi as a replacement to Iraq's incumbent Prime Minister, Nouri al-Maliki
+156	no-unit	.
+157	assumption	This agreement represents an evolution from the Saudi side
+158	no-unit	,
+159	continued	as evident from a Wikileaks cable
+160	continued	where
+161	assumption	King Abdullah expressed his personal dislike of Maliki in a meeting with US officials
+162	no-unit	.
+-1	par-sep	
+163	no-unit	On the bilateral Iraqi and Saudi level
+164	no-unit	,
+165	continued	a thaw in relations occurred
+166	continued	after
+167	assumption	Iraq's president visited Riyadh and met with the king in November 2014
+168	no-unit	,
+169	no-unit	and
+170	continued	a Saudi-Iraqi agreement was reached
+171	anecdote	to combat ISIL
+172	no-unit	.
+173	continued	This agreement is significant given the number of Iraqis in both the state and society
+174	assumption	who blame the rise of ISIL on Saudi Arabia in the first place as the financial and ideological incubator of this group
+175	no-unit	.
+176	no-unit	For example	Modd-NU
+177	no-unit	,	Modd-NU
+178	continued	 Iraqi public service announcements encouraged
+179	continued	Iraqis
+180	anecdote	to inform on "foreign" terrorists
+181	no-unit	,
+182	continued	invoking an image of a bearded man with a short thobe, handing out funds to local Iraqis
+183	continued	,
+184	assumption	to stir up problems in Iraq
+185	no-unit	.
+-1	par-sep	
+186	continued	It appears
+187	continued	that Iraq, Iran, and Saudi Arabia have come to the conclusion
+188	continued	that when
+189	continued	it comes
+190	continued	to combatting ISIL
+191	continued	,
+192	continued	all three parties need
+193	assumption	to reach a modus vivendi
+194	no-unit	.
+195	no-unit	If
+196	continued	one chooses	cond
+197	continued	to employ short hand monikers	cond
+198	assumption	to describe the state of affairs in the region, rather than a "Thirty Years War" or a "Cold War"	cond
+199	no-unit	,
+200	continued	regional actors in the Middle East have finally come to an agreement
+201	assumption	that they are waging their own "War on Terror" against ISIL
+202	no-unit	.

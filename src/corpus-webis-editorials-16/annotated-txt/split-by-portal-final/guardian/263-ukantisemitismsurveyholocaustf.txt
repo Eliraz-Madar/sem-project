@@ -1,0 +1,256 @@
+0	title	This UK antisemitism survey would have shocked my great uncle Alex.
+-1	par-sep	
+1	continued	On 20 September 1943, my great uncle Alex found for the first and last time in his life
+2	continued	that the smarts
+3	continued	for which he would always be renowned in his family
+4	anecdote	were no longer enough
+5	no-unit	:
+6	anecdote	he was arrested in Nice and sent to the death camps
+7	no-unit	.
+-1	par-sep	
+8	continued	Alex knew
+9	continued	what
+10	assumption	awaited him there
+11	no-unit	;
+12	anecdote	his older brother Jakob had done this journey already and died in Auschwitz a year before
+13	no-unit	.
+14	continued	So he dug up the floorboards of the train with his stubby fingers, slipped through the hole, lay on the track
+15	continued	while
+16	continued	the train rattled over him
+17	anecdote	and walked back to Paris, hidden along the way by communists
+18	no-unit	.
+19	anecdote	He then joined the Resistance
+20	no-unit	,
+21	no-unit	but
+22	assumption	he never trusted France again
+23	no-unit	.
+24	continued	In later life, he gave back the Legion d'Honneur
+25	anecdote	he was awarded for his war service after Charles de Gaulle described Jews in 1967 as "elite, domineering and sure of themselves"
+26	no-unit	.
+-1	par-sep	
+27	assumption	Are you tired of Holocaust stories?
+28	continued	Apologies for
+29	other	bringing up all that "unpleasantness" again
+30	no-unit	,
+31	no-unit	but
+32	anecdote	I've been thinking about Alex this week
+33	no-unit	.
+34	continued	According to a YouGov poll
+35	continued	,
+36	continued	45% of Britons agreed with at least one antisemitic statement put to them, such as "Jews chase money more than other people" (endorsed by a whopping 25
+37	continued	%),
+38	continued	and
+39	continued	"Jews' loyalty to Israel makes
+40	statistics	them less loyal to Britain than other Britons" (20
+41	no-unit	%).
+-1	par-sep	
+42	assumption	I feel less certain about another survey this week, by the Campaign Against Antisemitism, conducted on social media
+43	no-unit	,
+44	continued	which claimed
+45	continued	that 54% of British Jews feel
+46	statistics	they have no future in the UK
+47	no-unit	.
+48	assumption	But the tenacity of antisemitic beliefs is striking even in Britain
+49	no-unit	,
+50	continued	where	Modd-NU
+51	continued	,	Modd-NU
+52	continued	according to a separate report last year by Jewish Policy Research, 47% of the British Jewish respondents felt
+53	statistics	antisemitism was not a very big problem
+54	no-unit	(although
+55	continued	40% did
+56	statistics	feel antisemitism had increased in the past five years)
+57	no-unit	.
+-1	par-sep	
+58	assumption	This would have astonished Alex
+59	assumption	He adored Britain
+60	no-unit	-
+61	continued	he had been in Britain as part of the Free French
+62	continued	before
+63	anecdote	he was captured
+64	no-unit	,
+65	no-unit	and
+66	continued	he often spoke about the comfort
+67	continued	he got
+68	anecdote	listening to the BBC World Service during his fighting days
+69	no-unit	.
+70	continued	I imagine
+71	assumption	it will astonish most Britons too
+72	no-unit	,
+73	continued	even
+74	continued	those
+75	continued	who, in a dark and unacknowledged place inside, instinctively agree with the statements
+76	assumption	posed by YouGov
+77	no-unit	.
+78	continued	You don't have
+79	continued	to travel too far
+80	assumption	to find them in the UK
+81	no-unit	.
+82	no-unit	In fact
+83	no-unit	,
+84	assumption	 you can just turn on the BBC
+85	no-unit	.
+-1	par-sep	
+86	continued	One Jewish woman, the daughter of Holocaust survivors, told BBC reporter Tim Wilcox this week
+87	testimony	that the horrific murder of four people in a kosher supermarket made her worry about the return of Jewish persecution
+88	no-unit	.
+89	continued	"Many critics, though, of Israel's policy would suggest
+90	continued	that the Palestinians suffer
+91	continued	hugely at Jewish hands
+92	continued	as
+93	testimony	well," Wilcox said
+94	assumption	- all but saying: "So swings and roundabouts, really."
+-1	par-sep	
+95	anecdote	Wilcox later apologised on Twitter for a "poorly phrased" question
+96	no-unit	,
+97	continued	as though
+98	assumption	the problem here was one of grammar
+99	no-unit	.
+100	continued	Only two months previously this same reporter, in an on-air discussion about Miliband losing Jewish support, said
+101	continued	:
+102	testimony	"A lot of these prominent Jewish faces will be very much against the political mansion tax, presumably."
+103	assumption	They most certainly will!
+104	continued	You know
+105	continued	what
+106	assumption	those Jews are like
+107	no-unit	-
+108	assumption	always watching their massive pile of shekels, with their prominent faces and their prominent noses
+109	no-unit	.
+-1	par-sep	
+110	continued	Now we turn to Paris
+111	continued	,
+112	continued	where
+113	continued	the terrible events of last week would not have surprised
+114	assumption	Alex nearly as much
+115	no-unit	.
+116	continued	There were an astonishing number of attacks on Jews and synagogues in France last year, with the result
+117	assumption	that twice as many Jews emigrated to Israel in 2014 than the year before
+118	no-unit	.
+-1	par-sep	
+119	continued	Since the awful killings there has been plenty of talk from the media and politicians about
+120	continued	how
+121	continued	we all mustn't let
+122	assumption	this atrocity give rise to an anti- Muslim backlash
+123	no-unit	.
+124	assumption	This is right and good
+125	no-unit	.
+126	continued	But can we take
+127	continued	a few minutes to look
+128	assumption	at the lash itself, as well as dealing with the backlash?
+129	continued	Four Jewish people were killed
+130	continued	because
+131	anecdote	they were in a Jewish supermarket
+132	no-unit	,
+133	no-unit	yet
+134	continued	this inconvenient truth has been relatively little
+135	assumption	remarked upon, certainly compared with the angsting over the parameters of free speech at Charlie Hebdo, or commentary about the irony of the terrorists killing a fellow Muslim, the police officer Ahmed Merabet
+136	no-unit	.
+-1	par-sep	
+137	continued	Is this because killing
+138	continued	Jews is seen as par for the course
+139	continued	when
+140	assumption	it comes to terrorist attacks?
+141	continued	Because	Modd-NU
+142	continued	that does
+143	continued	seem
+144	assumption	to be true
+145	no-unit	.
+146	continued	Going back to the attacks in Mumbai in 2008
+147	continued	,
+148	anecdote	the killers specifically sought out a Jewish community, Nariman House, and tortured and killed six Jews, including the Rabbi and his wife
+149	no-unit	.
+150	assumption	The Taj Hotel has become the symbol of the Mumbai attacks
+151	no-unit	but
+152	no-unit	,
+153	continued	according to some reports, it was actually Nariman House
+154	assumption	that was the terrorists' main target
+155	no-unit	.
+156	assumption	Already the killer of the Jewish people in the supermarket is being referred to, incorrectly, as "the Charlie Hebdo killer"
+157	no-unit	.
+-1	par-sep	
+158	continued	So just par for the course?
+159	assumption	Maybe
+160	no-unit	,
+161	continued	but I don't think
+162	continued	that's quite
+163	continued	what's
+164	assumption	happening here
+165	no-unit	.
+166	continued	Jews are, as the YouGov report made
+167	continued	very clear
+168	continued	,
+169	assumption	seen as a pretty dominant people
+170	no-unit	:
+171	assumption	in charge of the media, you know
+172	no-unit	.
+173	assumption	And Hollywood too
+174	no-unit	.
+175	assumption	Elite, domineering and sure of themselves
+176	no-unit	.
+177	no-unit	So
+178	continued	when
+179	continued	they are attacked
+180	continued	,
+181	continued	there is a sense
+182	continued	that - well
+183	continued	,
+184	assumption	they kinda brought this on themselves
+185	no-unit	,
+186	no-unit	and
+187	continued	there are other groups
+188	continued	that are less elite
+189	assumption	that need more looking after
+190	no-unit	.
+-1	par-sep	
+191	continued	I'm not sure
+192	continued	why
+193	assumption	this is an either/or situation
+194	no-unit	.
+195	assumption	A person can be horrified by anti-Muslim prejudice and also terrified by the attacks on Jews
+196	no-unit	,
+197	no-unit	and
+198	continued	to talk about one
+199	assumption	is not an endorsement of the other
+200	no-unit	.
+201	continued	For a BBC reporter
+202	continued	to balance the killing of Jews in Paris against the atrocities in Palestine
+203	assumption	is the definition of idiocy
+204	no-unit	.
+205	continued	Not as bad as
+206	continued	expressing outright sympathy with the killer of the Jews, as the reliably idiotic "comedian"
+207	continued	Dieudonne M'Bala M'Bala did on Facebook
+208	continued	,
+209	assumption	but still bad
+210	no-unit	.
+211	assumption	This is not the victim Olympics, with only one possible "winner"
+212	no-unit	.
+213	continued	These were people
+214	continued	who were killed	Modd-NU
+215	continued	,	Modd-NU
+216	common-ground	not political statements	Modd-CG
+217	no-unit	.
+-1	par-sep	
+218	anecdote	My great uncle Alex led a wonderful life after the war as an art dealer
+219	no-unit	,
+220	no-unit	but
+221	no-unit	,
+222	no-unit	as
+223	no-unit	I said
+224	no-unit	,
+225	continued	he never again trusted the country
+226	assumption	that had betrayed him so badly
+227	no-unit	.
+228	continued	When
+229	continued	I asked once
+230	continued	why
+231	continued	he refused
+232	continued	to keep his paintings in a bank vault
+233	continued	,
+234	continued	preferring instead
+235	continued	to keep
+236	continued	them hidden in his house
+237	continued	,
+238	continued	he replied
+239	continued	:
+240	testimony	"Because they always come for the Jews."
+241	assumption	Plus ca change
+242	no-unit	.

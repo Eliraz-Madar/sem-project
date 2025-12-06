@@ -1,0 +1,206 @@
+0	title	Charlie Hebdo: 'Us or them'.
+-1	par-sep	
+1	continued	In the face of terrible deaths, at a time	Modd-NU
+2	continued	when	Modd-NU
+3	assumption	we are so destructively polarised
+4	continued	,
+5	assumption	this must be said bold and up front and repeatedly
+6	no-unit	:
+7	continued	No cartoonist deserves
+8	assumption	to be killed, ever
+9	no-unit	.
+10	continued	No innocent person shopping for kosher food deserves
+11	assumption	to be terrorised and murdered
+12	no-unit	,
+13	no-unit	either
+14	no-unit	.
+15	assumption	All of those tragic deaths in France last week, including those of a policeman and policewoman, and numbering 17 in total, all of them are horrendous and incomprehensible
+16	no-unit	.
+-1	par-sep	
+17	assumption	In the face of this terrible killing spree in France, at the offices of the satirical magazine Charlie Hebdo and then at a kosher supermarket, the overwhelming reaction is revulsion
+18	no-unit	.
+19	continued	But at the same time, there's a need
+20	continued	to respond in other ways as well
+21	continued	,
+22	continued	to frame a discussion
+23	continued	that can prevent this tragedy
+24	continued	leading to even more tragedies, or being spun out
+25	assumption	to lash out at other innocent people
+26	no-unit	.
+27	continued	And here is the trouble with the backlash
+28	continued	that has already begun
+29	continued	,
+30	continued	and the demands
+31	continued	that have
+32	assumption	being made in the name of "solidarity"
+33	no-unit	.
+-1	par-sep	
+34	continued	France today stages
+35	continued	a unity march, an attempt
+36	continued	to help heal a wounded nation
+37	continued	,
+38	continued	amidst a much wider discussion of the need
+39	assumption	to stand together in the face of terror
+40	no-unit	.
+-1	par-sep	
+41	continued	But within that discussion
+42	continued	,
+43	continued	there has been a distinct fundamentalism - for example, in the insistence
+44	continued	that to support Charlie Hedbo's right
+45	continued	to publish
+46	continued	,
+47	assumption	we must reprint and replicate their work
+48	no-unit	.
+-1	par-sep	
+49	continued	It's an unnecessary conflation of two things	Modd-NU
+50	continued	:	Modd-NU
+51	continued	support for the right	Modd-NU
+52	continued	to do something	Modd-NU
+53	continued	and actually	Modd-NU
+54	assumption	doing the thing
+55	no-unit	.
+56	continued	It should, of course, be possible	Modd-NU
+57	continued	to express disgust at the murders fully	modd-ASM
+58	continued	,	Modd-NU
+59	continued	without	Modd-NU
+60	continued	having	Modd-NU
+61	assumption	to endorse certain types of offensiveness	modd-ASM
+62	no-unit	.
+-1	par-sep	
+63	assumption	And the French magazine, while broad-spectrum in its religious targets, has undeniably focused its gaze on France's Muslim minority in a racist manner, in recent years
+64	no-unit	.
+-1	par-sep	
+65	continued	There is, for media, a responsibility (the abrogation of
+66	continued	which clearly does not invite murder)
+67	continued	to not be tone deaf about the environments
+68	continued	we live in: about ignored hierarchies of control; about powerless minorities and colonial heritage and migration and foreign policy
+69	continued	;
+70	continued	about
+71	continued	how
+72	continued	things feel
+73	continued	when
+74	continued	you are stigmatised, marginalised and scapegoated
+75	continued	;
+76	continued	about
+77	continued	what
+78	continued	it's like
+79	continued	when
+80	assumption	you don't have a voice or much representation in the mainstream
+81	no-unit	;
+82	no-unit	and
+83	continued	when
+84	continued	the majority culture insists
+85	continued	that equality and liberty await all those
+86	continued	who just learn
+87	assumption	to be more like the majority
+88	no-unit	.
+-1	par-sep	
+89	no-unit	If
+90	continued	we don't create the space
+91	continued	to say these things without
+92	continued	casting those
+93	assumption	that do so as fanatical supporters of murder
+94	continued	, then what	changseg
+95	continued	is this limitless freedom of expression
+96	continued	we keep
+97	continued	insisting
+98	assumption	we are firmly on the side of?
+-1	par-sep	
+99	continued	The demand
+100	continued	that we all respond in a mass, uniform way
+101	continued	also makes a basic error about
+102	continued	how
+103	assumption	unity works
+104	no-unit	-
+105	continued	which is
+106	continued	to forget
+107	continued	that it can only survive
+108	continued	if
+109	assumption	there are spaces between us
+110	no-unit	;
+111	assumption	solidarity and common ground take hold because of the existence of a spectrum in thought and experience, and not despite these things
+112	no-unit	.
+-1	par-sep	
+113	continued	Deadly terrorism seeks
+114	assumption	to stamp out the possibility of difference 
+115	no-unit	-
+116	continued	which is
+117	continued	why
+118	continued	,
+119	continued	in
+120	continued	condemning outright those atrocities in France
+121	continued	,
+122	continued	we need also
+123	continued	to keep
+124	assumption	insisting on and cherishing our diversity
+125	no-unit	.
+-1	par-sep	
+126	continued	Meanwhile
+127	continued	,
+128	continued	 equally fundamentalist is the predictable casting of blame at Muslims and their "backward" culture
+129	continued	,
+130	continued	painting this as a "clash of civilisations" and insisting
+131	assumption	that all Muslims repeatedly apologise for the slaughters in France
+132	no-unit	.
+133	continued	The now routine insistence
+134	continued	that all Muslims apologise for all such atrocities
+135	assumption	has spawned a spoof Muslim iCondemn phone app for such eventualities - a curious development
+136	no-unit	,
+137	no-unit	since
+138	continued	we have been led
+139	continued	to believe
+140	assumption	that Muslims don't actually have a sense of humour
+141	no-unit	.
+-1	par-sep	
+142	no-unit	'Civilised v barbarian'
+143	no-unit	.
+-1	par-sep	
+144	assumption	The ridiculous "civilised v barbarian" argument has been skilfully taken apart by others
+145	no-unit	-
+146	assumption	its false premises, hypocrisy and misguided superiority complex rigorously deconstructed
+147	no-unit	.
+-1	par-sep	
+148	assumption	But there's grave danger in this sort of "us or them" thinking - not just in the physical attacks on mosques and Muslims in France
+149	no-unit	,
+150	assumption	which have already begun
+151	no-unit	and
+152	assumption	which are obviously bad enough
+153	no-unit	.
+-1	par-sep	
+154	continued	The danger in
+155	continued	blaming Muslims for such atrocities
+156	continued	is
+157	assumption	that we shirk any responsibility
+158	no-unit	.
+159	continued	And the harsh reality is
+160	continued	that the French killings, just like previous terror atrocities in Britain, just like the European self-proclaimed jihadists
+161	continued	that go and fight for the death cult Islamic State of Iraq and the Levant
+162	assumption	(ISIL), are all homegrown
+163	no-unit	.
+-1	par-sep	
+164	assumption	We - not just Muslim society, but our societies - are accountable
+165	no-unit	.
+166	continued	We, not just the fanatics
+167	continued	that recruit
+168	continued	to
+169	continued	and commit mindless terror
+170	continued	,
+171	continued	are bound up in the causes and the context in a way
+172	continued	that makes
+173	continued	it not just insulting but actively counterproductive to single out Muslims
+174	continued	as
+175	assumption	bearing sole responsibility both for the crimes and for their prevention
+176	no-unit	.
+-1	par-sep	
+177	no-unit	If
+178	assumption	we don't own this terrible reality collectively
+179	no-unit	,
+180	continued	we won't be able
+181	assumption	to find a way out of it collectively
+182	no-unit	,
+183	no-unit	either
+184	no-unit	- and
+185	continued	that means
+186	continued	we won't be able
+187	assumption	to find a way out of it at all
+188	no-unit	.
