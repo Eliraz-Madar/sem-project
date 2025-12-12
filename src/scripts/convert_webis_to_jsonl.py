@@ -26,6 +26,8 @@ import json
 from pathlib import Path
 from typing import Iterable, List, Tuple
 
+from tqdm.auto import tqdm
+
 DEFAULT_INPUT = Path(__file__).resolve().parent.parent / "corpus-webis-editorials-16" / "annotated-txt" / "split-by-portal-final"
 DEFAULT_OUTPUT = Path(__file__).resolve().parent.parent / "data" / "editorials.jsonl"
 
@@ -97,7 +99,7 @@ def collect_files(input_dir: Path) -> List[Path]:
 def write_jsonl(records: Iterable[Tuple[str, str]], output_path: Path) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8") as fh:
-        for sentence, label in records:
+        for sentence, label in tqdm(records, desc="writing jsonl", leave=False):
             obj = {"sentence": sentence, "label": label}
             fh.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
@@ -105,7 +107,7 @@ def write_jsonl(records: Iterable[Tuple[str, str]], output_path: Path) -> None:
 def convert(input_dir: Path, output_path: Path) -> None:
     files = collect_files(input_dir)
     records: List[Tuple[str, str]] = []
-    for file_path in files:
+    for file_path in tqdm(files, desc="reading annotated txt", leave=False):
         records.extend(iter_annotations(file_path))
     write_jsonl(records, output_path)
 

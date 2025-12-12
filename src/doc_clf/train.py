@@ -8,6 +8,7 @@ from typing import List
 import numpy as np
 import torch
 from torch.utils.data import DataLoader, Dataset
+from tqdm.auto import tqdm
 
 from mcc.data import LABEL2ID, MCC_LABELS
 from .features import extract_features_for_corpus
@@ -47,7 +48,7 @@ def label_to_int(label: str) -> int:
 def train_rnn(train_loader, model, optimizer, device):
     criterion = torch.nn.CrossEntropyLoss()
     model.train()
-    for sequences, lengths, labels in train_loader:
+    for sequences, lengths, labels in tqdm(train_loader, desc="rnn-train", leave=False):
         sequences = sequences.to(device)
         labels = labels.to(device)
         optimizer.zero_grad()
@@ -62,7 +63,7 @@ def evaluate_rnn(loader, model, device):
     all_preds = []
     all_labels = []
     with torch.no_grad():
-        for sequences, lengths, labels in loader:
+        for sequences, lengths, labels in tqdm(loader, desc="rnn-eval", leave=False):
             sequences = sequences.to(device)
             logits = model(sequences, lengths)
             preds = logits.argmax(dim=-1).cpu().tolist()
