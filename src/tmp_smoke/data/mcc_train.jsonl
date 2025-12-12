@@ -1,0 +1,3 @@
+{"sentence": "Solar power is the future", "label": "claim"}
+{"sentence": "It reduces emissions", "label": "premise"}
+{"sentence": "Coal is cheap", "label": "other"}

@@ -8,6 +8,7 @@ from typing import Tuple
 import torch
 from torch.utils.data import DataLoader
 from transformers import AutoTokenizer, get_linear_schedule_with_warmup
+from tqdm.auto import tqdm
 
 from .data import build_dataloader
 from .models import BertMCCClassifier, MCCModelConfig
@@ -29,7 +30,7 @@ def parse_args() -> argparse.Namespace:
 def train_epoch(model, dataloader: DataLoader, optimizer, scheduler, device) -> float:
     model.train()
     total_loss = 0.0
-    for batch in dataloader:
+    for batch in tqdm(dataloader, desc="train", leave=False):
         batch = {k: v.to(device) for k, v in batch.items()}
         outputs = model(**batch)
         loss = outputs.loss
@@ -47,7 +48,7 @@ def evaluate(model, dataloader: DataLoader, device) -> Tuple[float, float]:
     correct = 0
     total = 0
     with torch.no_grad():
-        for batch in dataloader:
+        for batch in tqdm(dataloader, desc="eval", leave=False):
             batch = {k: v.to(device) for k, v in batch.items()}
             outputs = model(**batch)
             loss = outputs.loss
