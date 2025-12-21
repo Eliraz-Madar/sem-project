@@ -32,3 +32,11 @@ Utilities for training the MCC (argument component) classifier and related docum
 ## Notes
 - Requires Python 3.10+ and the dependencies listed in `requirements` (not bundled here); HuggingFace `transformers` and `torch` are expected to be installed.
 - All scripts read/write UTF-8.
+
+## Debugging Part B
+If the document classification pipeline misbehaves, run the minimal diagnostic to pinpoint where it fails (data fields, splitting, MCC checkpoint, or feature shapes):
+
+```powershell
+cd src
+python -m scripts.debug_doc_pipeline --news-train data/news_train.jsonl --news-test data/news_test.jsonl --mcc-checkpoint checkpoints/mcc_bert.pt
+```

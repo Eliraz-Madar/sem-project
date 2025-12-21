@@ -1,0 +1,10 @@
+# Minimal pinned dependencies for this repository
+# If you need CUDA-specific Torch builds, adjust torch accordingly.
+
+torch==2.1.0
+transformers==4.36.2
+scikit-learn==1.3.2
+numpy==1.26.2
+tqdm==4.66.1
+requests==2.31.0
+beautifulsoup4==4.12.2

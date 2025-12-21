@@ -96,11 +96,11 @@ def main() -> int:
         print(f"Found existing {TRAIN_FILE} and {TEST_FILE}; nothing to do.")
         return 0
 
-    # Ensure MCC checkpoint exists; do not attempt to train it here
+    # Prefer to have an MCC checkpoint, but proceed regardless
     if not CHECKPOINT.exists():
-        print("ERROR: MCC checkpoint not found:", CHECKPOINT)
-        print("Please run MCC training first to produce the checkpoint at the path above.")
-        return 1
+        print("WARNING: MCC checkpoint not found:", CHECKPOINT)
+        print("Proceeding to generate deterministic documents anyway.\n"
+              "You can later train MCC (see scripts.run_mcc_training) and rerun document training.")
 
     # Generate deterministic synthetic dataset
     generate_dataset()
