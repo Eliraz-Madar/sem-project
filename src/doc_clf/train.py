@@ -87,27 +87,42 @@ def parse_args():
 def main():
     args = parse_args()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    print(f"\nUsing device: {device}")
+    print(f"Training data: {args.news_train}")
+    print(f"Test data: {args.news_test}")
+    print(f"MCC checkpoint: {args.mcc_checkpoint}\n")
 
+    print("Extracting features from training data...")
     ratio_features, sequences, labels = extract_features_for_corpus(
         args.news_train, args.mcc_checkpoint, args.model_name, device
     )
+    print("\nExtracting features from test data...")
     ratio_features_test, sequences_test, labels_test = extract_features_for_corpus(
         args.news_test, args.mcc_checkpoint, args.model_name, device
     )
+    print()
 
     # Train SVM on ratios
+    print("\n" + "="*50)
+    print("Training SVM Classifier")
+    print("="*50)
     feature_matrix = np.array([[feat[f"ratio_{label}"] for label in MCC_LABELS] for feat in ratio_features])
     svm_labels = [label_to_int(label) for label in labels]
+    print(f"Training samples: {len(svm_labels)}")
     svm_model, svm_train_f1 = train_svm(feature_matrix, svm_labels)
     feature_matrix_test = np.array(
         [[feat[f"ratio_{label}"] for label in MCC_LABELS] for feat in ratio_features_test]
     )
     svm_labels_test = [label_to_int(label) for label in labels_test]
+    print(f"Test samples: {len(svm_labels_test)}")
     svm_preds = svm_model.predict(feature_matrix_test)
     svm_test_f1 = compute_macro_f1(svm_labels_test, svm_preds.tolist())
-    print(f"SVM macro-F1 train={svm_train_f1:.3f} test={svm_test_f1:.3f}")
+    print(f"\n✓ SVM Results: train F1={svm_train_f1:.3f} | test F1={svm_test_f1:.3f}")
 
     # Train RNN on sequences
+    print("\n" + "="*50)
+    print("Training RNN Classifier")
+    print("="*50)
     train_dataset = SequenceDataset(sequences, svm_labels)
     test_dataset = SequenceDataset(sequences_test, svm_labels_test)
     train_loader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=collate_sequences)
@@ -116,11 +131,17 @@ def main():
     rnn_config = ArgumentRNNConfig(vocab_size=len(LABEL2ID))
     rnn_model = ArgumentRNNClassifier(rnn_config).to(device)
     optimizer = torch.optim.Adam(rnn_model.parameters(), lr=args.lr)
+    print(f"Epochs: {args.epochs} | Batch size: {args.batch_size} | Learning rate: {args.lr}\n")
 
     for epoch in range(args.epochs):
+        print(f"Epoch {epoch+1}/{args.epochs}")
         train_rnn(train_loader, rnn_model, optimizer, device)
         f1 = evaluate_rnn(test_loader, rnn_model, device)
-        print(f"Epoch {epoch+1} RNN macro-F1: {f1:.3f}")
+        print(f"  ✓ Test F1: {f1:.3f}\n")
+    
+    print("\n" + "="*50)
+    print("Training Complete!")
+    print("="*50)
 
 
 if __name__ == "__main__":

@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 import torch
+from tqdm.auto import tqdm
 from transformers import AutoTokenizer
 
 from mcc.data import MCC_LABELS
@@ -79,7 +80,9 @@ def extract_features_for_corpus(
     ratio_features: List[Dict[str, float]] = []
     sequences: List[List[int]] = []
     labels: List[str] = []
-    for doc in documents:
+    
+    dataset_name = Path(docs_path).stem
+    for doc in tqdm(documents, desc=f"Processing {dataset_name}", unit="doc"):
         preds, _ = mcc_tags_for_document(model, tokenizer, doc["text"], device)
         ratio_features.append(aggregate_document_features(preds))
         sequences.append(preds.tolist())
