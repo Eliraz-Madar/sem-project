@@ -19,7 +19,7 @@ The tracer validates all three stages of the pipeline:
    - Displays sample predictions for first 3 documents
 
 3. **STAGE C: Document Classifier Training & Evaluation**
-   - **C.1 Baseline (Lexical)**: Trains SVM on ratio features
+   - **C.1 Baseline (Lexical)**: Trains SVM on argument‑ratio features
    - **C.2 Argumentation-Based**: Trains GRU-RNN on tag sequences
    - Reports Accuracy, Macro-F1, and Confusion Matrix
 

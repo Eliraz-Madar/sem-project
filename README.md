@@ -1,57 +1,57 @@
 # sem-project
 
-A two-stage ML pipeline for classifying news articles as **fact** or **opinion** using argument component analysis:
+Two-stage ML pipeline for classifying news articles as **fact** or **opinion** using argument component analysis:
 1. **Stage 1 (MCC)**: BERT-based sentence classifier for argument components (claim/premise/other)
 2. **Stage 2 (Document)**: SVM and RNN classifiers using MCC-extracted features
 
-## Quick Start
+## Quick Start (Recommended: Notebooks)
 
 ### Prerequisites
 - Python 3.10+
-- Dependencies: `pip install -r requirements.txt` (torch, transformers, scikit-learn, etc.)
+- Install dependencies: `pip install -r requirements.txt`
 
-### Training Pipeline
+### Run in Notebooks (Start → Finish)
+Open these notebooks in order and run cells top-to-bottom:
+1. [notebooks/mcc_data_prep.ipynb](notebooks/mcc_data_prep.ipynb) — builds MCC JSONL (skip if `src/data/editorials.jsonl` already exists)
+2. [notebooks/mcc_training.ipynb](notebooks/mcc_training.ipynb) — trains the MCC sentence model
+3. [notebooks/doc_clf_training.ipynb](notebooks/doc_clf_training.ipynb) — trains SVM + RNN document classifiers
 
-**Step 1: Prepare MCC Training Data**
+Optional:
+- [notebooks/trace_pipeline.ipynb](notebooks/trace_pipeline.ipynb) — full trace + report
+- [notebooks/02_doc_clf_model_comparison.ipynb](notebooks/02_doc_clf_model_comparison.ipynb) — model comparisons
+- [notebooks/03_embedding_baseline_comparison.ipynb](notebooks/03_embedding_baseline_comparison.ipynb) — embedding baselines
 
-The repository includes the Webis Editorials corpus (`src/corpus-webis-editorials-16/annotated-txt/`). Convert it to JSONL format:
+## Quick Start (CLI)
 
+### Step 1: Prepare MCC Training Data
 ```powershell
 cd src
 python -m scripts.convert_webis_to_jsonl
 ```
+Creates `src/data/editorials.jsonl` (sentence-level examples).
 
-This creates `src/data/editorials.jsonl` (56,967 sentence-level examples with labels: `claim`, `premise`, `other`).
-
-**Step 2: Train the MCC Sentence Classifier**
-
+### Step 2: Train the MCC Sentence Classifier
 ```powershell
 cd src
 python -m scripts.run_mcc_training --train data/mcc_train.jsonl --dev data/mcc_dev.jsonl
 ```
+Saves a checkpoint to `src/checkpoints/`.
 
-Default data files (`mcc_train.jsonl`, `mcc_dev.jsonl`) should already exist in `src/data/`. This saves the trained model to `src/checkpoints/`.
-
-**Step 3: Train Document Classifiers**
-
+### Step 3: Train Document Classifiers
 ```powershell
 cd src
 python -m scripts.run_doc_classification --news-train data/news_train.jsonl --news-test data/news_test.jsonl --mcc-checkpoint checkpoints/mcc_webis_tiny.pt
 ```
-
-This:
-- Extracts features from documents using the trained MCC model
-- Trains an SVM on argument component ratio features
-- Trains an RNN on argument component sequences
-- Reports macro-F1 scores for both models
+Trains SVM + RNN and reports macro-F1 scores.
 
 ## Data Files
 
-**Essential datasets** (included):
-- `src/data/editorials.jsonl` - Webis corpus (sentence-level, 56K+ examples)
-- `src/data/mcc_train.jsonl`, `src/data/mcc_dev.jsonl` - MCC training/validation splits
-- `src/data/news_train.jsonl`, `src/data/news_test.jsonl` - Document-level fact/opinion data
-- `src/checkpoints/mcc_webis_tiny.pt` - Pre-trained MCC checkpoint
+Required files in `src/data/`:
+- `mcc_train.jsonl`, `mcc_dev.jsonl`
+- `news_train.jsonl`, `news_test.jsonl`
+
+Optional (only if you want to rebuild MCC data):
+- `editorials.jsonl` (produced by the data prep step)
 
 ## Project Structure
 
@@ -69,12 +69,9 @@ src/
 │   ├── convert_webis_to_jsonl.py    # Data preparation
 │   ├── run_mcc_training.py          # Train MCC
 │   └── run_doc_classification.py    # Train document classifiers
-└── data/                  # Datasets and checkpoints
+└── data/                  # Datasets
+checkpoints/               # Trained models
 ```
-
-## Archived Files
-
-External data collection scripts (NYT API, RSS scrapers, etc.) have been moved to `archive/` as they are not required for the core ML pipeline. See `archive/README.md` for details.
 
 ## Notes
 
