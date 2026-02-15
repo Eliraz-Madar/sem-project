@@ -82,7 +82,7 @@ def extract_features_for_corpus(
     labels: List[str] = []
     
     dataset_name = Path(docs_path).stem
-    for doc in tqdm(documents, desc=f"Processing {dataset_name}", unit="doc"):
+    for doc in tqdm(documents, desc=f"Processing {dataset_name}", unit="doc", ncols=80, leave=True, dynamic_ncols=False):
         preds, _ = mcc_tags_for_document(model, tokenizer, doc["text"], device)
         ratio_features.append(aggregate_document_features(preds))
         sequences.append(preds.tolist())

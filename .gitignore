@@ -22,7 +22,23 @@ dist/
 # Data / checkpoints
 src/data/*.jsonl
 !src/data/README*
-checkpoints/
+src/checkpoints/
 
-# Logs
-*.log
+# Helper scripts & temporary files
+prepare_submission.py
+check_data.py
+clean_metadata.py
+mask_keywords.py
+filter_metadata.py
+
+# Intermediate data files
+corpus.csv
+dataset.csv
+dataset.xlsx
+dataset - Copy.csv
+dataset - Copy.xlsx
+
+# Generated outputs
+outputs/
+notebooks/src/
+notebooks/*.png
