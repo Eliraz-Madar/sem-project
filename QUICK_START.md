@@ -13,7 +13,7 @@ notebooks/                                   ← New folder
 ├── 01_environment_and_data_check.ipynb     ← Verify setup
 ├── 02_doc_clf_model_comparison.ipynb       ← Main comparison (BERT, DistilBERT, etc.)
 ├── 03_embedding_baseline_comparison.ipynb  ← SBERT vs fine-tuned BERT
-└── README.md                               ← Full documentation
+└── (see top-level README.md)               ← Full documentation
 
 outputs/
 └── experiments/                             ← Results saved here
@@ -21,7 +21,7 @@ outputs/
     ├── confusion_matrix_<model>_<timestamp>.png
     └── embedding_comparison_<timestamp>.csv
 
-AUDIT_AND_IMPLEMENTATION_REPORT.md          ← Detailed audit findings
+(Optional) trace pipeline guide: src/scripts/TRACE_PIPELINE_GUIDE.md
 ```
 
 ---
@@ -38,14 +38,14 @@ AUDIT_AND_IMPLEMENTATION_REPORT.md          ← Detailed audit findings
 
 ### Option 2: Jupyter Lab
 ```bash
-cd c:\Users\elira\study\fifth\CLS\sem_code\sem-project
+cd <PATH_TO_REPO_ROOT>
 jupyter notebook
 # Opens browser, click notebooks/01_...ipynb
 ```
 
 ### Option 3: Command Line
 ```bash
-cd c:\Users\elira\study\fifth\CLS\sem_code\sem-project\notebooks
+cd <PATH_TO_REPO_ROOT>/notebooks
 jupyter nbconvert --to notebook --execute 01_environment_and_data_check.ipynb
 ```
 
@@ -155,7 +155,7 @@ cd src
 python -m mcc.train --epochs 1
 ```
 
-For more troubleshooting, see `notebooks/README.md`
+For troubleshooting and project structure, see the top-level `README.md`.
 
 ---
 

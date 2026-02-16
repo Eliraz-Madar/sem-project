@@ -39,6 +39,10 @@ dataset - Copy.csv
 dataset - Copy.xlsx
 
 # Generated outputs
-outputs/
+outputs/*
+!outputs/experiments/
+outputs/experiments/*
+!outputs/experiments/*.csv
+!outputs/experiments/*.png
 notebooks/src/
 notebooks/*.png

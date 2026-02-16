@@ -46,6 +46,9 @@ Trains SVM + RNN and reports macro-F1 scores.
 
 ## Data Files
 
+Note: By default, `src/data/*.jsonl` and `src/checkpoints/` are gitignored (see `.gitignore`).
+If you are submitting the project as a zip, include these files in the zip, or regenerate them using the provided scripts/notebooks.
+
 Required files in `src/data/`:
 - `mcc_train.jsonl`, `mcc_dev.jsonl`
 - `news_train.jsonl`, `news_test.jsonl`
